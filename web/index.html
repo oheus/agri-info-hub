@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Agri Info Hub</title>
+    <link rel="stylesheet" href="./styles.css?v=8">
+  </head>
+  <body>
+    <header class="topbar">
+      <button class="brand-lockup" data-home-link type="button" aria-label="홈으로 이동">
+        <p class="eyebrow">Agri Info Hub</p>
+        <h1>농업 정보 허브</h1>
+      </button>
+      <nav class="main-nav" aria-label="주요 화면">
+        <button class="nav-button active" data-view="home" type="button">홈</button>
+        <button class="nav-button" data-view="feed" type="button">정보</button>
+        <button class="nav-button" data-view="sources" type="button">출처</button>
+      </nav>
+      <div class="update-box">
+        <span>업데이트</span>
+        <strong id="lastUpdated">대기 중</strong>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section id="homeView" class="view active" aria-label="홈">
+        <section class="home-hero">
+          <div class="home-copy">
+            <p class="eyebrow">오늘의 농업 신호</p>
+            <h2>뉴스, 식물 반응, 지원사업을 한 화면에서 정리합니다</h2>
+            <p class="hero-subtitle">흩어진 농업 정보를 자동으로 모으고, 중요한 흐름만 먼저 보여주는 공개형 농업 정보 보드입니다.</p>
+            <div class="hero-actions">
+              <button class="primary-action" data-view-jump="feed" type="button">정보 보기</button>
+              <button class="secondary-action" data-view-jump="sources" type="button">출처 확인</button>
+            </div>
+          </div>
+          <div class="signal-panel">
+            <div class="signal-row">
+              <span>신규 수집</span>
+              <strong id="homeNewCount">0건</strong>
+            </div>
+            <div class="signal-row">
+              <span>가장 많은 분류</span>
+              <strong id="homeLeadCategory">-</strong>
+            </div>
+            <div class="signal-row">
+              <span>주요 키워드</span>
+              <strong id="homeTopKeyword">-</strong>
+            </div>
+          </div>
+          <img class="hero-plant" src="./assets/images/hero-plant.png" alt="">
+        </section>
+
+        <section class="metrics home-metrics" aria-label="요약 지표">
+          <article class="metric primary metric-link" data-feed-category="all" role="button" tabindex="0" aria-label="전체 수집 정보 보기">
+            <img class="metric-icon" src="./assets/icon/global.png" alt="">
+            <span>전체 수집</span>
+            <strong id="metricTotal">0</strong>
+          </article>
+          <article class="metric metric-link" data-feed-category="news" role="button" tabindex="0" aria-label="농업 뉴스 보기">
+            <img class="metric-icon" src="./assets/icon/field.png" alt="">
+            <span>농업 뉴스</span>
+            <strong id="metricNews">0</strong>
+          </article>
+          <article class="metric metric-link" data-feed-category="plant_reviews" role="button" tabindex="0" aria-label="식물 리뷰 보기">
+            <img class="metric-icon" src="./assets/icon/logistics.png" alt="">
+            <span>식물 리뷰</span>
+            <strong id="metricPlant">0</strong>
+          </article>
+          <article class="metric metric-link" data-feed-category="support" role="button" tabindex="0" aria-label="지원사업 보기">
+            <img class="metric-icon" src="./assets/icon/support.png" alt="">
+            <span>지원사업</span>
+            <strong id="metricSupport">0</strong>
+          </article>
+        </section>
+
+        <section class="home-grid">
+          <div class="chart-panel">
+            <div class="panel-heading">
+              <h2>분류 흐름</h2>
+              <span id="newItems">0건 신규</span>
+            </div>
+            <div id="categoryBars" class="bar-list"></div>
+          </div>
+          <div class="chart-panel">
+            <div class="panel-heading">
+              <h2>상위 키워드</h2>
+              <span id="keywordTotal">0개</span>
+            </div>
+            <div id="keywordCloud" class="keyword-cloud"></div>
+          </div>
+        </section>
+
+        <section class="home-latest">
+          <div class="section-heading">
+            <h2>최근 중요 정보</h2>
+            <button class="text-action" data-view-jump="feed" type="button">전체 보기</button>
+          </div>
+          <div id="homeLatestList" class="latest-list"></div>
+        </section>
+      </section>
+
+      <section id="feedView" class="view" aria-label="수집 정보">
+        <section class="view-header">
+          <div>
+            <p class="eyebrow">Collected Info</p>
+            <h2>수집된 정보</h2>
+          </div>
+          <span id="resultCount">0건</span>
+        </section>
+
+        <section class="control-panel" aria-label="필터">
+          <div class="search-wrap">
+            <label for="searchInput">검색</label>
+            <input id="searchInput" type="search" placeholder="작물, 지역, 지원사업, 식물명">
+          </div>
+          <div class="category-tabs" role="tablist" aria-label="분류">
+            <button class="category-tab active" data-category="all" type="button">전체</button>
+            <button class="category-tab" data-category="news" type="button">뉴스</button>
+            <button class="category-tab" data-category="plant_reviews" type="button">식물 리뷰</button>
+            <button class="category-tab" data-category="support" type="button">지원사업</button>
+          </div>
+        </section>
+
+        <div id="itemsList" class="items-list feed-list"></div>
+      </section>
+
+      <section id="sourcesView" class="view" aria-label="출처와 상태">
+        <section class="view-header">
+          <div>
+            <p class="eyebrow">Sources</p>
+            <h2>출처와 수집 상태</h2>
+          </div>
+          <span id="runStatus">not_run</span>
+        </section>
+
+        <section class="source-grid">
+          <div>
+            <div class="section-heading">
+              <h2>출처</h2>
+            </div>
+            <div id="sourceList" class="source-list"></div>
+          </div>
+          <div>
+            <div class="section-heading">
+              <h2>수집 상태</h2>
+            </div>
+            <div id="errorList" class="status-list"></div>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <script src="./app.js?v=8"></script>
+  </body>
+</html>

@@ -1,0 +1,50 @@
+{
+  "collection_interval_minutes": 30,
+  "respect_display_state": true,
+  "allow_insecure_ssl_fallback": true,
+  "regions": ["전국"],
+  "watch_terms": {
+    "news": ["농업", "농촌", "스마트팜", "청년농", "귀농", "농산물", "작물", "병해충", "기후", "재배"],
+    "plant_reviews": ["반려식물", "식물 후기", "식물 리뷰", "식집사", "실내식물", "분갈이", "몬스테라", "스투키", "고무나무"],
+    "support": ["지원사업", "보조사업", "융자", "공모", "신청", "모집", "농업기술센터", "농식품부", "지자체"]
+  },
+  "sources": [
+    {
+      "name": "Google News 농업",
+      "type": "rss",
+      "category": "news",
+      "url": "https://news.google.com/rss/search?q=%EB%86%8D%EC%97%85%20%EB%86%8D%EC%B4%8C%20when%3A7d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News 지원사업",
+      "type": "rss",
+      "category": "support",
+      "url": "https://news.google.com/rss/search?q=%EB%86%8D%EC%97%85%20%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%20OR%20%EB%B3%B4%EC%A1%B0%EC%82%AC%EC%97%85%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News 농식품부 공고",
+      "type": "rss",
+      "category": "support",
+      "url": "https://news.google.com/rss/search?q=site%3Amafra.go.kr%20%EB%86%8D%EC%97%85%20%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%20%EA%B3%B5%EA%B3%A0%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News 식물 리뷰",
+      "type": "rss",
+      "category": "plant_reviews",
+      "url": "https://news.google.com/rss/search?q=%EB%B0%98%EB%A0%A4%EC%8B%9D%EB%AC%BC%20%ED%9B%84%EA%B8%B0%20OR%20%EC%8B%9D%EB%AC%BC%20%EB%A6%AC%EB%B7%B0%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News 지자체 농업기술센터",
+      "type": "rss",
+      "category": "support",
+      "url": "https://news.google.com/rss/search?q=%EB%86%8D%EC%97%85%EA%B8%B0%EC%88%A0%EC%84%BC%ED%84%B0%20%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%20%EA%B3%B5%EA%B3%A0%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "농사로 이달의 농업기술",
+      "type": "html_links",
+      "category": "news",
+      "url": "https://www.nongsaro.go.kr/portal/portalMain.ps",
+      "include_terms": ["농업기술", "재배", "방제", "병해충", "작물", "토마토", "사과", "배추", "시설", "농기계", "실내식물"]
+    }
+  ]
+}

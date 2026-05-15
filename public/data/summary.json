@@ -1,0 +1,92 @@
+{
+  "generated_at": "2026-05-15T17:37:07.326146+00:00",
+  "total": 282,
+  "category_counts": {
+    "news": 115,
+    "plant_reviews": 14,
+    "support": 153
+  },
+  "top_keywords": [
+    {
+      "keyword": "농업",
+      "count": 112
+    },
+    {
+      "keyword": "농촌",
+      "count": 71
+    },
+    {
+      "keyword": "지원",
+      "count": 52
+    },
+    {
+      "keyword": "사업",
+      "count": 47
+    },
+    {
+      "keyword": "지원사업",
+      "count": 33
+    },
+    {
+      "keyword": "농식품부",
+      "count": 20
+    },
+    {
+      "keyword": "재배",
+      "count": 10
+    },
+    {
+      "keyword": "모집",
+      "count": 10
+    },
+    {
+      "keyword": "작물",
+      "count": 8
+    },
+    {
+      "keyword": "농업기술센터",
+      "count": 7
+    },
+    {
+      "keyword": "접수",
+      "count": 6
+    },
+    {
+      "keyword": "청년농",
+      "count": 4
+    }
+  ],
+  "top_sources": [
+    {
+      "source": "Google News 농업",
+      "count": 92
+    },
+    {
+      "source": "Google News 농식품부 공고",
+      "count": 62
+    },
+    {
+      "source": "Google News 지원사업",
+      "count": 45
+    },
+    {
+      "source": "농사로 이달의 농업기술",
+      "count": 40
+    },
+    {
+      "source": "Google News 지자체 농업기술센터",
+      "count": 28
+    },
+    {
+      "source": "Google News 식물 리뷰",
+      "count": 15
+    }
+  ],
+  "run": {
+    "status": "ok",
+    "display_awake": true,
+    "new_items": 0,
+    "fetched_items": 261,
+    "errors": []
+  }
+}
