@@ -4,9 +4,9 @@
   "allow_insecure_ssl_fallback": true,
   "regions": ["전국"],
   "watch_terms": {
-    "news": ["농업", "농촌", "스마트팜", "청년농", "귀농", "농산물", "작물", "병해충", "기후", "재배"],
-    "plant_reviews": ["반려식물", "식물 후기", "식물 리뷰", "식집사", "실내식물", "분갈이", "몬스테라", "스투키", "고무나무"],
-    "support": ["지원사업", "보조사업", "융자", "공모", "신청", "모집", "농업기술센터", "농식품부", "지자체"]
+    "news": ["농업", "농촌", "스마트팜", "청년농", "귀농", "농산물", "작물", "병해충", "기후", "재배", "시설원예", "친환경농업", "농기계", "농업인", "로컬푸드", "농산물 가격", "가축방역"],
+    "plant_reviews": ["반려식물", "식물 후기", "식물 리뷰", "식집사", "실내식물", "분갈이", "몬스테라", "스투키", "고무나무", "다육이", "난초", "허브", "베란다 텃밭", "식물 키우기", "물주기"],
+    "support": ["지원사업", "보조사업", "융자", "공모", "신청", "모집", "농업기술센터", "농식품부", "지자체", "보조금", "정책자금", "청년농업인", "후계농", "귀농귀촌", "스마트팜 지원"]
   },
   "sources": [
     {
@@ -22,10 +22,58 @@
       "url": "https://news.google.com/rss/search?q=%EB%86%8D%EC%97%85%20%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%20OR%20%EB%B3%B4%EC%A1%B0%EC%82%AC%EC%97%85%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
     },
     {
+      "name": "Google News 스마트팜",
+      "type": "rss",
+      "category": "news",
+      "url": "https://news.google.com/rss/search?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C%20OR%20%EC%8B%9C%EC%84%A4%EC%9B%90%EC%98%88%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News 청년농 귀농",
+      "type": "rss",
+      "category": "news",
+      "url": "https://news.google.com/rss/search?q=%EC%B2%AD%EB%85%84%EB%86%8D%20OR%20%EA%B7%80%EB%86%8D%20OR%20%ED%9B%84%EA%B3%84%EB%86%8D%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News 병해충 재배",
+      "type": "rss",
+      "category": "news",
+      "url": "https://news.google.com/rss/search?q=%EB%B3%91%ED%95%B4%EC%B6%A9%20OR%20%EC%9E%AC%EB%B0%B0%EA%B8%B0%EC%88%A0%20OR%20%EC%9E%91%EB%AC%BC%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News 농산물 가격",
+      "type": "rss",
+      "category": "news",
+      "url": "https://news.google.com/rss/search?q=%EB%86%8D%EC%82%B0%EB%AC%BC%20%EA%B0%80%EA%B2%A9%20OR%20%EC%B1%84%EC%86%8C%20%EA%B0%80%EA%B2%A9%20OR%20%EA%B3%BC%EC%9D%BC%20%EA%B0%80%EA%B2%A9%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
       "name": "Google News 농식품부 공고",
       "type": "rss",
       "category": "support",
       "url": "https://news.google.com/rss/search?q=site%3Amafra.go.kr%20%EB%86%8D%EC%97%85%20%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%20%EA%B3%B5%EA%B3%A0%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News 농촌진흥청",
+      "type": "rss",
+      "category": "news",
+      "url": "https://news.google.com/rss/search?q=site%3Arda.go.kr%20%EB%86%8D%EC%97%85%20OR%20%EC%9E%AC%EB%B0%B0%20OR%20%EB%B3%91%ED%95%B4%EC%B6%A9%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News 농림축산식품부",
+      "type": "rss",
+      "category": "news",
+      "url": "https://news.google.com/rss/search?q=site%3Amafra.go.kr%20%EB%86%8D%EC%97%85%20OR%20%EB%86%8D%EC%B4%8C%20OR%20%EB%86%8D%EC%82%B0%EB%AC%BC%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News 농업 지원금",
+      "type": "rss",
+      "category": "support",
+      "url": "https://news.google.com/rss/search?q=%EB%86%8D%EC%97%85%20%EB%B3%B4%EC%A1%B0%EA%B8%88%20OR%20%EB%86%8D%EC%97%85%20%EC%A0%95%EC%B1%85%EC%9E%90%EA%B8%88%20OR%20%EB%86%8D%EC%97%85%20%EC%9C%B5%EC%9E%90%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News 청년농 지원",
+      "type": "rss",
+      "category": "support",
+      "url": "https://news.google.com/rss/search?q=%EC%B2%AD%EB%85%84%EB%86%8D%20%EC%A7%80%EC%9B%90%20OR%20%ED%9B%84%EA%B3%84%EB%86%8D%20%EC%A7%80%EC%9B%90%20OR%20%EA%B7%80%EB%86%8D%20%EC%A7%80%EC%9B%90%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
     },
     {
       "name": "Google News 식물 리뷰",
@@ -34,10 +82,34 @@
       "url": "https://news.google.com/rss/search?q=%EB%B0%98%EB%A0%A4%EC%8B%9D%EB%AC%BC%20%ED%9B%84%EA%B8%B0%20OR%20%EC%8B%9D%EB%AC%BC%20%EB%A6%AC%EB%B7%B0%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
     },
     {
+      "name": "Google News 식물 키우기",
+      "type": "rss",
+      "category": "plant_reviews",
+      "url": "https://news.google.com/rss/search?q=%EC%8B%9D%EB%AC%BC%20%ED%82%A4%EC%9A%B0%EA%B8%B0%20OR%20%EB%B0%98%EB%A0%A4%EC%8B%9D%EB%AC%BC%20OR%20%EC%8B%A4%EB%82%B4%EC%8B%9D%EB%AC%BC%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News 식물 관리",
+      "type": "rss",
+      "category": "plant_reviews",
+      "url": "https://news.google.com/rss/search?q=%EB%B6%84%EA%B0%88%EC%9D%B4%20OR%20%EB%AC%BC%EC%A3%BC%EA%B8%B0%20OR%20%EB%8B%A4%EC%9C%A1%EC%9D%B4%20OR%20%EB%AA%AC%EC%8A%A4%ED%85%8C%EB%9D%BC%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
       "name": "Google News 지자체 농업기술센터",
       "type": "rss",
       "category": "support",
       "url": "https://news.google.com/rss/search?q=%EB%86%8D%EC%97%85%EA%B8%B0%EC%88%A0%EC%84%BC%ED%84%B0%20%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%20%EA%B3%B5%EA%B3%A0%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News 지자체 농업 공고",
+      "type": "rss",
+      "category": "support",
+      "url": "https://news.google.com/rss/search?q=%EC%A7%80%EC%9E%90%EC%B2%B4%20%EB%86%8D%EC%97%85%20%EA%B3%B5%EA%B3%A0%20OR%20%EC%8B%9C%EA%B5%B0%20%EB%86%8D%EC%97%85%20%EC%A7%80%EC%9B%90%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "name": "Google News 농업기술센터 모집",
+      "type": "rss",
+      "category": "support",
+      "url": "https://news.google.com/rss/search?q=%EB%86%8D%EC%97%85%EA%B8%B0%EC%88%A0%EC%84%BC%ED%84%B0%20%EB%AA%A8%EC%A7%91%20OR%20%EB%86%8D%EC%97%85%EA%B8%B0%EC%88%A0%EC%84%BC%ED%84%B0%20%EC%8B%A0%EC%B2%AD%20when%3A30d&hl=ko&gl=KR&ceid=KR%3Ako"
     },
     {
       "name": "농사로 이달의 농업기술",

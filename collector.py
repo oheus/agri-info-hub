@@ -424,7 +424,7 @@ def export_json(run_meta: dict[str, Any]) -> None:
             FROM items
             WHERE url LIKE 'http://%' OR url LIKE 'https://%'
             ORDER BY COALESCE(published_at, collected_at) DESC
-            LIMIT 400
+            LIMIT 1000
             """
         ).fetchall()
 
