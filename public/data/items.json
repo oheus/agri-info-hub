@@ -1,6 +1,767 @@
 {
-  "generated_at": "2026-05-16T08:28:18.893844+00:00",
+  "generated_at": "2026-05-16T17:52:07.801390+00:00",
   "items": [
+    {
+      "id": "0a1021275d174dbd13c14afe",
+      "title": "기본직불제 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HX0xCRlFfWU5hQ3RadWdjRkhvOGZtcEVXVnhPU3FIV0R6VW9mYjB6eG9oT0xtaGFGZk1NRU9xUFJoeWVXcm5KSGptREVxSzJ5UHc?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "news",
+      "published_at": "2026-05-16T15:47:21+00:00",
+      "collected_at": "2026-05-16T17:51:58.807887+00:00",
+      "summary": "기본직불제 농림축산식품부",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "3daa4a01eed8cbf88a33d50c",
+      "title": "거제시농업기술센터 이웅종 교수 명사특강 및 산책 문화교육 수강생 모집 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5XQk9CWXlkZkdDWU1BazVBNldVU0lCakpIYWppcVMtc29sOEJMYXFlUTdYN3NKWGRVd244VjFOSFlyeUk?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-05-16T14:20:00+00:00",
+      "collected_at": "2026-05-16T17:52:07.127409+00:00",
+      "summary": "거제시농업기술센터 이웅종 교수 명사특강 및 산책 문화교육 수강생 모집 > 뉴스 더코리아",
+      "keywords": [
+        "농업",
+        "모집",
+        "농업기술센터"
+      ],
+      "importance": 74,
+      "category_label": "지원사업"
+    },
+    {
+      "id": "ccca2327080ad85a9047f3c8",
+      "title": "김대순 후보 “농민이 안심하는 농촌”…문경 맞춤형 농업 공약 제시 - kyongbuk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aY2ZyV1UtTk02M2VvUDJCa0drRHBOb0JacnFYOFdwcC00ZFhveVRJc1VIX2R0S19WSTBmX0E4ejF0VG1TakZPb084eTg3NlF6MXV3cmhORnZhNXA4UjMzV0lqY05FTVhqNTZoWWpB?oc=5",
+      "source": "Google News 농업 지원금",
+      "category": "support",
+      "published_at": "2026-05-16T12:35:41+00:00",
+      "collected_at": "2026-05-16T17:51:59.896680+00:00",
+      "summary": "김대순 후보 “농민이 안심하는 농촌”…문경 맞춤형 농업 공약 제시 kyongbuk.co.kr",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 58,
+      "category_label": "지원사업"
+    },
+    {
+      "id": "b95b779d2b3c7e81d1aa13f1",
+      "title": "이천시농업기술센터 유기농업기능사 및 농기계운전기능사 교육생 모집 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1pb0JGMWRjOEZWNmYtVWo4WmpiSmVwNXZ4WVNjTXJiNERvZzNpbW9GenJlTi1DMGhaZS02UU95OHJGbkU?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-05-16T12:00:00+00:00",
+      "collected_at": "2026-05-16T17:52:07.127409+00:00",
+      "summary": "이천시농업기술센터 유기농업기능사 및 농기계운전기능사 교육생 모집 > 뉴스 더코리아",
+      "keywords": [
+        "농업",
+        "농기계",
+        "모집",
+        "농업기술센터"
+      ],
+      "importance": 74,
+      "category_label": "지원사업"
+    },
+    {
+      "id": "88363a765f494fcd59ac8e10",
+      "title": "“초보 식집사도 실패 없어요”···베란다에서 키우기 좋은 식물은 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JaDRxSG1OVzNQWDhQQ0FWMHJmTXZkYjBSMy00cHA4NG9Fa281OFgwcFJnV016dmZiNXZXbUZwam05d0dBRXc?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-05-16T11:28:47+00:00",
+      "collected_at": "2026-05-16T17:52:03.652234+00:00",
+      "summary": "“초보 식집사도 실패 없어요”···베란다에서 키우기 좋은 식물은 v.daum.net",
+      "keywords": [
+        "식집사",
+        "키우기"
+      ],
+      "importance": 42,
+      "category_label": "식물 리뷰"
+    },
+    {
+      "id": "d32f58509d9bab390a5e38fd",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdFNJVlNHQ0hVdFJ5R1JQVUhFUUYxaXhBeENWRGtaZkFNQWg1ek1WUmQ5SkRIRENWSTFQbExIaVhjWHZWX2pzUE9nOUpacXNqTEtNTDVaOHNsWFhyWHkwa2x0ZTRla1dBOHFuSDRyWnF4NFcwM2ZNbURvMUVvMmx2LTZmbUJleVVRQ0ltblZ5OWNOQzZrbWVUVTlubExHOEZQVmwtclVHTmxYT3habjF5N0lHN040NnRndmNEaFZMODh5b1dETjdHY0lYTktSNnl4d2tTXzZuV0N3UXU5UFJkaGFZdF8tRks4?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T10:38:24+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "611f02c4ca5e9c994202f00b",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0xFR3RIOGxJZENqMUFrbVlvS25EbWpyQjQxZVg3TTI4blJmSGhaWUNJcUhZclZoblI1TnRvdExaZXdDM25SZXlpeWVXZDRfdk9fSWFjRDBoa3c3OHZpNWNFUE9ReFZ2eHFYWngxSUljTlBVMFo1aEM1aURiODhFeWV3VUc0MUJ0dzZUdkZ5azdLckRQV2lGeHFjNk9oX0d1YTJ4eTFlLThFeGw0QkhIcW5hMEhaR1hMMi1fbkhGRzZQem1QeXU4RUhn?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T10:16:54+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "165bdd913532211822a0ed34",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWFcxVmZBcXNyTjF3SWxCMWdmUVhNWjk3OTNMcDlZaUhOVEdSY0V2dGJxalB0TTl3SEo2RUY2c1Vrd3Z2bGdMYXI3dlc4dVdPVDhlWTNCLWV5YjlfSGxURWRVWTdKNDRaejl5YjdyX3BsdF9CNXBhcFRtemFOU1BzcUJocFNYRG40NEM2Q29UdUYwUkhhSmNnRUFJSU9FTzZ1V2ltN3JleGNEUTh6NVVWb3NvYlJVeERzdVMyNDhEeHRBVjhjc04tUlE4bm9IWnBlZjRWTzVXM1E0UzIzbkUzLTJWc1NBOGJMMGhHbURzYVoydw?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T10:12:04+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "28ef8156d5276b7045d23a97",
+      "title": "“반려식물도 키우고, 탄소중립도 실천”…조선대, '제4회 CSU텃밭정원 만들기' 미니장미 심기행사 성료 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DTjdBMDlVRkh2ZHkzLWlnaUZzT1B1dHBsRjRmcE44bjZTMlJIeW9oMnRHWXNoR2trbl9aT3JkVnBMSFl2cDdjVy1MbkQ?oc=5",
+      "source": "Google News 식물 리뷰",
+      "category": "plant_reviews",
+      "published_at": "2026-05-16T10:03:30+00:00",
+      "collected_at": "2026-05-16T17:52:02.159359+00:00",
+      "summary": "“반려식물도 키우고, 탄소중립도 실천”…조선대, '제4회 CSU텃밭정원 만들기' 미니장미 심기행사 성료 전자신문",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "category_label": "식물 리뷰"
+    },
+    {
+      "id": "1c12c169d7b3f9f3f0ee44f1",
+      "title": "“반려식물도 키우고, 탄소중립도 실천”…조선대, '제4회 CSU텃밭정원 만들기' 미니장미 심기행사 성료 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13ODlJS1hxSGNKQlhPZDhzVzl2UXpYV1pwSXlWUUVEejdfYkdkaTMyZEtEc3pJRkpmLUhhS0VDb2tYNk96dk9wV0RZbUE0dw?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-05-16T10:03:30+00:00",
+      "collected_at": "2026-05-16T17:52:03.652234+00:00",
+      "summary": "“반려식물도 키우고, 탄소중립도 실천”…조선대, '제4회 CSU텃밭정원 만들기' 미니장미 심기행사 성료 전자신문",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "category_label": "식물 리뷰"
+    },
+    {
+      "id": "08fd523022116c666cc327ce",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVlVadHVtR2paTklrcy1PZ1ZxZ1lHVWlHZ1hZaW84dGVYWHdJcjJBSWFVb1hkeWl3S1VzaHFNTGFwaTFIVEd2di1SdldodUJEVThBN0hfdnFVQTNDNy0yS0d6UnEzR2p1eDFXbU9melhUMW9rMHJvMkdOb2ZHOHg5YmpxNzBNM2Z2VUlmSENJRS1zV0hkMDA2YVVrSlRBUGZNNkVrRU8tb1ZSdWtPTFRVSW1xWkllbElPeFdlZG01M3lPMzRuNWdpSmt1bTNweVI5OEVkaUs1akpQVm9TdjFtRG1Xc0ZSeXpQYVAxQTBfdm9vQQ?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T09:53:59+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "d63e2e86a9b9930260446885",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOE01bllLV0NHRW1TRE5HNFExYkFMNFlMSzUtUFk2WnhqRzdYSWRXa3NCS0FTM2FQRG55NTRhTnBuLU9LRHlwRkJNTDVoOWRqRkpQMU5Ua3hVbk1zRmpBOXdGWnBTZ1ZOb21ncXEtZmpocklXQ0xtcDdPRHNhNUN2MDktWEJrYmE0eEY3azJZak51V2VVNGpVQUFpMTdDRnBjOVR1TU5WdlNnaVUyMnFkMUtpNG5hR0RPMWpGLWdXSHQxbFBkRmc3UjhLcnlpZG1xeW9mQWln?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T08:46:31+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "5aa79ccfd8bacc7e14181c7f",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZGtkRXpjMXZNM3QyNDI1ZUpLeF9RZ0FZTnpkNWg0NjZzZHdxeXVRTVVpdE91RHhZYUVJMWotLTVHVm01ZUMzcExaUWhQX2haV0x1UGYwU1R5cHRzeUhSYmJzWFkyVG81Y0JzWnBOOWhOMDc0RVR1bWRIUnZxMGFzZEFiNTBCcVpXNzJrWGhZaWgtdm1TVjVQQUhmLXA4dmpyTXI5VUFLVDhTb0tiWXdEZkNWaUpTYjdZaXhReE1QQS1nNUpIdGpJOFpBYUlQSUItZnhodHU5bm1XQQ?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T08:29:14+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "80d94f18875b6c5f0751fbb1",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcWxYVENNaXM2bXlfQk9GZFJIZzVNU2pUaW5fYnZUbExRaVIzeXIxdFNUaHViOW9uX0hUY1U3TGJvMUhUaUs5X3pSRnZ6OGJuRkM2cFhPOVl6eHQxSEVJYkpydWFhRnpEMUktSzJRa0FkMUN3bHRuVjVraUp0dGdUTV9WZEExcWdXWFdSMFV1b2k4LV9iR3ltRHZQNHZ6VC1XTEZXdUJlSUxWcldfTGVQdFpIaWhoMnJyMk8tQkdxNzM5S1RZejJv?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:54:43+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "41d1742def88814bd7bbdaa7",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZm9TbkM0UkwzWEZLNWhjVVFsNzFfbWU2ZmpFbXVZMl9PZWZUV0N3ZjRWWVk4UVpfdExmZEIyLUVlaGp2REdWRGM1cnJSRHY3UW1jMVBUajY5d2t5R2ZJU2EzWkJpX3pyQ3NNa1pUcnNqYnVuYVotSi1kUU9XRmlzSGYtZ294OXo4VVYwdXkzdzJPbng5LTA0TlZpaWZaZFRoUVJtc1RxYVJCQUlWTzFRa3hldmVaUG9Wb2xrNHIwWGV2LUNYNTNF?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:54:36+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "457ef07a1025c55de2b1783e",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT0pJTFQxODJnVDR1R2I4VVdWbVZpWFMxdFBQWTRzVFI5RGhzSG1aYVVQc29FZXQ3RGROcHVIdmVyTWNSQlJPd2FGbGM5MGNfTkNXMGpVUGo2OE8weWlwZFJ3U29BX0dJMmR3Ul9qaE5iR3QxRkFlRlo5X2c2WEtGX1VlQXBQeHZEZXQ0azJyOTVUZW1SYUx2X2xBdE5MYXNoT1BPSmtDNUlMdXVMeVVmdExXVmdpSnFLRWliZG5qR0xpR3NJN0FB?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:54:04+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "49e380fb6030dc29c1d0ac79",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ3ZlUDBwVlpkRndJZjQ0YmRUaE13eC04eGJ5N21LMDk5N0Q3UXE1MTl5ZWdIYnhzZkJCNjZ2VnJxakZYV0lMR09NODYycUE3TWpKdWdMX1M3MWJTNjhLaUV2ckJyY0ZMa2tZSTFzYnVPbTE0V2NBSjZTMXNTWDJGenRjaGJJRFJjaDBPd2pyZ245V0FnSi1WcWJjYmYtS2pibmtDR3VNNVpJTHFyMTdjUkw4Z1NxanB3ZmJvN2JaZldmWWR6NEZodUhB?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:53:36+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "933113c696ee159c5110caed",
+      "title": "국립원예특작과학원 / 온난화대응농업연구소 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRElsVWR3djdxbXBEQU9HUjJ5WWk3Z2gyZEgxOWRKbjFBalA2a01KNGJFOHpKVklZUXJxekRTc2pGQWtfRExNUk5HSWhEYXJGbC12ZG1aME1oblZMRVFxaFpNZWdMV2JXcDJEM3RjUWk5Z0gzU1hnN0x4WDdDNG9DTHl2dFRqRzN0bEVGenhiX0F0eUl3cW9qTEVJSExnbk9taG5CdFhpWU1XaW94Zk9SWndReXdSeW9kVnVKejE0ZmQ3SUVxR0NBZA?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:47:41+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "국립원예특작과학원 / 온난화대응농업연구소 rda.go.kr",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "2b9ebad7920c3aca543c798d",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDQ1X2FNMmhQVXA4R2w4NGljWFBqRjRFN242WElObV9PNXF3MHJITHRTZE9aclY4RnlRZ1RnNXZEZXB4eXpmbC1pbXVTRFRfNEVlRkp6RTBHOUlXQURDRHBRUllHb092NUZzM0h1T3A3R01zenJCNXk4a09uWVdsTi0yaUVNYkI1dkVPRmI0T3I3ak1fOWJoZ1VfOUNhMm5HMkxsVVFlemNzbndrSnZsam4zVnB4X0x0R0kwQkdFeUJJWTJlenc?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:47:23+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "eaef91479bd659f429e7d087",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkxKcGVEbFU5X3JBVjdoaHQwa1ZxbVFMeWFsbVZ4eGZQalptS2xIRzdXMXY3TF8yZ0hBYmRkVGIyNGZFQzRLRThVVVZLUUpQNTNRd2JXajJ6NWoxaTgtWElPQ0ZXU1Rfd1VwLW9wdnFDZDItTTd5TmoxYTZEVURoSU40QzRfU3M3LXl6STNCcDBGbF9tN2lEb2Z5ckVKbEJ5d2lXOV9xVnFnNVV3YmdPOGl6dTFVcFYxVTNrbE1UdXQ0WXN0d2c?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:47:12+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "90068a26bfb2c1576eaf5962",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTkF2amw1MVhrZEtZVnI3MFMxaDVMYWRNamw1WHQwMXVrQ3Zrai1YNWduZ3JTNmhBWFZjOWdKcjcyUXB6Yi1NSWtDNVloN0RucUVxYkFaT3R0RmJmd184d2JmeHVUNkRrOGJ4S1I1VEdJT0lpOC1MX2poUk5vbEpGWTRfVmxQVF9IWVBoa1NaZ3ZBbjdmTFI3R2pXa0ZDZjU3MExEWlo3OW55TVBQOE9yUWkwa0w2VS1aMkl2dnZvc1l1NFhVaEE?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:47:06+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "d831543f1e084b62179d7069",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLTgyZTVyYjc0Nms3cWxDb3BrcEtkOUtyREpTUG9LNVlqaTV0ZmNvX09ibFlkN011TURzMWZhRE51MVFHRFJpWHlQSDI5RzR5azhOVjJIQTFLbjdKVU5iTGcxeHVQV09CTzBLSVRocmFkQ3RWYURIQzIwWjdpMU95b0tibXlRd1ZGN1RzQlh5ZjVrbFVJYTBtQ2RDLWF5dm1pZnlvMi1jNXB4X3l3U3RkLXBoOXpsTFVnOFJWbnlmQlI0bHVaMVQwQlJTNWMxN0VIbW40Qll2UkRPZTNNWnhhelNuMDVyWEhfaDNIYjc0b3RWYzc4Qnc?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:45:52+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "b092155251ed5fde76897486",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMHktVnBTTF9TckhvbXgwTUphdS1XN2c5SVNwbDNLa3dDM0pnV3h0dHMxNjNUTWt2dk1uU1kzZWx0QmVSNzBURkZnNFZYdmRCQWdhV0RFclhEbDY1SVhZWEdtNHdhQ0xrOWFtRFBnbzB2NmlIUnhkTWgyUnF3akZXNzdUSy1sS1duUnpnWnZiTXN5RGtPSkhHUWJldndtRjV1QWV5d1R3ZUVZS3pIOURoT0EtTGFCcGItRnVMWktEd3Jhd2lpdHlUcVVnQzRTZmlqMC1Paw?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:41:56+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "4ddc6151deaa44a405960702",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMU1pRkZyNGlWRGpaaHd0WnhtUy1zdG1PdUFUNlBLdzZRaUc5TzNVVjNiajNkYkJVWFVweUhuUkxqT3dJS0xJckJGc1lqN2NsLWZOZ1l2Y3RCdW5QUFh0Q0g5Rmp1N2k1Nkw5RnRHZkFxdEF1ZGl0eG1fUHcwZEVLQjdJNWItb2hoZGVxWUJuckpKQktYcy03LWhZMGRrMDZBZVV4UkVWZDVmQVB1b29FSERSVVFadUYxdUlQWm5YMjZSS2JRaXhkRklVY3VGdUxUVXNaZDNUaTBiWi00ME1vMWdWTlBEM1BibkQ3Njl3?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:41:26+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "a1390efb8d74da2f65c2d5e1",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT1g0d1FpN08zQXdfZmxNR1BqckxDZjdQLXhiT3kxMGtocnhPVDRMYnVydWR6R2JUQlNya3U4UzVFWjIwRUlmQ2JvQVl4ZXVEQS0wakF5UU0yV2pPVEREc2ZxS18tOVZ6c1dVLVFIWU5jTlBfYXlyUGVBU2oya1ZsUTZhN3NGRFEteU44dWk3TU5pMWh6MFN4VTZGX2pRSjlqbW90RENzUkJ4eDZ1aktZNmRVbnMyLVJ1UXRiMlBpc2huaDdmdEdKYzAtZUVINDlTVVVxUA?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:40:41+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "f2aa634b6cab849532fafcf2",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQzBGSHNQeG9tbHYtRFZIbTFPajlUTEI3enpPbFFpT2U0OFpidm9BNlBoRDR1Z3JrRUUzYmFHOWMzeUV1YXJPYmp4ZC00anp4cHFCSW5IX1VGZWp1d3pqTHM5ZjY5WGw1NU5ZQTNmNEZuMm5YcF9wRFdHR0t4MXNQTENMNjJKWkhELWtIa3Z3MTFwMFlTb0NpRWJ5a2NJZmgyb09GbmlRZk1Qb05Ra2tQUXVVLXpmd05lRnJKTFZEazBkWGpUdWdxbE5XSQ?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:39:16+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "0e6e4d677f5db3637e9b634b",
+      "title": "농업생물부 부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOGtzNU0zZGRQc0ZhOGtZaDBocWFVS21TMVAtc2lUSmR2MHZ0OTZ4cW1BUF9KVmxKUUp6QzZnajdWN09zRGdkRUdGZWd2ZHM4aE85eHVOdDFZYTRDS2tuWWlOSnNZRkZnSkNCbjdHUUp5c2d2OG9qOWp5SHVWUUczYXpEd0NmdXp3NUg1WjFfU0hTVnVTTnZaek9nYm9zLXdIeUZHVWV1U0JZRW8tdlU4OHRheTVfT2xLQzJJaUVLcmRUMUJFR1RpbktZdFFsRG85N0t3bVlRNlZ5SVBGZVFYU0ZZUWFMNEg1akJYWTdTb3hFRnFkcXd6STl3?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:36:24+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "농업생물부 부서별 직원목록 rda.go.kr",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "8e2031ef28d3880c8d4df531",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMUFVdFVIb3AxaERRdm10UWprekVfVFZ4UTdSS0VhZWhGNzVoM0thLXhJb0xabmR5clloV3cxWFdsY1luM2hfdlRqWUdFdlR4YnZiWHMtWXk5NTR1LUFNNElMMmV3MV81NmhHTFJkeTRPSnZkQWI0d2xnLWpGMnZTdkF6ZDN3TjhwdWpQaVJKSEM2cVlibUJldW9CdGpfVFNuamFYSUgxRzZ1S0pLcUNnSjFUWHNsSk1KZ1RQdDR3X1A4d2FDT3ZteGUwcFk0NGFqSjR4ZXlhYS1sd1ZCZHZSR0hpMlJZQmlD?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:35:31+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "3f86fbd7fa4939ef8d01454d",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMl85UHZRV2YwM3g1RGx3OHNORWgtZWxfOHdCbUJ5S1c1Wk9rTmVjcG8tdlpIaW1ick1rdlI0MGR3RXpKZzZ0LWI4dGFiSVJnZ0ZScTZUU1dpdmwtMWhpYi1Ba1pJbVZvNXlTU25rVDI3TmR3R0dSV3lQUVc0U3ZDWnY4ZnI1OVN3RFBxTXRHZkV3a2pVRmMzMzhfaE5zcjg5dHVjMzVfVlVGdmlxWEhUVURCU2NVZWFCOG9aV2JmYm9ocjRaX3FHRTExaHJXUk4tVk11U3VDMk8?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:35:20+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "d9b27b80aa703605b40f56a8",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd0x0OU8yMFE3MDM1LUtZN0E1c0lscExFNWQ3QWhGUVozTzNMSVU5eVIzcnhXMVE0ZUhJTEFkTWxreERBU0lJXzhoWnZCRERtWG1nd0VmU1BtSzNNTGxtdVZiYnJGQXUwam5XeEtFakxOT3dKU3VVZjhaUTNidE1KeExqTGg5ZVJBaTRLQzJTY2ZnVXotMnhCTUJ4Z2ZnaDlxNUhoaGNjNElXWW5CV0Vzb1ZnUWY5aWxteDBTQ0V5TnhDZExmbU41UXl1aWNZT2puNi1WRl9hR04?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:35:20+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "8d98a5f1083dd4e85829c499",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNay0yNmdjLVJJNzdSMEJKaW1iU3gxMUZpWG5sNVlseHBtTWdzYTY5eXBVQl9nMlFuYlRuM2ZsOE1JNXd0UGRqYlB2WTliOWctdlZXbkJ0OHpKTG45cmJrT3BuWFBraF9nY1dwaUhpTFJLRmV6QXNpS2paNmIxWGVqVnNsaHJjMnVZWGxpNjY0eTR4RVJPdk9zRjVBMFBKNl9Ha3RYMHFOVERVc1J2anAwdlhLaEV3NURHWXZ6ZktBODFMWk1KY2NIdWY1aGhBQUpGVTFZV3dSLVQ?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:35:19+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "e1f2d08c9b414a67ea1887e1",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNenBLMVAxSGhlWVR3bTN0dmFaa3lfTFdObE5Za0V0SlVpdXk2ZEF2S1U2Q19xZVBCSEtEcHdWdHZMTWRWVEhUS2xMc2dDUEcwdU51LXFFbHFhWVBJczduN01nOWlDTGFSd0lhZ3lkQmQ5Sk94UmpvV1ZJdEJiUU93RU1UTnlZOFRhZ3ZrU3E0OFV0V19BV21HSndhZWJUNm1YTGhsdEMyOGprRld3VDBQVFdPSmc0bXVldW9XOUZGWEN5Ym1GOUVTOVRhQmM?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:35:16+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "f328060cc3c60ace6bbd33ad",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdm1pZWJjOGtxMWdMNHQxOFZEVUxPa2hZZFFBZGVPdFRNS1lET0x4WUJLWGNPV1pYRlhzU0Z5SUFOa3ZCcUNKbW1CU0U3b2RBd3BDaV9kdTF1NS1RRGxDekx5TVUyYk9KeUNYUTdDNUFKYmhWQ2VpWEJlT194NVdvQmJMdkFRRmNsb2tqaE4xaUxsNVMtRk9wNkk0TVpqTnZYSVhLQWpMSVFfSTRQQlBfWENwVnZWeFI1UmFKVFh5YUMtOHhwVXFUWGRUbTA?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:35:16+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "274c9e09fd7303e4d52b0c70",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbWdJdmtDeVh2TkljNDVPdGlIZVozWkZTeWxqcTNqeThWc2ZLMng3STVIYnlnWnVhdFFuT2ZCQXp1bldaa3Z5RS1xOXRpS3BDakNRUzFsTlM3RlBGVlpIa2wwSW5MOGZGN0sxNjZoOGY4RFVURHh3UXBFNWsxZFB6dXFnbEZMa054eWo5WTJ2MklqaFRGS1lGVFdhNEZyTGk3alV5QXYyVl95UlNIOUdKV0VBUldORWh5cG9IcWNUY1F3UEhhMFdlMnZKTUE?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:35:16+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "f234e8c43a75910df56ac699",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeHp5b2pfUV9BVVdKNkQ0azlaejRKNWxXV25QMWhYNnc5TElJbTBFZEJPNXE5RmdRZzlCOVZiSXRmei1mdTdMeU5XUXE0R0N2Z2EweVFreG40XzR5MWpCX2UtQ1k4SU11cTZlREwtVUxaZzloNVJxbFhRNXR1SFF6M2N0V0pFN2tvZy04UWdlQkdNN2MzTlhGQ0Y1RklhcFc2MFdTeF9fMzN6MGdBQ1V3MnVmN2tnTk1hNmhzMElxS2hab0ZXb0FKenFvRmM?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:35:14+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "894c1c9e356f246221ad9b39",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSTNjUHZXWTRkd2pScVh2Yi1YQWM1M2lNUHYtRTdHTEJLVVc4MTFmZVg5Wkd4TlZQUVowNjZGY20tVF8yaVVMZk0zZUlJa0l2OURUOVBSRU1UZFRfSWRHZ2ZNY1hqTm50X3YzeXZxSEVNS25NQVZUSXZIb3h2OG56TjVPeGV5RW5kQVQ0WXhIQW01TnhLejFmM2pKNmh0MzVEVDZqaUdlOU9neUhxRzZqOGlXYUpzc3FZOUdVUHcxT0Z5eHlGWGtENFlGS3E?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:35:14+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "2532b57dcb171f56f4bd57c3",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZTc1TmlvWlROV042WVhkUTQ2V0VZTWd0RWNvbk9ZSDFWRUFSSWRCb3M5RXpFV2lkbXZaeGIwX1ZnaFBzeGFna3UxWFhnbF9zbzFwbTRqVGZWZU84QnZOcDAtOGV2SmhPcV8xa0E5Z29wTGpJNUJRV0Z4OHgwQl83cVpWb05NM2tUNnpDTHlWdkF4Nk9sQnBPSVM2ZW84V1J5RUd5eFh5SkhEQmhheVlqZkNBc1lCWVQ3aEdVcmFjMVU1MEx5ZHRtWWJnVmw?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:35:12+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "bfbb30de3863076d11cce5ca",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSGRlMWpZUXdWUHF0cWVIeGNJMTRRazlEYWJ3cEw2eGw4elhuVmVwV2VxbVl6UFJpUjlETTVOTXZGNi1YTjhwSFFnbmRqQ00zOVlyZkhQcHZpVVYwNGFsZHlkWk12WndudER1dkptdXZYWlA5blIyMXpWWTRCcHhLOUNJM3dlb2VPMjQ0eEtLSVlBdlpZRmdYTUUzVVJCM080SmVwWjFNWlpycm5OandTS2l1bHRxTFpndFdwVVdmWGlEaHBsQ01XdXhMVFNFYUF4NHA1SzNwTWRMNE96SEpjRGFkYUwtUE50dmdZd0VTbFYwanVtUmZn?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:34:13+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "9ee213d17dce37867d73ec51",
+      "title": "똑똑! 청년농부 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tTzZhalc1OXBWelZHZ1ZUdEMzMUw1dDktLXZRWXRmWTd3dEx4em55emlFcmk1cWRSaHFKUXVxbTI2MnJndEZaNGZxV3RteEN3WlZrUVZhekY1ZVd3ZjRjWmpNUy15NXc?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:34:10+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "똑똑! 청년농부 rda.go.kr",
+      "keywords": [
+        "청년농"
+      ],
+      "importance": 48,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "e968f2815c5ec4aa7b2a1a36",
+      "title": "똑똑! 청년농부 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKZUlaR2JfQjc4WGxmU0xCUGJITTVKM1pWTmdicTB1bWp3dmlJenFNNC1nVnFlcTAxZWVZREwxd2VYUXc3akhxLU5KM0hrR05UVDdmSDFDa2lrX2h1VFRSVGlGWEVhOUFGLXY4?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:34:10+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "똑똑! 청년농부 rda.go.kr",
+      "keywords": [
+        "청년농"
+      ],
+      "importance": 48,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "ca70e58f68f9b1bccda7bcb5",
+      "title": "똑똑! 청년농부 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43WTU1cTNoOUpqQVZtTjEwMEJwRFg3YlZ2YXltUVhkN016c20ydl9KN2lDeEl0QlNod1c2VGhMS1RtTVhlWkdnbUdGUW5hWTNCaXhDMmZET19JYi1nWTBqTmZKR1lMaUhwNXV3?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:34:10+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "똑똑! 청년농부 rda.go.kr",
+      "keywords": [
+        "청년농"
+      ],
+      "importance": 48,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "50ea4efcea2c7207a0238c2b",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa3RVT3FweGhLRm54VFFVNDR5X21TeXh0X0xlN3JCSmd1c2lreVVGWjczVnVrSUZyZ25nVkJyTGptUVdOWVp4U0pNS3RnYVZtR3lqZXZKRE4wdWcyUFNyVHlJaDBlT1JpdEpqMnhXNVdhaVAxdTNQOXlZZDhjb01vMExMcEh6WGV3Tmw1QnQ1eHRCcE1rUWFvdDNmbUd2Nmg5SHp1T3RjN2I5RnI4UmtJR1FUR19hcVVHZmViWmk3aGl4cGFjeEE2Qg?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:34:00+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "3b4ceba8231f995859b02160",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSUZhdlNvNExzRGRfRnFEWnJsUXJwb2JoS0ZZMmN4a2V6NnF4bThaclgtWkRnZXNhbGkwOTNiSnBaRG1KNktyNGZYUGttZ1hsWmhlLXhIQk5QSVduNXp4YXBqUFVmNThYd0V6Q3l5NGRXUVFwQzlMSlZjS3pweHg5SjdSRjVhcFZyd0NYaEZ3emxmOUV5azdabV9WSkRmSEZJb0pXNGhCNmV3S1lSZUtoWGRObzBCdEdCQ0NjV1ljaTNHd3RuYUo4cQ?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:33:59+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "0bcc666a8688c7f566e5b71c",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYmhRdy1iYnJSUEkzT0c3SUo4S3hwNUlVaVk0VUZfTWkzT0RXbldUczdOR0kza3c4Q0xRMWFvZlJRaC10MGZ2bW9hdER6SGF0S0xYYU5vbDNqX2FfQWdnNmh4R2RrVjhqWFBsNmNsOFVhYUhaZTBGb1V0V1VtY1JyQThyV3dDMmlRUWs3cDJlMWt3N0JCenpVczh0Tm9fRDFLbzJNSWd1djhDa0NiWFFEbnluelFWMFVCcDRwU0gyZ08yd2hUaWg5Z3VmUEdTMktraEhJa3dELWw3dktHNDlkNlNERWhlTDVTNEozUUg3MTJyQlJWWjM4?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:33:46+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "1a44dcc6de771c290c8c278a",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaXh0ZndEd0g0NzFFd1JYOTgxbnJKTW02QTc4Mnl3Vi1XTHVtTUt3bXFfUHNVR1lBWFM5bnp2bXgxblp5V3dRZ212MlJxSU0zbW5pcElwVlBxOWdJOG9PTjZVZGpJY0MwRXJvQjI2LWoyZkhSY2NmSUNHdk9URFNyWk5nTmFYSjBkMGRpdjNhTE8ybmVhVFhnMHNEeURtbjVZN010bHRlVllRMGRUbnkzNWlIRDhSM2dObUQ0Y19VVng3emdIZDh6T3JyT2lFU05IRE4wdlJtR0xqd1ktaXV0UlJvYV95VnpDRWJ2OEFfNUwycTBmVjg0?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:33:46+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "d3d0daff79bcfa055ad48f48",
+      "title": "농업생명자원부 부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWGREU0JNNkFZX1hSM0NxUUZCZlBGVm9GRUFaa2ppeWJCM29GekhUQnVRbmswZW05eEtXbWJ1RFhVWTJ2Z3dtUVluTmlmdWhsM1JDZDJRUmFMVV9TaGZEVEVLUlJmemxETnRHQnVjcmpsWEdybDVFLXhhVnQ0cVMyOURlRXB3aWhPV1hlYi1ZUXNFY0V2bkNQR1pvNFVTRUJSNlhqSTF4bTBBM0lxc3RIX3JjYlpKUTdMYlBCbVp5dzg5TDdrb0UyV0kyOXM3WHJZaDFMdFk2MA?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:33:43+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "농업생명자원부 부서별 직원목록 rda.go.kr",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "6118dd7158b789a4f9b5415a",
+      "title": "농업생명자원부 부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3pvS3BmRDE3Z2oyYnJtdHJLSnZkcmxCTDBsMnUzQXg0d19FUXg3VndqRDBYOTNpSUlOTUlXdDFTZWRLN0lVNmJHa3NGbll6Z214T19hQzIzWEtpZG5uQXZHQWhyVjMySFk0NXdYMl80ZHJsbmpsMEQzUUZYLW9vcjJpcUxseDk2b1FWZHFraklJcGtwVEsxWUc4SHFfWnBPTmJLUDFvaTg1YklXa3ViLWdzbU91TTNHTnh0Qjd6VXhkWUR5cmhYODJsMFU3bXFOUTVPMlRmbw?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:33:43+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "농업생명자원부 부서별 직원목록 rda.go.kr",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "2d54ae082b49bc937903b142",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM2JVT0dxVGp4cHZLbHNBbTVDOTZOa0JOLUFLV09BdWowNExMaVZMNHZSQWQ3YVNoemE1Z3JESU92d0RfcHRYejVBWTZOVHFMY3lyNVU0cFZ6Q0g4dmw1RkZuOGMxYlhuenlzSU0yMUo5emJRZmFxZzIxanA3aXN2d0RxUE1QSzZ6M0tPMVNtZGl0SG5WN1F3UGFaMDRIcjh5aXJVUEswNWdfbklIaF84MndjU2dUNEVkNl9ZdzVLc1p6TGVMWXhUakw0MFJaODRXWFFtZW40bWcweUh0bU9MOWlaVzN6dGpjQXJHck8wTHFjUW9Da3ZV?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:33:41+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "0a1e23703f28a91ffdc029c4",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeHQ0OUhNblFwcVVhYl9Qa3ByMFgzOGY3OV9MWnJFZl8zX2xUaXR3dl9YTXdaREg0TG10ZHFfTWFTSzlRNHYxSHlqZVVFX0plLWl5RkhRNVNZM1V0akdwS0NiOW1YQ3ExYlRubXdCaDVWTXdFZkdDcG1haUVSbmJqV0pBdml3ZzBRVUl5emVHWWg0aVlyOGY3eGZHWHFMMUhwRVdKRi1ZMlozekg5aWtSTXFIZEh0UC11dEdnTm1EVDUtMEpyZGVzbzhncGtENnpFdmRfWFF1SVhYQkJ1LVFEUi1JT3BKQ0p6S0hWMjBEYUdKVzJKd3RN?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:33:41+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "d4fc6c877eadf2d145889fd1",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSnJzcHZFQnd1ZHhyYUpHLWxHYTBoUjJKUjZ5MEp4VDR2d3JKTTJpMEdBVF9FWWNIMXBWbEpMRFJFTWt4cVlBcTF4eFcyamkzMWNCTVQtSnFQdEVsTmpVeXh4ZnRYUGlOTk1CVEpBcHJxNEtyM2J0ZHdNWkI5VkZ5WmV1Si1UZ0gxSDNlYm9nODRtaU85Y0FiekhCeXhpLTRNb1hWcV9iSjJZX0lJczFMZjFWaWdpemtqdmpEa0p3OTdyN0ZqVU1fdmptdmkzMkNsaGYxSGlXMUk3c3dzVTF2TDVIUVFKZ2Fxa2pkV0Rnb05RTW5pWGU4?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:33:40+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "e41a4183b28694dd020760fa",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT0ZZZVNvcXZSM0NZNGxpRGFUbFVmaURJWHhsVmNQNzNfSXJMcXZkbExhQWVnVVE3a1NFZ1JlNjNaamU4MjFEVnZiS3lIcEpSa216QU9ZcGNOVmJsZGlqSnNUdTdhanZOSFJwcTFPcTFGdGdvZ1lTcnNaV1lqNXF2QU1ObVhGZWZFWkpRYjRRb0p6VHdSNm9KT05nQVdLQ3hUYXBzZnJNTWVTOU5VX3ZiaVJmYjZ5SlVNRnRZTGIwZUVDRGJaWTJOTjBnNUp2NHJBdzZFZWlR?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:33:35+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "6cb61e52f70a6295ebc7fbe6",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVDR3S1A3YThVcVhsay0tdm1GTl95VTJWaVl2VEU4Z3hxQlo3UTRlVGc4YWxtOWxlUGZKemZHOXNBVHhoNWxuS1dMZkpseTRqNklzeERSdm5FVC1XeGxPeGpOMGZEV1pqQ180bXU4d2lBRkRORmVtaHBKSzUyU2NVZEs5ZkM2aVhUVjdsMGZqX3EwQjl0eDk1SE5kTGtQb0s0MFBmdGllV2g2X2NzRTlBY2VDNkt2TTJYYU1fUzhpVlhlQlkxX3lMOXNBd0Q0dnN6TlJtbU11R1lfcno5dkppM1pOT2ZjV3NYTkE?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:33:21+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "870ba393b8d72f74cf8a55ec",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONW1Mc2hIRlphcGV1UXBJRHlsc2xaMm9vNFZIc2dLNXVwSkdZZDN3M0RBcFNoOTRhOFVHazItalNKOG5UMmlYdmcyWFpLZmZvQzI1RU5sRHJUeDBvR0x5SFBEM1FYWlpjNUNDMUh6MTBSbWpoeVV1MlhPLTNSSFpmcEg5ZC1tdVFIWFFOTUxPbnU2VmdNY25hZlJFVEg5c0ppX2RkSkRRUWpnNXhxOF9ZcUsxUzRSZVBMQVotSHRBNXhFU1Ntb09CRTh4S1l6QmtOSHQwNl81Wmd3S2V0bl8tcTd3TjBnNVNPNkE?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:33:19+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "2c5f95cb6409b66dff55adde",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMlhOY1pBV0JVM01XdnVJZDJ0Qk15YVkwR0lOY1RZcFB1a3NmUVRmeDBmMjl4V3pHZm1WUWFYdXpGSWVJZ2dPWEFKV3pTQk9KaE1kamM4TmhGeDFCWEx3U1FPd3VhRTVtQU1aUnNLSEFkaGpRa1F3bzBvSU1ERXBER01DbzAzY29nVWpHMGRqNUhvSF93a0FUWEJnT1hfd1dnekM3YTVSd0dvZWE1aTNnVDJOY3pPWmpnRFhZdUlzS3VKUlVQcmpfaEczSkUtM0ZiSzI2dHVkODZBVWRWNW50cjFCaHgtRDVkNVE?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T07:33:18+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "8cd1f652129c29e1e40371f5",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLTdZRHVhWmxKRDlXRE5kbXJHeExIY3A0WGx5cVIxb0hLUW9kZU9aMWk3UVZ1TDdNcFptRGY0emY3SURDRVR6WFVlLU5BdjNxZDJxY1hzS2xIVTNvQnBmeTdNV3BYUWF6SzRJMVI5MkVFUWpLRVdzV2VTbC0zXzgxeGYtbnpUUFloRVJMME9WOFJtYnV5V3dZVjZJVXBQSTVUREllNzFSMk9CWVhYS183NzJheXhPbHhwWTgxdkhBOEZtLTZn?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T06:58:36+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "e16ca793c996345419fea4bd",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTzBFWXVZdUxwSWFXM1c2VjZaNDdwR2g1MEpuMFd0M1dqOTE2cHZfdEVGa05NVy1nSWVUNDdfaW9HYmZUbDVkVGZmVktRclR2N1l1YTRLbGo1amxtV08wYjZSZndhNEw1dTBYTnFCNE5aTVJvcGxoclpFWHZuUUVPdnRuOGc4V09FaDNLNm5iNldlZDI5c0dyQTh0WHBuTC01ZUprWlBOMl9TaWhXa1FQZ3dMV2daV2FVSURDaTF5UEh4Umo5cWNYZVRaVmVTdW1qdlREOVRGVml2bXYwd1NMZThfb2pWY3E4djRJMHhB?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T05:20:54+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "5422d980af7e572abbd0ee03",
       "title": "국립원예특작과학원 / 원예작물부 / 채소기초기반과 - rda.go.kr",
@@ -32,6 +793,19 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "79871c726fa9860882215ec8",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONlEweTZaelk2Y2xPenZHQkd5M0pTaml3OXhKSzJMOUpEVm43TmhxXzc2c2wwSl91XzZaNVNlMkYwbXhpNzdoQXBQNmZBSmRocm92T1YwcERNZWE0aHQ2T2lvNmJKRURCdUluZkxTcGpwOUVnWHgtTTBfbnZDWVV5bFlVcXpsUTA5QjVaaGJ6MFFZNlRJbkZKenp2TTVmcnY1WjRQWk9mQTFOQllQNjNnMlpGR2dNd013TkFza3BBZ3BBTjhsLWNNZWxzWURDUlZzeDZ1Z0dKSEU?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T04:54:47+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "ed63259782ff0aef87f9d2cc",
       "title": "부서별 직원목록 - rda.go.kr",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVVRRaXJ3a1RPVjhadWFhT25YR1ZqQVpIYlR5UE01dERMSzl0WTM0OGdqVUMyWHlxSDdxZVRBSkpZSHl5OVFMclp4VUtlWmMxWFRlX0xWVDZFTWZtemxnaGdQSXlkRG90c1QxWktGMkNhRGlSckNiU2k5ZWotaXhGenNteGhNR254M1BPMk1yR2tpc1NLTnE2cnkxRVFOcGN1X0lmeXJFYVFuMGNMbDVfNTBERmFwWTVkTmNmN2hxYXY2SVd2V2dpZm1oeE1DNkZwUnh2emxUY1pTWEdBdVhaRkpxcDJrZmJp?oc=5",
@@ -39,6 +813,19 @@
       "category": "news",
       "published_at": "2026-05-16T04:13:16+00:00",
       "collected_at": "2026-05-16T08:28:08.298032+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "12ff7a9d97fc1da835798ab1",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS3BJUjY2ak5SamZwRUVyZjZpZmZqX0M4SDhTZ3pWVHRBbzJKSl9zZncyX0wxdmhiSTN4NzZYLS15Ty1BM0lFazRrck9weklCMGxBOFFxcHVDbnNERkpJamdLYnV0Q0VOTnJWUWpLaElQWXlTRjBZazJNLWZuX0hWaWlHWXlxazh2OGhLZldIVjg2bDhUdlpZcGppTHh3R0VOa08tWnVVN1ozR3p3SEJVQ2dBaExicUI3TElWeE8wYVNKenlVcEtvbkNWb2pMeU9Ja1RpVnJaLV9fMXdJZlIwSkJOWEgzdENEUmc?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T04:10:12+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
       "summary": "부서별 직원목록 rda.go.kr",
       "keywords": [],
       "importance": 42,
@@ -86,6 +873,32 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "01038af866a4b42f060584c1",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS05CbzhPeUptQ1VEeTF1TGNWRXpCRGhydDFqb014YkM0TTlwNFMxREZmSDVwbWxUaXpGYVpJc3dfLXFSRV80elJXNVBIbHZKMzNURkwyQWZCR3hqdGhXUmZQRDJWTzExUlR5WjlEY0hkOVZiTk8xV01QWWxkajV3ZFRFMi1LaDF0SWRZZndWZkQ2Z0R3aWlSSDRrSTNDelotSTZOMTZVYUZ5LVdBVkotVGdNazM1V2pPSW9wN2p3LW9ZNk9K?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T04:08:42+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "514aa3e9fa64ffc9bc5a8c43",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQkdrQ1lHNlhpeDltVHZPVkNxZlNLWWJhSXIwcWFWc1M1amNCMEdTUWJ6YWlZbmw4NF9aZGt2azhIRi1LVDhJWXZJWjBMR2Qtai14YTBzcVB1dHB2SXViQ0hMaVhIc05tM1dZZ3lPeEZnZjNlMUFNOUh3NHdiZjhBNUZLZElkdzJra3phNjl2NHlOMEtjOWxEX3NYU0ZhcHB6eE9yN0tvN28tVy1XbmgyZG1UeE8weFV3MU1fYlZkS1A1R25Y?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T04:08:36+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "f2b01f47e1b87e135f31ac08",
       "title": "부서별 직원목록 - rda.go.kr",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXplSVA2LTZ0UEZndnFSbzdsS2JaLXV5dERuUXRLay1hcW5GZjVVc2l1NHhZbjV3QXBCSGZZYUVJRDljTFgzLWFqaEhoMXptdmF0OFIxek1fN1N2THAzUGUzMGp5ejNZZ3VIU0E3bnRiWW92SURFZHRtZ1pHYWY2eFZjSW9xWTRHU3JPZHNra094cEpxUXdoa3dxVDZfRVpiLWVfV2ZZMG5yWjBSV2dRdnFnZllTNDlWck4yTVVZWW1kemUx?oc=5",
@@ -114,6 +927,19 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "1acd3852730b874c5c41323c",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWkg0SWtVQzNQRndrb2psZGZiTExma3JVMnhWN2tZd0J0bUQ2QUxiMXlaTlRCMWpzNDR2YnZjOHR4Q3N4VFJmSzdWZmhCVVBHU2VZVzJ1T29HcENobEVXdnhtQXgwY3R2Zk1MWmFnajVwalhNVk4xN3BURzhSVFVRN0ZDc2J4ZTlSWTdqWlY2dzl5QXplb1BxZy16OW1KYmFuUXhXVFYzMTQzVFl0Q2xHV1M0X2R5a1VwZFRrcDBjcHNtX2l6?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T04:07:47+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "2226db736107071c74be5830",
       "title": "부서별 직원목록 - rda.go.kr",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN3M3UGpabGdNOW5hMkR0VWpGcExiWG1PUVlmR1RsTHJUMlRKZm14c0tYSjdIdUJ1RkNCRlJxSmQxUy05QnFST0tkdzAzeDZmcjBhMTZMV09BTi11c3JfN1M2VE1TcGtwR1hjRXMxTXZmbmRrQVV5LUttQXdUNkZHbHVsQ0ZUR2JRdE9RY2V2clV6TlVDWVpNR2FRUmhDTnBoc1Frc2xCbVlDZGMyZDVRTzFVR0c3UnZ1ajJwd2VVVmh4VDBaTHVJ?oc=5",
@@ -121,6 +947,19 @@
       "category": "news",
       "published_at": "2026-05-16T04:05:49+00:00",
       "collected_at": "2026-05-16T07:27:08.899859+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "2ee9995a5d28620fccb23186",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbUFGN19zdjVveU15TWZKU3NydG95TnA2Vm5BSjROUW1aalNiNW1iY29wZ0ZJa1FWSGczUmtOOFpVTVlvTFVKTV9lZHlGZHRXaVBnTTYzRnBwUmhTWFBUMlRSZTBSby15VTEtOXctVHFkY3RMRncxaWU3eW5QOTZYc0dBblczc2tWVzd1Vnh3TWhBNFluZ19vZ1U4MXIyXy1lbFhJLUhBdkpSRVFBcVdQYUtZS0hnYUNhcWRONE02R2p1TjVrcTZfdnVlM2N4aXhWU3Q2ZjZobzNvNzg1bjB3cTBfd29veUhB?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T04:04:43+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
       "summary": "부서별 직원목록 rda.go.kr",
       "keywords": [],
       "importance": 42,
@@ -137,6 +976,34 @@
       "summary": "국립원예특작과학원 / 원예작물부 / 사과연구센터 rda.go.kr",
       "keywords": [
         "작물"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "c6443b075a5802a712a26e79",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMmJzX05oM19mUF9DWEhxaHRZaHFoT1NmdVJFM0NPMGlJQjBJUnNzRWtjcW14bFNtS0J0SUI3V3E0dXJkUkp5Z1BybmdmaUdDOFNGeGdKOGFpSHl6cWpDNmRwNUVoQzFhT2NWSXhVMl93ZXk5bElUTVFMN3B1cEJITDdQQTJRbjlUbmxwZGo2SDFBUFJEMDJUcXFMWll0UHByY0hWNk1rQWdHUE10bEw4ZkEyUW5HUVRGQV9oazZldEFBTGhnNzFNbHJXMWV4Q19nUmZDRVpWSWFuOFRfTFhfeE5BUFFTV0Fr?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T04:03:40+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "ed5efa86ef77b4256975597a",
+      "title": "국립원예특작과학원 / 온난화대응농업연구소 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaU5iWktlbE5mYVcxZEZtLUI0MzcwWjJWTmhsNzEtNXNIanZ6cFR6TDdLMHh6NEZBV19veTM2bWxVWWtSOHJ1T1NZWnNjTjNnMlFYaVlobmhsRTkwengyWGtZMjRyR2R3ZlctX2Y4V3BNSVhMQXd6SFI4WXZOcU5rSlAtZEtndE9aeDNtSDZ0d3JNMkFDRXROUS1vUjkwYjl4QTh3VThfdml4M19ZRXhBM2RJTldwSmp3N0x5Q3NIWTk0YTlpSVhJN2ZNUQ?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T04:03:09+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "국립원예특작과학원 / 온난화대응농업연구소 rda.go.kr",
+      "keywords": [
+        "농업"
       ],
       "importance": 42,
       "category_label": "농업 뉴스"
@@ -183,6 +1050,32 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "89e3792b798f55561d5577b9",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSWdDT1dwbEZMUFlSZDY0LVN0djVwMDVmQy1xdU40NmZkNjc5UlF2MTV1eGtYcTlDRjB2cHYxVDNQem93Y1JnVWxLSXRFVHhubF9zNGZvaHdadWFfdlQtNGljVVB3b1BQdTV3elNIanI4NndOVFEtaFliSllZQnllR2htendnbndSb0lnQ0ZrLW44MXUwZDRweGtqNC0tWXBZd2VUZXJpVjhDMlJiUENzMWRrek50LVV5V1FTYVdjYzBfRVhBeF9aZkdZTVhuMXpCTHBtOFZSZmZoZEtUejRJb2lKTGE3d3lQ?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T04:00:40+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "96f0755cfe4b3f6a0e4944c3",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTDZLVElKci1tLVlla3F4cmoxWnRzNG02UEY1SWRjekk3NGR2dEl1VzNlazhudUxtRXFFQ3k2NEkzVk1YcVlqbllTNjJQYzZwX1BBRllrOUxRb0FWSW04UUpadW1GSUZScnRWbF9iZVVnQWt3WFdqelJPQkl3Z3J0X2JyeEY1M1pzeWhUb1EwV1NzWWJqR1d1c3VjYXVFbzc4RzRDZFBvMHUtYjRkaXZvODFvRDQ4cHFZRDJYOUlzR0dxOFU2Z0JYSWJR?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T03:58:32+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "b223358ab96d1738eb8bc7f5",
       "title": "국립원예특작과학원 / 시설원예연구소 - rda.go.kr",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOU5tTUh4dTR5SF82azhnOUNJbVY0eW1LdVQwWnNHLXdkUVljTzI5Nm5SLUxqYnRCQWJzOEFoVzh5dW01cmxtVFhCX3JfdW1lMjBpQWVhR01rS2I4YzFJY1ZadkN3ckJvN2pkVUs4anhCWGp1QlNIMlpBWVIxdkRMQkl0N3dsOTFSemljSnUya08xeV9TV3BWRkdBMUxBaFhoUndUMXRubVdkcWZGMmxGZjlBNnlYRk1HempMYllfN04yN1lfN3hqLWEwNXFmbTAyMU0xNmJ3SlZ0WjFZTHg3S3g3bkN6RGJZT0pFaQ?oc=5",
@@ -194,6 +1087,19 @@
       "keywords": [
         "시설원예"
       ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "7c152ee08ade428d48367439",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNlBSVWxyakJpV1ZrTjNBRUE3ZG1hUm5yZ1h2YUszdlp3bnpBUEZUMUdqV2YzLUh1R01NanJyOTJwcVJUZUFGMjR2YWVuNHFaWVN4YkdXdFhJRGhPbzc5RVROSUNhamhydVVwT0RaemRqRWxUbWJaSW42bjI2YjNEeWg3SENEemV2NkhLSmxFeF9VckMxS016cGtoTUlfVjJfalFlbjE3akdZaHlabGZLRkViMDB1cTRHRmx6Unh4SlAxamUzX2hTdm0zMUlEWloyV3NLWEdTZmg4dU12V0FPY0t1Z2oyMzBx?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T03:58:07+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
       "importance": 42,
       "category_label": "농업 뉴스"
     },
@@ -304,6 +1210,19 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "eadf47941bc4c15007a8856c",
+      "title": "김기재 당진시장 후보, '스마트 농어업 대전환 프로젝트' 발표 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VQzRsWmFUV25GbUMwZUdydzY4LW9xckdBRGF4VzhpSTl1YmpMREhWeFJ2OXpvRFFpZThFbVdfTFNxbjdDS3c?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-16T03:42:27+00:00",
+      "collected_at": "2026-05-16T17:52:01.182994+00:00",
+      "summary": "김기재 당진시장 후보, '스마트 농어업 대전환 프로젝트' 발표 v.daum.net",
+      "keywords": [],
+      "importance": 58,
+      "category_label": "지원사업"
+    },
+    {
       "id": "85674a811155181c59cc212b",
       "title": "부서별 직원목록 - rda.go.kr",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZ0RBRXE3VVM4aDdPUjBjR1VSakVvNnIzRTl0Z0w0NXNBZFFOZXBJSlFaaGxnLXB3VGxKUDhIQjljb0lLWURrZHFXQm52ZkxiMzN3NVJIdEJrYWlQU3lHVlZUd2EtRnVqeTYzZzN3ZlJXcFV5bVJJRC02ZW12UndUMFpkR3Z1bGduSElKZ05QbDUtOWhyQzk5aFhqYWNkR0xSWUVKWTNaSHBSSXNWSGkzR21naXZmdzlLdEpBa1VmU1RYUlV2S1FsNWNiNnA2emtZZGxNakVGR2NBck11WTFqMmJwa3pFVmpUQUJ1RlBtbzJWc2xYejI4?oc=5",
@@ -388,6 +1307,21 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "1212ff17610fd1b83c4b6639",
+      "title": "국립원예특작과학원 / 온난화대응농업연구소 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLURRWWcyZ1ZqOWhkSjRVNzl6ZDZuS2RMYXVrZHNWVHVROTRfeVNMQnVYUktjLS00SjRlUGd0bVc3eGNnbW5SdlhXTGtnT1R3RmN6djVYY05SWDROZjNUX09NdlBHN2VEUW9fUjF1NzR1R3RzQllKVkdJSWVfRlFPSUR0ZDV6cS1OZWR6QTdXTHROYzUyNW9iNFdHa3dCOTZxZXFZa01fdGhTaFRoMC1UZ1R3Uzd2Q1k1bDFLS0YwQzZuVU9RbnFDRDhHaFhETFVCWHZTRXgxNE52bUpibEM2dkpibnNQMlZYanB1dQ?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T02:26:23+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "국립원예특작과학원 / 온난화대응농업연구소 rda.go.kr",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "b09827848f25179285a8f481",
       "title": "\"작은 화분 하나가 건넨 안부\"… 태백 구문소동, 반려식물로 고독사 예방 나서 - 강원신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aSmc5czFJWXVNeDZPU3o4azB2OGtWVG10UVMySE1nOGFWYWQ1VktudDNyNW80NG1xOUlQZEcxN2tWVjd0aV81UVhweWVPTzJoMEZkSWVRa2ZPNDl6d3R2ZVo0Q2VjTHZr?oc=5",
@@ -418,6 +1352,19 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "2193553f992bd922e06c3a1a",
+      "title": "국립원예특작과학원 / 인삼특작부 / 버섯과 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX2toQ2xfekhhMUg5bEJJcTRUaXhwY1RyaElUM2xGNm1FdHdlZTRsZlJ1dXQ3RGhpVU1rSHl2cVNIWF9GUHc2cFFmQWVkSTIxbWRwcHRJS1RRUzNoMEZieG5FRlNuMUI1eTVEcmoyWnJHSnN2NGVFV2QxX05IaXhIWHdPcEJFTUQ3ZFFreEw4Wmo2dVBJcXN6MGtOd3FyVUk1YkVrOEV0blI1bHBrODc1Y0NIckFXTnhmSlpXVG1EZU1VMTRCZUdSQVlR?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T01:56:19+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "국립원예특작과학원 / 인삼특작부 / 버섯과 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "9ec5de7330ae1a673ca379a0",
       "title": "국립원예특작과학원 모바일웹 - rda.go.kr",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZURPaWV6YzBBUWVGZ1pVLWRqZS1GNHo3LVlNZW5meEJPaUJnMk9lUGpKMW0wQXZEWm44bEljNlZXeFEzYTIyNndTajByVk5FNE9WMms2QTBQcUFIdDJrc0lqVFpHNHNLUGpzT1l6dWE0U0N1c1IxRDBwQ3RuekllUWZKYW42bWoxMWlhNmNxeG5ibEQ2REZXTWJMX3ZTSC03SnU0alZQLWp5bWlkU2sxVGYyMVYzUm9jSGtnVm1pMmlETThXRkROSGtfWFpPNnRKa0VDU3VsMjBzT25CcXVTMW5RaDI3U3VMc3dPa21ZVQ?oc=5",
@@ -431,6 +1378,19 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "042697abc2d368813b631319",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ2E5R29DYnFGcVBVV1NxdFloeEtGdURiZ3JTemJVNWdvRHRlelNHSGRBcWJfRnJ4dW1mcU0xdzc0Q09oUHFKRng4eUZnUUJpemZIMFZlQzhkVC1kRlV2WXB2NFZfV0pCazhWRkJ4a3BpUF9VXzdsMjdKYmxhOVdqbEhBUkRJNFdKNDhsOXdmU1BuU3F4YW5vQ2MzSFpzb3hKaFQ5OURqWHdFODdvZ18yLW9mRnpyZ2JUU0VleTVDSUJYLV9MbS0zQTAxY3Z5cHpTSHZaVXc3dUhOVHV6dUkxeURRNGhFSUtt?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T01:51:25+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "d1bb556be5816ee3c897f75c",
       "title": "부서별 직원목록 - rda.go.kr",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQjJWUWVQQ3I4clA2dTBrSHpnbU5oSEozNGlBVEI5Ry1UN296NTY0a2piQjRBSG9iSzloUThGcGNyM1kxeWNmUlNfNU53TTJzdTlBeEh0OEJ4aEd5S0JENEtva0N1WFl0QXh4R20yeENFMEJnR3BkcGQ3bU9hM09KVmJMVzg3a2pfR2lzTVVOOGRqTm5ZamJMTlJ1b1pJelVMV1JuaF9nRmI3dGQ3NHZCYnc4Y0ZlZE9WcDZ4Qk5BazNpYjBBcFBz?oc=5",
@@ -438,6 +1398,19 @@
       "category": "news",
       "published_at": "2026-05-16T01:48:17+00:00",
       "collected_at": "2026-05-16T08:28:08.298032+00:00",
+      "summary": "부서별 직원목록 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "bf507d0cc3e1cedee81dceee",
+      "title": "부서별 직원목록 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaVZ5MHUxTVhXdDdUaFlfT2dhLUxEaThoTmpoNFJubkVBT3FsU1RvbFMtcDNoRk1nQzFyN3NOMTM0aGFSYkQweWIxS254TUo1a2U5RzFXNEFtQm1IdUN3SmVfTkEtS3IyLWZwd0o2VVlZM3JLSm5hTnZlTVVzSFlMMl9vUUw3Q2RPTE5jal9FRkRLSWlEWHhRZTVMSjRvalptNjdKWVppTmR0UU1fRE02VWhxUVhyRm9tNEpKN1J2dk9ZQlVaaUtN?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-16T01:46:06+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
       "summary": "부서별 직원목록 rda.go.kr",
       "keywords": [],
       "importance": 42,
@@ -589,6 +1562,19 @@
       "category_label": "지원사업"
     },
     {
+      "id": "4e84ef39ae32c3d6f32d6d2d",
+      "title": "[新농비] 쌀 흉작 주범 깨씨무늬병...생장 촉진제로 잡는다 - YTN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2JLNWRkel8yUGVURktZbFNMeE9HQ3AtXzVqTVdKZE9sRmpxUnUxT05IVU5mV2F2bjJTWmkyeTlxUk96LXlrejJ2RWJNbVlSWkU1TDNlTWNxTk5IUVVGZTdXXzlvSkdKR0lXYjllQlFKTGZUM1FpR2xwNDc2QjVZWVdmYw?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-15T21:24:00+00:00",
+      "collected_at": "2026-05-16T17:51:53.859766+00:00",
+      "summary": "[新농비] 쌀 흉작 주범 깨씨무늬병...생장 촉진제로 잡는다 YTN",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "7ce56a999031375741e9c2b1",
       "title": "주간업무일정 - rda.go.kr",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc2JfS0oyZjNONE92VENPSTBhdm4zbExMUVNzNVR0ejJPaEtwX09QUmJTSko2UDB5WGtVSDJtbkhRemZFRHpJSUNqN3BHb0xrVWF2MTNuWVVpcmxzYmwxenpYMjhCY05pN2ZYUld6SjhsOXhuR0FTV2xrLVhnbko4Tm94cTJJZnJYS3pXeEFKYzBHeHlnYkhzY3M2MWVXVTdEWWJyUmRqdFFlN2NYNzBLLVRFNjMtdndZZ3BFZUxfMA?oc=5",
@@ -676,6 +1662,36 @@
       "collected_at": "2026-05-16T06:56:42.817671+00:00",
       "summary": "[보도자료]과수화상병 올 첫 발생…긴급 방제·확산 차단 총력 대응 rda.go.kr",
       "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "6d082dc53c8c694e6f2877b2",
+      "title": "04화 작은 물주기 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE41dEFkTWN0czJBNUd0SnVMQlAzajRfWnhPRGhZTzJPd0NWMi01anc0S2tVTGltZHJlS2FTSnoxeHN1S0c0cHFv?oc=5",
+      "source": "Google News 식물 관리",
+      "category": "plant_reviews",
+      "published_at": "2026-05-15T20:36:04+00:00",
+      "collected_at": "2026-05-16T17:52:04.601795+00:00",
+      "summary": "04화 작은 물주기 브런치",
+      "keywords": [
+        "물주기"
+      ],
+      "importance": 42,
+      "category_label": "식물 리뷰"
+    },
+    {
+      "id": "a9828fe503edeb0b297ca7e5",
+      "title": "농가 58% \"초기 비용 부담\"…'스마트팜' 확산 막혔다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tbHV4LXJnYXBMRkV1OUlybUxWNVZIaUw5c2VTbzFLanlWbU11XzlVWFJiRzVZUXhrRXUwUklKTDBCWF9KTm1xdGpnTE9Eb3h0Tnp0Vg?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-15T20:03:21+00:00",
+      "collected_at": "2026-05-16T17:51:51.861939+00:00",
+      "summary": "농가 58% \"초기 비용 부담\"…'스마트팜' 확산 막혔다 v.daum.net",
+      "keywords": [
+        "스마트팜"
+      ],
       "importance": 42,
       "category_label": "농업 뉴스"
     },
@@ -1587,6 +2603,21 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "1a633f1a11ca3b63fa95aa83",
+      "title": "한길학교, 평택세무서와 함께하는 ‘다육이와 행복한 배움’ 프로그램 운영 - 자치안성신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YQzc0V1NvNW1QSHBvQTJYeENvcjAwS1dZcmZxUHpGeGM0MDFpM21XdEVULUhpbkRNUlh6YVFvd0pDRjlfTlVwcUVRamZ2bjBpaFZzcUdxM1dBTERPd05DNWNscmRUaXMtblhaSFMyeXZaTjdYT2lmcjBTdms?oc=5",
+      "source": "Google News 식물 관리",
+      "category": "plant_reviews",
+      "published_at": "2026-05-15T08:00:05+00:00",
+      "collected_at": "2026-05-16T17:52:04.601795+00:00",
+      "summary": "한길학교, 평택세무서와 함께하는 ‘다육이와 행복한 배움’ 프로그램 운영 자치안성신문",
+      "keywords": [
+        "다육이"
+      ],
+      "importance": 42,
+      "category_label": "식물 리뷰"
+    },
+    {
       "id": "84948c8e26f9bfdc2751ea36",
       "title": "시설농가에 ‘순환식 수경재배기술’ 보급 확산 - 농업인신문",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zOUJjbWtVNkJGaVR3UVZFS281MWxCRHFlN1hnajJwbG1TdEt4QWQ1cXMxSUZ1T09sQ01ueWJ2cS1OeDNSZXN6UmZKMFlZV2FIekNyTFZtaFpyQVZLM0VXckNlaWwycmRjV2duYVZR?oc=5",
@@ -2285,6 +3316,23 @@
       "category_label": "지원사업"
     },
     {
+      "id": "dd0a80417310019c10b9e156",
+      "title": "고흥군, 439억 규모 '스마트팜 에너지 혁신사업' 공모 선정 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFNnVFREtzeHg5Mk1Lc0FIVVdNRmQ2akNReWU5cldGb0RrWG00TjV2d1FvUzNDRy1sWVBSaUJJaTE2aFNucWw1ZFA1aGJRTmR6OW81Rg?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "support",
+      "published_at": "2026-05-15T00:07:02+00:00",
+      "collected_at": "2026-05-16T17:51:51.861939+00:00",
+      "summary": "고흥군, 439억 규모 '스마트팜 에너지 혁신사업' 공모 선정 v.daum.net",
+      "keywords": [
+        "스마트팜",
+        "공모",
+        "사업"
+      ],
+      "importance": 58,
+      "category_label": "지원사업"
+    },
+    {
       "id": "5f101170f0270d22404987d2",
       "title": "이웅종 교수 명사특강 및 산책 문화교육 수강생 모집 - 새거제신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiUktyUnVjTjk2RW9VdlV5WEtRdkY5VjZ5M2JXTnZVTlNIMWZiRlQzdFZYT0R2YVl6UE0yb2hRWjlKYW1aWWt6MVZ1ajRZMmx2S3ZwcmFYRm9EWGRLcUZGMGI1UDJXSk10TmJz?oc=5",
@@ -2505,6 +3553,19 @@
       "category_label": "지원사업"
     },
     {
+      "id": "749ca1e20063880b4c33e6be",
+      "title": "문서뷰어 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc1lHTmI2Q3BIbjNRLXpsNkJpUTl4X2R1YzBnQjhNRlNMWWppRlFmVWFHTHhaclAwN01DUGwyOC1yWkRRdzAwOEF5X3ZRZUtNS1I5b0dsZ3dZTmVHQjBsYXp4ZFhuX0JucGEtel92UXNoRExQT2hkd3lCejRlRDFnMVNJZFB2OG9vX3RpSUg1TVRXUGFTOEtNUzI0QWRRWVBoUnBjQ0xGNHFPd29aQy0wZXF6QWlnYjFrQ2c?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "news",
+      "published_at": "2026-05-14T09:55:30+00:00",
+      "collected_at": "2026-05-16T17:51:58.807887+00:00",
+      "summary": "문서뷰어 농림축산식품부",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "b09371f0d005cdc8b7029946",
       "title": "“원조 개통령 온다”…거제시, 반려견 문화교육 참가자 모집 - 거제신문",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sSUU5SGxPN0g3djhXNDhiY1Rta08xZ1RzakR1YmZNVTZRRkVuWElhRy1FN0ZGRXNnaFk1eEZNUXdzWWx0OGNxTHRxQVd4UTdWZ2gyLTk0NEZibGpKMldsQTNXem1mSXdlYXM0VGJn?oc=5",
@@ -2582,6 +3643,25 @@
         "농업기술센터"
       ],
       "importance": 74,
+      "category_label": "지원사업"
+    },
+    {
+      "id": "337ad03814b1d0532714278c",
+      "title": "농촌진흥청, 청년농업인 성장 지렛대 '체감형 과제 발굴' 박차 - 시사일보",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rYWVRcFYycTVRTGFxYVJTZmNEcWI0YTFZc1pMVVFnZzdGMGxHVm5ONDZIVXBXeU8tdl9hVEptT28tMWRhbjhrenNWUVc?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-14T08:49:00+00:00",
+      "collected_at": "2026-05-16T17:52:01.182994+00:00",
+      "summary": "농촌진흥청, 청년농업인 성장 지렛대 '체감형 과제 발굴' 박차 시사일보",
+      "keywords": [
+        "농업",
+        "농촌",
+        "청년농",
+        "농업인",
+        "청년농업인"
+      ],
+      "importance": 64,
       "category_label": "지원사업"
     },
     {
@@ -2665,6 +3745,21 @@
       "category_label": "지원사업"
     },
     {
+      "id": "41bf819e05364203c9e4292e",
+      "title": "경남도, 귀농·귀촌 전문 상담사 양성 나선다 - 한국농어민신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQTzY0d0hTSWItYmp1Qkk5eFgyOU0yT3hXYTNzZENlUmpvWFdWN3BjRW1XTXZRX2dHX2hNZkIyNmE5elRSaVdnOTlwMDE0ODRwNE5Xd1V6X1k0Z2NsMmZRV2lUVUcwVDZ2b0lTaw?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-05-14T08:06:44+00:00",
+      "collected_at": "2026-05-16T17:51:52.854872+00:00",
+      "summary": "경남도, 귀농·귀촌 전문 상담사 양성 나선다 한국농어민신문",
+      "keywords": [
+        "귀농"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "0e04859a80c6313adf272169",
       "title": "광진구, 6월부터 '반려식물 클리닉 사업' 운영 - BBS불교방송",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBablFGZ0NiNndYcEJWcnQ2TTNYM3BjekhxMVk5c1RhT0RUWGEzUHJNRjZqa1RhWGRUOG5EaHZsczF6Mkk2M0Y3WmFja2JCaW54YWhYNGw0N3p6OUdEZ2N3YXZST0NLbWRlLXpZ?oc=5",
@@ -2688,6 +3783,22 @@
       "category": "news",
       "published_at": "2026-05-14T07:49:07+00:00",
       "collected_at": "2026-05-16T06:56:40.860831+00:00",
+      "summary": "강원농업기술원, 마른논 써레질 재배 기술 연구 협의회 개최 v.daum.net",
+      "keywords": [
+        "농업",
+        "재배"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "540763333141ae0ac078869d",
+      "title": "강원농업기술원, 마른논 써레질 재배 기술 연구 협의회 개최 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04X2xtdktBWi0wTjVWbVZfQ2c2c3JGejE4TUtvWVVfNUlrRFAtMkNMclpQMC1YeGlBTDgwOVUzWXNKdWY0M2hvaklMQzZXWF85NTR5Ug?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-14T07:49:07+00:00",
+      "collected_at": "2026-05-16T17:51:53.859766+00:00",
       "summary": "강원농업기술원, 마른논 써레질 재배 기술 연구 협의회 개최 v.daum.net",
       "keywords": [
         "농업",
@@ -2875,6 +3986,21 @@
       "summary": "농협, 영농철 맞아 ‘국민과 같이 농촌봉사활동’ 본격 실시 농수축산신문",
       "keywords": [
         "농촌"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "7b2d9431409fc1df82e5a002",
+      "title": "[보도자료]국립농업과학원-농생명 5개 학회, 거대언어모델 개발 ‘맞손’ - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSnllOEl3NVNJdU4zMEpybGw1STZVb2ZBY1ZKVzl5cEJiaDdONVV4c3lzNEMzNVhFb2lfcFF5TG13RkVJaHFIcGZpWVRPeExOUXZrbE0zd3pZcV9XY1pZUHVDZEVHcGoyeDNYLUI3MnVnZFlhS2ZzMTBQWHJwMWU1Q0RldkdndTRKUldJQ3RZVWFxM1A3ZDdWRG1WS3lqaFBTb1lkejE0ZEZ6Q2pWT2FEc3dn?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-14T07:00:00+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "[보도자료]국립농업과학원-농생명 5개 학회, 거대언어모델 개발 ‘맞손’ rda.go.kr",
+      "keywords": [
+        "농업"
       ],
       "importance": 42,
       "category_label": "농업 뉴스"
@@ -3694,6 +4820,22 @@
       "category_label": "지원사업"
     },
     {
+      "id": "4cce698d2cc3a4615f4cd7d7",
+      "title": "농업·농촌 에너지 대전환 미래 가능성 확인 - 에코타임스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jazRreDBjQ1Y0SEpyeVE2WTNmbTNpVmVVSjlOay1iMDBXT2V6U1dQOGpfaHN2R0laRDY5RHNmenhLQnpCbG9CSHdjR0hpcWN4NDBuSmpNXzRkMU80TUtNVDN2N05CS2ZaZVpGedIBb0FVX3lxTE1wNERuTlozb2o1dzJOSmdDQzl5MFQzazF0Q3V1SnVqcWFkbkF4ckcxM2NNdmlqeWJwcDJlckZwQmd0ZGRLRjhsNjlDMlE5U1l2aHFFRi1ldi11ZXFHUGcyRnViU2RuTzRNUVh2amN0OA?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-14T01:36:48+00:00",
+      "collected_at": "2026-05-16T17:51:49.691934+00:00",
+      "summary": "농업·농촌 에너지 대전환 미래 가능성 확인 에코타임스",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "9a807d546c41466a38c99306",
       "title": "울산서 AI 기반 청년 스마트팜 육성 앞장…전 주기 연계 지원 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB4QXFya0dOeG1xdEFUT0RTRWtJSFBMejJDQndZSVdFa21vdVNKdmtxbk1HZThYdVJZM0ZXWDZRSDVhTnhPQlE?oc=5",
@@ -3872,6 +5014,22 @@
         "청년농업인"
       ],
       "importance": 48,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "ab212b69fb6d508b0a2b5bed",
+      "title": "충남·제주 농촌지도자, 태안서 상생 교류… “지속가능 농업 함께 모색” - 농수축산신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wUjJpejRaaXBBWHZIOHZvTnh5aG5BV19xNjlGS3QzQ2hEVGVLeU8zTkIwUndqaTBGazM1SU9yWGF2MHp4QVczQWUtY1hyS1BFeUdrUXB2Z21jWGo4eTkyX1Zka0FZcl9WSDV4bA?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-14T00:12:20+00:00",
+      "collected_at": "2026-05-16T17:51:49.691934+00:00",
+      "summary": "충남·제주 농촌지도자, 태안서 상생 교류… “지속가능 농업 함께 모색” 농수축산신문",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
       "category_label": "농업 뉴스"
     },
     {
@@ -5000,6 +6158,24 @@
       "category_label": "지원사업"
     },
     {
+      "id": "3ebe2a3f61bac5cee1de07b7",
+      "title": "안성시농업기술센터, '2026년 치유농업 활용 복지화 지원 프로그램' 참여기관 모집 - 비전21뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DMV9IZU9WbnZuWllxWHhYZjVlNExDZU1NUFg0NjlfZURPVnZfdXcwZVBMb2FhRDY2VVQ1dWlzLU4wQktVcERPLTZZSDNKS2F5aXBla3ZlYmJfaFpJSkMzVQ?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-05-13T03:30:20+00:00",
+      "collected_at": "2026-05-16T17:52:07.127409+00:00",
+      "summary": "안성시농업기술센터, '2026년 치유농업 활용 복지화 지원 프로그램' 참여기관 모집 비전21뉴스",
+      "keywords": [
+        "농업",
+        "모집",
+        "농업기술센터",
+        "지원"
+      ],
+      "importance": 80,
+      "category_label": "지원사업"
+    },
+    {
       "id": "8d4732129a80d03ba5920596",
       "title": "고성군, 지역 특성화 채소 작물 기술개발 지원사업 확대 - 글로벌뉴스통신GNA",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QNkZvZ0FrRVV4Y3RpWnlBR2pfYlplc2hLMjNMS3FickNqYmhyUURNZ3dmMjBYb0JRWUF4Vi1XZmFzSjZnVU03SGJZZXJ4NzZNNEVmbDZJeTdWTFVMRTdIVThNN2FwVG44QzNYRHlnY0NtMkpv?oc=5",
@@ -5379,6 +6555,19 @@
       "category_label": "식물 리뷰"
     },
     {
+      "id": "2f7990ba881559e94fd3669b",
+      "title": "청·차장일정 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOVJNNXV6Y3NuMml1aDVJSkpfVERZYWFYdEdtd0prZVBzWDhlS2VfcUk5NHM0R3hjOVdBYVpWOEVLZmpvWFZXTlgzWFBYVExTYk9qU1pUN292eFFVZjRuTnpINWUwbzROb0FhdnFrYTNFeDlzZzgwSS1rXzB2SF9OWXVlSE5PbTN1X0FZYl9mXzRaUmtGamZmb1N6VFJRbjNiMUJjUkhhNUVGbFVUUmp6czNfYVZNM0JSckFnNmpHMEFMdUMwc0pkeXhRUUZNa0NIel9BaElva0lYQmJSSk9XTHVoYmNOQmIxTGFQdXJNUQ?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-13T00:00:00+00:00",
+      "collected_at": "2026-05-16T17:51:57.672708+00:00",
+      "summary": "청·차장일정 rda.go.kr",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "e457daf92b3141a95388ff50",
       "title": "김천시, 유기질비료 지원사업 추가공급 - 다경뉴스",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdl9GSGpvclRfQTFoX3Z4M0R3LTFRNjhERV9TQko2YnQ0Qld0eEh5T1REdTJ3b2NSSnNBR01OX2Z1ZUdaSkItRGZXTEJ0Sjk4WjlfbDdldHdfMXBFa3BIaEtjdG9Gb2ttRnJuenZpeVVvNVduZS1WOGEtWVlIeHlMcG93OXZXZHZBUHhxckp5cUpycTU1MGtSOVBjT3g5blA5QXVha3UzMTdmcGhabTRpWDlIU0gzN3MyeklHUm1YblVUbHJPbFhSdzBDbw?oc=5",
@@ -5394,6 +6583,21 @@
       ],
       "importance": 64,
       "category_label": "지원사업"
+    },
+    {
+      "id": "bb63d6e51b383416329565b6",
+      "title": "천안시, “아픈 식물, 반려식물병원에서 치료하세요” - thevoiceofus.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DMUVmVFE1dnlUUXdGZFVoSmpmeUJqN3VxLV9BUGsydkMtZEN1MlBUWUJqX0h5WklBeS1tb3VjUExGNGp1d2ZVc1FjUkVVTDF5YUlSTlJ2SVNQZDJFN0FFU3RRQkxVR1p0?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-05-12T23:39:30+00:00",
+      "collected_at": "2026-05-16T17:52:03.652234+00:00",
+      "summary": "천안시, “아픈 식물, 반려식물병원에서 치료하세요” thevoiceofus.co.kr",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "category_label": "식물 리뷰"
     },
     {
       "id": "5826fda648560c4f22d5ac32",
@@ -5460,6 +6664,21 @@
       ],
       "importance": 42,
       "category_label": "식물 리뷰"
+    },
+    {
+      "id": "1453fd9e264b35ff04ccdbf9",
+      "title": "시설 교체·건강 측정…청년들 재능 나눔으로 ‘농촌 새 희망’ - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uNWdhV25JNWoyeVFUR09mR2stdGVxT05VbVV4aEUzQk8zdnBXZXF6NmhiTURfTFhTZUJLZGdoOU85cUNqaDBNTzRCSnptN3Z4cFpQclhkazBtUdIBX0FVX3lxTE8xYWJYQ1VOUjlfN1ZnU3NNQnY0eDMzQmtITVVTeUtRTnFuaFdGcUdzWXhrQ2RmcV9ZOGxSS0JRbFhpNTlGdG9FaEZOWGVTMXVzTkFwNUNJVGgycTRQRFY0?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-12T12:44:00+00:00",
+      "collected_at": "2026-05-16T17:51:49.691934+00:00",
+      "summary": "시설 교체·건강 측정…청년들 재능 나눔으로 ‘농촌 새 희망’ 경향신문",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
     },
     {
       "id": "657a125a28449684aa2b7f38",
@@ -5848,6 +7067,21 @@
       ],
       "importance": 74,
       "category_label": "지원사업"
+    },
+    {
+      "id": "2ca130915db1d8c9d8baace8",
+      "title": "송월동, 카네이션과 반려식물로 감사한 마음 전달 - 나주투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PaWQ4UF9icjdDdHh1a05KSzh0U1BPUGxmNkd6NEROaW90S2NOWFZWZ0UtcHhvUDNRc3A5blREOFFNc19rWGRoc0NOR2UxUlBuX0xHYlZUcEhwanlQV1B4aGUxVkhkNEp1TWd1RA?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-05-12T08:07:32+00:00",
+      "collected_at": "2026-05-16T17:52:03.652234+00:00",
+      "summary": "송월동, 카네이션과 반려식물로 감사한 마음 전달 나주투데이",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "category_label": "식물 리뷰"
     },
     {
       "id": "6146c6e606d3e432066a569d",
@@ -6601,6 +7835,21 @@
       "category_label": "지원사업"
     },
     {
+      "id": "7be1b66521c6397e3710df5c",
+      "title": "수익·공공성 잡았다… 농식품모태펀드, 농촌 투자 플랫폼 안착 - 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wLWNuOC1sMDFNU24xMnRKRmx0VUo3SnU1TzZLNGZkVTB6MVFWOGM4b1hEbzZwNEh1emJBa2VRRzRTVFQwZDNkak9Wc0FqbVlhZk13bkpVd1J5Z2NRejlMa3prN0Y2RGpBaDZjMjNn?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-11T10:13:29+00:00",
+      "collected_at": "2026-05-16T17:51:49.691934+00:00",
+      "summary": "수익·공공성 잡았다… 농식품모태펀드, 농촌 투자 플랫폼 안착 아시아투데이",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "cc1c7c803a8aee01cfe896b8",
       "title": "기후변화 덮친 과수농가…경북도, 스위스와 친환경 병해충 방제 맞손 - kyongbuk.co.kr",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZYnVDeGM3NTUxd01WUTNfVlV4aGZUbVpFOGNpYlVqUnRrdzFkVWRUY3pKWnZodzFLQXJQamtHRTlNRG1MMGstbjQ1aUNqalJsNFNzNlVZTncweVg5ZmF3S1VZUEpUcG03NVdJdDY4UQ?oc=5",
@@ -7345,6 +8594,21 @@
       "keywords": [],
       "importance": 68,
       "category_label": "지원사업"
+    },
+    {
+      "id": "bf5f6d5f827619a91f0f83e1",
+      "title": "[송죽동] 반려식물과 함께하는 따뜻한 일상 - 수원시 인터넷신문",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HQUo3UzdxdDZpLThXV25sV3NnNi1rZmJ2ZHBkcWdYRThnVUJneXZJY3F6N3NyZG4tRUpWcFpjV1lwT2dpR1VVUFZ2VENqaDM4d0FDUUFFVi1KR1R5OWpXOTBaeFVrMGhBOVo1V2Nvb1psRlMxY0tjU0hCRDRMbUU?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-05-11T02:26:06+00:00",
+      "collected_at": "2026-05-16T17:52:03.652234+00:00",
+      "summary": "[송죽동] 반려식물과 함께하는 따뜻한 일상 수원시 인터넷신문",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "category_label": "식물 리뷰"
     },
     {
       "id": "a098973d2ec72ae4d678545e",
@@ -8701,6 +9965,37 @@
       "collected_at": "2026-05-16T06:56:44.757007+00:00",
       "summary": "“부릉부릉!”…청년 ‘온라인도매시장 창업지원’ 시동 농수축산신문",
       "keywords": [
+        "지원"
+      ],
+      "importance": 64,
+      "category_label": "지원사업"
+    },
+    {
+      "id": "e2f00a0ee095936e8b871878",
+      "title": "제7회 전문농업경영인(농업마이스터) 지정 현장심사 시행 공고 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wc1l0RFpSc1MtbGN5Vi1BR3dxbVdCTzA3S0ZqZ3ZvdW0tN01mS0M2WmxIX202ZGd1TjlIRkFmS3JLT3pPb2hfamRZZ2l4a1puSnp3a05BZmFOSHdoc3VhZkpB?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "news",
+      "published_at": "2026-05-07T07:00:00+00:00",
+      "collected_at": "2026-05-16T17:51:58.807887+00:00",
+      "summary": "제7회 전문농업경영인(농업마이스터) 지정 현장심사 시행 공고 농림축산식품부",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 48,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "03f17fcb1d4b0c53615796ad",
+      "title": "천구, 어르신·장애인에 반려식물 보급 확대… “정서 치유 지원” - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rbmZlMmxWUmdtd3F4Yk5UM2g0T0RhOXhSMHJ4X05xa29ZNGdWeDAwLUhwcndMc2hkY3VlanEzQkJZdDBPdTNWNWU1U2poTkpXR3pVMDg2ZkpfY3VVNl9sRWh6OUttTTczZENBaTQzWlJ3X03SAXdBVV95cUxQUEV0MkZ1d2hYMjBnaEpyMU43TGE5b1pKNl9iNGpzTFl3N20wTnFrb2tNLU9YWll3Z0xHZ2RiX0ctY3ZCeHctb21ScWpLZGR1ZEZ2RDEzQ2hSV3BHSE55OGZMN2hwOUd5ZWxhTExTN1h0ZzNCYUNIUQ?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "support",
+      "published_at": "2026-05-07T06:37:25+00:00",
+      "collected_at": "2026-05-16T17:52:03.652234+00:00",
+      "summary": "천구, 어르신·장애인에 반려식물 보급 확대… “정서 치유 지원” 핀포인트뉴스",
+      "keywords": [
+        "반려식물",
         "지원"
       ],
       "importance": 64,
@@ -10253,6 +11548,21 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "54de67306164397a374b4d3d",
+      "title": "강동구 ‘강빛숲공원 스마트팜’ 시범 가동 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HQlpYY3ozZ21WRng4RHRxSkxoYUV2Y0dfdmpmb1BjMUhWX3lyVTZhVUI1d1JsX05XMEYtMEhzX3NmMk5JOVprUHVxM0liRVE?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-02T07:00:00+00:00",
+      "collected_at": "2026-05-16T17:51:51.861939+00:00",
+      "summary": "강동구 ‘강빛숲공원 스마트팜’ 시범 가동 v.daum.net",
+      "keywords": [
+        "스마트팜"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "1726df89f19e8b8d314e8378",
       "title": "경북농기원, 무인 자동화 수직농장 연구동 개소···스마트팜 자동화 추진 - 경향신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hNXV2QzBfbUhPZzJTc3J2WWVFeEwwSEtQVmY2MEJLTDJPNERwN2dEbDR3RjRGNjhyWW91T3FrODE0VWFaV1QxSEVqdllmUl9ZVWNXc3gwc1c3QdIBX0FVX3lxTE82VHliOFJXQTFZWTV5alI3VW52QlhVY0ItUVkwaWtEemQ2VVJmVEl1MUszSlE4VXI4a0ltMmN3Nzc4V2IxWWxsRWhPY3Zja1dqRzRDcVQwYmx5ZEtkeFV3?oc=5",
@@ -11543,6 +12853,26 @@
       "category_label": "지원사업"
     },
     {
+      "id": "e9b4cbe306dd7a02b43e4912",
+      "title": "농업용 면세유 유가연동 보조금 지원사업 추진 - 새거제신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xTEN2SU9aMmtvLVlEdWc0YnZHTW1RaEtFZ1NlME9wZGhwM0dxU1FCeUJhOUVMQ0RRNk4tN0dhTWNKZlliY1FIUXlULWhfNGZBczNkLWN1MEl4TXExV2tlcHZ1dTdDUzNUWThz?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-04-28T00:35:14+00:00",
+      "collected_at": "2026-05-16T17:51:50.750010+00:00",
+      "summary": "농업용 면세유 유가연동 보조금 지원사업 추진 새거제신문",
+      "keywords": [
+        "농업",
+        "지원사업",
+        "보조금",
+        "지원",
+        "보조",
+        "사업"
+      ],
+      "importance": 70,
+      "category_label": "지원사업"
+    },
+    {
       "id": "afef389903454ac14c31eae2",
       "title": "통영시, ‘찾아가는 반려식물 클리닉’ 성료 - 한산신문",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXVMclhKZHg3N1JlbmFTSURpMVRFUEd1NmVzaUtyWWV1cUNhWGZhcy1kLUh4emdxdjR6ZkFUT09KdzlaOG02bUVFV1FrQW1KRGJ0QUY0VmdhY1BDVUZFNnJicWRZeThQU1FtSmxR?oc=5",
@@ -12150,6 +13480,24 @@
       ],
       "importance": 58,
       "category_label": "지원사업"
+    },
+    {
+      "id": "6d70ca1343d9f0bf81efb082",
+      "title": "진안군, 귀농귀촌 농업인에게 영농 이론·실습 교육 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBia0FSdHJzVHhVRUJ2aldLSHE2eW9GZDlHX2NNX0sxcjBnRVlSZDJnZzFiSDZYUG04OWRqQVVFbk5vb2tmRC1XdERhQjYwSTd1ZFo4V2d1dnJKb0XSAWBBVV95cUxNUDhJd1BxdGNRX25PLW5OanJKdWpBLUsyS1VLVURiUUZBSHQ3MjJNUnFNdkpEcFBTSVVybEJyX2JrU1lDMTF1eDBkd0NiUXFZMUYxdC12c2x4czFCN1kwY08?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-04-27T07:00:00+00:00",
+      "collected_at": "2026-05-16T17:51:52.854872+00:00",
+      "summary": "진안군, 귀농귀촌 농업인에게 영농 이론·실습 교육 연합뉴스",
+      "keywords": [
+        "농업",
+        "귀농",
+        "농업인",
+        "귀농귀촌"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
     },
     {
       "id": "e77c1cb903c50b4c5686b581",
@@ -13806,6 +15154,21 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "f452543a53c0d16c7f275c90",
+      "title": "김천시, 농지 전수조사 조사원 모집 - • 한길뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45NWlpZjhGWVFqVnl1dEp1MlZtLWc4dWN1eVVwU3ZhSFNubDcwYkhnMDZlTG1YcVJyUmdVXzRZX0NTSE1CLVZWYldRYVA0OHM?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-04-23T07:00:00+00:00",
+      "collected_at": "2026-05-16T17:52:07.127409+00:00",
+      "summary": "김천시, 농지 전수조사 조사원 모집 • 한길뉴스",
+      "keywords": [
+        "모집"
+      ],
+      "importance": 74,
+      "category_label": "지원사업"
+    },
+    {
       "id": "89d29a68ec9abd277fc2dd16",
       "title": "2001년도 - rda.go.kr",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLWN5VG4tTjZMOUZuNm1oZkJyYkpkSUJaZmZtYjktUi00dGx4NW5OLU5aV2JrUk9yWURRYnF1a0lFRlVmWVNTanREN09uY3dyYm56azZEUXNZa1lmTUEzZk02ck93aTFGX05sdFFHLUdPT1pjNEstaUYtR1dHaUpMaWUwR3djV21ZMzBpWDZB?oc=5",
@@ -13861,1501 +15224,31 @@
       "keywords": [],
       "importance": 58,
       "category_label": "지원사업"
-    },
-    {
-      "id": "1920b39a66a35928b3faa209",
-      "title": "주간업무일정 - rda.go.kr",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3lWcWU2SG00SkRudENlaVNKSE5xb1V2U2hSekVqbDlRZHM1LTFkWHZ2YkNMakdydFJSV3BMV2xHOGJJbGJ0bmt6WnloSVpyTVZVcjhwMTFVYW1SenV2eGZYTlZfTjdjZWVkelhCNnM3RWMzMmNEMzd3RlF2djBiTGFGOTBYWFl0cVFBVUp5eDcxcjdmUmYwN1QyZzk2eFBBeTJBMjBvT2FLQjRyWWJFWVhiejRTa0N0X21yREZ4Yw?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-04-22T14:23:31+00:00",
-      "collected_at": "2026-05-16T07:27:08.899859+00:00",
-      "summary": "주간업무일정 rda.go.kr",
-      "keywords": [],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "10b79ab75c19e58022cde937",
-      "title": "2026년 제3차 한우연구센터 공무직 및 기간제근로자(사육사) 채용 공고 - rda.go.kr",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPU3NHUlFYWlB2RklvbU1XcFJBaHZJMnJ6V25TcWVvVENBX3RaZ2xZMGE4Vm5SZG9kbTRCWjJJRUsxaGZUTnlTdWtOaXRMZkJ5RnZpYzFMVGIyTm1kM3lCTnlxVmF4ems2M19IOUZjUkJFRTB3TWpiX2JCR2FqNm5PTmV2djA0bnhJWFhkN3ZsWTFSZVl3c2tUeTRWcnJKdG50bVc0WXk0dG15TVNXcmhSM1VoZUExRjVCY2pYQ3MzSFF4RXRld1U1cEFwR3lPUDFEVjBJSWgtWXlQOGFQQTNfS21fVlp5dEtNdGd4Y3BvRUotTy1EWHdXTC1TcVdWNW9wbDJfTmRfTGdZRE1lSHBlQkdtdzVrTVE2bVRrWm9tWjljMEJINUc4UVpfeGtkM3pjWFV3RA?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-04-22T14:13:07+00:00",
-      "collected_at": "2026-05-16T06:56:42.817671+00:00",
-      "summary": "2026년 제3차 한우연구센터 공무직 및 기간제근로자(사육사) 채용 공고 rda.go.kr",
-      "keywords": [],
-      "importance": 48,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "282c5d82404204f637f83e0d",
-      "title": "기장군, 2026년 여성농업인 특수건강검진 지원사업 추진 - 양산타임스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53Qmo0ZTRnc1p1OXoyQnROMnV5VExNdll2bDJjdWlaa0o0UHZTVXd0ZXM3eVpXUEE2eUw5QlVUYlhSeW5xN1NGYlQ3Q3BSUUxrVXZsWFRXR2JCZWVWSEJ3Y2V0eHZWQTA2?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:54.940113+00:00",
-      "summary": "기장군, 2026년 여성농업인 특수건강검진 지원사업 추진 양산타임스",
-      "keywords": [
-        "농업",
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "5fd68105e6612de0afb467d9",
-      "title": "「동물용 의약품등 취급규칙」일부개정령안 입법예고 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93WWlxQ1BYemtYSW4tMmxJUlYtbHBzQ2NsUXA1MmlnX1hjVFoxVUlPR3pGNDE4RF9aUjdrNGxVQmRLaGlyaWtXQ3BGLXk4OTVCdjYyQlNTTXB2SWVzQ0FqNXRIM09pWG0xN1FkM1ZMbXJkSUVVQVBVeTZNMA?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:56.283319+00:00",
-      "summary": "「동물용 의약품등 취급규칙」일부개정령안 입법예고 농림축산식품부",
-      "keywords": [],
-      "importance": 68,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "a9921cf26c16c2de7bc4dbc2",
-      "title": "합천군 1호 사회적농장은 쌍백면 '특별한 정원' - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxUEF4N2k0VzdzLWU5SlR4VkVvY0JsWE9heEtZcFdSOEFPUkd6WGpBZG9ZbHhhelZxbEphN0cwYnZEVGdoLTc5SV9ISnpkR01MWWNGTmNWemQ1ZzZ2MVpCOdIBeEFVX3lxTE9sVVFUd0NGNzVpY3RWQkNDSlBnajZOcjJmb1pybWU3S3JNMC1wbTFDRVZQVE5mcXY4cjZIWXp5U0lmTDVUbGgyc3pPMmJSekx6d2VpYUhGSFhkTG10R00tX29FZUt4aHI0ZUJDWVhBWXdmaXlVZ1JZUw?oc=5",
-      "source": "Google News 지자체 농업기술센터",
-      "category": "support",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:58.283467+00:00",
-      "summary": "합천군 1호 사회적농장은 쌍백면 '특별한 정원' 뉴시스",
-      "keywords": [],
-      "importance": 68,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "ca2628618db3d2d1e574c5ca",
-      "title": "원주시, 유기동물 임시보호제 운영…보호 여건개선·입양 활성화 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFR1hwTnk5eHVDZmhIWFBKSXR3SUZQYkZFd2NaaE1jd3NLNzJlZnZsc0w0UU5lcmFrVDlDTTdNeEN2c1BpcWdSZ21hWXBDVGRBUk8xcHZERmlmNDTSAWBBVV95cUxOWURrdXp5aFVRYmFWMUV0aGFtRXBTTndjMjFQRV9rVlZJanpBSE9ueTA4X2ZtZFdtWmhQcHpGdkhSTXVQZHVqUzRxVWpNamZJa3NTRG5qOTlrTkVnU2UzbjI?oc=5",
-      "source": "Google News 지자체 농업기술센터",
-      "category": "support",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:58.283467+00:00",
-      "summary": "원주시, 유기동물 임시보호제 운영…보호 여건개선·입양 활성화 연합뉴스",
-      "keywords": [],
-      "importance": 68,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "c23ad061c50b120a007fd542",
-      "title": "[패트롤]원주시-횡성군 - 에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQa2VLLVNTQ3ppamI1dHNzcGRJa2RLX1dOOEJYM1NTM1ZBZXZlbWxpT1Z0b0R2WjVnZ25tb3FIRjhvSGJMODNfalVsSHJLNjF3M3ZRVjdfTDJacmM?oc=5",
-      "source": "Google News 지자체 농업기술센터",
-      "category": "support",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:58.283467+00:00",
-      "summary": "[패트롤]원주시-횡성군 에너지경제신문",
-      "keywords": [],
-      "importance": 68,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "ff61e0f8ab9e7be75fb4b647",
-      "title": "원주시, 유기동물 임시보호제 운영 - 하나뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LT3lFSU1fTS1TZVl2ejhaZGhNOHZkNXJ2UjF1RWMtZFJOV0NtZzc1eG5zcEJBM2h4aEFKVzNQVDNxSUlPT0FRLVJhTDZwTDZXVElaSml3Z0pxbmpWamdUVC1qVlpEM2gtamQ3MQ?oc=5",
-      "source": "Google News 지자체 농업기술센터",
-      "category": "support",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:58.283467+00:00",
-      "summary": "원주시, 유기동물 임시보호제 운영 하나뉴스",
-      "keywords": [],
-      "importance": 68,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "2f3a9d628e6f86f607226e65",
-      "title": "기후위기 속 ‘미래 먹거리’ 에코스마트팜 운영… 인천시교육청, 교육현장에서 답을 찾다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05TzJ6ZnBKVmhocW1QZ1A5TC1qSGlaTmVOVDlEWEtUY19DVHhPb2RERFhHZHVKQzZJZzlmUzk1Z0JxSmNTT1E?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "기후위기 속 ‘미래 먹거리’ 에코스마트팜 운영… 인천시교육청, 교육현장에서 답을 찾다 v.daum.net",
-      "keywords": [
-        "스마트팜",
-        "기후"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "2580fbb567d1065cb7b0cab7",
-      "title": "청주동부소방서장, 청주스마트팜 원예단지 화재예방지도 - 소방방재신문",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE01ampyTGlYRUVKVlRobEJVRVpqaGJJRUVWWFJUeDJhNEp5SU05WF9ia1Jyb1dXaDZGRkJuY1pnMko2cUdKOFE?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "청주동부소방서장, 청주스마트팜 원예단지 화재예방지도 소방방재신문",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f7868e361c626dda109bbcb9",
-      "title": "아산시, 스마트팜에 ‘오감지능’ 로봇 투입…농업로봇 시대 '성큼' - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2XzRRczY0bWQzMmx2MV9CVkZueXRNZmZUVEw4RzltTmNHUy1oMHYxWXR5MnRsTFBHbEkyclppYXdZSzBfY2ZyLWowNjdUemdrUFJvcU5yYUMtdmpWei13Q0hhMUd5Ym9naVBsOA?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "아산시, 스마트팜에 ‘오감지능’ 로봇 투입…농업로봇 시대 '성큼' 농수축산신문",
-      "keywords": [
-        "농업",
-        "스마트팜"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "d070d5f83e55f6fb723ef397",
-      "title": "경기 고양 일산농협, 청년농 인공지능 활용 교육 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NNWF5MkJVaEdBbEk3bHBFc19kdzFkVjc3UmtzZjZjLWQ4SVl6djQtZkFFY3VSd21TSXhURFgyNmx1OGQxcENUblRudVM3VGFFLXBxZjBtbzY2UQ?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:40.191655+00:00",
-      "summary": "경기 고양 일산농협, 청년농 인공지능 활용 교육 농민신문",
-      "keywords": [
-        "청년농"
-      ],
-      "importance": 48,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "dcea81263ca3e50dc5269429",
-      "title": "경기도, 논에 '지역 특화작물' 심으면 최대 5억 쏜다 - DealSite경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93YjhZOEV3NDJTR1BLb1VhdlNTTkVrQ3FtQkk3S1ZDTnpha0xIT05weEpDTFEzcXFPZjhjNXA5V0V0NjdjTE9jQ1FTTTZ6YXVPLUloVkNn?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:40.860831+00:00",
-      "summary": "경기도, 논에 '지역 특화작물' 심으면 최대 5억 쏜다 DealSite경제TV",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "07c98a975727118d65d6bfcc",
-      "title": "경기도, 논에 ‘지역특화작물’ 심는 생산자단체에 최대 5억 지원 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKbmJkanUzNlVQUUl5bWtDM3NoTnNpQ3hkRzhXRHhXekpNX0JyeDJNNk1PbFZNTkpybnJ0emxiRXJHazdzdVpVREstZTBYandObEZPQ18yczg5NEFSbzhfeTF0OC0?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "support",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:40.860831+00:00",
-      "summary": "경기도, 논에 ‘지역특화작물’ 심는 생산자단체에 최대 5억 지원 매일일보",
-      "keywords": [
-        "작물",
-        "지원"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "c7f3a6ae38e1075b1a083572",
-      "title": "경기도, 논에 '지역특화작물' 심는 생산자단체에 최대 5억원 지원 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9YOGhMRjlSc2lZTE9UYzVuS20zU09oZG54UkZlYXF6V0kzS3kzZndGOER0ajFJRl8tUzJMamtRTERyZ20xN0E?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "support",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:40.860831+00:00",
-      "summary": "경기도, 논에 '지역특화작물' 심는 생산자단체에 최대 5억원 지원 v.daum.net",
-      "keywords": [
-        "작물",
-        "지원"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "bfa37f5642671e46c923e2e7",
-      "title": "가락시장 농산물 가격-2026년 4월22일 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16VnFBNm9XZk5JR25HcEVNWUs5WXRZMWhnQUlzYmYyTXN3alNObk0tUWFXX2RpNWdJeF9NVDRVWWpsUEFhbm4wREQtUmI0bGNEU1M3OERRM25Fdw?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "가락시장 농산물 가격-2026년 4월22일 농민신문",
-      "keywords": [
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 48,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "4c5f7a39df2f0379f9c76fc5",
-      "title": "‘죽이기 어려운 식물의 정석’…산세비에리아 키우기의 기초 - 레이디경향",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5QzFDSkhYemJzdE9RWHBfMjMyOGljUjJzYlVzcmpmM1NtcU5VcFhmTDJqYUxhRTFBMFAtYi0tNGtaME1lRTJZdnJ1X0R4U2YxZVJYQUVLZ1o1Mmc5d3RRbDBJYXE?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "‘죽이기 어려운 식물의 정석’…산세비에리아 키우기의 기초 레이디경향",
-      "keywords": [
-        "키우기"
-      ],
-      "importance": 42,
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "650a1b019077f6517c000554",
-      "title": "양천50플러스센터, 반려식물 전문가 3기 모집…자격증·일자리 연계 강화 - 전국매일신문",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Hc25qVV9JM2Z3dFFkbGQwbldCX1VtdlZPZ2xPblEtWmhSajZIajRUY0xOa3dDdlRDcUozNFhhSWtzTUFYUnNoMm8zMnJubFNENjllUDVmT3o4LW45TU1aUVk4M3ZpZUpzY2lsZ1BR?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "support",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "양천50플러스센터, 반려식물 전문가 3기 모집…자격증·일자리 연계 강화 전국매일신문",
-      "keywords": [
-        "반려식물",
-        "모집"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "b7b0d69436d87880f952c9ef",
-      "title": "[김종석의 그라운드] 반려 식물 곁에서 키우는 생각의 습관…현대백화점 목동서 브리지가 ‘친구’ 됐다 - 테니스코리아",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwa3hOa3lyQWhHUWJfajljdjlJdnlnMWtKbHNpMDFGSkhEdDhxN0VVU2ZQaXVKbi00b3UyU3JmUktvWFVaUGVHcUdXVHRVWXBfNERvenp0RXZ3NFkzb1ROTzNYbUVUbVJPNkE?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "[김종석의 그라운드] 반려 식물 곁에서 키우는 생각의 습관…현대백화점 목동서 브리지가 ‘친구’ 됐다 테니스코리아",
-      "keywords": [],
-      "importance": 42,
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "092c8a8d2c0c68add362c4f6",
-      "title": "김천시, 농지 전수조사 조사원 모집 - 데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSZTZYdm0tdXlJMTZnNDRwTkw2YThrS3J2aGFVOGE2M3JwOG5lN01sc19NeFV1QTdKZ0xlRnFHMnNMWXNCMjR4TTZrcDBBd1pEb1diMFlyUHFkQjRhMXhaWWpDaGt5dw?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:48.316241+00:00",
-      "summary": "김천시, 농지 전수조사 조사원 모집 데일리대구경북뉴스",
-      "keywords": [
-        "모집"
-      ],
-      "importance": 74,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "238722d1d5b5ea672c628dce",
-      "title": "보은군농업기술센터, 비료 수급 불안 속 ‘토양검정 기반 적정시비’ 당부 - 청주일보",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jbW9obzVtZXZuOHp1MnRjOUtMWEJIcjc3eWlnT0xFODUxQ2lyRkM1NXllVElxYmswMmxvM1Y2ekQ2MG9qNHRPdmNqemx5MlhhSEJJYWIza1NwZktGU2tDOXYtOGQtRXRuMmNr?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:48.316241+00:00",
-      "summary": "보은군농업기술센터, 비료 수급 불안 속 ‘토양검정 기반 적정시비’ 당부 청주일보",
-      "keywords": [
-        "농업",
-        "농업기술센터"
-      ],
-      "importance": 68,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "02442127d3bd7b2332830251",
-      "title": "김천시, 농지 전수조사 조사원 모집 - 구미뉴스",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mRmtoSnNIVTJybW5QMnhEYU1EdDlqWHdEaTZQTHdGYUUxN01SN0JPczZfRUY5ZjNBZ3JnUWNqNFduc3BNcnZCdy14MEt4cGRjQ1o3V0ZyT1l0RG04NExJeWRDbDlLam5MUUZkVjBjcnRnczRj?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T07:27:17.358506+00:00",
-      "summary": "김천시, 농지 전수조사 조사원 모집 구미뉴스",
-      "keywords": [
-        "모집"
-      ],
-      "importance": 74,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "9d830300136710fdfd580475",
-      "title": "평창군, 귀농·귀촌 커뮤니티 7기 운영…안정 정착·상생 도모 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02bldvLUxzMUNqWEl5RDYtYlN6MFVqTExQVzA0Q2lkV2ZTSzZpQ1JPNGVxMGZmQzNLXzlURnVzLWVrcHJERThCSkpJZXVtLXNyMWJuSEd2N2hKWDTSAWBBVV95cUxQZ0IwYXRBOTdLTG5HV1ZKRDNQWGdiM3RYZmJBWlRyRjFrSVE5akotcjNSTlBXTFR5bTZTc1RKRGFIU0p3TVh2RFpVTzRvRmlyY3MyZ2lXWVg2T0xWWUhGZXc?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T07:57:32.836607+00:00",
-      "summary": "평창군, 귀농·귀촌 커뮤니티 7기 운영…안정 정착·상생 도모 연합뉴스",
-      "keywords": [
-        "귀농"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "95351e2a35212504f8137a6d",
-      "title": "경기 광주 퇴촌농협, 보급형 스마트팜 사업 설명회 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13TGhhc0ZUdE0zeGRSMFZLWi1TUFZsQnpSYlNEbXJzYTJ4cEN0Ti1aTjhtT0N5ODJudncxSldvOWZDN2FDNGs3VnlMZFptc1Q1VHdLSl9ZMzI2Zw?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "support",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "collected_at": "2026-05-16T08:28:01.691426+00:00",
-      "summary": "경기 광주 퇴촌농협, 보급형 스마트팜 사업 설명회 농민신문",
-      "keywords": [
-        "스마트팜",
-        "사업"
-      ],
-      "importance": 58,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "173470d9138fda502c4307c4",
-      "title": "‘스마트농업 데이터 AX활용’ 본격 추진 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpdkxrSTlyLVIzbkZReV9qY0szaXk4TV96SFY3c3QzeERmQkVuRmtONUx6RGMzaWM2N0dQeWVrcVowNks2OXliQnBzSXpmTHZDMDgySFUtcGNyWUJ6ZENWeWp6S2QtSTBrS0pVNDJhaVBiTVVBTTlsVFNKcw?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-04-22T02:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:56.283319+00:00",
-      "summary": "‘스마트농업 데이터 AX활용’ 본격 추진 농림축산식품부",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 68,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "633c2680ff8f5ecb703f726e",
-      "title": "‘가격 하락 시름’ 제주 월동채소 물류비 50% 지원 - 한국농어민신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtcWh3VldaLWhIUDdUOFZzU0Z1SHNxYy1XczZEYWUzQ0hzMjgtcXptelp3eUdnb2w4ZDBfQ2hkMkJOSzg1ajhZX2k3TGlCSE8tTUxQbUJ5QVJWUUVYZDZyWWNUMTFiQm96MENLQQ?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "support",
-      "published_at": "2026-04-21T10:37:23+00:00",
-      "collected_at": "2026-05-16T07:27:07.220488+00:00",
-      "summary": "‘가격 하락 시름’ 제주 월동채소 물류비 50% 지원 한국농어민신문",
-      "keywords": [
-        "지원"
-      ],
-      "importance": 70,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "4a03583062f51622a1f51a33",
-      "title": "국립순천대 '2026 농업기술 산학협력지원사업' 선정 - 베리타스알파",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wVUFhekZqQXJHcXg2cERLRFRnV1JrdThRci1IZnZiZGRMb2JaMVVfOGw5bXNjSU1uazN0dUc5eXZsSWpCQ0VQQ183UXN5RnJfRkU5cENzYTRMRmg3SndoT0hYVzdFYldBd3RZTg?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:54.940113+00:00",
-      "summary": "국립순천대 '2026 농업기술 산학협력지원사업' 선정 베리타스알파",
-      "keywords": [
-        "농업",
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "eb698a4288e3a2928b2de97c",
-      "title": "알림소식 > 보도자료 > 의료와 농업의 만남, 농촌형 돌봄 모델 만든다 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nYk5sdDNYbHlNUHpRUjRIRHJBX2laQ3VMUGg0MWJXTXBHTnBwSjRiZHpQZlNpUmJCcXJrV0ZQZWxGN2lKZDBSUTNxdHcyR0RXNGU3aFFMUzFOeHRucFlkeVY2eHJhaWw2YldLeGZMLVdGVGlwdUxqR0xBWQ?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:56.283319+00:00",
-      "summary": "알림소식 > 보도자료 > 의료와 농업의 만남, 농촌형 돌봄 모델 만든다 농림축산식품부",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 68,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "048ebb3cac2378603f5f1881",
-      "title": "농림분야 안전 종합대책 관련 세부내용은 아직 확정되지 않았습니다. - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BeFNURFVOYlIxMUh1Z01hTjFmaXB2TTZSaXZfTHA1X0tGUlhvSkdNY0pxUW50NFdrd1R3R0x0Q01VMm9FUTZKTE1KaEpXTElEMzRCX3ZPUWl2VFZXM29GdzVqTHVIQ3FKeG9RMkxvdGo0akZfdk9CNmU4VQ?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:56.283319+00:00",
-      "summary": "농림분야 안전 종합대책 관련 세부내용은 아직 확정되지 않았습니다. 농림축산식품부",
-      "keywords": [],
-      "importance": 68,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "02bc6e56fcba5137f095ff46",
-      "title": "“억 소리 나는 스마트팜 지원 사업 미리 준비하세요” - 부산일보",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SaDJ0aVI1aHhiaDFlLUNnSGpPdjBZbW9KbmZNMnFiLWJYekhhOEtuQkhtTUdCeXNuR2V2ZTlNMTNvQk41bGw5STlnbUFUUGxKcWtpQWNPN1lqb05kM3oyZ21hWmNRS3otLTBEcTU3M0pYY0Fh?oc=5",
-      "source": "Google News 지자체 농업기술센터",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:58.283467+00:00",
-      "summary": "“억 소리 나는 스마트팜 지원 사업 미리 준비하세요” 부산일보",
-      "keywords": [
-        "스마트팜",
-        "지원",
-        "사업"
-      ],
-      "importance": 74,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "74fe46b0cd575e719f3e826e",
-      "title": "농민수당 서비스로 맞춤형 농정지원체계 구축…진화하는 '농업e지' - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51TVRmQUc0VmU4U3pyQ0dJME1ybGtPTDZ4OWJIeldRa292ZmZ1QWljRjBwd2ItN0pzN3EtYWQtMjBMcjFuaUVEY1lnbHItM09FVjJOTC1hTkk3RDFyb0cxSVB5VE9jSXZUbzJR0gFwQVVfeXFMTVMtRVBQcFJXdFY0NVI3b05QYVFBZTMxT3Rzbzd2UzV2dHBWSmhmT2pCbGoyLVAyRFl2LXc5NHdFd2oxSHFzWllpaFFVc04xdEdUMTlyQVBoMDhMZXhlakV1a1lYT3U0WHdXTTY4UkRlTg?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:49:11.676261+00:00",
-      "summary": "농민수당 서비스로 맞춤형 농정지원체계 구축…진화하는 '농업e지' - 머니투데이 머니투데이",
-      "keywords": [
-        "농업",
-        "지원"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "684a3c123b011f8d8f85b15f",
-      "title": "청주 미래농업 이끈다… ICT 기반 스마트팜 원예단지 준공 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Qb3piWTFLYV9pWU5wQ2pkRDB3NS1uc2pHejBKZTI4X3FnUjJUYWxOSjM3QWZXanR0N0lHeXcxQ3ZmVU0zT1FuTTUxU2ZlSHM?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "청주 미래농업 이끈다… ICT 기반 스마트팜 원예단지 준공 v.daum.net",
-      "keywords": [
-        "농업",
-        "스마트팜"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "39d49ae7510da2eb894b701f",
-      "title": "경남도, 국비 최대 70퍼센트 지원으로 스마트팜 대전환 시동 - 스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBbFN5UUxTcy1JcGpLQnVpbldOdkFvZ0xoTGdzYVJnLUpHMC1mZkRTVHFQX1ZsajZhVEVLVGVHLV8wbjJybE9UbjNjeFQxWThWdTBrUWN3amM2WEVSY1ZaZ3VHT2Z3a2huYVlyZDQ1MjdCUW_SAXdBVV95cUxNSjhicTc0ZWttY1pUd0RVTEZfWGFBck5qUkhMMWhIeHh3SmFTVS1jSERCQTNpZ3ktUU1sanZock5ZekRuZHRXVVl5dm80ZU5Cb3ZHdHJ3WHU3OGVtaDMyUkMzb0xLeEYxcV9OLTd4dkY3NERBZGZXSQ?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "경남도, 국비 최대 70퍼센트 지원으로 스마트팜 대전환 시동 스트레이트뉴스",
-      "keywords": [
-        "스마트팜",
-        "지원"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "c335ebc860ebfd2c0734b696",
-      "title": "“억 소리 나는 스마트팜 지원 사업 미리 준비하세요” - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16dFB6eExwVE5lWHhJQ2JfNllRcU1kWXZ2ZTJKVjQ3X1gzblBhN2JiTV9SYm9GdmtVUW5xbEh3SnJkWDhBbkU0WE00RWprNUt4YmlTdA?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "“억 소리 나는 스마트팜 지원 사업 미리 준비하세요” v.daum.net",
-      "keywords": [
-        "스마트팜",
-        "스마트팜 지원",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "90b999adc7342a051e90eb23",
-      "title": "미래 농업 이끄는 청주형 스마트팜 원예단지 준공 - BBS불교방송",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JRE5BSEhZcVdqUVVqbkw2WnFxdXY1US1KVm55WFVkWFhBRFpDbEdad3Z3VFQ1TG02dUk1VmUyck01WllUc2I5QWJSZzZrQ3BkcGhVakZPMFVWTHY3aTRxWVdJYVBSSU9oYkFr?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "미래 농업 이끄는 청주형 스마트팜 원예단지 준공 BBS불교방송",
-      "keywords": [
-        "농업",
-        "스마트팜"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "c353a27165691347fccf7eb0",
-      "title": "청주형 스마트팜 원예단지 준공…최신설비 도입 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KVjRfc1plWXJVQ0ZSaFdnZko0ZEJueEJIa0w0ekZMZHRNWV9QdXpBSjF3NkhaaVY1RkU2QWIzNjdfck9TRVFyblRJTjlFUXlUSkZYTEtDd05hMHPSAWBBVV95cUxOUFducDJuMjhxYVF4elRxdTlOeEIxWjZKenhqbXVpb2xmRC1DSUpoUjJDMzNqM2d5MC16QVVJeXZ3NHhka0V6dDRHMUI1bjg0SnJPUGpOaGtnNXJBN2JnVW8?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "청주형 스마트팜 원예단지 준공…최신설비 도입 연합뉴스",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "dd08c9ecaaa3b28d49cf590e",
-      "title": "고양 일산농협, 청년농 대상 AI 활용 교육 실시 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xVG5hZExyR09ncXZOTzF2ci1nRGZYTklqRE9HeUVWRVRzeTVnXzdKU2hNamRfVHJfZ1RQLVNHT0ZHX0xmeEtmbERTS185c0JpV1RCbmZyY1Z2UQ?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:40.191655+00:00",
-      "summary": "고양 일산농협, 청년농 대상 AI 활용 교육 실시 농민신문",
-      "keywords": [
-        "청년농"
-      ],
-      "importance": 48,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "3dbe39e4f55d9fde000f0425",
-      "title": "중동전쟁 장기화에 병해충까지…산불피해 사과농가 시름 깊어져 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSUktwYlF0dXZyRDJvVW91cEQycTRuWE5ydHF3R2hIdVNkWkRlenBEc2gxRTRlUW14X2ZxTDJqR3Q2dE5CNkxtZk1BSURIWEJ0dkY4dTUxTkJKZk3SAWBBVV95cUxOeUlrYkdxQzAyeDFFRm43U3hOVWtBQmVyaTdiMEZjU1l0TWJrTUYzaWIzWFBqWlRJYXFNUFItb1M3VVpodGw0Q2JWb3dyMFMyOTFkZ1BkUFdzOGZ0cVVXb1Y?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:40.860831+00:00",
-      "summary": "중동전쟁 장기화에 병해충까지…산불피해 사과농가 시름 깊어져 연합뉴스",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "24986ab526894d132697114d",
-      "title": "\"못생겨도 맛은 좋아\"…'B급 농산물' 전성시대 왜? - 스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZS3d4ZHRYY3I5SzFTZVMwUjlnTEZnR3Izclhad2h4ZFlxYXlBS2ZCM25DZUpFVmgtbHBGTTltNUpzdWFOc2xJaGZRX05lZmZjckdkd2tQSC1tMTc1MVVzTmF4YWY4Z3d4bkFYRGRXWllIUGM?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "\"못생겨도 맛은 좋아\"…'B급 농산물' 전성시대 왜? 스트레이트뉴스",
-      "keywords": [
-        "농산물"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "d434e839045f4ff1cb353c96",
-      "title": "먹거리 물가 흔들…가격·수급 동시 대응 나선 정부 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mX0VBalNWMGlob1ZaLXE3d0JoemhkYTZSelhLeDA2UXg1ZWNNQXZDaHRkQS05SmtRb2F2VmVyVE9DZ3ZWSWlOQzZzSWdVNjE2eUk4NnA3ZjJjMERnT001Wjk2d1M?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "먹거리 물가 흔들…가격·수급 동시 대응 나선 정부 매일일보",
-      "keywords": [],
-      "importance": 48,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "a667ea8fe7cdcf8f306e08d9",
-      "title": "정부, 농산물 수급 안정 기조 유지... 하락세 뚜렷한 노지채소 공급 관리 집중 - 한국영농신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjaXlndEowZTRlbUlSRVlvUEVNdTRqdU1KbjI1UFpFNV8tNWM3SmNLdlRfWjFtZ29CLUxESWk2aEh0ZjdNYXVwdnFYV2JEUl9WMU50MTFodDJWS2F2U1BPeHgybGk4bWlLbm1wMdIBbkFVX3lxTE5nQUlJb3ItOUp4UlVsaWhhN2JMYXdWZDMxMVozdWxFaWxaMk1oMTV1OUlYbnFFeTVDQ29fSXNzTXRkbFNVbnJrYVM3bFFXRUoyMWRhZUxuNlFUajE2V1d1SEtEdU05dlZsdFIxNEl3?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "정부, 농산물 수급 안정 기조 유지... 하락세 뚜렷한 노지채소 공급 관리 집중 한국영농신문",
-      "keywords": [
-        "농산물"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "1faecfeff56ad580f3226f3a",
-      "title": "출하량 증가 '양파·상추' 급락…채소류 품목별 가격차 뚜렷 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5udDA2UkJqZzV2b0FKNVQ0S0hpZ08zRmkxZUZsRzl2TDh4NjJabF83ZmtkLUREYnViS0lvMlRLZ1ZQbEw4bjlLSVVqODIyY09GUUxFbndvMnJqVWhJSEp2TNIBeEFVX3lxTE5KNUh1MGVQbW5INUg2OEJiMlo4M01hcXYyQWJfWXRiQURNUUpYandsekJKRFUyVVp5Qm4zYlFCeDFDbTUzZzJhODQ4dmQtSmJ5aFplYlRTUlBvdXMzUjBVVmRsNVRieFVacFl3UXhWcmlJSTJTY3FmUA?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "출하량 증가 '양파·상추' 급락…채소류 품목별 가격차 뚜렷 뉴시스",
-      "keywords": [],
-      "importance": 48,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "c1447af94305e71b2233707d",
-      "title": "농어촌 기본소득 대상지 확대로 농어촌 지역의 경제 활성화 도모 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Mdko2UEJOZVlVOXE3MkxjdFBTanc0ai0zdlBQV2xETXRSRlh5cUJFNWhXQjB6YklwZE9HWS15QU1JYWlOeUE1UlUxLVY5Y3lycnRQVERtT3dYXzNwaW93aFQ3X0JCS2M?oc=5",
-      "source": "Google News 농림축산식품부",
-      "category": "news",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:43.476341+00:00",
-      "summary": "농어촌 기본소득 대상지 확대로 농어촌 지역의 경제 활성화 도모 농림축산식품부",
-      "keywords": [],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "2eff30b5783c7f3b9acf72e4",
-      "title": "경상남도, 시설원예 국비사업 공모 추진…스마트팜·저탄소 농업 확산 박차 - 코리아이글뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pRVprTDhtdHUzdm1GTlg4eHJIMDNLeHpUaktRMTRjQjFfY2xwT2IzUFg2NERlejlJTFNaRWVHSF9BWloxQzRLODJnZjdGNWl0OWczWlpaaFBLTG00M001WXgzWVYyRHhIcEIxQlI1YXM5Zw?oc=5",
-      "source": "Google News 농업 지원금",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:44.090862+00:00",
-      "summary": "경상남도, 시설원예 국비사업 공모 추진…스마트팜·저탄소 농업 확산 박차 코리아이글뉴스",
-      "keywords": [
-        "농업",
-        "스마트팜",
-        "시설원예",
-        "공모",
-        "사업"
-      ],
-      "importance": 58,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "2739afcd9d0e54651665ae89",
-      "title": "청양군, 도시민 유치 위해 ‘2026 Y-FARM EXPO’ 참가 - 충청타임즈",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jWWxIal9zX2RXci1RZnRkTUxBcldxa25RTHpSMVlBWFZ5ZDRrQS1vbGJLMlkyNW9GWmZYVGVLSlJuR0YwWlg5eXN0RWk0RGMzckZ4NmpIbEgyMDFPUkpwU3hDYUQ5MFVB?oc=5",
-      "source": "Google News 농업 지원금",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:44.090862+00:00",
-      "summary": "청양군, 도시민 유치 위해 ‘2026 Y-FARM EXPO’ 참가 충청타임즈",
-      "keywords": [],
-      "importance": 58,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "2c2b406647bedb6c1a7b8aeb",
-      "title": "“농촌의 미래, 청년이 짊어진다”… 대구 동구, 3년간 3,600만 원 ‘정착 지원’ 승부수 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0QySGFEYWFMN294RUlKdDJRcUhRVmpUS3FsYm5VVHd2VE5TR2xSUW1xQlNDN2NCSlRZTzk2bXlWR09rTXhVOVh2a3l6U3N2VVg5ZVBOcF9GeGZQNDF3NGtzSUQ5REFlR0RJdlRaVHF1UTVGRENOUTVMQ0ZZbVBQNXZfNWJpWW5CVXRv?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:44.757007+00:00",
-      "summary": "“농촌의 미래, 청년이 짊어진다”… 대구 동구, 3년간 3,600만 원 ‘정착 지원’ 승부수 글로벌이코노믹",
-      "keywords": [
-        "농촌",
-        "지원"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "fd16c0f51687e9a46e75d0d2",
-      "title": "몬스테라의 시대는 끝?…2026년 주목받는 새로운 실내 식물 트렌드 - 레이디경향",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40MlpNY19yYXh1bm9NRktHLUdvcGhOS3BoenNqX1IyUlRaaWtjTUM0dlBoWjU5QVRLUVpBWlNWeEhiZVBtd2hEc0pNR2tkVkI3bVhrNUR1VzdDSU04TzRMZmlvU3U?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "몬스테라의 시대는 끝?…2026년 주목받는 새로운 실내 식물 트렌드 레이디경향",
-      "keywords": [
-        "몬스테라"
-      ],
-      "importance": 42,
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "52f3f1ef0cb6db70587356d3",
-      "title": "‘반려식물 관리부터 자격증 취득까지’... 양천50플러스센터, 반려식물 전문가 3기 양성과정 모집 - 지이코노미",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3a0g5aTU2Nk9WdkFrWldENEgwVTZMa2NnQ2xhQ2JzZ1FSWXVRaFJjOGdtVnNZUkNIbXl0VFRXRG1zX3FYMkxPanE5NHpGa2hFcWR6bTF5Z08xdmR3TGM2NmVhUV91cjQ?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "‘반려식물 관리부터 자격증 취득까지’... 양천50플러스센터, 반려식물 전문가 3기 양성과정 모집 지이코노미",
-      "keywords": [
-        "반려식물",
-        "모집"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "2893d14d4df58ed4175e03ae",
-      "title": "화순군, 다육가드닝 전국대회 시상…반려식물 산업 확산 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Bb0dCcXFBc3VkVm8zS3h3YkxPTDUyZml1LWNQbTJtY2dEMnNsWkpBaGgzd2NEUXRlOTU3ektCOE5ta2c4RmE4R2l6UmswQW5sQlo3R0U4cXplbFZFNXNsaVp3d0w?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "화순군, 다육가드닝 전국대회 시상…반려식물 산업 확산 매일일보",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "80a693e886d6060cbcca37ab",
-      "title": "영덕군, 2026 기초 영농 기술교육 참가자 모집 - 한국시사경제",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCVHlONEd5akdIdUZuZ0JoTHAxSnp5bURweTh2YmxtOHVQaWZRQkhQTVRTXzVlcmI1WlgtRjB3Zzdya1AtZzlPeEpyWkttcUNqLWotemNtZEpnRjRKbHJYaFQ1VFZrdkN1TlE?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:48.316241+00:00",
-      "summary": "영덕군, 2026 기초 영농 기술교육 참가자 모집 한국시사경제",
-      "keywords": [
-        "모집"
-      ],
-      "importance": 74,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "64668e342649248d034ef7cf",
-      "title": "옥천군농업기술센터, 치유농업 기본과정 교육생 모집 - 내외뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYNlNibWM0SGg2Nk9vT0FVejdaWHhBMF8tODg2dEtGNDhDTUdwc2hiZWpXV1pocVBORG9DMVBQR2ZjLThqbURxdFhDbmVYMk50cWdxS1lyTFpCa1J3WGJEYmx0eGdoX0p2RmtwdNIBcEFVX3lxTFBsRUlFM1llMGNsek9fQnpiYzRlbGdXaXc5V0QzbE5zQXNIU3FjblIxMzczckdJTF9rMUkxRTJ3RmxvbDZWZzRFcTEyZ29sX3RDeEQxMTQydlVBNnBmTGVaMHNVWnI1VVdlOXZvM0dLWGo?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:48.316241+00:00",
-      "summary": "옥천군농업기술센터, 치유농업 기본과정 교육생 모집 내외뉴스통신",
-      "keywords": [
-        "농업",
-        "모집",
-        "농업기술센터"
-      ],
-      "importance": 74,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "b0b6504f093aedfe1916b797",
-      "title": "청양군, 도시민 유치 위해 '2026 Y-FARM EXPO' 참가 - 대전일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92LW81aUt0RUdIOUYzZ1lHSG9jLW1ER2FfVkd0ZHZZYTJodE1YbUVqSTFvZDJ3Z2ZPY1gzckRRTkhWQWI5Z3YtWUExNjdQNnZKREtHTnF2Z1RiU21MZ2QwMVIzcDF1dGlHOERiWGdXWdIBc0FVX3lxTE5QRENCOFdGV29OOUNCWWFpQ2tGbEJyQ3JrT1g0aTMta1o0by1Ud3lvRVNYQWVkd29EOEN6NXFtZlB0X0IwdGI4eTc0RDhTM1V1bkhFb2ZxTmtDaGJIbkwzbklORDRIQ3R4b1hhR1I5V0F0R1E?oc=5",
-      "source": "Google News 농업 지원금",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T07:27:10.942595+00:00",
-      "summary": "청양군, 도시민 유치 위해 '2026 Y-FARM EXPO' 참가 대전일보",
-      "keywords": [],
-      "importance": 58,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "1aaf5e22fe00a292acd26c38",
-      "title": "[카드뉴스] AI 시대, K-로컬의 내일을 만나다…와이팜 엑스포 2026 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsVDNVWlRBNE9VN0Q3bEFaQkxRcUhyX3JWbGhBcDU1bTl3RUZPUE1tODh6WDBiRTR5UXAzNnd4V3ljX1ZZN2xKQS11bjFUQVJJdTNDU28zdVV5NjTSAWBBVV95cUxQLVJwcjJVeWxsTjd2SUVZX1JIVFlpaURTLU9QdHdHdWRrVTN3NFF0cmVaTFhjUkFla3VtQUYyd2FvenA3SzRmN3hFOUFyeWlWWEhYMTdxcUNfWEwxRVVleUw?oc=5",
-      "source": "Google News 농업 지원금",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T07:57:39.945984+00:00",
-      "summary": "[카드뉴스] AI 시대, K-로컬의 내일을 만나다…와이팜 엑스포 2026 연합뉴스",
-      "keywords": [],
-      "importance": 58,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "11263a6d9e62b83b23e3c745",
-      "title": "횡성군, 2026년 귀농·귀촌 종합학교 운영…교육생 모집 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HUDdVS0VOdUNNX19qanNLbVlWVWJLaG5VYjZrbkNsSjgwZGZyV2oxOTctSlpsQnRXeDNUZFhhZF9aNXhhRXJfRnk5cGo0UHdFTXlaZUEtblYtUlHSAWBBVV95cUxQMjVtR1NYTzJmZ1RRT0c4c1lxRTV4cVR1c0JaMVU2MTFjT05IMTZfVUZaRXN2Ty11cFRBVWtDZEF1YU9JdHpCcEt2MW9SZ3oybUVpang3SWpQaVFqM1lSbmM?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T08:28:02.818845+00:00",
-      "summary": "횡성군, 2026년 귀농·귀촌 종합학교 운영…교육생 모집 연합뉴스",
-      "keywords": [
-        "귀농",
-        "모집"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "4f3b8255d3185262871e7d08",
-      "title": "청주시, 은퇴 예정자 귀농귀촌 프로그램 추진 - 한국농어민신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43czZpSm9tcUVWdGh5WXNVRkgwdVFqUHNWRHRqdDN3Mk9jTVlvYjRGeEdtTm5iQ2szdERqYjNuVzg5Y2tWN09zNi00YXFfV0FDTldTUFNXSGlZVDlFNEJ2dUtzM0ZraGZENnRqUw?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T08:28:02.818845+00:00",
-      "summary": "청주시, 은퇴 예정자 귀농귀촌 프로그램 추진 한국농어민신문",
-      "keywords": [
-        "귀농",
-        "귀농귀촌"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f28dc5085fbc38579f62073d",
-      "title": "대륜동지역사회보장협의체, 반려식물 친구만들기 프로그램 운영 - 뉴스제주",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaRm5EQWJYeGlEaVQxQV85WEl4VGtHVVN2aE5IRkt1OGNYWlh1T3JIRF8tY1hwZm5WamNSdjc3QjhIVDA1WlJJdldQT2RSZnc2eTEza1hpaGZ0MlhySXNDTEp3dWotOEtsMjQ0?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-04-21T06:52:01+00:00",
-      "collected_at": "2026-05-16T07:57:43.407374+00:00",
-      "summary": "대륜동지역사회보장협의체, 반려식물 친구만들기 프로그램 운영 뉴스제주",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "a88e0a0f535028a2e6d5b167",
-      "title": "농식품부 소개 > 장ㆍ차관소개 > 동정 및 행사 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCTmxIdGl6X2w5V3psSDM2Q3BleDhBUURIOVNoSUpDNTJYNGdfT3Z3ZVdCRDI1N2FnRTdtX2dDOTRlc0xNNlVwYWx3TkNobzhLUlU1czJsbU55eXE3djk2a2VoYnNoZXZwQzJiSnRhOUFkTndzcFl4VURCZw?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-04-21T06:29:02+00:00",
-      "collected_at": "2026-05-15T16:21:56.283319+00:00",
-      "summary": "농식품부 소개 > 장ㆍ차관소개 > 동정 및 행사 농림축산식품부",
-      "keywords": [
-        "농식품부"
-      ],
-      "importance": 68,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "2e526312c9ac2e1a55c27d59",
-      "title": "대구 동구, 청년 농업인 영농정착 지원 추진 - 경북신문",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40QUdkdGtjdWlNcDEycjF2eVlIZHNkcEphUXRUSFlCaGp1MlNFWVhBOS1rMGNPblo2NXZERGRjLTRYLWVkOElOaHlhVUdxYThRaWlqaUlxTzc?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-04-21T05:08:00+00:00",
-      "collected_at": "2026-05-16T06:56:44.757007+00:00",
-      "summary": "대구 동구, 청년 농업인 영농정착 지원 추진 경북신문",
-      "keywords": [
-        "농업",
-        "농업인",
-        "지원"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "19b9dcf86d07dadc69b5c8e0",
-      "title": "[위클리오늘] 평창군, 노후 농업기계 조기 폐차 지원사업 추진 - 위클리오늘",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4WEZRbHl0bVlabmNWNGx6WnNjOGl5aXlZT1l1UU9PeEpGeDRXZ0tBSjdPRm1VMTZsVkxZRXpUejJXUkVyczNVelA0bWhPV2FaWlVHZ2x1a29OVWFVOEVrN3l0cnRaNE8yd0tDdWtR?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-04-21T05:04:49+00:00",
-      "collected_at": "2026-05-15T16:21:54.940113+00:00",
-      "summary": "[위클리오늘] 평창군, 노후 농업기계 조기 폐차 지원사업 추진 위클리오늘",
-      "keywords": [
-        "농업",
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "caf44bdf341de6f8b67464b1",
-      "title": "알림소식 > 보도자료 > 파종 전 유전자변형 작물여부 무상검정 지원 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sQWstaDNWMTJLeVZfZFhYQzZCMXQxX3hOWTRSbEJxSkRoXzQ0SVdiUTJ5LXU3dERYTDRTbVgzcXlwVEl6anZvTjlVQ2VwZ0YwbWg4ZE1nbFZuODZZSG1FV2FzWmhrQ29CZ2Zpd1R1dUNVRlpleVRlQmRnQQ?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-04-21T02:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:56.283319+00:00",
-      "summary": "알림소식 > 보도자료 > 파종 전 유전자변형 작물여부 무상검정 지원 농림축산식품부",
-      "keywords": [
-        "작물",
-        "지원"
-      ],
-      "importance": 74,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "f499135e576cf55cf594e301",
-      "title": "공지·공고 > 농어촌 기본소득 시범사업 추가공모 계획 공고 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxPTjdycTgyb3RyRVpiQU9mMHgyS1BzWERQTVg2RjNhT1RUMEFQa2Q1VHo5THBPMkotSmhvQlB0dF9LVVR1TzZRYUJEMG9QcWZuQlYwQmNaUXJnR3oxWW1xOEU5WGh2N0FyNWwwUWE5VlZIek9JbnBfc29UVDJWNjRIV1o3cThTNTU5V0tKaHlDVWlicER6NVVCaTlRQm1rdGh4M0oySFJ1OUNsNDF2eVAxcFdHamJ2ZWdVdFdlNFc3bGV2RFoyb0ZHeVJndHBYcEY5QjkzXzZiajVicTljOF8zd1NpMVB2MlNsNmxWWkozamhubFNLOVA1V2dnTG4yRW41eWw2eHNjdmhDZ1lBcGRuRnBjS3liWXpGOUpYMjF3dmlTVWgtc0NBN0wzeXVIbk8zRnlXUkxyZUQydzlDYWVWR0Q0X1VseXE2SUwwWHM5R0tMZnYtVHpmWlN5NDRUdklVQzNvUlpVcndDMmFRTkxhUVEtLTN2OEdjbzZwX1c0aXJqQ1FUNGs0eTFNSkx6QUVVNms0OWJkY3BTbDBFWjJxaHhTYTBQZFVHSF9aOXlyRHN4eGpaSTJBT1FoYWZrQnM4R3NEcFEzQVJadTYzUVgtcllsZ1N6aE11?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-04-20T20:29:07+00:00",
-      "collected_at": "2026-05-15T16:21:56.283319+00:00",
-      "summary": "공지·공고 > 농어촌 기본소득 시범사업 추가공모 계획 공고 농림축산식품부",
-      "keywords": [
-        "공모",
-        "사업"
-      ],
-      "importance": 74,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "9615965da32ef33cee134820",
-      "title": "알림소식 > 공지·공고 > 농어촌 기본소득 시범사업 추가공모 계획 공고 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51LTFpNEJweWQzZk5aQWpOMUVHNFVaWUYtTjFSZE5LSnNua3lHNWRHX0thYWh5bHBHcG5EUnA5NGQ5Smc0TUUzZlF2M2phd2wtS0RZT3gxTS1wWXlfWS1nbUs5TXdndnZXcTc2cHp5LTgtS29iQlRlSzNpWQ?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-04-20T08:28:56+00:00",
-      "collected_at": "2026-05-15T16:21:56.283319+00:00",
-      "summary": "알림소식 > 공지·공고 > 농어촌 기본소득 시범사업 추가공모 계획 공고 농림축산식품부",
-      "keywords": [
-        "공모",
-        "사업"
-      ],
-      "importance": 74,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "0ea27b518bcb7b30e94b7983",
-      "title": "경북농업기술원, ‘영농부산물 파쇄지원사업’ 성과 - reporternside.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WdmtnR2gzY2lXaHJkU2FZOThmeGVTemRmSEZwWkdMWU1XSC1teHpzZVB5LVp2dmVMZDJXLVN6ZU9MbnJFV0F5TEhlVXFjVkZFOVNlNm81VDhJVUx4WTBzSmh6bjRpd2N1b3prRm5feGFrQQ?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:54.940113+00:00",
-      "summary": "경북농업기술원, ‘영농부산물 파쇄지원사업’ 성과 reporternside.com",
-      "keywords": [
-        "농업",
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "983c0e90beb7e6cabe8323be",
-      "title": "만감류 농가 스마트농업 전환 ‘시동’ - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qSGE0c3lOY0NtT0JTeXF0V1dKcXJiUG12ek94b2FvWDhLVnc3Wm9ELWJlTklCajF6cm9RcWdRT0s4eXliRHlqRnB3UEtnLW9ra2V1YVpqaVJTZw?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:54.940113+00:00",
-      "summary": "만감류 농가 스마트농업 전환 ‘시동’ 농민신문",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 58,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "ec2c9bb4b79e80ed02e26991",
-      "title": "알림소식 > 보도자료 > 농식품부, 농산물 수급 안정과축산물 가격 안정에 총력 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNNTY4WHF4QjhYTGpEV1I1WWViSmQ5ZFp6eTMxUlpVRDlfRi1JM0NXamRuRk0wdGhVTmRDVWkyUHNscGtTdTlveHJOandCZlhwaHVUVDBOdWM5b3JCTHJEc3JCdUdZRUtQVG1Ta1FrUUg1UkI1UENMVlktWDBjemRobGZYcEVlVTFhTWQtb21WdmhScTZ1TGZ1V2RKVWlSenVCWVVjSEphU01kUmFKRGZDQk96UWxCX1JsdFhYN01JNGhONzNuMHBzYkt0ejVHR0FwN2lfRUFNSllsWGlwVFYwektiY19QWnh5YjFBNTU4ZE5nOGRiWmNSd3VGOTdKS21DbGxtUXlHYVF6T0FaWlI2QTF5V2FIcUVmNUd6Z042akllTmJjb2lPUVFEN2J5SkpqMTB6dXBfTEtSMThCbEhKam1sMW5uaEk3bVlrY3FQZTBKcFl0MWUzZzFqYzc3OFQ2bXdGUzBGekxiaEx5VjBsT0VTR0ptbXl2ZnN3Nm5EY1JwdG5aYkNweHJ2QXhmYUpBdTl1d2p4cmg1VEZISUJ3WnhSSzRHaEJjU1d1cVJyakFwRUhvVjBFOHJ3WEx0TWR6U2VkRTdYTWU1dGhENVMyQ1Jwa25zdUhE?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:56.283319+00:00",
-      "summary": "알림소식 > 보도자료 > 농식품부, 농산물 수급 안정과축산물 가격 안정에 총력 농림축산식품부",
-      "keywords": [
-        "농산물",
-        "농식품부"
-      ],
-      "importance": 74,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "4ba7c103891c07d9aa838b5b",
-      "title": "[입찰 정보] 4월 20일자 - 투데이에너지",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hVWY1cnJvRzAza0JleDN1QnZWaGNMN2hXNEZvNF9QVXRUYWRpRUk3WFZDYzJOVTBkX1BqVkdSSTlBYUFyeVp6dWEwc3FScnlITjJMLTNVakVDV2taVjNmUUtnY0pNd2JURWZja1lB?oc=5",
-      "source": "Google News 지자체 농업기술센터",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:58.283467+00:00",
-      "summary": "[입찰 정보] 4월 20일자 투데이에너지",
-      "keywords": [],
-      "importance": 68,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "d4ce58487dcaaf84d28edab1",
-      "title": "‘컨테이너형 스마트팜’ 판매 사기…관련산업 위축 우려 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xWEJrbzBqMGNuV2NKbVZtai00UGxvbFVnM0pyRmttOGd5NzdPZkdOM0VVdDZaWHh3dEZDRkJ4M2Vqd2xFQzl1cEJBQTRVNVdleXZfWXRWQXBrZw?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "‘컨테이너형 스마트팜’ 판매 사기…관련산업 위축 우려 농민신문",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "82ae20b41acb71f67e025117",
-      "title": "경기 광주 퇴촌농협, 보급형 스마트팜 사업 설명회 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96cXhXNXF3VjlfRzY2TWFNbXpBRF9jYjFwSmVtNUUxNE8xdTB6djRVcXZrcldsMzUzVWJzbE4zUV9FTWxhYkpTOGNjSWVfVWJPMWJiRmFUcHVhUQ?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "경기 광주 퇴촌농협, 보급형 스마트팜 사업 설명회 농민신문",
-      "keywords": [
-        "스마트팜",
-        "사업"
-      ],
-      "importance": 58,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "ddf3636ba2c4a717c26747dd",
-      "title": "논산시, ‘기술 전수’부터 ‘정착’까지…스마트팜 청년 농부 육성 ‘본격 시동’ - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42NlZUZ2RUSFpZQ3g0N1c4aTFaS283d1Y2c0l6Y1puZ1pfY3VCa2FxWEVxMlNaM09vcTBVNjFrXzRISW5ub1E?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "논산시, ‘기술 전수’부터 ‘정착’까지…스마트팜 청년 농부 육성 ‘본격 시동’ v.daum.net",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "d55aba473d93ba4892a1fa44",
-      "title": "예산군 스마트팜 복합단지 조성 순항… 청년농업인 미래 농업 거점 기대 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91MWVlb1VaSHZGRW1nN2E2VlJjMWVwU2xwQXZ0Y0lqNnEyZlhETVRCZ1psM05CNHZYNEwwRnpERXpMQ1NkaVk2R0pqNWVQb2c?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "예산군 스마트팜 복합단지 조성 순항… 청년농업인 미래 농업 거점 기대 v.daum.net",
-      "keywords": [
-        "농업",
-        "스마트팜",
-        "청년농",
-        "농업인",
-        "청년농업인"
-      ],
-      "importance": 48,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "59ea9dc48d940aecda405042",
-      "title": "논산시, 청년 스마트팜 현장실습 본격화·민생지원 확대 - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02R2k5dGg3R1FUTklxX2hwTVF6SFZVLW50ZzdBcVNQRVlxYl9sY0NESGxPWjRKYjF0TTJJV2trLWxDR3hMVW1wY2FacWNTSnlqY0tQR0otOUkzZWpMSG0wT1U4NHRxVm1RX0hURg?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "논산시, 청년 스마트팜 현장실습 본격화·민생지원 확대 농수축산신문",
-      "keywords": [
-        "스마트팜",
-        "지원"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "b4c701920e891f0a71cf2101",
-      "title": "스마트팜 장비 표준화 착수…농진원, 바우처 도입·노지까지 확대 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBseml4NHZndmpMLXlCbjgwT0pyYXk4TGU1dloxZ1hfQTJYanE4ZUZQUVJZaDl6S0pVMFpmajFJTGs3cUpCTHAwY0UzRGxwdw?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "스마트팜 장비 표준화 착수…농진원, 바우처 도입·노지까지 확대 전자신문",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "a8f3d6c286b077ee05524868",
-      "title": "수입식물 병해충 5년간 2만7천 건 검출…해충 비중 86% - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aaTdqSGNGZVNVMmViZGZUbVd4a1huVFdwX3lzMDVuSFNvcDNnRlFveGRmSjRnTGxUbF9NSkNkZHJxc3Jwenh5X2FxTTQzLVU?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:40.860831+00:00",
-      "summary": "수입식물 병해충 5년간 2만7천 건 검출…해충 비중 86% v.daum.net",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "343a1285a209389812b6c76f",
-      "title": "5년간 총 2만 7,093건 규제병해충 검출 - knongnews.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpY0FoSS1ySmlrWDVWSDhYcEpMdWo0b0plcW9iS0dLVUx3eDNuczNLemk1b0xjcVVBS1ctb2xIWUJibl9aNXVXSTZVa21paFBBTWd4dXBFT2haQ1dCVVAtQUEyLTlSb0J2dXFn?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:40.860831+00:00",
-      "summary": "5년간 총 2만 7,093건 규제병해충 검출 knongnews.com",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "09fc7c960504de213abb7746",
-      "title": "검역본부, 5년간 수입 식물 병해충 2만7천건 검출 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCaUxWV0h0MG1YTjBOQmUtT1kzenBCM09BNW8yT1dUdV9HczJETlF0ZE1EejRwS0RvcTRkQXowNG00QWhDdGlMMVl2VUo2UmZnLXlFYmtxWHNSZjjSAWBBVV95cUxOajhUVjFoTHdWRVZMM2JHQnNINXZ3RzBNdVd4dFNoZHh5aVJ1dHlydlZBM21VSkZoc1VncHZtS3piSlJBbFJ0QXkwZTY0TENRX01IeC14ck1ZZVdaTnUtUUU?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:40.860831+00:00",
-      "summary": "검역본부, 5년간 수입 식물 병해충 2만7천건 검출 연합뉴스",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "91a10a37bad3b6674e363341",
-      "title": "유입 위험 높아지는 해외 병해충…맞춤형 검역 강화 추진 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YTXRnUlY3dTVIYkR5Ymg1R1VsZ2Y1RDdhSU9MMGE5ZVY5a19KeEVycGVyTFFmU1F6b1dVejBjMGhLTzR3dUdFSzcydU5xZE0?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:40.860831+00:00",
-      "summary": "유입 위험 높아지는 해외 병해충…맞춤형 검역 강화 추진 v.daum.net",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "1a50568b3c861d63db5a7731",
-      "title": "가락시장 농산물 가격-2026년 4월20일 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QRlJXSjY2cHh2WHAwZ3I5QW0zcGYxN3VDTldUTTZuUzNGYjRta1pJaG5zUkFiNk5Yc0RGQ1YxR0FVVTZhTWN3bGdwc3BrbFF4blRremc1Qk9Idw?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "가락시장 농산물 가격-2026년 4월20일 농민신문",
-      "keywords": [
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 48,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "018beafa85a9d9d08133c539",
-      "title": "채소값 급락-축산물 고공행진…농식품부 \"수급·가격 안정 총력\" - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OaWp0dENYSC1vMUdxbE5iX2hLZWt5Tlg1X0x1WWpuNmpLYUthMXNWSk5SYzAwRGlTd0FTbmMzSFVTdl84b0V4RXJQOUZxV0RFakdsaDYzbzdOZkg0c1k4V9IBeEFVX3lxTE5SREFRQWIwYkpnM183YzJidUR4VW1mVk43UEpQM3BVZGpxamdheEVwNVJoNTA0bFF6QXlNZ2NseURoZFhSVTVDVFc2Z1EyY2xUczJUdjdFd3hycnJmbDlGdzNqUFR2SWhwU016MXF0NWM1aFdQTE1qUA?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "채소값 급락-축산물 고공행진…농식품부 \"수급·가격 안정 총력\" 뉴시스",
-      "keywords": [
-        "농식품부"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "6ee08dbb7551258f29fe4c64",
-      "title": "농산물값 하락 속 물가 관리 강화한다 - 대한급식신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41cFA1VlJvYUlDSGU2djdmMEdBb2d1a2lMcS13Vjh0R2NXZjBVTHRkSWR4TmRqUzIySlVrQlZYMmdnYjhqQnNhWVhCdmFySzdnUG5uTURiNTlXVDNWbDY3YlFaa0F4MWdL?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "농산물값 하락 속 물가 관리 강화한다 대한급식신문",
-      "keywords": [
-        "농산물"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "fedfc7af80fb322d9ce23f66",
-      "title": "농식품부, 농축산물 수급·가격 안정에 총력 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wN2Z5WlYzX0MzbGZsQ1QwNURBOElDSE5KT2VSRDNQYjZfS0pBWDJ0UFp3Rm9sdTdKei16QWtveTh3cUJuWmJrQW90Mml0a2s?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "농식품부, 농축산물 수급·가격 안정에 총력 v.daum.net",
-      "keywords": [
-        "농식품부"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "bce6f1f334d303933030ba69",
-      "title": "美 수입 비료, 해외로 되팔린다…이란 전쟁에 가격 급등 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1lhWjlMekRySzNOakNCeTN5bTJXMkVuUmpBZEtQbEV3NEtCMHdZbWJUTWNfV0tFUkJ3bWlvTjRGUGxnX09ORGtYeFpOUkw0aklfbGU4R0pHblhwSlVKNmxDTGY1NHNTMXBnRkZ2N25IcHZLTWtjaGRMcHJvZ1JVaEkxSEllRmhL?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "美 수입 비료, 해외로 되팔린다…이란 전쟁에 가격 급등 글로벌이코노믹",
-      "keywords": [],
-      "importance": 54,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "2f4b832496d84522d22c5ef2",
-      "title": "농식품부, 농축산물 수급·가격 안정에 총력 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81ZDdKRUJiektvUHVGQUVhYmVQWVhPLTJONlNqV2QzOUJOU2Q5c3F3N2pfUWFfSkg2MktCNVNqT0xET0RkdmxWVmFhUGFxdW5mMDg1dg?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "농식품부, 농축산물 수급·가격 안정에 총력 v.daum.net",
-      "keywords": [
-        "농식품부"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "e7b6e7ad8490531607d1373e",
-      "title": "2026년도 국립식량과학원 청원경찰 공개경채용시험 공고 - rda.go.kr",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOS1NSSDZ0bHc3SW9va0UtcGYybWdyX19tRDZNN2sxcjg2QkhZSnVoSExzQVYzMXozM0pndnJXRkRWUnItTzBXMzdCdzhfWjFNVjB5U1JTRlFwOHp3YnhDWDdNbjhOVkhhMW9lS1lqdHRmb2s5aHNGUUEtaDlWcUo1b0tfbUlPeUFxMGJxRy1qMG0wZFlfb1hoVVR3dEQxMmNPWndFci1rQ0owRS1STklINFU1SkRRaTJmbE5jZVZhVHNhekxGYlRxR295MkRHeFpTdVluY1ZWQjFKVHQyWlVqNVBtc2QzYkozMm0wWGNGMWhIT3hZUHQ3VmoxZ2J6d1lXWWpjRkJybllMalNHeVM4VlZleGNIa1ZxSjZESGEwTHBEVDhTckhvRUFDQWNLZThpdlJvdg?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:42.817671+00:00",
-      "summary": "2026년도 국립식량과학원 청원경찰 공개경채용시험 공고 rda.go.kr",
-      "keywords": [],
-      "importance": 48,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "6941730bb74fd202ecc0d8f2",
-      "title": "공지사항(유전자원 장기보존 시설 현대화 및 저장고 증설 설계 용역) - rda.go.kr",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb0o3SnZQN0xiaXlmVGRiSGVSNXBNNnFsME9hcWc3REFrUGRTWllQR2pfcEFMZzN0N1dXZFM2dlM4aG4yZ3ZCQzZYbThhcXYya3hMS1MtVUFUUFhCNm9iYTY2aUtGRDQ5Uk9VZUxlVm9peGRZT05WVGl3c2NNYmpFS2dDMUY1VzZrdmFIMGZmTUZOc2M?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:42.817671+00:00",
-      "summary": "공지사항(유전자원 장기보존 시설 현대화 및 저장고 증설 설계 용역) rda.go.kr",
-      "keywords": [],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f83fd9664184689f049cb08e",
-      "title": "농어촌 소멸위기 극복의 마중물, 농어촌 기본소득 시범사업 추가 선정 4.20일부터 신청 접수 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwTm9aeVMyTzk3T0hJWWZEckNMbnVxNDVydURLMVo2QmxPQXBUQjAyc0RjRzI3Qy01Sm1NMlVfMHF5Q3drTXBnR0pFRFpac1FDTTZiVEdseEhhcENSWUoxWGdyNVNfcUE?oc=5",
-      "source": "Google News 농림축산식품부",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:43.476341+00:00",
-      "summary": "농어촌 소멸위기 극복의 마중물, 농어촌 기본소득 시범사업 추가 선정 4.20일부터 신청 접수 농림축산식품부",
-      "keywords": [
-        "신청",
-        "접수",
-        "사업"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "b5675005440c33f360e56cc5",
-      "title": "농업분야 추경 3775억, 어떻게 짜여졌나 - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jV2hFbHRhMW04VXdGS2NJY1VIWHYyRmZoOWZacnlWZnFnaGhZbjRfMWxKTjQ3V3hlVjVRZTU1WUtISWpLRHV4RHRPSkZDaTllRHNpeEU1X2JFMDlYclBaYnBlWHZZejdRNWx3Mw?oc=5",
-      "source": "Google News 농업 지원금",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:44.090862+00:00",
-      "summary": "농업분야 추경 3775억, 어떻게 짜여졌나 농수축산신문",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 58,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "d60c8d1cdca5e0453382745a",
-      "title": "[2026 와이팜 엑스포] ③ 전남·전북 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SLWExMW1RVEoyTnBGaVdUYm5hbjBLM0FpMi1FU1R2eHBDX0QyeWxscGd3NjI5LWtuNXdhaHB2a2ROc2s1a0J4MGdsTnM3Q0YyTm9UcTZScE9vaUXSAWBBVV95cUxNYWhPdEVobTZ5WWxUeDEwU0lIWl9Zek9Qd1J1cGZsX2prTGdvMlZfQnBzak11QlA1TmJWQzRxeWdSd2ZwOWticld5ZGRhWDA5NmhITzJ5MUxjTGRhaDIzNGg?oc=5",
-      "source": "Google News 농업 지원금",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:44.090862+00:00",
-      "summary": "[2026 와이팜 엑스포] ③ 전남·전북 연합뉴스",
-      "keywords": [],
-      "importance": 58,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "a6f9c918b383ca1e86be8f93",
-      "title": "'해남형 스마트농업 클러스터' 조성 본격화…청년농 정착 지원 - 서울파이낸스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oXy1fWTdUdVFBWV8xd1JveGx5Y2RicDZWbU85RDZJNjd5bUFlM3FPNGIyczNJOWI4RmotNjNUbFMzZndtbGtUWlJ3VzBDM0wyeFFaNlNoNUdxZnkwb1FEOGF6SVRKb1ZPd1E?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:44.757007+00:00",
-      "summary": "'해남형 스마트농업 클러스터' 조성 본격화…청년농 정착 지원 서울파이낸스",
-      "keywords": [
-        "농업",
-        "청년농",
-        "지원"
-      ],
-      "importance": 70,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "7f745b46dba5838c5b4b2695",
-      "title": "[2026 와이팜 엑스포] ① 경기·강원·제주 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qLVoyamt6VTJsQ3JYQVM3N3VDcmNPRjByTld4TzBzUWZhNHdCNHBpem9NX0NFVXM2Tl9SdHVXS0gtdi1BVzFYcWFqRV9SRWhhMDF1OXdRcnRYbzTSAWBBVV95cUxOVlhLOE40MFJrM2ZqQ0lCQ0hzTjBZWUdiUFBmZVQzUHhUUmNReDBoUGNTMjlhWEdCRTZ2V3NjXzB0TzVNZ1duTlZJUW5MaEJreDBkLVhLLXItYTZxX2ZWNG8?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:44.757007+00:00",
-      "summary": "[2026 와이팜 엑스포] ① 경기·강원·제주 연합뉴스",
-      "keywords": [],
-      "importance": 58,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "4fbf1a50828cf75afb1807d5",
-      "title": "[언중언]청년농의 비애 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TakFXX0FwTTVNazBBZUtZaGJia3JLQlJSZ1BjamtES1V5Qm03bzNPbmlvNEFlaWZObUJYN21WcU1LUDRIRVN0ZDVLRDlGQkE?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:44.757007+00:00",
-      "summary": "[언중언]청년농의 비애 v.daum.net",
-      "keywords": [
-        "청년농"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "ccbf315fe9e3f319833a421d",
-      "title": "[2026 와이팜 엑스포] ① 경기·강원·제주 - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbUQ3WVF0Rmg5cmwtaXcxdWJ2cnRNUHYxeG45a3ROUFYzaXR2Y1IxTlVYdVp0MVR3dzFwWXJkMTBNWEpDSkhUQW96Q2R2akx2RVE?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:44.757007+00:00",
-      "summary": "[2026 와이팜 엑스포] ① 경기·강원·제주 매일경제 마켓",
-      "keywords": [],
-      "importance": 58,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "fd207a5a38ce55fb1656a402",
-      "title": "농신보, 전국 순회 ‘현장교육’ 본격화…760명 금융 실무자 참여 - 푸드투데이",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMVHMwM3k5NHlVeWFfOWh6cUp2WEM4eWhmRDBvV0ZacV9NNXJZWml0cmpjd3NKR0x2b3hWOUFtOGNpZllpMFFjR1JPMlFRV2d5RkYwOERCeUpqUzhHNWNWcDMtTnpuQQ?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:44.757007+00:00",
-      "summary": "농신보, 전국 순회 ‘현장교육’ 본격화…760명 금융 실무자 참여 푸드투데이",
-      "keywords": [],
-      "importance": 58,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "fc8924d9ff1430f09a0006d9",
-      "title": "경기도농업기술원, 경기도서관서 반려식물 전시회 - 환경일보",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40bk1kVFBYeExJQUptX3VxWkJnN01xSi1maVNEZG1pU2JTZkhDVURFcWlfUTdTVktQdVJfQzBQMkRhY3BybmRzYTJIckNyY3BCVWhSLTNLZ2c2QTFVRmRDT2EyZXlDMlA0?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "경기도농업기술원, 경기도서관서 반려식물 전시회 환경일보",
-      "keywords": [
-        "농업",
-        "반려식물"
-      ],
-      "importance": 42,
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "afc35578fd31bed0d0a47d3e",
-      "title": "경기도농업기술원, 30일까지 경기도서관서 반려식물 전시회 개최 - 의정신문 서울시티",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NNFAwamE4bjJUNlMzWHFORWZYVGhOSHc2QTVMclp3QUJLUnNDclM5SXV4YUlKTmxmU0M5bFExWFlHdEFYS1dzSFpVTzZLQ1NjU3ZCSV82cDNxSncxMXpTS2ZGM3JYQjEyM1JaMFFKNA?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "경기도농업기술원, 30일까지 경기도서관서 반려식물 전시회 개최 의정신문 서울시티",
-      "keywords": [
-        "농업",
-        "반려식물"
-      ],
-      "importance": 42,
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "bbad1f56a48fb637c802beee",
-      "title": "“물 자주 안 줘도 잘 자라요”…바쁜 사람을 위한 ‘추천’ 저관리 식물 - 레이디경향",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXZWU5UXNhcTBOWXhZWkQ4ckxqUXdjYVlmS0lDNjJyeS1lSk1ZUENRMG9KQk51TUxrWnRkQnFsQ00yRjlHTWFWRk16UTZiNldJMkltaEVCMlZWTERsTTBQdGVhR2I?oc=5",
-      "source": "Google News 식물 관리",
-      "category": "plant_reviews",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:46.695632+00:00",
-      "summary": "“물 자주 안 줘도 잘 자라요”…바쁜 사람을 위한 ‘추천’ 저관리 식물 레이디경향",
-      "keywords": [],
-      "importance": 42,
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "b5d8d43d344c4fcdf1bedac9",
-      "title": "[2026 와이팜 엑스포] ② 부산·울산·경남·경북 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zS2hqa2t4MkM0eEpFSEhGLWxKdThodFdZMVdCNFd2cTBDSDJuVU9nUkRFRk5ncW01dzFCanU4S2FWTTk3T09GY214bTZkejJ1aW9aS0UxeEdmOWfSAWBBVV95cUxNcE9aaUozdEJzNVIxN1V0dWVfdHhwWjhwaTVuVDJ3YU42UlRteDQ5QXBRU0twOXNsbXJWODdlSGVWbDZkeEdLME5IQ0MzenN2N0M3ZjFIWDJadUM5emdibnY?oc=5",
-      "source": "Google News 지자체 농업 공고",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:47.752198+00:00",
-      "summary": "[2026 와이팜 엑스포] ② 부산·울산·경남·경북 연합뉴스",
-      "keywords": [],
-      "importance": 58,
-      "category_label": "지원사업"
-    },
-    {
-      "id": "24940d2514ab4a8df0918713",
-      "title": "농진원 \"종자 정선 위수탁 지원…지자체·민간 신청하세요\" - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55bHl0a3A2ODRxeHRPYUtadzJNTl9EVlQyX1hfc2hWMFVfQTVVUHdPdVZXaWR2T0JOenRUUU9zdWlMWGhSMEtob3RmaFFuVEVqbjIxTlhaVE1JUFZCZ29Uc9IBeEFVX3lxTE5ZWDlIaUctLTNTUHpseEJCQ3JzaENDejllY0REV3JSQTZoOWhMdVdvb3I5N0JvZ3h4dlRPOXZIQU5TSWRET3BSSndvOGpMUDA4Q1c4VEdQTzBvQy1SeUJLZW5rSE1IMzR6RDFTc0o2bVBoTkFNVDJoQQ?oc=5",
-      "source": "Google News 지자체 농업 공고",
-      "category": "support",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:47.752198+00:00",
-      "summary": "농진원 \"종자 정선 위수탁 지원…지자체·민간 신청하세요\" 뉴시스",
-      "keywords": [
-        "신청",
-        "지자체",
-        "지원"
-      ],
-      "importance": 70,
-      "category_label": "지원사업"
     }
   ],
   "stats": {
     "total": 999,
     "category_counts": {
-      "news": 489,
+      "news": 535,
       "plant_reviews": 87,
-      "support": 423
+      "support": 377
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 280
+        "count": 278
       },
       {
         "keyword": "지원",
-        "count": 139
-      },
-      {
-        "keyword": "스마트팜",
-        "count": 110
+        "count": 125
       },
       {
         "keyword": "농촌",
-        "count": 98
+        "count": 102
       },
       {
-        "keyword": "사업",
-        "count": 85
+        "keyword": "스마트팜",
+        "count": 96
       },
       {
         "keyword": "반려식물",
@@ -15363,77 +15256,81 @@
       },
       {
         "keyword": "청년농",
-        "count": 77
+        "count": 76
       },
       {
         "keyword": "귀농",
-        "count": 77
+        "count": 76
+      },
+      {
+        "keyword": "사업",
+        "count": 75
       },
       {
         "keyword": "농산물",
-        "count": 67
+        "count": 61
       },
       {
         "keyword": "모집",
-        "count": 62
+        "count": 59
       },
       {
         "keyword": "작물",
-        "count": 47
+        "count": 43
       },
       {
-        "keyword": "지원사업",
-        "count": 44
+        "keyword": "농업인",
+        "count": 42
       }
     ],
     "top_sources": [
       {
+        "source": "Google News 농촌진흥청",
+        "count": 125
+      },
+      {
         "source": "Google News 농업",
-        "count": 104
+        "count": 108
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 100
+        "count": 97
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 91
-      },
-      {
-        "source": "Google News 스마트팜",
-        "count": 88
+        "count": 79
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 82
+        "count": 76
+      },
+      {
+        "source": "Google News 스마트팜",
+        "count": 76
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 78
+        "count": 75
       },
       {
         "source": "Google News 농업 지원금",
-        "count": 65
-      },
-      {
-        "source": "Google News 농촌진흥청",
-        "count": 63
+        "count": 60
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 59
+        "count": 54
       },
       {
-        "source": "Google News 농식품부 공고",
-        "count": 53
+        "source": "Google News 지원사업",
+        "count": 45
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 47,
-    "fetched_items": 1032,
+    "new_items": 99,
+    "fetched_items": 1031,
     "errors": []
   }
 }
