@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/usr/bin/env bash
 set -euo pipefail
 
 SOURCE_DIR="$(cd "$(dirname "$0")/.." && pwd)"
@@ -8,20 +8,20 @@ PUBLIC_DIR="$SOURCE_DIR/public"
 rm -rf "$PUBLIC_DIR"
 mkdir -p "$PUBLIC_DIR/data"
 
-/usr/bin/ditto "$SOURCE_DIR/web" "$PUBLIC_DIR"
+cp -R "$SOURCE_DIR/web/." "$PUBLIC_DIR/"
 
 if [[ -f "$RUNTIME_DIR/data/items.json" ]]; then
-  /bin/cp "$RUNTIME_DIR/data/items.json" "$PUBLIC_DIR/data/items.json"
+  cp "$RUNTIME_DIR/data/items.json" "$PUBLIC_DIR/data/items.json"
 elif [[ -f "$SOURCE_DIR/data/items.json" ]]; then
-  /bin/cp "$SOURCE_DIR/data/items.json" "$PUBLIC_DIR/data/items.json"
+  cp "$SOURCE_DIR/data/items.json" "$PUBLIC_DIR/data/items.json"
 else
   echo '{"generated_at":null,"items":[],"stats":{"total":0,"category_counts":{},"top_keywords":[],"top_sources":[]},"run":{"status":"not_run","new_items":0,"errors":[]}}' > "$PUBLIC_DIR/data/items.json"
 fi
 
 if [[ -f "$RUNTIME_DIR/data/summary.json" ]]; then
-  /bin/cp "$RUNTIME_DIR/data/summary.json" "$PUBLIC_DIR/data/summary.json"
+  cp "$RUNTIME_DIR/data/summary.json" "$PUBLIC_DIR/data/summary.json"
 elif [[ -f "$SOURCE_DIR/data/summary.json" ]]; then
-  /bin/cp "$SOURCE_DIR/data/summary.json" "$PUBLIC_DIR/data/summary.json"
+  cp "$SOURCE_DIR/data/summary.json" "$PUBLIC_DIR/data/summary.json"
 fi
 
 cat > "$PUBLIC_DIR/.nojekyll" <<'EOF'
