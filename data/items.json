@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-05-16T06:49:15.172025+00:00",
+  "generated_at": "2026-05-16T06:49:46.312490+00:00",
   "items": [
-    {
-      "id": "db1be74e854df4af975c89d3",
-      "title": "진주시 농업인 안전망 구축 보험 지원사업 추진 > 뉴스 - 더코리아",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTbm1RQ3JFNk5pMXpqLW8tbXZXeVFfQ2J2YkVMekw1S3ZobHJjLTBSSGFraUZLV21SSHZ6WGJLY0ZLbjFnX0VlSm8wYWVYUlk4eGRfZ2lCMTZEZ2U3Ym5sd1ZObXhnRnYtSmxmdElYb0I?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-16T00:24:00+00:00",
-      "collected_at": "2026-05-16T01:48:17.417082+00:00",
-      "summary": "진주시 농업인 안전망 구축 보험 지원사업 추진 > 뉴스 더코리아",
-      "keywords": [
-        "농업",
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "category_label": "지원사업"
-    },
     {
       "id": "6c336cbc0013ac5496bc9254",
       "title": "진주시 농업인 안전망 구축 보험 지원사업 추진 > 뉴스 - thekorea.kr",
@@ -26,7 +8,7 @@
       "source": "Google News 지원사업",
       "category": "support",
       "published_at": "2026-05-16T00:24:00+00:00",
-      "collected_at": "2026-05-16T06:41:42.530859+00:00",
+      "collected_at": "2026-05-16T06:49:44.298234+00:00",
       "summary": "진주시 농업인 안전망 구축 보험 지원사업 추진 > 뉴스 thekorea.kr",
       "keywords": [
         "농업",
@@ -701,7 +683,7 @@
       "source": "Google News 농업",
       "category": "news",
       "published_at": "2026-05-15T08:20:08+00:00",
-      "collected_at": "2026-05-16T06:41:41.494183+00:00",
+      "collected_at": "2026-05-16T06:49:43.789892+00:00",
       "summary": "농촌진흥청, 농촌 활력 제고 현장 목소리 모은다 대한민국 정책브리핑",
       "keywords": [
         "농촌"
@@ -1006,7 +988,7 @@
       "source": "Google News 농업",
       "category": "news",
       "published_at": "2026-05-14T08:37:00+00:00",
-      "collected_at": "2026-05-16T01:48:16.518174+00:00",
+      "collected_at": "2026-05-16T06:49:43.789892+00:00",
       "summary": "李대통령 \"농업은 식량주권 책임지는 핵심전략산업…농촌 대전환 나서야\" v.daum.net",
       "keywords": [
         "농업",
@@ -1620,21 +1602,6 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "ac07b725a584f45e7f2ba40f",
-      "title": "고기철 \"농업, 서귀포 핵심 산업... 경쟁력 확대해야\" - 스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56d2xmUk5SZUdSRlAwY195RlFpUFVtUjBNcm1ROE5uLUplMFd6cV9nZlZTM1lYdjFpajdBWG5CUHo1S3NZUUxKM2hQYjFPNTEyS0E0SVVTV1RyTjVZbmxOT3dzSVlBTzRlSXROQ25TZWo1V2c?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-13T21:30:56+00:00",
-      "collected_at": "2026-05-15T17:29:27.367662+00:00",
-      "summary": "고기철 \"농업, 서귀포 핵심 산업... 경쟁력 확대해야\" 스트레이트뉴스",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
       "id": "a2a61c60aca7b4557e7ccb54",
       "title": "인천농협, 농촌 일손돕기를 통해 '농심천심운동' 국민 참여 확산 - 기호일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nc3N0S05JLTZfLXk5Zlg3ekdyMzhJcEE3Um44LU8xcS15NkJPaWxaQ2ZYZ2lESUd2SzJJRDRfMV9PNlFMcHZEWVNUNWFZem1CSnNHdURlS3o4R0tmSEdobGE3Z2NCVjJPM2hlYXZJbw?oc=5",
@@ -1770,7 +1737,7 @@
       "source": "Google News 농업",
       "category": "news",
       "published_at": "2026-05-13T09:31:00+00:00",
-      "collected_at": "2026-05-15T18:07:08.745479+00:00",
+      "collected_at": "2026-05-16T06:49:43.789892+00:00",
       "summary": "[시론] 농촌융복합산업, 구조혁신만이 살길이다 농민신문",
       "keywords": [
         "농촌"
@@ -1802,22 +1769,6 @@
       "summary": "천안농민회, 박찬우 후보에 ‘농업예산 확대·농민수당’ 요구 농수축산신문",
       "keywords": [
         "농업"
-      ],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "08083a62bb62a4a66a44503b",
-      "title": "천안농민회, 박찬우 천안시장 후보 방문, ‘농업·농촌·농민 살리기’ 서명 전달 - 굿뉴스365",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wY1NySDBaLTRBNWdsbjFaNVlkT05jWTNoMllNbWRTQ3d1VGM1NENnR2xtN1ZVWUJHaVJpeUZHWUlvVVFPSmR5Q0NKaVhHckdKdVlqVVFKWkktSjFCbUN4ejlWcFlPZkd1RVZaTWxKMGJCelVOTmc?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-13T09:09:00+00:00",
-      "collected_at": "2026-05-15T17:29:27.367662+00:00",
-      "summary": "천안농민회, 박찬우 천안시장 후보 방문, ‘농업·농촌·농민 살리기’ 서명 전달 굿뉴스365",
-      "keywords": [
-        "농업",
-        "농촌"
       ],
       "importance": 42,
       "category_label": "농업 뉴스"
@@ -1874,7 +1825,7 @@
       "source": "Google News 농업",
       "category": "news",
       "published_at": "2026-05-13T08:27:02+00:00",
-      "collected_at": "2026-05-16T06:41:41.494183+00:00",
+      "collected_at": "2026-05-16T06:49:43.789892+00:00",
       "summary": "고기철 예비후보, 제주 농업·농촌 발전 방안 논의 제민일보",
       "keywords": [
         "농업",
@@ -1922,19 +1873,6 @@
       "category": "news",
       "published_at": "2026-05-13T08:00:01+00:00",
       "collected_at": "2026-05-15T16:21:53.795077+00:00",
-      "summary": "송미령 농식품장관, 춘천 '에너지 자립' 솔바우마을 방문 연합뉴스",
-      "keywords": [],
-      "importance": 42,
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "522b93e78c01455055459089",
-      "title": "송미령 농식품장관, 춘천 '에너지 자립' 솔바우마을 방문 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FNVFaWDd2X2Y5TkJwT0dseXVUVU5Pb0pSRTRrWGpXZ3NVS0FoRFYtY296TUhyN1pSTVFtM3lfTW1zdUQ5eGFIQ2RtSXBGTFd1dFVETmhCaWRNLWs?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-13T08:00:01+00:00",
-      "collected_at": "2026-05-15T18:07:08.745479+00:00",
       "summary": "송미령 농식품장관, 춘천 '에너지 자립' 솔바우마을 방문 연합뉴스",
       "keywords": [],
       "importance": 42,
@@ -2089,7 +2027,7 @@
       "source": "Google News 지원사업",
       "category": "support",
       "published_at": "2026-05-13T03:25:54+00:00",
-      "collected_at": "2026-05-16T06:41:42.530859+00:00",
+      "collected_at": "2026-05-16T06:49:44.298234+00:00",
       "summary": "고성군, 지역 특성화 채소 작물 기술개발 지원사업 확대 글로벌뉴스통신GNA",
       "keywords": [
         "작물",
@@ -2346,7 +2284,7 @@
       "source": "Google News 농업",
       "category": "support",
       "published_at": "2026-05-12T10:15:37+00:00",
-      "collected_at": "2026-05-16T06:41:41.494183+00:00",
+      "collected_at": "2026-05-16T06:49:43.789892+00:00",
       "summary": "제13회 한광호 농업상 후보자 접수 영농자재신문",
       "keywords": [
         "농업",
@@ -2466,7 +2404,7 @@
       "source": "Google News 지자체 농업기술센터",
       "category": "support",
       "published_at": "2026-05-12T06:18:12+00:00",
-      "collected_at": "2026-05-16T06:41:45.054340+00:00",
+      "collected_at": "2026-05-16T06:49:45.782955+00:00",
       "summary": "서산시, 유기동물 입양하면 최대 30만 원 지원 뉴스티앤티",
       "keywords": [
         "지원"
@@ -2765,7 +2703,7 @@
       "source": "Google News 농식품부 공고",
       "category": "support",
       "published_at": "2026-05-11T08:39:18+00:00",
-      "collected_at": "2026-05-16T06:41:43.409156+00:00",
+      "collected_at": "2026-05-16T06:49:44.862725+00:00",
       "summary": "알림소식 > 인사/채용 농림축산식품부",
       "keywords": [],
       "importance": 68,
@@ -2948,7 +2886,7 @@
       "source": "Google News 농업",
       "category": "news",
       "published_at": "2026-05-11T00:36:33+00:00",
-      "collected_at": "2026-05-16T06:41:41.494183+00:00",
+      "collected_at": "2026-05-16T06:49:43.789892+00:00",
       "summary": "농진청, 韓선진 농업기술 확산 위한 본격 행보 에코타임스",
       "keywords": [
         "농업"
@@ -2996,7 +2934,7 @@
       "source": "Google News 농업",
       "category": "support",
       "published_at": "2026-05-10T12:31:46+00:00",
-      "collected_at": "2026-05-16T06:41:41.494183+00:00",
+      "collected_at": "2026-05-16T06:49:43.789892+00:00",
       "summary": "기름값 걱정 없는 농장 만든다… 농식품부, ‘농업·농촌 에너지 대전환’ 로드맵 수립 착수 돼지와사람",
       "keywords": [
         "농업",
@@ -3115,7 +3053,7 @@
       "source": "Google News 식물 리뷰",
       "category": "plant_reviews",
       "published_at": "2026-05-09T20:36:56+00:00",
-      "collected_at": "2026-05-16T06:41:44.282777+00:00",
+      "collected_at": "2026-05-16T06:49:45.334307+00:00",
       "summary": "“물 줬는데 왜 죽죠?” 천안시 식물 무료 응급실 운영 v.daum.net",
       "keywords": [],
       "importance": 42,
@@ -3495,7 +3433,7 @@
       "source": "Google News 지원사업",
       "category": "support",
       "published_at": "2026-04-30T10:31:57+00:00",
-      "collected_at": "2026-05-15T17:26:53.384407+00:00",
+      "collected_at": "2026-05-16T06:49:44.298234+00:00",
       "summary": "제주도, 청년농업인 성장 지원 본격화…미래 농업 핵심 인력 육성 한국시사경제",
       "keywords": [
         "농업",
@@ -4019,7 +3957,7 @@
       "source": "Google News 지원사업",
       "category": "support",
       "published_at": "2026-04-21T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:49:11.676261+00:00",
+      "collected_at": "2026-05-16T06:49:44.298234+00:00",
       "summary": "농민수당 서비스로 맞춤형 농정지원체계 구축…진화하는 '농업e지' - 머니투데이 머니투데이",
       "keywords": [
         "농업",
@@ -4516,32 +4454,32 @@
     }
   ],
   "stats": {
-    "total": 297,
+    "total": 293,
     "category_counts": {
-      "news": 121,
+      "news": 118,
       "plant_reviews": 15,
-      "support": 161
+      "support": 160
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 120
+        "count": 117
       },
       {
         "keyword": "농촌",
-        "count": 76
+        "count": 75
       },
       {
         "keyword": "지원",
-        "count": 57
+        "count": 56
       },
       {
         "keyword": "사업",
-        "count": 50
+        "count": 49
       },
       {
         "keyword": "지원사업",
-        "count": 36
+        "count": 35
       },
       {
         "keyword": "농식품부",
@@ -4575,7 +4513,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 100
+        "count": 97
       },
       {
         "source": "Google News 농식품부 공고",
@@ -4583,7 +4521,7 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 49
+        "count": 48
       },
       {
         "source": "농사로 이달의 농업기술",
@@ -4602,7 +4540,7 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 1,
+    "new_items": 14,
     "fetched_items": 258,
     "errors": []
   }
