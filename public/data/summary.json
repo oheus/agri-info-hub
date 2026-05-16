@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-05-16T06:49:15.172025+00:00",
-  "total": 297,
+  "generated_at": "2026-05-16T06:49:46.312490+00:00",
+  "total": 293,
   "category_counts": {
-    "news": 121,
+    "news": 118,
     "plant_reviews": 15,
-    "support": 161
+    "support": 160
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 120
+      "count": 117
     },
     {
       "keyword": "농촌",
-      "count": 76
+      "count": 75
     },
     {
       "keyword": "지원",
-      "count": 57
+      "count": 56
     },
     {
       "keyword": "사업",
-      "count": 50
+      "count": 49
     },
     {
       "keyword": "지원사업",
-      "count": 36
+      "count": 35
     },
     {
       "keyword": "농식품부",
@@ -59,7 +59,7 @@
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 100
+      "count": 97
     },
     {
       "source": "Google News 농식품부 공고",
@@ -67,7 +67,7 @@
     },
     {
       "source": "Google News 지원사업",
-      "count": 49
+      "count": 48
     },
     {
       "source": "농사로 이달의 농업기술",
@@ -85,7 +85,7 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 1,
+    "new_items": 14,
     "fetched_items": 258,
     "errors": []
   }
