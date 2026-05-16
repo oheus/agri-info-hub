@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-15T17:37:07.326146+00:00",
-  "total": 282,
+  "generated_at": "2026-05-15T18:07:12.913656+00:00",
+  "total": 284,
   "category_counts": {
-    "news": 115,
+    "news": 117,
     "plant_reviews": 14,
     "support": 153
   },
@@ -13,7 +13,7 @@
     },
     {
       "keyword": "농촌",
-      "count": 71
+      "count": 72
     },
     {
       "keyword": "지원",
@@ -59,7 +59,7 @@
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 92
+      "count": 94
     },
     {
       "source": "Google News 농식품부 공고",
@@ -85,8 +85,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 0,
-    "fetched_items": 261,
+    "new_items": 2,
+    "fetched_items": 265,
     "errors": []
   }
 }

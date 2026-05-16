@@ -13,8 +13,12 @@ mkdir -p "$APP_DIR/data" "$APP_DIR/web" "$APP_DIR/logs"
 mkdir -p "$HOME/Library/LaunchAgents"
 
 /bin/cp "$SOURCE_DIR/collector.py" "$APP_DIR/collector.py"
+/bin/cp "$SOURCE_DIR/publisher.py" "$APP_DIR/publisher.py"
 /bin/cp "$SOURCE_DIR/config.json" "$APP_DIR/config.json"
 /usr/bin/ditto "$SOURCE_DIR/web" "$APP_DIR/web"
+mkdir -p "$APP_DIR/scripts"
+/bin/cp "$SOURCE_DIR/scripts/run_collect_and_publish.sh" "$APP_DIR/scripts/run_collect_and_publish.sh"
+chmod +x "$APP_DIR/scripts/run_collect_and_publish.sh"
 
 if [[ ! -f "$APP_DIR/data/agri_items.sqlite3" && -f "$SOURCE_DIR/data/agri_items.sqlite3" ]]; then
   /bin/cp "$SOURCE_DIR/data/agri_items.sqlite3" "$APP_DIR/data/agri_items.sqlite3"
@@ -38,9 +42,8 @@ cat > "$PLIST_PATH" <<PLIST
 
     <key>ProgramArguments</key>
     <array>
-      <string>/usr/bin/python3</string>
-      <string>${APP_DIR}/collector.py</string>
-      <string>--once</string>
+      <string>/bin/zsh</string>
+      <string>${APP_DIR}/scripts/run_collect_and_publish.sh</string>
     </array>
 
     <key>WorkingDirectory</key>

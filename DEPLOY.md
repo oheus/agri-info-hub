@@ -59,3 +59,30 @@ git push
 ```
 
 The next improvement is to let `launchd` run this publish step automatically after collection, but it needs a GitHub credential/token configured first.
+
+## Automatic Updates From This Mac
+
+Create a GitHub fine-grained token:
+
+```text
+Repository access: oheus/agri-info-hub
+Permission: Contents = Read and write
+```
+
+Save it locally:
+
+```bash
+./scripts/setup_github_token.sh
+```
+
+Reinstall the LaunchAgent so each collection cycle also publishes JSON updates:
+
+```bash
+./scripts/install_launchd.sh
+```
+
+The token is stored outside the repository at:
+
+```text
+~/.agri-info-hub/github.env
+```

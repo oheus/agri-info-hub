@@ -80,6 +80,35 @@ chmod +x scripts/*.sh
 }
 ```
 
+## 공개 사이트 자동 업데이트
+
+Cloudflare Pages는 GitHub 저장소가 바뀌면 자동으로 다시 배포합니다. 이 프로젝트는 수집이 끝난 뒤 GitHub API로 다음 파일을 업데이트할 수 있습니다.
+
+```text
+data/items.json
+data/summary.json
+public/data/items.json
+public/data/summary.json
+```
+
+먼저 GitHub fine-grained token을 만들고 `Contents: Read and write` 권한을 `oheus/agri-info-hub` 저장소에 부여합니다. 그 다음 토큰을 로컬에 저장합니다.
+
+```bash
+./scripts/setup_github_token.sh
+```
+
+토큰 설정 후 자동 실행을 다시 설치합니다.
+
+```bash
+./scripts/install_launchd.sh
+```
+
+수동으로 한 번 테스트하려면:
+
+```bash
+./scripts/run_collect_and_publish.sh
+```
+
 ## 다음 확장
 
 - 공개 배포 절차는 `DEPLOY.md` 참고

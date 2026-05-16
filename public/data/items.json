@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T17:37:07.326146+00:00",
+  "generated_at": "2026-05-15T18:07:12.913656+00:00",
   "items": [
     {
       "id": "2209905eb2a204efa75c2286",
@@ -1697,6 +1697,21 @@
       "category_label": "지원사업"
     },
     {
+      "id": "8097c4c279f0b0a1ebfc8c71",
+      "title": "[시론] 농촌융복합산업, 구조혁신만이 살길이다 - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VVWpDNGVHVVlWWUpqYlRZNGQwVDJxdWE3V0tHSzltUHdJN29OenM4a3dWUnhjSjd6TC1xZE1wYjd4eHdaQ2dsRWl1RHBoUUpwUlRCbHFaTXFkZw?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-13T09:31:00+00:00",
+      "collected_at": "2026-05-15T18:07:08.745479+00:00",
+      "summary": "[시론] 농촌융복합산업, 구조혁신만이 살길이다 농민신문",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "66262dc3fd452adcbfac5bbe",
       "title": "충남 천안 지역뉴스 - 천안신문",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0d1U5OGVXQjU1SUpVcXBndFZzVVNXQTVyeXE0ODFYUnJBVlFKNmNjZ1A0TFFDUVZqckYtbk1sM3hsMHhYOXFuRklHcFRUUTdOeEFoOWIxX2RfdUhKZkx1R1ppMEc?oc=5",
@@ -1824,6 +1839,19 @@
       "category": "news",
       "published_at": "2026-05-13T08:00:01+00:00",
       "collected_at": "2026-05-15T16:21:53.795077+00:00",
+      "summary": "송미령 농식품장관, 춘천 '에너지 자립' 솔바우마을 방문 연합뉴스",
+      "keywords": [],
+      "importance": 42,
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "522b93e78c01455055459089",
+      "title": "송미령 농식품장관, 춘천 '에너지 자립' 솔바우마을 방문 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FNVFaWDd2X2Y5TkJwT0dseXVUVU5Pb0pSRTRrWGpXZ3NVS0FoRFYtY296TUhyN1pSTVFtM3lfTW1zdUQ5eGFIQ2RtSXBGTFd1dFVETmhCaWRNLWs?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-13T08:00:01+00:00",
+      "collected_at": "2026-05-15T18:07:08.745479+00:00",
       "summary": "송미령 농식품장관, 춘천 '에너지 자립' 솔바우마을 방문 연합뉴스",
       "keywords": [],
       "importance": 42,
@@ -4282,9 +4310,9 @@
     }
   ],
   "stats": {
-    "total": 282,
+    "total": 284,
     "category_counts": {
-      "news": 115,
+      "news": 117,
       "plant_reviews": 14,
       "support": 153
     },
@@ -4295,7 +4323,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 71
+        "count": 72
       },
       {
         "keyword": "지원",
@@ -4341,7 +4369,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 92
+        "count": 94
       },
       {
         "source": "Google News 농식품부 공고",
@@ -4368,8 +4396,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 0,
-    "fetched_items": 261,
+    "new_items": 2,
+    "fetched_items": 265,
     "errors": []
   }
 }
