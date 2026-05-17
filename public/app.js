@@ -8,6 +8,7 @@ const state = {
   run: {},
   category: "all",
   query: "",
+  sort: "latest",
   view: "home",
 };
 
@@ -55,6 +56,7 @@ const elements = {
   metricLinks: document.querySelectorAll("[data-feed-category]"),
   views: document.querySelectorAll(".view"),
   categoryTabs: document.querySelectorAll(".category-tab"),
+  sortTabs: document.querySelectorAll(".sort-tab"),
 };
 
 function formatDate(value) {
@@ -112,6 +114,14 @@ function setCategory(category) {
   renderItems();
 }
 
+function setSort(sort) {
+  state.sort = sort;
+  elements.sortTabs.forEach((tab) => {
+    tab.classList.toggle("active", tab.dataset.sort === sort);
+  });
+  renderItems();
+}
+
 function openFeedCategory(category) {
   state.query = "";
   elements.searchInput.value = "";
@@ -120,17 +130,47 @@ function openFeedCategory(category) {
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
+function itemTime(item) {
+  const date = new Date(item.published_at || item.collected_at || 0);
+  return Number.isNaN(date.getTime()) ? 0 : date.getTime();
+}
+
+function deadlineTime(item) {
+  if (!item.deadline_date) return Number.POSITIVE_INFINITY;
+  const date = new Date(item.deadline_date);
+  return Number.isNaN(date.getTime()) ? Number.POSITIVE_INFINITY : date.getTime();
+}
+
 function filteredItems() {
   const query = normalize(state.query);
-  return state.items.filter((item) => {
+  const items = state.items.filter((item) => {
     const categoryMatch = state.category === "all" || item.category === state.category;
     const queryText = normalize([
       item.title,
       item.summary,
       item.source,
+      item.region,
+      item.deadline_text,
       ...(item.keywords || []),
     ].join(" "));
     return categoryMatch && (!query || queryText.includes(query));
+  });
+
+  return items.sort((a, b) => {
+    if (state.sort === "importance") {
+      return (b.importance || 0) - (a.importance || 0) || itemTime(b) - itemTime(a);
+    }
+    if (state.sort === "support") {
+      return Number(b.category === "support") - Number(a.category === "support")
+        || (b.importance || 0) - (a.importance || 0)
+        || itemTime(b) - itemTime(a);
+    }
+    if (state.sort === "deadline") {
+      return deadlineTime(a) - deadlineTime(b)
+        || Number(b.category === "support") - Number(a.category === "support")
+        || (b.importance || 0) - (a.importance || 0);
+    }
+    return itemTime(b) - itemTime(a);
   });
 }
 
@@ -194,6 +234,8 @@ function itemMarkup(item, compact = false) {
   const url = safeUrl(item.url);
   const categoryLabel = escapeHtml(categoryLabels[item.category] || item.category);
   const categoryClass = Object.hasOwn(categoryLabels, item.category) ? item.category : "news";
+  const region = item.region ? `<span class="info-chip">${escapeHtml(item.region)}</span>` : "";
+  const deadline = item.deadline_text ? `<span class="info-chip deadline">${escapeHtml(item.deadline_text)}</span>` : "";
   const titleMarkup = url
     ? `<a href="${url}">${title}</a>`
     : `<span>${title}</span>`;
@@ -212,6 +254,7 @@ function itemMarkup(item, compact = false) {
         <span class="importance">중요도 ${item.importance}</span>
       </div>
       <h3>${titleMarkup}</h3>
+      ${region || deadline ? `<div class="item-signals">${region}${deadline}</div>` : ""}
       ${compact ? "" : `<p class="item-summary">${summary}</p>`}
       <div class="item-footer">
         <div class="item-meta">${source} · ${formatDate(date)}</div>
@@ -342,6 +385,12 @@ elements.metricLinks.forEach((card) => {
 elements.categoryTabs.forEach((tab) => {
   tab.addEventListener("click", () => {
     setCategory(tab.dataset.category);
+  });
+});
+
+elements.sortTabs.forEach((tab) => {
+  tab.addEventListener("click", () => {
+    setSort(tab.dataset.sort);
   });
 });
 

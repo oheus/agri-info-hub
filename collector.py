@@ -108,6 +108,25 @@ QUALITY_ALLOW_TERMS = [
     "물주기",
     "키우기",
 ]
+REGION_ALIASES = [
+    ("서울", ["서울", "서울시", "서울특별시"]),
+    ("부산", ["부산", "부산시", "부산광역시"]),
+    ("대구", ["대구", "대구시", "대구광역시"]),
+    ("인천", ["인천", "인천시", "인천광역시"]),
+    ("광주", ["광주", "광주시", "광주광역시"]),
+    ("대전", ["대전", "대전시", "대전광역시"]),
+    ("울산", ["울산", "울산시", "울산광역시"]),
+    ("세종", ["세종", "세종시", "세종특별자치시"]),
+    ("경기", ["경기", "경기도", "수원", "용인", "고양", "화성", "성남", "양주", "안산", "하남", "평택"]),
+    ("강원", ["강원", "강원도", "강원특별자치도", "춘천", "원주", "강릉", "태백"]),
+    ("충북", ["충북", "충청북도", "청주", "충주", "제천"]),
+    ("충남", ["충남", "충청남도", "천안", "아산", "공주", "논산", "부여"]),
+    ("전북", ["전북", "전라북도", "전북특별자치도", "전주", "익산", "군산"]),
+    ("전남", ["전남", "전라남도", "목포", "순천", "나주", "해남"]),
+    ("경북", ["경북", "경상북도", "대구경북", "포항", "안동", "상주", "군위"]),
+    ("경남", ["경남", "경상남도", "창원", "진주", "김해", "거창", "양산"]),
+    ("제주", ["제주", "제주도", "제주특별자치도"]),
+]
 
 
 @dataclass
@@ -318,6 +337,67 @@ def comparable_title(value: str) -> str:
     return value.lower()
 
 
+def infer_region(text: str) -> str:
+    for region, aliases in REGION_ALIASES:
+        if any(alias in text for alias in aliases):
+            return region
+    if any(term in text for term in ["농식품부", "농림축산식품부", "농촌진흥청"]):
+        return "전국"
+    return ""
+
+
+def infer_deadline(text: str, base_date: str | None = None) -> tuple[str, str]:
+    if not any(term in text for term in ["마감", "까지", "접수", "신청", "모집", "공고", "공모", "지원", "보조", "융자"]):
+        return "", ""
+
+    year = dt.datetime.now().year
+    if base_date:
+        try:
+            year = dt.datetime.fromisoformat(base_date.replace("Z", "+00:00")).year
+        except ValueError:
+            pass
+
+    date_patterns = [
+        re.compile(r"(?:(20\d{2})년\s*)?(\d{1,2})월\s*(\d{1,2})일(?:\s*(?:까지|마감|접수))?"),
+        re.compile(r"(?:(20\d{2})[./-])?(\d{1,2})[./-](\d{1,2})(?:\s*(?:까지|마감|접수))?"),
+    ]
+    for pattern in date_patterns:
+        match = pattern.search(text)
+        if not match:
+            continue
+        parsed_year = int(match.group(1) or year)
+        month = int(match.group(2))
+        day = int(match.group(3))
+        try:
+            deadline = dt.date(parsed_year, month, day)
+        except ValueError:
+            continue
+        return f"{month}월 {day}일 마감", deadline.isoformat()
+
+    day_match = re.search(r"(?:오는\s*)?(\d{1,2})일까지", text)
+    if day_match:
+        month = dt.datetime.now().month
+        day = int(day_match.group(1))
+        try:
+            deadline = dt.date(year, month, day)
+            if deadline < dt.date.today():
+                next_month = 1 if month == 12 else month + 1
+                next_year = year + 1 if month == 12 else year
+                deadline = dt.date(next_year, next_month, day)
+        except ValueError:
+            deadline = None
+        if deadline:
+            return f"{deadline.month}월 {deadline.day}일 마감", deadline.isoformat()
+
+    if "상시" in text:
+        return "상시 접수", ""
+    if "선착순" in text:
+        return "선착순", ""
+    if any(term in text for term in ["신청", "접수", "모집"]):
+        return "신청 정보 확인", ""
+    return "", ""
+
+
 def passes_quality_filter(title: str, summary: str, category: str, keywords: list[str]) -> bool:
     text = f"{title} {summary}"
     if any(term.lower() in text.lower() for term in QUALITY_BLOCK_TERMS):
@@ -488,6 +568,9 @@ def rows_to_items(rows: list[sqlite3.Row]) -> list[dict[str, Any]]:
         if title_key in seen_titles:
             continue
         seen_titles.add(title_key)
+        full_text = f"{item['title']} {item['summary']}"
+        item["region"] = infer_region(full_text)
+        item["deadline_text"], item["deadline_date"] = infer_deadline(full_text, item.get("published_at"))
         item["category_label"] = CATEGORY_LABELS.get(item["category"], item["category"])
         items.append(item)
     return items
