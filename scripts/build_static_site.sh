@@ -10,18 +10,18 @@ mkdir -p "$PUBLIC_DIR/data"
 
 cp -R "$SOURCE_DIR/web/." "$PUBLIC_DIR/"
 
-if [[ -f "$RUNTIME_DIR/data/items.json" ]]; then
-  cp "$RUNTIME_DIR/data/items.json" "$PUBLIC_DIR/data/items.json"
-elif [[ -f "$SOURCE_DIR/data/items.json" ]]; then
+if [[ -f "$SOURCE_DIR/data/items.json" ]]; then
   cp "$SOURCE_DIR/data/items.json" "$PUBLIC_DIR/data/items.json"
+elif [[ -f "$RUNTIME_DIR/data/items.json" ]]; then
+  cp "$RUNTIME_DIR/data/items.json" "$PUBLIC_DIR/data/items.json"
 else
   echo '{"generated_at":null,"items":[],"stats":{"total":0,"category_counts":{},"top_keywords":[],"top_sources":[]},"run":{"status":"not_run","new_items":0,"errors":[]}}' > "$PUBLIC_DIR/data/items.json"
 fi
 
-if [[ -f "$RUNTIME_DIR/data/summary.json" ]]; then
-  cp "$RUNTIME_DIR/data/summary.json" "$PUBLIC_DIR/data/summary.json"
-elif [[ -f "$SOURCE_DIR/data/summary.json" ]]; then
+if [[ -f "$SOURCE_DIR/data/summary.json" ]]; then
   cp "$SOURCE_DIR/data/summary.json" "$PUBLIC_DIR/data/summary.json"
+elif [[ -f "$RUNTIME_DIR/data/summary.json" ]]; then
+  cp "$RUNTIME_DIR/data/summary.json" "$PUBLIC_DIR/data/summary.json"
 fi
 
 cat > "$PUBLIC_DIR/.nojekyll" <<'EOF'

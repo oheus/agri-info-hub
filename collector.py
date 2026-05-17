@@ -42,6 +42,72 @@ CATEGORY_LABELS = {
 SUPPORT_HINTS = ["지원", "보조", "융자", "공모", "신청", "모집", "접수", "사업", "농업기술센터", "농식품부"]
 PLANT_REVIEW_HINTS = ["후기", "리뷰", "식집사", "반려식물", "실내식물", "분갈이", "키우기", "물주기"]
 NEWS_HINTS = ["농업", "농촌", "작물", "재배", "병해충", "기후", "스마트팜", "농산물"]
+QUALITY_BLOCK_TERMS = [
+    "바로가기",
+    "직원목록",
+    "조직도",
+    "오시는 길",
+    "모바일웹",
+    "사이트맵",
+    "개인정보처리방침",
+    "저작권",
+    "로그인",
+    "회원가입",
+    "주간업무일정",
+    "월간업무일정",
+    "국립원예특작과학원 /",
+    " / ",
+    "농업기술데이터플랫폼",
+    "[포토]",
+    "기고",
+    "선박",
+    "일손돕기",
+    "발대",
+    "행사 성료",
+    "프로그램 운영",
+    "채용후보자",
+    "최종합격자",
+    "서류전형",
+    "면접시험",
+    "기간제근로자",
+    "전문임기제",
+    "일반직공무원",
+    "네이버 블로그",
+    "Naver Blog",
+    "브런치",
+    "쿠팡",
+    "가격비교",
+    "할인",
+    "쿠폰",
+    "광고",
+    "협찬",
+    "로또",
+    "코인",
+    "주식",
+    "부동산",
+]
+QUALITY_ALLOW_TERMS = [
+    "보도자료",
+    "공고",
+    "지원",
+    "신청",
+    "모집",
+    "사업",
+    "재배",
+    "병해충",
+    "방제",
+    "농업기술",
+    "스마트팜",
+    "청년농",
+    "귀농",
+    "농산물",
+    "가격",
+    "반려식물",
+    "실내식물",
+    "분갈이",
+    "물주기",
+    "키우기",
+]
 
 
 @dataclass
@@ -246,6 +312,28 @@ def score_importance(text: str, category: str, source_name: str) -> int:
     return max(0, min(score, 100))
 
 
+def comparable_title(value: str) -> str:
+    value = re.sub(r"\s+-\s+[^-]+$", "", value)
+    value = re.sub(r"[\[\]“”\"'‘’…·,.:;!?()\s]+", "", value)
+    return value.lower()
+
+
+def passes_quality_filter(title: str, summary: str, category: str, keywords: list[str]) -> bool:
+    text = f"{title} {summary}"
+    if any(term.lower() in text.lower() for term in QUALITY_BLOCK_TERMS):
+        return False
+
+    if category == "support":
+        return any(term in text for term in ["지원", "보조", "융자", "공모", "신청", "모집", "사업", "공고"])
+
+    if category == "plant_reviews":
+        return any(term in text for term in ["반려식물", "식물", "실내식물", "분갈이", "물주기", "키우기", "다육", "몬스테라", "허브"])
+
+    if keywords:
+        return True
+    return any(term in text for term in QUALITY_ALLOW_TERMS)
+
+
 def parse_feed(raw: bytes, source: dict[str, Any], config: dict[str, Any]) -> list[CollectedItem]:
     root = ET.fromstring(raw)
     nodes = root.findall(".//item")
@@ -266,6 +354,9 @@ def parse_feed(raw: bytes, source: dict[str, Any], config: dict[str, Any]) -> li
         full_text = f"{title} {description}"
         category = classify_item(full_text, source.get("category", "news"))
         keywords = extract_keywords(full_text, config)
+        summary = summarize(title, description)
+        if not passes_quality_filter(title, summary, category, keywords):
+            continue
         item_id = stable_id(url or f"{title}:{published_at}")
 
         items.append(
@@ -277,7 +368,7 @@ def parse_feed(raw: bytes, source: dict[str, Any], config: dict[str, Any]) -> li
                 category=category,
                 published_at=published_at,
                 collected_at=collected_at,
-                summary=summarize(title, description),
+                summary=summary,
                 keywords=keywords,
                 importance=score_importance(full_text, category, source["name"]),
             )
@@ -310,6 +401,8 @@ def parse_html_links(raw: bytes, source: dict[str, Any], config: dict[str, Any])
 
         category = classify_item(title, source.get("category", "news"))
         keywords = extract_keywords(title, config)
+        if not passes_quality_filter(title, title, category, keywords):
+            continue
         items.append(
             CollectedItem(
                 id=stable_id(url),
@@ -380,6 +473,7 @@ def save_items(items: list[CollectedItem]) -> int:
 
 def rows_to_items(rows: list[sqlite3.Row]) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
+    seen_titles: set[str] = set()
     for row in rows:
         item = dict(row)
         if not is_public_http_url(item.get("url", "")):
@@ -388,6 +482,12 @@ def rows_to_items(rows: list[sqlite3.Row]) -> list[dict[str, Any]]:
             item["keywords"] = json.loads(item["keywords"])
         except json.JSONDecodeError:
             item["keywords"] = []
+        if not passes_quality_filter(item["title"], item["summary"], item["category"], item["keywords"]):
+            continue
+        title_key = comparable_title(item["title"])
+        if title_key in seen_titles:
+            continue
+        seen_titles.add(title_key)
         item["category_label"] = CATEGORY_LABELS.get(item["category"], item["category"])
         items.append(item)
     return items
