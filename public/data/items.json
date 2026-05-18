@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T07:27:06.999277+00:00",
+  "generated_at": "2026-05-18T07:57:39.860472+00:00",
   "items": [
     {
       "id": "8ddfb72f3f3bb926b5129ef8",
@@ -143,6 +143,26 @@
       "importance": 64,
       "region": "경기",
       "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "f30e047cba948d92e8ad84f7",
+      "title": "무주군, 농림축산식품부 공모...청년 · 후계농업경영인 11명 선발 - 무진장뉴스i",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhZjQwQ1hzSm5ZOXVfVGRiVzNYaXozcElWbnBBVEduTVRxNUZleS1OV1kwWEZaVlUzZE5lTW1ObnBld1Z2SDZuQjBGTmVQaG5IRkVjdmc4U2pHOXpk?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-18T06:45:26+00:00",
+      "collected_at": "2026-05-18T07:57:30.508010+00:00",
+      "summary": "무주군, 농림축산식품부 공모...청년 · 후계농업경영인 11명 선발 무진장뉴스i",
+      "keywords": [
+        "농업",
+        "공모",
+        "후계농"
+      ],
+      "importance": 58,
+      "region": "전국",
+      "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
     },
@@ -4708,6 +4728,25 @@
       "published_at": "2026-05-13T08:57:22+00:00",
       "collected_at": "2026-05-15T16:21:53.795077+00:00",
       "summary": "\"지속 가능한 미래농업 기반 구축\"…이학수 정읍시장 후보, 농업·농촌 분야 정책공약 프레시안",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "b2e2213b4f45c2515f145589",
+      "title": "고기철 \"농업과 농촌의 지속가능성 위해 제도 개선\" - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oajBzcDhpZ3E1VlhkREpWbkJOQ1ljWTF3OXhzMUtHT0FNNm9mNlhrZzZacGRlaHR3elQ5ZkdTRTBsU0E5ZC1NSVJHTQ?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-13T08:39:19+00:00",
+      "collected_at": "2026-05-18T07:57:18.638421+00:00",
+      "summary": "고기철 \"농업과 농촌의 지속가능성 위해 제도 개선\" v.daum.net",
       "keywords": [
         "농업",
         "농촌"
@@ -10360,92 +10399,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f466232fb1990ff5a4b0829a",
-      "title": "가락시장 농산물 가격-2026년 4월30일 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1heDBSWnl5VmwxNWJkeEc0Mmc4ejFsM3I1dVhrNndSY0J4cjlLcEtIODUydUFTb05ORXhhY3VkSTA5SHB3S3N6UFFJaW5PcVdvSkJJN0xvZkVMQQ?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-04-30T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "가락시장 농산물 가격-2026년 4월30일 농민신문",
-      "keywords": [
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "efd7b76d04190165f4e92a66",
-      "title": "“토종닭 달걀 시장 연다”…농촌진흥청-한국토종닭협회 업무협약 - rda.go.kr",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTk90bGFFelpiLVp5OVU1U2w1YWdmZnlJeW9TUG9FbTNaUnhxbC1WUVU2bmhEY0xyQnBZVkpkZVVMQ1ctWE5wZlJWX2Y5d2pCMlJRWS15ZWY5Y1FrbGt3WEhDZ0VxMUVwZC14SkpzclVsMzRSeUlEV3doeWxKUkk2Q1AwQUFuUnd4YlF0XzFoM0dvYVFXQzF2LXV3?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-04-30T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:42.817671+00:00",
-      "summary": "“토종닭 달걀 시장 연다”…농촌진흥청-한국토종닭협회 업무협약 rda.go.kr",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "bfe115d53a01fe09884fe718",
-      "title": "암 투병 귀농인 부부 농사 돕기 … 온 마을이 나섰다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10dVBTLUtBQktKdm50THRPR3JEX1FOMUo5azExYXJJMXN4bGtyeWVvM1lVc1pocDNNeUhRSGl1NEY3U1ZCLTdnMi1lMDg4Zkk?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-04-30T07:00:00+00:00",
-      "collected_at": "2026-05-16T07:27:04.644788+00:00",
-      "summary": "암 투병 귀농인 부부 농사 돕기 … 온 마을이 나섰다 v.daum.net",
-      "keywords": [
-        "귀농"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "ce73e38129e60ab8547cae6d",
-      "title": "안성시, ‘안심 외식환경 조성’ 저금리 융자 - 자치안성신문",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PUlZESTNUdVJCNkxBajd1WFQ1S0tTbklZVnRGMTgtU3JDVG80Q2lyVXNIMHV0ZXdpdGV0QjlLQkt6ZXdVQlpnZ2ZtWjdUdUI3Ym9WS25QdEdISU1HWkE0cEs3ZWZnRDcxY1JMeVJ1dndXa25UVDI0ODdQUkU?oc=5",
-      "source": "Google News 농업 지원금",
-      "category": "support",
-      "published_at": "2026-04-30T07:00:00+00:00",
-      "collected_at": "2026-05-16T07:27:10.942595+00:00",
-      "summary": "안성시, ‘안심 외식환경 조성’ 저금리 융자 자치안성신문",
-      "keywords": [
-        "융자"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 553,
+    "total": 551,
     "category_counts": {
-      "news": 315,
+      "news": 313,
       "plant_reviews": 51,
       "support": 187
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 172
+        "count": 174
       },
       {
         "keyword": "지원",
@@ -10469,14 +10435,14 @@
       },
       {
         "keyword": "귀농",
-        "count": 54
-      },
-      {
-        "keyword": "농산물",
-        "count": 50
+        "count": 53
       },
       {
         "keyword": "모집",
+        "count": 49
+      },
+      {
+        "keyword": "농산물",
         "count": 49
       },
       {
@@ -10495,15 +10461,15 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 89
+        "count": 90
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 68
+        "count": 67
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 57
+        "count": 56
       },
       {
         "source": "Google News 식물 키우기",
@@ -10531,15 +10497,15 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 16
+        "count": 17
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 104,
-    "fetched_items": 692,
+    "new_items": 7,
+    "fetched_items": 688,
     "errors": []
   }
 }
