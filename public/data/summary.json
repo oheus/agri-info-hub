@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-18T20:01:19.642119+00:00",
-  "total": 545,
+  "generated_at": "2026-05-18T20:31:47.651795+00:00",
+  "total": 543,
   "category_counts": {
-    "news": 307,
-    "plant_reviews": 50,
-    "support": 188
+    "news": 308,
+    "plant_reviews": 49,
+    "support": 186
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 178
+      "count": 177
     },
     {
       "keyword": "지원",
@@ -17,11 +17,11 @@
     },
     {
       "keyword": "농촌",
-      "count": 83
+      "count": 82
     },
     {
       "keyword": "사업",
-      "count": 64
+      "count": 65
     },
     {
       "keyword": "반려식물",
@@ -29,31 +29,31 @@
     },
     {
       "keyword": "농산물",
-      "count": 51
+      "count": 50
     },
     {
       "keyword": "귀농",
-      "count": 50
+      "count": 49
     },
     {
       "keyword": "스마트팜",
-      "count": 50
+      "count": 49
     },
     {
       "keyword": "모집",
-      "count": 47
+      "count": 45
     },
     {
       "keyword": "지원사업",
       "count": 41
     },
     {
-      "keyword": "청년농",
-      "count": 38
+      "keyword": "작물",
+      "count": 40
     },
     {
-      "keyword": "작물",
-      "count": 36
+      "keyword": "청년농",
+      "count": 38
     }
   ],
   "top_sources": [
@@ -63,11 +63,11 @@
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 61
+      "count": 60
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 59
+      "count": 58
     },
     {
       "source": "Google News 식물 키우기",
@@ -75,11 +75,11 @@
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 53
+      "count": 57
     },
     {
       "source": "Google News 스마트팜",
-      "count": 43
+      "count": 42
     },
     {
       "source": "농사로 이달의 농업기술",
@@ -91,7 +91,7 @@
     },
     {
       "source": "Google News 농업기술센터 모집",
-      "count": 32
+      "count": 30
     },
     {
       "source": "Google News 청년농 지원",
@@ -102,7 +102,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 16,
-    "fetched_items": 688,
+    "fetched_items": 686,
     "errors": []
   }
 }
