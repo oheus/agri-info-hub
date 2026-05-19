@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T01:23:18.709480+00:00",
+  "generated_at": "2026-05-19T01:53:48.674349+00:00",
   "items": [
     {
       "id": "766ceda4c60f490b814517f9",
@@ -32,6 +32,25 @@
         "농산물"
       ],
       "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "777eea15363d470f651c5113",
+      "title": "정부, 일부 농산물 가격 상승에 '수급 안정 대책 강화' - 세이프타임즈",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EeDR2MnlsU3YwVnQ2UjJOcFhXUVdhU2ZOVktqNm4wTW5vQk1VcUZ5aUo5Zk1WSm5rc2pqVXNnT2lBYWUwQjE3WF96U1UzeWNtNDAxdkE0dWI5WG5vdU91dmxRMWV0Q01RVHpud25IY9IBc0FVX3lxTE5sSmp0eXBmRml3X3M4ZjFZSEZwRHN2OHdUbERXZ3poa2hRWlFqQ3NpcTVEbktuV0FDU1FFVVE5Q2Y1VHhub3huZTJpMFV6b1FrLUtCRHBpOGI1V0RZNlFrTks3dy14YU1tQ1kxRFdzQU9Qbkk?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-05-19T00:32:23+00:00",
+      "collected_at": "2026-05-19T01:53:34.888026+00:00",
+      "summary": "정부, 일부 농산물 가격 상승에 '수급 안정 대책 강화' 세이프타임즈",
+      "keywords": [
+        "농산물",
+        "농산물 가격"
+      ],
+      "importance": 48,
       "region": "",
       "deadline_text": "",
       "deadline_date": "",
@@ -3270,6 +3289,26 @@
       "category_label": "지원사업"
     },
     {
+      "id": "f04c3637a176dcd1fae66fa5",
+      "title": "영천 스마트팜 토마토, 홍콩 프리미엄 시장 첫 수출 - 농업인신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hZU1oVlkzaFdnYzd1OTJwWUp4MUNmWU5qOUtpWm1CUmFGMnZGMzNXbDB1c2Zld2FVSFJySGp0azROU3VTdG5LSkZDN0kyZS1XanRMVnA4S2FDbnM4azdTUEZfSXc0bGc0ak9UVQ?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-15T06:32:11+00:00",
+      "collected_at": "2026-05-19T01:53:31.407635+00:00",
+      "summary": "영천 스마트팜 토마토, 홍콩 프리미엄 시장 첫 수출 농업인신문",
+      "keywords": [
+        "농업",
+        "스마트팜",
+        "농업인"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "eb36438a681c01646158025a",
       "title": "TYM, 귀농 임직원 트랙터 무상 지원 - 농업인신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XdkdNaDhvbC1Sc2h2eC1mdmVfRk9ZMDBYbHE4MkI4MEstajBvMkZvT3ZEcEpZYjhtanY1WUhCV05JbWlNMk13S2VNT1FZU0d6dzJpeE1uY0ZVLTBCWGI2TDRUQVhyQmhFZWRtYQ?oc=5",
@@ -3618,6 +3657,26 @@
       "category_label": "지원사업"
     },
     {
+      "id": "8ac9c9e048cf2cbd3323acca",
+      "title": "시설원예 흔드는 이상기후…스마트팜 확산은 ‘제자리’ - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZGczdlp2cGlYbmF5VFNDR3NxLWxNOHBQWGhmeEYwWThLUzVHbVY4MlVtNnFzT29fLVZjWmsxV1hDSG1iZzh0dEJXZWJ2MkV5QmoxV1VHT2Fvd0xBY3YwWmZieXRTYkdDdkhmRGpHSXBtUjZZN3NVeTMxQTVONHBUYjJPU0p5RW1oTW1ueGpwNC1NU000ektRUFVuQm55Qmo4ZWFXQXJ5dVdwYUl3enFBcnc5WWdGcDdqNGtHR0MxUDV6czUzTWtjb3VGZTJUUzljMHlrdG5GcEVkd2UyZVZqaEdzVFpla0IxbmxYVUZSblNrRDZLVmpiUFZBVnJKeUtMMnRCYU95Y2pBd3RMaE1yaGM1UUptV2hCV2NmcHdlZVlvZ9IBpAJBVV95cUxNN3FPeDVDc1NyTmkyakxyUDU5RG1GbmFxS2tDd05uWUNjYTh0WHlZU3E0ZHBqcHpyQmFrOWIxRktXQWRqN1ZaZHA4a3g5SzkwZmFiR0FnTm5uZkswbkdPd3JUTjVXUVh4bEhObXA3ckFUcHI2RzRDYWNWMW1EdE1DS1c4RHNjNEc4aF9pYjhLRVJqYzBKdFRVejdmcnVXandsLVJVN1VHZmw1WGRXak5TZW5ZSTNXcFBPNHNkMEhsLWUxandNbzBHQ2o3XzNPbk91b0pMaW54enFMYzIwUTJMMEE5aVNScXRnUnRHenotZEVFbmJaZFlJQVJOcS1EVHZYZTNpeWlRYmhQTERJNk83ZzBoMm5yUzd3ZFJxRzgtcXBOYWpC?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-15T02:29:00+00:00",
+      "collected_at": "2026-05-19T01:53:31.407635+00:00",
+      "summary": "시설원예 흔드는 이상기후…스마트팜 확산은 ‘제자리’ 데일리안",
+      "keywords": [
+        "스마트팜",
+        "기후",
+        "시설원예"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "4bb8b55e423c0ed8a05dc446",
       "title": "도농 상생 농촌체험 운영… 완주 고산농협, 도시 소비자와 교감 - 완주신문",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vMnJQTWJNcjJpR1k1UUN1UG9ienBRVXZQUkplSkpzc3VWV0E3MmxMaVlCZV9xeGFzTEc2WWxhZHpHZHV6UkdvY2ZCWVN3c25veVpOLV9DUEJ4OGI1V1pn?oc=5",
@@ -3957,6 +4016,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "6e2be2ef5d990e9c4964e428",
+      "title": "충북개발공사, 괴산군과 맞손ⵈ ‘충북형 스마트팜’ 추가 조성 - 국토일보",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82bW9LeUpLbTBTbmtaWWxrdmFubnk3V3FHdWx6TENHRWwzaVVicktNRmgwdUJ4ZjVOSFpadHY5dFFZRkxjNEV2bE5QSlRySjlpVDJCeEhld0c5TGRiTWlzaXYwNA?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-14T09:37:46+00:00",
+      "collected_at": "2026-05-19T01:53:31.407635+00:00",
+      "summary": "충북개발공사, 괴산군과 맞손ⵈ ‘충북형 스마트팜’ 추가 조성 국토일보",
+      "keywords": [
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "충북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "b09371f0d005cdc8b7029946",
@@ -4592,6 +4669,24 @@
       ],
       "importance": 48,
       "region": "세종",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "b4736e0a1584710aa1dcadbf",
+      "title": "영천시 스마트팜 시설에 해외 관계자들 견학 잇따라 - 구미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uejZWNGlPcUxERlFaQ0FzRmRodV9HNDkxWHJEcUxVNV9IeEhkcF82ZEhuV3REUUUxc0diMXNJMUJLWlh6MnVfX1YtZ0RvQVkzcEJ4bXpNdk9UU1Qtd255VEVRQjNqaVI5VXl6SnBQSQ?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-14T05:13:00+00:00",
+      "collected_at": "2026-05-19T01:53:31.407635+00:00",
+      "summary": "영천시 스마트팜 시설에 해외 관계자들 견학 잇따라 구미뉴스",
+      "keywords": [
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -6167,6 +6262,26 @@
       "summary": "이학수 정읍시장 예비후보 “햇빛연금·스마트농업으로 체질 개선” 전라일보",
       "keywords": [
         "농업"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "2be409debb38088ecb8661a5",
+      "title": "영천시 농업인, 스마트팜 토마토 홍콩 첫 수출 성과 - 베타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94S19zRFN5SllOZmhLX2ZOSGtYUVBJMGU4R2t5WTR0dndqb1U4ZHd2eGVaY2FFaFFjMWFVQi1WeXVELWd1QnhFTzdvRFRuNGpUUUF0OGVONUJVN0hnX1hNMW05TEc?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-13T03:59:49+00:00",
+      "collected_at": "2026-05-19T01:53:31.407635+00:00",
+      "summary": "영천시 농업인, 스마트팜 토마토 홍콩 첫 수출 성과 베타뉴스",
+      "keywords": [
+        "농업",
+        "스마트팜",
+        "농업인"
       ],
       "importance": 42,
       "region": "",
@@ -7969,6 +8084,25 @@
       ],
       "importance": 70,
       "region": "제주",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "a51ec19230c5210d4252a24a",
+      "title": "경산시, 시설원예 농가 난방비 긴급 지원…면세유 인상분 보전 나선다 - kyongbuk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtekpHR3V4SktxOUdvYngwNGF6cmhRRFhpZzlubi1lR0JJR0pIQTdhczRlRXdQVkY5YXFKV2QyYWQwdGUtd1pQcllJUS1BSnI0SXlpZEFPMEpWLVdKaTJHekJWaUwzRHUyYVJ3WnNpYw?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "support",
+      "published_at": "2026-05-11T07:06:36+00:00",
+      "collected_at": "2026-05-19T01:53:31.407635+00:00",
+      "summary": "경산시, 시설원예 농가 난방비 긴급 지원…면세유 인상분 보전 나선다 kyongbuk.co.kr",
+      "keywords": [
+        "시설원예",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
@@ -10148,93 +10282,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "8038086199f827437ba297d2",
-      "title": "농산물 내리고 축산물만 올랐다… ‘겨울 전염병’이 가른 장바구니 물가 - 헤럴드경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93NmVWb2Y1RzhLMXdWajlRYzJ2czRCYlk3M3pxWDFkbUVYd3RfRWhScFAwZ1RrQ0dzbWd6emxhbm56TElvZGlYS1ZSYTNQdHk4OEN6TGV3?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "collected_at": "2026-05-16T07:27:07.220488+00:00",
-      "summary": "농산물 내리고 축산물만 올랐다… ‘겨울 전염병’이 가른 장바구니 물가 헤럴드경제",
-      "keywords": [
-        "농산물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "6c58c6b41ed1c0fc7626a023",
-      "title": "청주시, 귀농귀촌 활성화 단계별 맞춤 지원 추진 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTUndEb1ZZc3AyTzl3TTYtOE9tWXpOOXNXbGk4SS1CNERNZHJFM1VZSkViZmMtckVnMFJveDlPLUtoM0c1WVBXQ0hvTDJfbVE?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "collected_at": "2026-05-18T07:26:51.887120+00:00",
-      "summary": "청주시, 귀농귀촌 활성화 단계별 맞춤 지원 추진 v.daum.net",
-      "keywords": [
-        "귀농",
-        "귀농귀촌",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "충북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "39fa4a830b20bf22f9358e9a",
-      "title": "서대문자연사박물관 “우리 땅 지키는 ‘토종 작물 순환 프로젝트’ 추진” - 문화일보",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iUkJ3Z1NSRGZ0cEdFeEY1Q2RlNlo3QVEzYVdQNW55SlJIQ1ZsTGlFZTBtQzlPa3paSzJDX0x6NF9kTHYwMzBUOGtmNlE0LXd6?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "collected_at": "2026-05-18T07:26:53.150548+00:00",
-      "summary": "서대문자연사박물관 “우리 땅 지키는 ‘토종 작물 순환 프로젝트’ 추진” 문화일보",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "3e14835d56530951a885f78a",
-      "title": "진안군 \"원예작물 바이러스 감염 여부 2~3분이면 확인\" - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZMWloTWI2LUZWTkRaWVl3c3hFOE5pS0RtamFZanIyU3NrSGRYSUhkYTBRZ0lhX3FFLU9Sd2xkZ2kzY1gyNDVKUHV0bzlGX0pIQWxiaQ?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "collected_at": "2026-05-18T07:26:53.150548+00:00",
-      "summary": "진안군 \"원예작물 바이러스 감염 여부 2~3분이면 확인\" 뉴스1",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 541,
+    "total": 544,
     "category_counts": {
-      "news": 316,
+      "news": 319,
       "plant_reviews": 44,
       "support": 181
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 179
+        "count": 181
       },
       {
         "keyword": "지원",
@@ -10253,16 +10313,16 @@
         "count": 55
       },
       {
-        "keyword": "귀농",
-        "count": 51
+        "keyword": "스마트팜",
+        "count": 54
       },
       {
         "keyword": "농산물",
         "count": 50
       },
       {
-        "keyword": "스마트팜",
-        "count": 49
+        "keyword": "귀농",
+        "count": 50
       },
       {
         "keyword": "모집",
@@ -10273,12 +10333,12 @@
         "count": 40
       },
       {
-        "keyword": "작물",
-        "count": 39
-      },
-      {
         "keyword": "청년농",
         "count": 38
+      },
+      {
+        "keyword": "작물",
+        "count": 37
       }
     ],
     "top_sources": [
@@ -10288,7 +10348,7 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 63
+        "count": 62
       },
       {
         "source": "Google News 농산물 가격",
@@ -10296,7 +10356,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 57
+        "count": 55
       },
       {
         "source": "Google News 식물 키우기",
@@ -10304,7 +10364,7 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 42
+        "count": 48
       },
       {
         "source": "농사로 이달의 농업기술",
@@ -10327,8 +10387,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 684,
+    "new_items": 12,
+    "fetched_items": 677,
     "errors": []
   }
 }
