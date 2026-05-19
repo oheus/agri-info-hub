@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-19T00:22:19.704170+00:00",
-  "total": 541,
+  "generated_at": "2026-05-19T00:52:49.667854+00:00",
+  "total": 542,
   "category_counts": {
-    "news": 316,
+    "news": 317,
     "plant_reviews": 44,
     "support": 181
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 178
+      "count": 179
     },
     {
       "keyword": "지원",
@@ -17,7 +17,7 @@
     },
     {
       "keyword": "농촌",
-      "count": 83
+      "count": 84
     },
     {
       "keyword": "사업",
@@ -28,12 +28,12 @@
       "count": 55
     },
     {
-      "keyword": "귀농",
-      "count": 50
+      "keyword": "농산물",
+      "count": 51
     },
     {
-      "keyword": "농산물",
-      "count": 50
+      "keyword": "귀농",
+      "count": 51
     },
     {
       "keyword": "스마트팜",
@@ -49,29 +49,29 @@
     },
     {
       "keyword": "작물",
-      "count": 40
+      "count": 39
     },
     {
       "keyword": "청년농",
-      "count": 39
+      "count": 38
     }
   ],
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 99
+      "count": 100
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 62
+      "count": 63
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 59
+      "count": 60
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 57
+      "count": 56
     },
     {
       "source": "Google News 식물 키우기",
@@ -95,14 +95,14 @@
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 19
+      "count": 18
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 5,
-    "fetched_items": 692,
+    "new_items": 3,
+    "fetched_items": 688,
     "errors": []
   }
 }
