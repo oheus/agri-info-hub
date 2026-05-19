@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-05-19T01:53:48.674349+00:00",
+  "generated_at": "2026-05-19T02:24:21.557112+00:00",
   "items": [
+    {
+      "id": "f0c2f59042b51f97f1833e21",
+      "title": "박찬우 천안시장 후보, 농업·농촌·농민 공약 발표...10가지 주요 공약 제시 - 로컬투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WYjlqbmNBZUZBUE9xYk9Zc1J5SlZ1NWtxUmR4Tk1NWlZiNUhuazBDQW9PVERuOTdUOF9mOXpfcjhQVURIN3UtbGdtRHhNQlJHTzlHMkpKS1BPZHhidkRyOHo3M0tfbldzbzZvUUYxeDE?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-19T02:11:16+00:00",
+      "collected_at": "2026-05-19T02:24:01.303296+00:00",
+      "summary": "박찬우 천안시장 후보, 농업·농촌·농민 공약 발표...10가지 주요 공약 제시 로컬투데이",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "충남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "aef6b9a888196b3cef14ab5f",
+      "title": "[무주군] ‘직장인 든든한 점심밥’ 사업 참여기업 모집 - 투데이안",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iSVA3X3pDeVl6ZFNvem5qOFhhTjhTX3g4d1pjekhkOEh2MmhCcm1Tek5aWUVIN1p6WE9xV1RwdGhZM1JBTWxvNzZsanJmczZWRno2WHFKbHV6ZGpIRjJpRkRoTG5MTHF1?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-05-19T02:01:27+00:00",
+      "collected_at": "2026-05-19T02:24:18.914450+00:00",
+      "summary": "[무주군] ‘직장인 든든한 점심밥’ 사업 참여기업 모집 투데이안",
+      "keywords": [
+        "모집",
+        "사업"
+      ],
+      "importance": 74,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
     {
       "id": "766ceda4c60f490b814517f9",
       "title": "콩 생육 초기 병해충 비상… “종자소독·적기 방제 필수” - 완주신문",
@@ -10242,54 +10280,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "998fbccc2c911b3b9a0c0edf",
-      "title": "제주농업기술센터, 농기계 기초교육 운영…45명 선착순 모집 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44dkZqUG4wVnd2M08yN3lGOW01LTZzR25zMWNHTzdyTmJIWVhZM0syYWd0VDdZYmxaRmJzdjVjNGFiM1BlNHVnRno0UDc3TWQw?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:48.316241+00:00",
-      "summary": "제주농업기술센터, 농기계 기초교육 운영…45명 선착순 모집 뉴스1",
-      "keywords": [
-        "농업",
-        "농기계",
-        "모집",
-        "농업기술센터"
-      ],
-      "importance": 74,
-      "region": "제주",
-      "deadline_text": "선착순",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "bb99398ffd91db862eb0acdf",
-      "title": "농협금융, 귀농인 크라우드펀딩 지원 - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80TjlvSmxpTzhwd0Y3OVNNZ0g5ZHZWdDJhSmgxT3pGTnpfRDZrcWRBTDYyWDlyaHFBc3VwaDVkaFFoaXZWdFJsb2dvVGV3SFpFZU82alRvLUVad9IBVEFVX3lxTE5vUDhUcF9QUElZSl9VXy1GVUhFa3ptUVFnMlNyX0doN2ViLWxSSEJzd0RWZkhBQW9BN0hHVXlXLTh6Z2dHQzNESENMLXNfeDhBTkMteA?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "collected_at": "2026-05-16T07:27:04.644788+00:00",
-      "summary": "농협금융, 귀농인 크라우드펀딩 지원 한국경제",
-      "keywords": [
-        "귀농",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
     "total": 544,
     "category_counts": {
-      "news": 319,
+      "news": 320,
       "plant_reviews": 44,
-      "support": 181
+      "support": 180
     },
     "top_keywords": [
       {
@@ -10298,15 +10296,15 @@
       },
       {
         "keyword": "지원",
-        "count": 109
+        "count": 108
       },
       {
         "keyword": "농촌",
-        "count": 84
+        "count": 85
       },
       {
         "keyword": "사업",
-        "count": 64
+        "count": 65
       },
       {
         "keyword": "반려식물",
@@ -10322,7 +10320,7 @@
       },
       {
         "keyword": "귀농",
-        "count": 50
+        "count": 49
       },
       {
         "keyword": "모집",
@@ -10344,11 +10342,11 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 100
+        "count": 101
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 62
+        "count": 61
       },
       {
         "source": "Google News 농산물 가격",
@@ -10376,7 +10374,7 @@
       },
       {
         "source": "Google News 농업기술센터 모집",
-        "count": 28
+        "count": 27
       },
       {
         "source": "Google News 청년농 지원",
@@ -10387,8 +10385,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 12,
-    "fetched_items": 677,
+    "new_items": 4,
+    "fetched_items": 685,
     "errors": []
   }
 }
