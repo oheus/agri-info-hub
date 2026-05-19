@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-19T10:17:52.674394+00:00",
+  "generated_at": "2026-05-19T10:48:38.505986+00:00",
   "items": [
+    {
+      "id": "806475ae3cf8c4b4d39bf133",
+      "title": "하동 옥종농협, 결혼이민여성 대상 단계별 농업교육 시작 - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NRk1LNEwtNVRmbUlHSkIzWl9JeWdqdGxCb0hoa09BdFE4UHliMnVSYWZ3QzNhODItTTdPZjdaS2ttWG1rUWJKZjhFM2l0cHRvejF5S1plUWZOQQ?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-19T10:16:00+00:00",
+      "collected_at": "2026-05-19T10:48:10.200741+00:00",
+      "summary": "하동 옥종농협, 결혼이민여성 대상 단계별 농업교육 시작 농민신문",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "404038d05fbb013efd95a282",
+      "title": "'영농형 태양광' 보급 확대!...현장에 맞춰 제도 마련에 박차 - 한국농촌경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZGpLSG5NeHhFaTMzM055REZNV2lKU3ljd0R6TXRfRGg4WXJvN1ZqZmxqckJVNnpOXzJ2Vmh1QjR4ODNTRVpuMlRzTTBQc09vc0M2a29DbnVqaFR5OEh4TA?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-19T08:48:30+00:00",
+      "collected_at": "2026-05-19T10:48:10.200741+00:00",
+      "summary": "'영농형 태양광' 보급 확대!...현장에 맞춰 제도 마련에 박차 한국농촌경제신문",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "9e050ff017d80ca7dd7d864e",
       "title": "시그니파이, 연암대 스마트팜 허브서 에너지 효율 25%↑·인건비 20%↓ - 전자신문",
@@ -10321,40 +10357,6 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "ae2c9058606466d2a7fdf888",
-      "title": "\"양파·사과값 내렸다\"…광주·전남 농산물 약세 뚜렷 - 남도일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01b3BkbHJOYUNjbE1VT0xmVEJ5c3h2M2s1OWtzUG1UWi02N3hUcS1Hbk5IZWljOEc4Si14Y1ViTXN1enp3X3p3M0VoNkxlWWNTS2k5bEJBLWlwbG0zMHBoQUZWUmFoUjd4VGxzRtIBcEFVX3lxTFA4bUl1YXlKSkNHM0hGaU43Q1NhYjZKd1l0YjkxN0kyZ05obXdwT1g4d2ZxS2hYdWQ0SzZ1RjlSRWprRXBDandXUnB6Nnh3QjRJQWdRS3lQNWMxY0Y4T0ZKeXE5OF9tT0pnOGJRbFExVk4?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-05-07T08:07:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "\"양파·사과값 내렸다\"…광주·전남 농산물 약세 뚜렷 남도일보",
-      "keywords": [
-        "농산물"
-      ],
-      "importance": 42,
-      "region": "광주",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "81cef7a4db4d32d710448b83",
-      "title": "가격 오른 품목마다 ‘담합’ 의심…“생산비 상승 고려해야” - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03Rkw0dkxENUZIZUF4bjlnWExRTk5rRUFwX1lGWnBDNlQ3TXRGQ3ptNXRXUVZ3cGRfb2NFbVlLU0dwb2NVQTNhUUQwS0ViZFA1cDl5eWVtTEZUQQ?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-05-07T07:08:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "가격 오른 품목마다 ‘담합’ 의심…“생산비 상승 고려해야” 농민신문",
-      "keywords": [],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
@@ -10367,7 +10369,7 @@
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 188
+        "count": 189
       },
       {
         "keyword": "지원",
@@ -10375,7 +10377,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 91
+        "count": 92
       },
       {
         "keyword": "사업",
@@ -10395,7 +10397,7 @@
       },
       {
         "keyword": "농산물",
-        "count": 48
+        "count": 47
       },
       {
         "keyword": "모집",
@@ -10417,7 +10419,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 111
+        "count": 113
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10429,7 +10431,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 56
+        "count": 54
       },
       {
         "source": "Google News 식물 키우기",
@@ -10460,8 +10462,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 5,
-    "fetched_items": 684,
+    "new_items": 3,
+    "fetched_items": 685,
     "errors": []
   }
 }
