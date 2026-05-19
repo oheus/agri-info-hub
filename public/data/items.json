@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-05-19T07:39:52.799102+00:00",
+  "generated_at": "2026-05-19T09:16:16.624060+00:00",
   "items": [
+    {
+      "id": "e18a0830f5bde0481946bc37",
+      "title": "강원농축협발전협의회·강원농협, ‘농업·농촌 정책제안’ 공약 반영 요청 - 강원일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuQ3FVU01vWDZya1o1Z1h1UVJJcThGOW5kOENnNXcxcHhqVGxER0ZLMVRHWnFPWG5KTjloOTk3Rkl0M3RscmJFNm9ORWE0YWJvWGlsUm5wTnY4OTNWc1lyZE1qLV8?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-19T07:52:25+00:00",
+      "collected_at": "2026-05-19T09:15:59.011439+00:00",
+      "summary": "강원농축협발전협의회·강원농협, ‘농업·농촌 정책제안’ 공약 반영 요청 강원일보",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "강원",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "1b2010b05f1f3dbb5e203f97",
+      "title": "제20기 양산시 농심대학 교육생 모집 - 경남도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wRTdiSVpjblFRdXJCRkJaWlhjeU5Yb2xabWJGdTlaazJrQTVDZGlBNE9HZVBIdVhvWFRfUXdPZG1CSGV1VkdmX2Z6dTYtS1ZZcEFBYnpkNElUdUlzaHdFS1M5UzQ1VzhrUnc?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-05-19T07:43:03+00:00",
+      "collected_at": "2026-05-19T09:16:15.873185+00:00",
+      "summary": "제20기 양산시 농심대학 교육생 모집 경남도민일보",
+      "keywords": [
+        "모집"
+      ],
+      "importance": 74,
+      "region": "경남",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
     {
       "id": "eb96f803633c8ba49c3784c1",
       "title": "박찬우 천안시장 후보, 농업·농촌·농민 공약 발표 - 뉴스밴드",
@@ -124,6 +161,24 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "1893c4ba8aeae9fa11f4f851",
+      "title": "박찬우 천안시장 후보 “돈 되는 농업 만들겠다”…농업예산 7% 확대 공약 - 프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41b2dQdE9rLWhSWDVfN3o4QVowWEljQUFrcmNTd1JVSzNIMXdwODMyel95OFhMNWNaY3YxeWsyLThwQzNDbmlIVWNtRzhzVkpvMl9GZUwtY09qNFhyOVc3VFg2RnhSRnpxWGRn?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-19T05:36:47+00:00",
+      "collected_at": "2026-05-19T09:15:59.011439+00:00",
+      "summary": "박찬우 천안시장 후보 “돈 되는 농업 만들겠다”…농업예산 7% 확대 공약 프레시안",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "region": "충남",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -336,6 +391,26 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "b03739dbbe15cf0d2da26475",
+      "title": "여주시 소상공인지원센터, 2026년 ‘청년 소상공인 지원사업’ 간담회 개최 - 여주신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2STFVMFJFQTN3M2otSWhBLTQzX3BnNVlXc2tYQUpmQ1FXQ1BuWWR2cXlUV0YxU3hPbEVhZktFNG9pM000X2pEVEJ0VjlGNGxONFJ5a0RLcFVOQUQwZDFadUZpUC1MVElUR1VWR0Nn?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-05-19T02:02:52+00:00",
+      "collected_at": "2026-05-19T09:15:59.879183+00:00",
+      "summary": "여주시 소상공인지원센터, 2026년 ‘청년 소상공인 지원사업’ 간담회 개최 여주신문",
+      "keywords": [
+        "지원사업",
+        "지원",
+        "사업"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "aef6b9a888196b3cef14ab5f",
@@ -10277,69 +10352,12 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "746133de2eeb5a1cf2dfe670",
-      "title": "제주농업기술원, 스마트팜 시스템 '제빛나' 확대 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzT0N5d0dLdVcyaXFEb3IzRGNZMFc2djlWanJlYjlCcXpBU19SYlVFbDZyNGp5N1hEdnFBTlpxT0xxRldkS1A5aFZ5MHVaSUlLeVhNdHo2TVF4VlFGSGlwUVYtSUZuYVB4VktkeUYwNE0?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-05-07T06:07:59+00:00",
-      "collected_at": "2026-05-18T20:01:04.761859+00:00",
-      "summary": "제주농업기술원, 스마트팜 시스템 '제빛나' 확대 신아일보",
-      "keywords": [
-        "농업",
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "제주",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "1697c90da4dc9fa093c57bf5",
-      "title": "여주시, 생활밀착형 정책 추진…농업·청년·아동 건강 분야 지원 확대 - 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaDBkUGVMODdSdFl3bEZnZkRkSmtER1JXR1duTUduanJYY056T21oVlhxOWNwZDBobVVwYXFzNGJRcGlwNElBM190dzUtaUs1Zmx0Z3ZsMkg1NjMzRjlrcXNmU1E2d1lQdGVKTHM0dFVxblNFOU1BanVjV0tNRjJEZFJseWFra3M0cktr?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-07T05:49:34+00:00",
-      "collected_at": "2026-05-16T06:56:44.757007+00:00",
-      "summary": "여주시, 생활밀착형 정책 추진…농업·청년·아동 건강 분야 지원 확대 글로벌이코노믹",
-      "keywords": [
-        "농업",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "450054d77d9893f666f08ded",
-      "title": "의성 스마트팜 딸기 아카데미 교육생모집 - hidomin.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xbFlxZjRlN3lwZ1M3WDJfVE5qRUxaSE81U3VWM21JSW1rWHRjV2ozcUhUU1pCdnFUWVpGT0tMVjUtVUI3ZGNkdEF3ck9LZlk2VVlCbG1iSW1aNnJ6TUhwRkRrVVdSaVgtcHc?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-05-07T04:34:25+00:00",
-      "collected_at": "2026-05-16T06:56:48.316241+00:00",
-      "summary": "의성 스마트팜 딸기 아카데미 교육생모집 hidomin.com",
-      "keywords": [
-        "스마트팜",
-        "모집"
-      ],
-      "importance": 74,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 547,
+    "total": 548,
     "category_counts": {
-      "news": 324,
+      "news": 325,
       "plant_reviews": 41,
       "support": 182
     },
@@ -10354,15 +10372,15 @@
       },
       {
         "keyword": "농촌",
-        "count": 89
+        "count": 90
       },
       {
         "keyword": "사업",
-        "count": 69
+        "count": 70
       },
       {
         "keyword": "스마트팜",
-        "count": 55
+        "count": 53
       },
       {
         "keyword": "반려식물",
@@ -10382,7 +10400,7 @@
       },
       {
         "keyword": "지원사업",
-        "count": 41
+        "count": 42
       },
       {
         "keyword": "청년농",
@@ -10396,7 +10414,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 107
+        "count": 109
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10416,15 +10434,15 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 48
+        "count": 47
+      },
+      {
+        "source": "Google News 지원사업",
+        "count": 38
       },
       {
         "source": "농사로 이달의 농업기술",
         "count": 38
-      },
-      {
-        "source": "Google News 지원사업",
-        "count": 37
       },
       {
         "source": "Google News 농업기술센터 모집",
@@ -10432,15 +10450,15 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 18
+        "count": 17
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 1,
-    "fetched_items": 685,
+    "new_items": 5,
+    "fetched_items": 688,
     "errors": []
   }
 }
