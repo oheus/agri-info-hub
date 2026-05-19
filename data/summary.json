@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-19T00:52:49.667854+00:00",
-  "total": 542,
+  "generated_at": "2026-05-19T01:23:18.709480+00:00",
+  "total": 541,
   "category_counts": {
-    "news": 317,
+    "news": 316,
     "plant_reviews": 44,
     "support": 181
   },
@@ -28,12 +28,12 @@
       "count": 55
     },
     {
-      "keyword": "농산물",
+      "keyword": "귀농",
       "count": 51
     },
     {
-      "keyword": "귀농",
-      "count": 51
+      "keyword": "농산물",
+      "count": 50
     },
     {
       "keyword": "스마트팜",
@@ -67,11 +67,11 @@
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 60
+      "count": 58
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 56
+      "count": 57
     },
     {
       "source": "Google News 식물 키우기",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 3,
-    "fetched_items": 688,
+    "new_items": 4,
+    "fetched_items": 684,
     "errors": []
   }
 }
