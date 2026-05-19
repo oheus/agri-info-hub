@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-19T01:23:18.709480+00:00",
-  "total": 541,
+  "generated_at": "2026-05-19T01:53:48.674349+00:00",
+  "total": 544,
   "category_counts": {
-    "news": 316,
+    "news": 319,
     "plant_reviews": 44,
     "support": 181
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 179
+      "count": 181
     },
     {
       "keyword": "지원",
@@ -28,16 +28,16 @@
       "count": 55
     },
     {
-      "keyword": "귀농",
-      "count": 51
+      "keyword": "스마트팜",
+      "count": 54
     },
     {
       "keyword": "농산물",
       "count": 50
     },
     {
-      "keyword": "스마트팜",
-      "count": 49
+      "keyword": "귀농",
+      "count": 50
     },
     {
       "keyword": "모집",
@@ -48,12 +48,12 @@
       "count": 40
     },
     {
-      "keyword": "작물",
-      "count": 39
-    },
-    {
       "keyword": "청년농",
       "count": 38
+    },
+    {
+      "keyword": "작물",
+      "count": 37
     }
   ],
   "top_sources": [
@@ -63,7 +63,7 @@
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 63
+      "count": 62
     },
     {
       "source": "Google News 농산물 가격",
@@ -71,7 +71,7 @@
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 57
+      "count": 55
     },
     {
       "source": "Google News 식물 키우기",
@@ -79,7 +79,7 @@
     },
     {
       "source": "Google News 스마트팜",
-      "count": 42
+      "count": 48
     },
     {
       "source": "농사로 이달의 농업기술",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 684,
+    "new_items": 12,
+    "fetched_items": 677,
     "errors": []
   }
 }
