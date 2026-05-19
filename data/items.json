@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-19T00:52:49.667854+00:00",
+  "generated_at": "2026-05-19T01:23:18.709480+00:00",
   "items": [
+    {
+      "id": "766ceda4c60f490b814517f9",
+      "title": "콩 생육 초기 병해충 비상… “종자소독·적기 방제 필수” - 완주신문",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiYzlTU1ZiZ2FweUVQWC1YM1BQeXp1N2hZX1NHUW51UGIwa3AyVVo0TGRRbEFIdmE1NWc1YTkwTU4yNU91WHdoSVp5U1VYanhBOFRCNTNyamtyemNYaWc?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-19T01:17:56+00:00",
+      "collected_at": "2026-05-19T01:23:05.040885+00:00",
+      "summary": "콩 생육 초기 병해충 비상… “종자소독·적기 방제 필수” 완주신문",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "75e39c2c7c1c16b050cb677b",
       "title": "순항하는 농산물 수급 관리 - 대한급식신문",
@@ -10204,47 +10222,12 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "0f6a144ffceb3075c5b857d7",
-      "title": "가락시장 농산물 가격-2026년 5월6일 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55VXEtLUdJdlFoX21JS3lRRG1yUnJ5akJ4LXZtWFo2a3Nsa1BmUkRQNkpJLUpva2g0NW5aOEFWSzMwN25MckF5OS0ySzNtdXBRRklzN2FFVWpGdw?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-05-06T06:42:00+00:00",
-      "collected_at": "2026-05-17T05:54:05.787857+00:00",
-      "summary": "가락시장 농산물 가격-2026년 5월6일 농민신문",
-      "keywords": [
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "3f284398bccbcee9330a01b3",
-      "title": "풍작도 문제? 대파 가격 폭락에 이어 마늘종도 걱정 - 부산일보",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yQVJDUWFXVWFyTTc4RVhFT1h2SE9pR2c2azIzbUpZMUE5c3NCYkpYQ05vYmZnOXhCMEI2amJia2V5VE1CRk1fN1JWV1BQczd5cjl6dVJ6dE16SmdiR2NlZWJyYWJIQkZtTDNzV25GbW95MVJOcW9pSw?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-05-06T06:20:25+00:00",
-      "collected_at": "2026-05-16T07:27:07.220488+00:00",
-      "summary": "풍작도 문제? 대파 가격 폭락에 이어 마늘종도 걱정 부산일보",
-      "keywords": [],
-      "importance": 48,
-      "region": "부산",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 542,
+    "total": 541,
     "category_counts": {
-      "news": 317,
+      "news": 316,
       "plant_reviews": 44,
       "support": 181
     },
@@ -10270,12 +10253,12 @@
         "count": 55
       },
       {
-        "keyword": "농산물",
+        "keyword": "귀농",
         "count": 51
       },
       {
-        "keyword": "귀농",
-        "count": 51
+        "keyword": "농산물",
+        "count": 50
       },
       {
         "keyword": "스마트팜",
@@ -10309,11 +10292,11 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 60
+        "count": 58
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 56
+        "count": 57
       },
       {
         "source": "Google News 식물 키우기",
@@ -10344,8 +10327,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 3,
-    "fetched_items": 688,
+    "new_items": 4,
+    "fetched_items": 684,
     "errors": []
   }
 }
