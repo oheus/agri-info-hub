@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-19T01:53:48.674349+00:00",
+  "generated_at": "2026-05-19T02:24:21.557112+00:00",
   "total": 544,
   "category_counts": {
-    "news": 319,
+    "news": 320,
     "plant_reviews": 44,
-    "support": 181
+    "support": 180
   },
   "top_keywords": [
     {
@@ -13,15 +13,15 @@
     },
     {
       "keyword": "지원",
-      "count": 109
+      "count": 108
     },
     {
       "keyword": "농촌",
-      "count": 84
+      "count": 85
     },
     {
       "keyword": "사업",
-      "count": 64
+      "count": 65
     },
     {
       "keyword": "반려식물",
@@ -37,7 +37,7 @@
     },
     {
       "keyword": "귀농",
-      "count": 50
+      "count": 49
     },
     {
       "keyword": "모집",
@@ -59,11 +59,11 @@
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 100
+      "count": 101
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 62
+      "count": 61
     },
     {
       "source": "Google News 농산물 가격",
@@ -91,7 +91,7 @@
     },
     {
       "source": "Google News 농업기술센터 모집",
-      "count": 28
+      "count": 27
     },
     {
       "source": "Google News 청년농 지원",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 12,
-    "fetched_items": 677,
+    "new_items": 4,
+    "fetched_items": 685,
     "errors": []
   }
 }
