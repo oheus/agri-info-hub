@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-05-19T07:09:20.868762+00:00",
+  "generated_at": "2026-05-19T07:39:52.799102+00:00",
   "items": [
+    {
+      "id": "eb96f803633c8ba49c3784c1",
+      "title": "박찬우 천안시장 후보, 농업·농촌·농민 공약 발표 - 뉴스밴드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRcFpuMHpqTTU0dWZwUDVkLU5wR2F6akNFSEdpSTBodUZhZ001V2tMZVhESlJYQ0lNTTJyU1daRFE0UjR5clJSeHI2MHY2LVpHVkxZaVFpT3hiZFU1RDA5djY4cUdqYmtO?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-19T07:17:23+00:00",
+      "collected_at": "2026-05-19T07:39:32.924863+00:00",
+      "summary": "박찬우 천안시장 후보, 농업·농촌·농민 공약 발표 뉴스밴드",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "충남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "3335a03a642dcebb26e7d093",
       "title": "무주군, ‘직장인 든든한 점심밥’ 사업 추진 - 무진장뉴스i",
@@ -144,25 +163,6 @@
       ],
       "importance": 48,
       "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "4ad64be276df18963d53228c",
-      "title": "박찬우 천안시장 후보, 농업·농촌·농민 공약 발표 - 동양뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QUXQxZjAyZ3RkdTBKLVY0RU00RGhsSlA0NXdrcTd5dzl2cmdMS1BRX1duajVKNGdPZE5UOE9jVDVEOVBnU3V1TWFNN3ZndFRKc0dwLXdOZ3J6VHVuWEExWExSVG5DMm9CWXc?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-19T05:12:34+00:00",
-      "collected_at": "2026-05-19T06:07:58.236208+00:00",
-      "summary": "박찬우 천안시장 후보, 농업·농촌·농민 공약 발표 동양뉴스",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "충남",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -10334,31 +10334,13 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "a9b43c847a71771de3193f5c",
-      "title": "금천구, 어르신·장애인에게 반려식물 보급 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LUGZYejNfVi1jSEh6NzZ1V1NIZjNuekhtR2p1ZHdKZVcxM1FTWWk5dWd6Smp6V2oxbkRBbHVqYXVFNzhBZ1BMeDJZNnlhU3JMTFluTVFWNWVaR1RUb09aVEhCekk?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-05-07T04:29:15+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "금천구, 어르신·장애인에게 반려식물 보급 매일일보",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "식물 리뷰"
     }
   ],
   "stats": {
-    "total": 548,
+    "total": 547,
     "category_counts": {
       "news": 324,
-      "plant_reviews": 42,
+      "plant_reviews": 41,
       "support": 182
     },
     "top_keywords": [
@@ -10384,7 +10366,7 @@
       },
       {
         "keyword": "반려식물",
-        "count": 52
+        "count": 51
       },
       {
         "keyword": "농산물",
@@ -10430,7 +10412,7 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 51
+        "count": 50
       },
       {
         "source": "Google News 스마트팜",
@@ -10457,7 +10439,7 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
+    "new_items": 1,
     "fetched_items": 685,
     "errors": []
   }
