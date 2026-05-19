@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-05-19T09:47:03.207248+00:00",
+  "generated_at": "2026-05-19T10:17:52.674394+00:00",
   "items": [
+    {
+      "id": "9e050ff017d80ca7dd7d864e",
+      "title": "시그니파이, 연암대 스마트팜 허브서 에너지 효율 25%↑·인건비 20%↓ - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10MlpZYjZGQ2VEZVFxV3dSN1V5alpiTUhoaG0yTTRqTHRLVGl1R05CNHNlZUs3TzRSZWFsQ21XMzM0c0o1ZUptY21pckxLdw?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-19T08:31:23+00:00",
+      "collected_at": "2026-05-19T10:17:27.194318+00:00",
+      "summary": "시그니파이, 연암대 스마트팜 허브서 에너지 효율 25%↑·인건비 20%↓ 전자신문",
+      "keywords": [
+        "스마트팜",
+        "허브"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "a9b52fa9e9f8bb572ff07642",
       "title": "박찬우 천안시장 후보 “농업예산 7%로 확대… 미래농업도시 천안 만들 것” - 중부매일",
@@ -219,6 +238,26 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "b217baa2f0d8e353a14d110b",
+      "title": "2026년 김제 임대형 스마트팜 신규 입주 청년농 모집 성료 - 아시아뉴스전북",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZQmhNZDRNQlpzNk56a1pnQnVfa2pGZkdSNEQ2Y3VzbDMwRFUyUmZUWDV6TU9yNUw0SF9GMTNTcHFXSThQb0xFRjhOVGc2UWE1dVF2UHAtcUtPU19tRnRDV2hzb2pqRjlucFZkT3JR0gFuQVVfeXFMTllCaE1kNE1CWnM2TnprWmdCdV9rakZmR1I0RDZjdXNsMzBEVTJSZlRYNXpNT3I1TDRIX0YxM1NwcVdJOFBvTEVGOE5UZzZRYTV1UXZQcC1xS09TX21GdENXaHNvampGOW5wVmRPclE?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-19T05:45:55+00:00",
+      "collected_at": "2026-05-19T10:17:41.661141+00:00",
+      "summary": "2026년 김제 임대형 스마트팜 신규 입주 청년농 모집 성료 아시아뉴스전북",
+      "keywords": [
+        "스마트팜",
+        "청년농",
+        "모집"
+      ],
+      "importance": 70,
+      "region": "전북",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "1893c4ba8aeae9fa11f4f851",
@@ -445,6 +484,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "5edb7e3410a372743634949d",
+      "title": "강릉시, 벼 병해충 예찰포에서 모내기 실시 - 프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sNXV4VjZ2Q0hUMU9xLXZmeHA0eVQ0QnFaemJMRnVnNFpBcUdUT3QwVzQyWTEyRGVsNEY2UVBQS013YVQ4YWJnaVY2OC1TTjhNUGJUSDg2dENyeDRlSjhBcWdzclJaMHIyd2Zn?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-19T02:34:03+00:00",
+      "collected_at": "2026-05-19T10:17:30.197987+00:00",
+      "summary": "강릉시, 벼 병해충 예찰포에서 모내기 실시 프레시안",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "강원",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "9b9b741fbdc7783b20eb1d10",
@@ -10298,48 +10355,12 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "c7be52a598c44a7cd9561211",
-      "title": "알림소식 > 공지·공고 > 해외식품인증지원센터 추가 지정 계획 재공고 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNNllqNS1EQmpxSUpWdDJUN0tYbTAxTlBnSFdHQ0t0OEdSV1dTWHBmTjRWaXM4X3FaM3oybldRUXFVbmlXeWdBeFdSN3g5NkIwSzNNS2w4RVRyZ2tLZTBNOGhXdjJ2Nzl2SlVsNGc1TTBSbUVRelhhV1RtWjN3S0dMWWFhdF9VbGNiSUltMzlHTy1NeFRacTBVOFpVLU9HVVNCZzZBV0JFUnRWZFNBbkNzVENHbTBZdS1nYVRQX1VOMUQtakJ6Z09laXJyLVRDR1lIT1N6cGRJcXh0U2lzZFlmak5ZMDEybk9QUm9tWm5vMFlpdUpsOUJYVVdkVURIQU5uSDJUZ0pjenJnRlpvYTlDY3JHMkRRRS1Ld1BwTkFRMnQ2RjFkZURnVmRNdmRhaHR3dVZPdUxpT2g3elpuYXBHcW1WYUtUSzJGT3RLS21SaEdKWVlheEFLSVFKUWtHQmFqRWpydFRPNVdLMFRHUnZMaDFkUE5SZ1lkZE1pcGhlMlNlTC1OX1hfekFuY182a1Q3N19pX1RCT1FycEcxRlM2bEIzUUkzc0swVUQ2YXVWcHR6bTBWc21EOHViMDgxUmZTd29xckliSGZzTVgzUm9CaUV2ajc4MWxj?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-05-07T07:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:56.283319+00:00",
-      "summary": "알림소식 > 공지·공고 > 해외식품인증지원센터 추가 지정 계획 재공고 농림축산식품부",
-      "keywords": [
-        "지원"
-      ],
-      "importance": 80,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "3f2fd821a51c47779248d761",
-      "title": "생산비 치솟는데 농산물값 바닥…농가경영 손실 ‘눈덩이’ - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UNzcwdGVWY0pCS2NQdUhqTTBDdzhaRC02MHo5MnZudk4wNldYUWJMRmw2UDM4STVYMXJYY2lYX1lieG92dl9ZamZpZjVYeTY5aEo4aDJZVF9UUQ?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-05-07T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "생산비 치솟는데 농산물값 바닥…농가경영 손실 ‘눈덩이’ 농민신문",
-      "keywords": [
-        "농산물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 547,
+    "total": 548,
     "category_counts": {
-      "news": 326,
+      "news": 327,
       "plant_reviews": 41,
       "support": 180
     },
@@ -10350,7 +10371,7 @@
       },
       {
         "keyword": "지원",
-        "count": 105
+        "count": 104
       },
       {
         "keyword": "농촌",
@@ -10362,23 +10383,23 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 52
+        "count": 54
       },
       {
         "keyword": "반려식물",
         "count": 50
       },
       {
-        "keyword": "농산물",
-        "count": 49
-      },
-      {
         "keyword": "귀농",
         "count": 49
       },
       {
+        "keyword": "농산물",
+        "count": 48
+      },
+      {
         "keyword": "모집",
-        "count": 42
+        "count": 43
       },
       {
         "keyword": "지원사업",
@@ -10386,7 +10407,7 @@
       },
       {
         "keyword": "청년농",
-        "count": 39
+        "count": 40
       },
       {
         "keyword": "작물",
@@ -10403,12 +10424,12 @@
         "count": 61
       },
       {
-        "source": "Google News 농산물 가격",
-        "count": 57
+        "source": "Google News 병해충 재배",
+        "count": 56
       },
       {
-        "source": "Google News 병해충 재배",
-        "count": 55
+        "source": "Google News 농산물 가격",
+        "count": 56
       },
       {
         "source": "Google News 식물 키우기",
@@ -10416,7 +10437,7 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 46
+        "count": 47
       },
       {
         "source": "Google News 지원사업",
@@ -10432,15 +10453,15 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 16
+        "count": 17
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 13,
-    "fetched_items": 690,
+    "new_items": 5,
+    "fetched_items": 684,
     "errors": []
   }
 }
