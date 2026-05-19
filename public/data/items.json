@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T02:54:53.455638+00:00",
+  "generated_at": "2026-05-19T03:25:27.421833+00:00",
   "items": [
     {
       "id": "9b9b741fbdc7783b20eb1d10",
@@ -57,6 +57,25 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "dca5225b2df185fb7253ac42",
+      "title": "청년농 유입 속도 내는 김제…스마트팜 임대형 12명 입주 확정 - 전라일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkdEx0aklHVl9FYVRPVERBSjBxdnVnSzlsUTdzbm9zMktfQktweXZCVTRBZjlCTVg5UVZab2hGRmw0bTY4amM1N3VtWkRSSDhVZGdNX0hpNnhCblFySGdpel90TGduMUs2dXp2VURrMF_SAXBBVV95cUxQZHRMdGpJR1ZfRWFUT1REQUowcXZ1Z0s5bFE3c25vczJLX0JLcHl2QlU0QWY5Qk1YOVFWWm9oRkZsNG02OGpjNTd1bVpEUkg4VWRnTV9IaTZ4Qm5RckhnaXpfdExnbjFLNnV6dlVEazBf?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-19T01:39:28+00:00",
+      "collected_at": "2026-05-19T03:25:08.609472+00:00",
+      "summary": "청년농 유입 속도 내는 김제…스마트팜 임대형 12명 입주 확정 전라일보",
+      "keywords": [
+        "스마트팜",
+        "청년농"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "766ceda4c60f490b814517f9",
@@ -10248,25 +10267,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "5cb55dcdd38bf4496344d9c8",
-      "title": "\"모종 대출→재배→씨앗반납\"…서대문구 토종작물 순환프로젝트 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1faXlkQUR5MWh3aXV6ekV2b25XUGkzT3hNWUhtb0c2Q3JuZ2psY2RxNFQ5OHpUUmk5bUg0QlN1allnYjl5Q3o5Y1Z6ci1mZjdyVUR2bVYzaExwODTSAWBBVV95cUxOV1lTdXZINno2Wm1YS2tLWnliN245aWUyZV9vTWdoNUZfQ2t2WnZNRWc0bF9taHVtWUVTbmJpLVdEZmk2bHhORmRyYm56MTd0TTFFbnUyd0pOZElqTzRPbkY?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:40.860831+00:00",
-      "summary": "\"모종 대출→재배→씨앗반납\"…서대문구 토종작물 순환프로젝트 연합뉴스",
-      "keywords": [
-        "작물",
-        "재배"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
@@ -10294,12 +10294,12 @@
         "count": 65
       },
       {
-        "keyword": "반려식물",
+        "keyword": "스마트팜",
         "count": 55
       },
       {
-        "keyword": "스마트팜",
-        "count": 54
+        "keyword": "반려식물",
+        "count": 55
       },
       {
         "keyword": "농산물",
@@ -10319,11 +10319,11 @@
       },
       {
         "keyword": "청년농",
-        "count": 38
+        "count": 39
       },
       {
         "keyword": "작물",
-        "count": 37
+        "count": 36
       }
     ],
     "top_sources": [
@@ -10341,7 +10341,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 55
+        "count": 54
       },
       {
         "source": "Google News 식물 키우기",
@@ -10349,7 +10349,7 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 48
+        "count": 49
       },
       {
         "source": "농사로 이달의 농업기술",
@@ -10372,8 +10372,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 2,
-    "fetched_items": 681,
+    "new_items": 4,
+    "fetched_items": 689,
     "errors": []
   }
 }
