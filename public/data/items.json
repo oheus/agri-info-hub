@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-05-19T00:22:19.704170+00:00",
+  "generated_at": "2026-05-19T00:52:49.667854+00:00",
   "items": [
+    {
+      "id": "75e39c2c7c1c16b050cb677b",
+      "title": "순항하는 농산물 수급 관리 - 대한급식신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iVGdJWUJsY3RQQkQwOFhTQV9BaHl6VGo2OGZmQ1pXR1ZuamVOSVhQeERCUGVTaWRzQl9JRHhOWUxUZzJUa3BLNjdBelgyNHpVM19wZXI0Z21jUC1KX21DeHJ0OTVrY3RO?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-05-19T00:41:49+00:00",
+      "collected_at": "2026-05-19T00:52:36.990375+00:00",
+      "summary": "순항하는 농산물 수급 관리 대한급식신문",
+      "keywords": [
+        "농산물"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "61aca9b8b41088f2e9acce30",
+      "title": "봉화군수 후보자 초청 농정토론회’ ⋯농업·농촌 핵심 현안 집중 검증 - 경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15V2g1MFdXYnpWaGlLTU5oa2pubFZ3Wl9JVGwybUNjUThEekJzY2swLWxPa3BPbDZCdjNSd2d4aEROS21TcmFqV1A2ZmoxU2NGU2xxanF6b0FGQQ?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-19T00:24:00+00:00",
+      "collected_at": "2026-05-19T00:52:31.661946+00:00",
+      "summary": "봉화군수 후보자 초청 농정토론회’ ⋯농업·농촌 핵심 현안 집중 검증 경북매일",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "경북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "1534670bb413908dac008925",
+      "title": "횡성군, 2026년 귀농귀촌 종합학교 운영…안정적 정착 지원 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LbmpmMk9nZXJUWGNZd2RDR1pUbGo4QjZPZmZMaC1LSEYtT1FYb2JiY09xWXB5Zm01dDZ4OTFZdUFRS2dwRndxQnQwbkpwbm44TFZHUFhEeGVma0nSAWBBVV95cUxQa1RGSnhrTUh4WnhOcjNlX0Z4UWN4T2hfcG52WEhvM200Z0JTUkljY2lhT2VfcU9YRWI2SkhsNjFGemNVVlJmVjZMNnhseGJGQVB3bW5tcmI4RDVueHZRQno?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "support",
+      "published_at": "2026-05-19T00:17:18+00:00",
+      "collected_at": "2026-05-19T00:52:34.962493+00:00",
+      "summary": "횡성군, 2026년 귀농귀촌 종합학교 운영…안정적 정착 지원 연합뉴스",
+      "keywords": [
+        "귀농",
+        "귀농귀촌",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
     {
       "id": "7451a100bdc196a8cbe378ca",
       "title": "사과 ‘골든볼’ 품질 높이는 재배 기술 제시 5월 중순",
@@ -10182,57 +10239,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "b2f700d693e35b3081a9d4eb",
-      "title": "금융권 '성장 지원' 넓힌다…농협금융 청년농 판로에 방점 - 포쓰저널",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtOUxyLXNtc3ZCYVlTOG1yMHNZNW42WUd1ZXdPX3l0bkRxMnB2V2VlZGFFQXVHbWwtUmVYTU1ScTExNlNsSkdkR1MyYVdfUktocEZiU0dubzFnay1Ya05vWmxmUUk?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-06T05:54:13+00:00",
-      "collected_at": "2026-05-16T06:56:44.757007+00:00",
-      "summary": "금융권 '성장 지원' 넓힌다…농협금융 청년농 판로에 방점 포쓰저널",
-      "keywords": [
-        "청년농",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "a51d20a70b3012340dfcf500",
-      "title": "[2026 땅속작물수확기] 일손 부족에 ‘필수재’ 된 수확기… 현장 맞춤형 장비 시장 주도 - 한국농기계신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XbWtCRDhTR2J5TjRSSnFadGVQWDNLUHlsdXZ2QWNFX3JmMlN2X2ZlWXp0UVROZDZOYUVLN3hlblhpcmZMNlBLTTI2QkM5cmdhcXlKV2phM043dkJ3M2dpdzBoTE5lWkRCd3c?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-06T05:43:57+00:00",
-      "collected_at": "2026-05-16T06:56:40.860831+00:00",
-      "summary": "[2026 땅속작물수확기] 일손 부족에 ‘필수재’ 된 수확기… 현장 맞춤형 장비 시장 주도 한국농기계신문",
-      "keywords": [
-        "작물",
-        "농기계"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 541,
+    "total": 542,
     "category_counts": {
-      "news": 316,
+      "news": 317,
       "plant_reviews": 44,
       "support": 181
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 178
+        "count": 179
       },
       {
         "keyword": "지원",
@@ -10240,7 +10259,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 83
+        "count": 84
       },
       {
         "keyword": "사업",
@@ -10251,12 +10270,12 @@
         "count": 55
       },
       {
-        "keyword": "귀농",
-        "count": 50
+        "keyword": "농산물",
+        "count": 51
       },
       {
-        "keyword": "농산물",
-        "count": 50
+        "keyword": "귀농",
+        "count": 51
       },
       {
         "keyword": "스마트팜",
@@ -10272,29 +10291,29 @@
       },
       {
         "keyword": "작물",
-        "count": 40
+        "count": 39
       },
       {
         "keyword": "청년농",
-        "count": 39
+        "count": 38
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 99
+        "count": 100
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 62
+        "count": 63
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 59
+        "count": 60
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 57
+        "count": 56
       },
       {
         "source": "Google News 식물 키우기",
@@ -10318,15 +10337,15 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 19
+        "count": 18
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 5,
-    "fetched_items": 692,
+    "new_items": 3,
+    "fetched_items": 688,
     "errors": []
   }
 }
