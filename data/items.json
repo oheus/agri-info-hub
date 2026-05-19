@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-19T06:38:48.130148+00:00",
+  "generated_at": "2026-05-19T07:09:20.868762+00:00",
   "items": [
+    {
+      "id": "3335a03a642dcebb26e7d093",
+      "title": "무주군, ‘직장인 든든한 점심밥’ 사업 추진 - 무진장뉴스i",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FYUhMTVhWS3BZalRCZkNmdnRjUlpZXzJzZ1ZTSEhYOTZBRUF2aGlQNFY3dEUta1FxXzJHQzZISWR1amNjTzVmZXIwUl9kSHBqaEJNY3U5bklNQQ?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-05-19T07:00:11+00:00",
+      "collected_at": "2026-05-19T07:09:17.669106+00:00",
+      "summary": "무주군, ‘직장인 든든한 점심밥’ 사업 추진 무진장뉴스i",
+      "keywords": [
+        "사업"
+      ],
+      "importance": 68,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
     {
       "id": "0d9844b41f98f8b5c5a467e6",
       "title": "화순군, 논콩 파종기 맞아 재배기술 지도 강화 - 신아일보",
@@ -51,6 +69,24 @@
       ],
       "importance": 48,
       "region": "대구",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "2230fefa67b9ff6ee5f09970",
+      "title": "“딸기 최고값 받으려면 이렇게\"…동화청과, 청년농에 유통·출하역량 강화 교육 - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NQ29Hcm00Mjd1Sld5cUwwNDFNdDY1Qm40RXhQYzRrcEVFVGhOZzBfaC1tUnQxVGhSOWVEdDVGX0ZVMzhEN21ET2gyTzNPanl5Y3FYQTNHejFRQQ?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-05-19T05:50:00+00:00",
+      "collected_at": "2026-05-19T07:09:03.243088+00:00",
+      "summary": "“딸기 최고값 받으려면 이렇게\"…동화청과, 청년농에 유통·출하역량 강화 교육 농민신문",
+      "keywords": [
+        "청년농"
+      ],
+      "importance": 48,
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -262,24 +298,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "74a68ec2105b3331305f4065",
-      "title": "무주군, ‘직장인 든든한 점심밥’ 사업 추진 - 경남도민뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tMTlra01tSGdDci1kVWxlV2JJQ3R5dWtaTWtJVVhnZ2NFbXN0TGZPNG94Z3hFN1NzYUE0NTRZSXFnOGh5ZTVlWFFIN2tpYVFTV0ZXYzB5R2Y1bF9tMFdiMnVidw?oc=5",
-      "source": "Google News 지자체 농업기술센터",
-      "category": "support",
-      "published_at": "2026-05-19T03:30:13+00:00",
-      "collected_at": "2026-05-19T04:59:36.340841+00:00",
-      "summary": "무주군, ‘직장인 든든한 점심밥’ 사업 추진 경남도민뉴스",
-      "keywords": [
-        "사업"
-      ],
-      "importance": 68,
-      "region": "경남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     },
     {
       "id": "9b9b741fbdc7783b20eb1d10",
@@ -10334,64 +10352,23 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
-    },
-    {
-      "id": "75b886107ce3746dad0f2144",
-      "title": "인천 계양구, 가로수·공원 수목 병해충 집중 방제 추진 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51S3Z4d0g4aG16VXRHd3NzNWtBelB0N2hwTzFHa1ZhNUp5SWNUMG5mbnJKYWdOZVFONWVKLVJERlE3cUF4M1RRQmZoVnIwdFNSdi1XNGJoRXBldE53em5ZaHRsbkw?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-07T04:20:53+00:00",
-      "collected_at": "2026-05-16T06:56:40.860831+00:00",
-      "summary": "인천 계양구, 가로수·공원 수목 병해충 집중 방제 추진 매일일보",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "인천",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "dec86a1f62387e7a311da910",
-      "title": "지원이 아닌 “성장”을 설계하다... 고창군청년농업인 육성, 성공모델로 주목 - 아시아뉴스전북",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56Sm9yNjFpY05YblpuNks3N05LOWpnV3JtYUltaTJmM1d1X3BmSUs0ZzY4Q1pFYkZvY2piUHpiMTZqMmxpcWJVdkZVV3FobHl3a2N0UXNJNzQ2c2s2VWtfRy15Wk9wa2t2TWfSAW5BVV95cUxQYTN0LTZ3RWJmcV9Qend3MHFLN19HQWh2YjVLdEJrMm11cW40TG92WnhaNlF1cmlOdXVTQmpzbXUySC05M2lPbzM3dlNXM1ROeXlNV2YzV29hcEd4MzBSTzZwOW5UUl9feUhrTWdtUQ?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-07T03:37:51+00:00",
-      "collected_at": "2026-05-16T06:56:44.757007+00:00",
-      "summary": "지원이 아닌 “성장”을 설계하다... 고창군청년농업인 육성, 성공모델로 주목 아시아뉴스전북",
-      "keywords": [
-        "농업",
-        "청년농",
-        "농업인",
-        "공모",
-        "청년농업인",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "전북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 549,
+    "total": 548,
     "category_counts": {
       "news": 324,
       "plant_reviews": 42,
-      "support": 183
+      "support": 182
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 187
+        "count": 186
       },
       {
         "keyword": "지원",
-        "count": 108
+        "count": 107
       },
       {
         "keyword": "농촌",
@@ -10441,7 +10418,7 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 60
+        "count": 61
       },
       {
         "source": "Google News 농산물 가격",
@@ -10449,7 +10426,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 55
+        "count": 54
       },
       {
         "source": "Google News 식물 키우기",
@@ -10473,15 +10450,15 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 19
+        "count": 18
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 7,
-    "fetched_items": 683,
+    "new_items": 4,
+    "fetched_items": 685,
     "errors": []
   }
 }
