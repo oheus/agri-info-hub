@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-19T07:09:20.868762+00:00",
-  "total": 548,
+  "generated_at": "2026-05-19T07:39:52.799102+00:00",
+  "total": 547,
   "category_counts": {
     "news": 324,
-    "plant_reviews": 42,
+    "plant_reviews": 41,
     "support": 182
   },
   "top_keywords": [
@@ -29,7 +29,7 @@
     },
     {
       "keyword": "반려식물",
-      "count": 52
+      "count": 51
     },
     {
       "keyword": "농산물",
@@ -75,7 +75,7 @@
     },
     {
       "source": "Google News 식물 키우기",
-      "count": 51
+      "count": 50
     },
     {
       "source": "Google News 스마트팜",
@@ -101,7 +101,7 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
+    "new_items": 1,
     "fetched_items": 685,
     "errors": []
   }
