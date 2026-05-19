@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-05-19T02:24:21.557112+00:00",
+  "generated_at": "2026-05-19T02:54:53.455638+00:00",
   "items": [
+    {
+      "id": "9b9b741fbdc7783b20eb1d10",
+      "title": "박찬우 천안시장 후보, \"돈이 되는 농업, 살고 싶은 농촌 만들 것\" - 중도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCOWJSWEVBRGZzSndUbHp3cWFaT2hKcmJnQ2RFLUZIMnQzb1F1SFlUcmJfSDEwVTRWXzJMT25Nd2M4d1pYUjVaQXpSOTJhbVp0VHA3bmNXS0J1X3JfMk5CVW5peXZYMmt2ZTFJRA?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-19T02:25:06+00:00",
+      "collected_at": "2026-05-19T02:54:32.652095+00:00",
+      "summary": "박찬우 천안시장 후보, \"돈이 되는 농업, 살고 싶은 농촌 만들 것\" 중도일보",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "충남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "f0c2f59042b51f97f1833e21",
       "title": "박찬우 천안시장 후보, 농업·농촌·농민 공약 발표...10가지 주요 공약 제시 - 로컬투데이",
@@ -10248,51 +10267,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f893d11b954ddc469c85e666",
-      "title": "양배추 가격 -46.8%·양파 -32% 급락…쌀·계란은 강세 지속 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QNk1RcnhTbmtNeEFXQnBPaW81QjJENGF1VjJHWk50Y0lPQWRXdjNlTTVtY0o0OWcwNHVXdUhjdHVqYWx0QktTZXp1OFpGNmVaWHMwRkJMdnJqeUR6al9EWNIBeEFVX3lxTE1oeVFFaEg1aGlIVF9TaU8wY1E5ZVphVGlCQkVQQ2VPVmEyR0xWM2xreTV1WmtqRmd0SnVZcmVSY09feDZsZm8ycW5wQjFLa3FzQjM5aG5iSFlCRTUzWGVfSThQZm5RRUh3VWluenNtUUFBNnQwMnZ0Wg?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "양배추 가격 -46.8%·양파 -32% 급락…쌀·계란은 강세 지속 뉴시스",
-      "keywords": [],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "20d3d38fbc092cfa905a42c3",
-      "title": "2026년 제9차 민간자격 등록폐지 공고 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3WEFOV0h5Sy1TUGVVVnlINUVocTVIZHVOR0ZuSmxfaEVQNTJkUWt6ZDBfMnhweFlQaElGMVBlajB2Yk8tQW9pQWp1VFVubi0tNFBJUEZlYlhxS3BTVUVTem1pTkMzZm8?oc=5",
-      "source": "Google News 농림축산식품부",
-      "category": "news",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "collected_at": "2026-05-16T06:56:43.476341+00:00",
-      "summary": "2026년 제9차 민간자격 등록폐지 공고 농림축산식품부",
-      "keywords": [],
-      "importance": 48,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 544,
+    "total": 543,
     "category_counts": {
-      "news": 320,
+      "news": 319,
       "plant_reviews": 44,
       "support": 180
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 181
+        "count": 182
       },
       {
         "keyword": "지원",
@@ -10300,7 +10287,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 85
+        "count": 86
       },
       {
         "keyword": "사업",
@@ -10342,7 +10329,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 101
+        "count": 102
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10350,7 +10337,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 58
+        "count": 57
       },
       {
         "source": "Google News 병해충 재배",
@@ -10385,8 +10372,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 685,
+    "new_items": 2,
+    "fetched_items": 681,
     "errors": []
   }
 }
