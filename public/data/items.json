@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-05-19T06:08:18.943013+00:00",
+  "generated_at": "2026-05-19T06:38:48.130148+00:00",
   "items": [
+    {
+      "id": "0d9844b41f98f8b5c5a467e6",
+      "title": "화순군, 논콩 파종기 맞아 재배기술 지도 강화 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2eFJjQ1hvdlVQZlozQUZ6dXpVbkhOUnEwd3ZVMG9sbHdNTkRPVnRTTEVfZ19lTF80OHVueFBjb2c1U2l2dllOZHdtN0lVbktJQ0Vrakc0SlB3dTlISGhoUmwtTlNYRl9NeVJyZ2RuSFM?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-19T06:22:38+00:00",
+      "collected_at": "2026-05-19T06:38:34.339541+00:00",
+      "summary": "화순군, 논콩 파종기 맞아 재배기술 지도 강화 신아일보",
+      "keywords": [
+        "재배"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "c4b16d1d635d5bbb14791d72",
+      "title": "사천시, 농작업 안전재해 예방 현장밀착 지원 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QU1prb1dya1BqNVM2Z1VfV1V1RHNMS3Y4N1N6bFJZa0p1dnB3aGF6eEw3LUE2a0NBWndXVUpyNktHc0pWTG9TbjNFVFVJQjBZX0Qwa2lzWTl3cTFxRXZ4S0RYMWJYeUZ3UHMweWlVQlVIdw?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-05-19T06:14:46+00:00",
+      "collected_at": "2026-05-19T06:38:45.387732+00:00",
+      "summary": "사천시, 농작업 안전재해 예방 현장밀착 지원 웹이코노미",
+      "keywords": [
+        "지원"
+      ],
+      "importance": 80,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "ae3feed78f3a38654341ede1",
+      "title": "상주시, 2026년도 국가관리 병해충예찰단 출격 개시! - 데일리대구경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYYzNqWWotMTB4WHdVREp6bkpxSDJYVnNXVTV3cTVXUVdZOEllU0laQThtM3czWUhpUTdDS2QtTnV1dkVic3VCWVZ3dnBIQWczeVpMSVRjeVBiRkZfNVN6aDBob3hWQQ?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-19T06:05:24+00:00",
+      "collected_at": "2026-05-19T06:38:34.339541+00:00",
+      "summary": "상주시, 2026년도 국가관리 병해충예찰단 출격 개시! 데일리대구경북뉴스",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "대구",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "35c967d8d3f700196219ccab",
       "title": "햇빛소득마을 임차농지 분리과세…농업진흥지역 내 카페·빵집 허용 - 농민신문",
@@ -301,6 +355,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "fc0e37123c1c8e48c8acdc48",
+      "title": "상주시, 국가관리 병해충예찰단 본격 활동 개시 - 경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LSU4wRXpMTmRQWDJoVDBNNENyNmd1RFNEc3JNZVRFM0NaUjhITnU1QUpyODE3b0x5LUdvamJnQmpqLWhralZlZm1KSE1EdkhQcnZxZG9ab3RJUQ?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-19T01:49:00+00:00",
+      "collected_at": "2026-05-19T06:38:34.339541+00:00",
+      "summary": "상주시, 국가관리 병해충예찰단 본격 활동 개시 경북매일",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "경북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "dca5225b2df185fb7253ac42",
@@ -10303,32 +10375,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "4bffe7c8c41d179f6fe858a2",
-      "title": "고흥군, 유자 개화기 병해충 및 수세관리 철저 당부 - 시사일보",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xbjg0WVRORTY1R1IzVUtFQ2JtaTh0VWJtSHB4RHRrN0Vvd09Fby02YjV6YTl5TERoek4xNV8xY2ltVWpNNVpoMGxDR1g?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-07T03:00:00+00:00",
-      "collected_at": "2026-05-18T08:27:56.954716+00:00",
-      "summary": "고흥군, 유자 개화기 병해충 및 수세관리 철저 당부 시사일보",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 546,
+    "total": 549,
     "category_counts": {
-      "news": 322,
+      "news": 324,
       "plant_reviews": 42,
-      "support": 182
+      "support": 183
     },
     "top_keywords": [
       {
@@ -10337,7 +10391,7 @@
       },
       {
         "keyword": "지원",
-        "count": 107
+        "count": 108
       },
       {
         "keyword": "농촌",
@@ -10395,7 +10449,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 53
+        "count": 55
       },
       {
         "source": "Google News 식물 키우기",
@@ -10426,8 +10480,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 14,
-    "fetched_items": 669,
+    "new_items": 7,
+    "fetched_items": 683,
     "errors": []
   }
 }
