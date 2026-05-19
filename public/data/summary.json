@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-19T06:08:18.943013+00:00",
-  "total": 546,
+  "generated_at": "2026-05-19T06:38:48.130148+00:00",
+  "total": 549,
   "category_counts": {
-    "news": 322,
+    "news": 324,
     "plant_reviews": 42,
-    "support": 182
+    "support": 183
   },
   "top_keywords": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "keyword": "지원",
-      "count": 107
+      "count": 108
     },
     {
       "keyword": "농촌",
@@ -71,7 +71,7 @@
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 53
+      "count": 55
     },
     {
       "source": "Google News 식물 키우기",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 14,
-    "fetched_items": 669,
+    "new_items": 7,
+    "fetched_items": 683,
     "errors": []
   }
 }
