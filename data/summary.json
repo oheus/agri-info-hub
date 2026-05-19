@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-19T07:39:52.799102+00:00",
-  "total": 547,
+  "generated_at": "2026-05-19T09:16:16.624060+00:00",
+  "total": 548,
   "category_counts": {
-    "news": 324,
+    "news": 325,
     "plant_reviews": 41,
     "support": 182
   },
@@ -17,15 +17,15 @@
     },
     {
       "keyword": "농촌",
-      "count": 89
+      "count": 90
     },
     {
       "keyword": "사업",
-      "count": 69
+      "count": 70
     },
     {
       "keyword": "스마트팜",
-      "count": 55
+      "count": 53
     },
     {
       "keyword": "반려식물",
@@ -45,7 +45,7 @@
     },
     {
       "keyword": "지원사업",
-      "count": 41
+      "count": 42
     },
     {
       "keyword": "청년농",
@@ -59,7 +59,7 @@
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 107
+      "count": 109
     },
     {
       "source": "Google News 청년농 귀농",
@@ -79,15 +79,15 @@
     },
     {
       "source": "Google News 스마트팜",
-      "count": 48
+      "count": 47
+    },
+    {
+      "source": "Google News 지원사업",
+      "count": 38
     },
     {
       "source": "농사로 이달의 농업기술",
       "count": 38
-    },
-    {
-      "source": "Google News 지원사업",
-      "count": 37
     },
     {
       "source": "Google News 농업기술센터 모집",
@@ -95,14 +95,14 @@
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 18
+      "count": 17
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 1,
-    "fetched_items": 685,
+    "new_items": 5,
+    "fetched_items": 688,
     "errors": []
   }
 }
