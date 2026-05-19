@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T02:54:53.455638+00:00",
+  "generated_at": "2026-05-19T03:25:27.421833+00:00",
   "total": 543,
   "category_counts": {
     "news": 319,
@@ -24,12 +24,12 @@
       "count": 65
     },
     {
-      "keyword": "반려식물",
+      "keyword": "스마트팜",
       "count": 55
     },
     {
-      "keyword": "스마트팜",
-      "count": 54
+      "keyword": "반려식물",
+      "count": 55
     },
     {
       "keyword": "농산물",
@@ -49,11 +49,11 @@
     },
     {
       "keyword": "청년농",
-      "count": 38
+      "count": 39
     },
     {
       "keyword": "작물",
-      "count": 37
+      "count": 36
     }
   ],
   "top_sources": [
@@ -71,7 +71,7 @@
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 55
+      "count": 54
     },
     {
       "source": "Google News 식물 키우기",
@@ -79,7 +79,7 @@
     },
     {
       "source": "Google News 스마트팜",
-      "count": 48
+      "count": 49
     },
     {
       "source": "농사로 이달의 농업기술",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 2,
-    "fetched_items": 681,
+    "new_items": 4,
+    "fetched_items": 689,
     "errors": []
   }
 }
