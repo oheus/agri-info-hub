@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T15:38:28.494663+00:00",
+  "generated_at": "2026-05-21T16:09:05.203827+00:00",
   "items": [
     {
       "id": "05b89650eefda7c15f239eb2",
@@ -457,6 +457,27 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "0f96bacbcc69d07c5e7a9ce9",
+      "title": "연천군농업기술센터, 2026 농업인 농작업 안전실천 교육생 모집 - 일간투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QclhSVURxNVJ2b2hjTnFpV2Vsd1pSVGxIb2p3dzJTLUdaa09tQS1MM2luLTdvUkt1ZEVpaV9NSUpfRHVIQUJFZ3psNmpzS3lMSTJJWTgtaFFtQzFlT1pGMmxDbkg5aUljQ0Mw?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-05-21T03:27:38+00:00",
+      "collected_at": "2026-05-21T16:09:04.322038+00:00",
+      "summary": "연천군농업기술센터, 2026 농업인 농작업 안전실천 교육생 모집 일간투데이",
+      "keywords": [
+        "농업",
+        "농업인",
+        "모집",
+        "농업기술센터"
+      ],
+      "importance": 74,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "d94afa5f2b9ef71405ff5287",
@@ -1643,6 +1664,24 @@
       "category_label": "지원사업"
     },
     {
+      "id": "77de84b881e6acb5d58f724b",
+      "title": "“스마트팜·신품종 보급…품목맞춤형 접근 필요” - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82MnQwaTZjd1FQUlkwVWxQM2JDOFA5WnBkeVRLNno1SF8xSEJiazVmU3l6WXVUVGk0QnM1SDlzWi1VVXFYYy1XNlpaVG1ob1NhQUhuQWNTR01iQQ?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-20T07:00:00+00:00",
+      "collected_at": "2026-05-21T16:08:47.293614+00:00",
+      "summary": "“스마트팜·신품종 보급…품목맞춤형 접근 필요” 농민신문",
+      "keywords": [
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "3310519c2aca2f879597fe85",
       "title": "대전시, 17년 방치 폐지하보도에 시민참여형 스마트팜 조성 - 뉴스프리존",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xSW13UEtNSTlPY2p1NldLMGJSYVhYZ3BidnlCUDM1TmdQNDFpR3Y4d1hBY2RGZHBXaDNBQUk0eE1aMThOUmZJbWhfampDX0k2UTgxSXhxekROaDdUOU1CMFF1LUg1U3c1bU9CaXhDUXVrbC1sUkhz0gF3QVVfeXFMTjFJbXdQS01JOU9janU2V0swYlJhWFhncGJ2eUJQMzVOZ1A0MWlHdjh3WEFjZEZkcFdoM0FBSTR4TVoxOE5SZkltaF9qakNfSTZRODFJeHF6RE5oN1Q5TUIwUXUtSDVTdzVtT0JpeENRdWtsLWxSSHM?oc=5",
@@ -2242,6 +2281,26 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "e99fa34209771b31da8e0175",
+      "title": "미래농업서 ‘갓생’ 찾는다…농식품부, 청년 인턴 24명 모집 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15YWZNX0lVc1ppTUdBeGxDM2lfMm9Sekhhb1lqLXhXT3lweDRQYWlJY1J6TGFuaWtIZkRQcHB4Y002MF9BLVE?oc=5",
+      "source": "Google News 농업",
+      "category": "support",
+      "published_at": "2026-05-20T02:01:00+00:00",
+      "collected_at": "2026-05-21T16:08:44.988035+00:00",
+      "summary": "미래농업서 ‘갓생’ 찾는다…농식품부, 청년 인턴 24명 모집 v.daum.net",
+      "keywords": [
+        "농업",
+        "모집",
+        "농식품부"
+      ],
+      "importance": 64,
+      "region": "전국",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "6e8b69c52120eb55ef5737d4",
@@ -3843,20 +3902,20 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "61aca9b8b41088f2e9acce30",
-      "title": "봉화군수 후보자 초청 농정토론회’ ⋯농업·농촌 핵심 현안 집중 검증 - 경북매일",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15V2g1MFdXYnpWaGlLTU5oa2pubFZ3Wl9JVGwybUNjUThEekJzY2swLWxPa3BPbDZCdjNSd2d4aEROS21TcmFqV1A2ZmoxU2NGU2xxanF6b0FGQQ?oc=5",
+      "id": "b7306f365de74a6d46d18998",
+      "title": "봉화군수 후보자 초청 농정토론회’ ⋯농업·농촌 핵심 현안 집중 검증 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UOGZaYWE0YUF1YVpHZG9JbjNtdmFqRDUtYm1rS1RVZ2ctZU9qT1NpeFE3a2duTHpjUnE2MC1sMklMamVNRG45aVotWEpGNE0?oc=5",
       "source": "Google News 농업",
       "category": "news",
-      "published_at": "2026-05-19T00:24:00+00:00",
-      "collected_at": "2026-05-19T00:52:31.661946+00:00",
-      "summary": "봉화군수 후보자 초청 농정토론회’ ⋯농업·농촌 핵심 현안 집중 검증 경북매일",
+      "published_at": "2026-05-19T00:24:20+00:00",
+      "collected_at": "2026-05-21T16:08:44.988035+00:00",
+      "summary": "봉화군수 후보자 초청 농정토론회’ ⋯농업·농촌 핵심 현안 집중 검증 v.daum.net",
       "keywords": [
         "농업",
         "농촌"
       ],
       "importance": 42,
-      "region": "경북",
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -10769,140 +10828,63 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "687527a495a4b8507dbd2841",
-      "title": "옥천군, 유기질비료 지원사업 신청 접수 - K-Life TV",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EMllqcG1PcVlwWlFKQl8xeU9pRWVGT2NZdmFMeE1PUDAwWlRkUTdGSUlRWDRmTU5LYXRLM045dEpxOVhUZkphY0pmUjF3dmI4Z21YcWFpbGlUcFRIakNFalg3Q2luRHIyN0FVVg?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-13T01:30:46+00:00",
-      "collected_at": "2026-05-15T16:21:54.940113+00:00",
-      "summary": "옥천군, 유기질비료 지원사업 신청 접수 K-Life TV",
-      "keywords": [
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "669c4ba2e0a2b9738936fb8f",
-      "title": "이학수 예비후보, 농업·농촌 분야 11대 공약 발표 - 이로운넷",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TRG1zcW9ZQ0J3TXl6LU1ONWlBZHlxTnluUFpMZm9Mb0xDN1RVLVU5cWF6WUlpZjNWOW94aV9pT1FYRHo1dnVnelYzaHZqSFd4QzVJLXJqWTlLOXhpVmxLTkpRX0RJdw?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-13T01:29:07+00:00",
-      "collected_at": "2026-05-15T16:21:53.795077+00:00",
-      "summary": "이학수 예비후보, 농업·농촌 분야 11대 공약 발표 이로운넷",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f87cf9d24901bbee178efa97",
-      "title": "[강세 토픽] 곡물가격 상승에 투자 (ETF·ETN) 테마, 메리츠 레버리지 대표 농산물 선물 ETN(H) +4.34%, TIGER 농산물선물Enhanced(H) +4.19% - 조선비즈 - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHc0dm42MXlmT2NlTlN1WFNwdW5tMnRMSFlDNk0wZWJmd1BaOUFLYTZGOE54LTZoSFJLcENfQ3hwaTdJQ1pXNEswVlh5SEdoRHlDTGpWY3JhVW1YdGViSV8yT2FLelpqaVMzb2tLQ0tsUFBZelFzVjM4ejJGR2ZpQ2MtRdIBlwFBVV95cUxORGM2WmhxZ1FLSlF5T1JYOUJMZ2FmSXFGZk8xdnVVdTk2QVNKSXVsd1FnWWdJd01CUVk5bzhZVU1NeUc5VThEdWszN0pKQWZHd2plbTQwcFdETGhLUmpsRjlUdGI4ZkRmWHhiNjB0VXpzdzU0c014d3RqaW52UUdmS19aNV9QajlNQTRTUzVRUXhZMzJQTjZR?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-05-13T01:27:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "[강세 토픽] 곡물가격 상승에 투자 (ETF·ETN) 테마, 메리츠 레버리지 대표 농산물 선물 ETN(H) +4.34%, TIGER 농산물선물Enhanced(H) +4.19% - 조선비즈 Chosunbiz",
-      "keywords": [
-        "농산물"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "b86821ec7a829219389a3582",
-      "title": "초보도 작물 키운다…스마트 수직농장 농가 보급 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1QmNIUzIzWjJuZHJBRDI0RXhVT2kxeWt4SlkzQlFJNTNOcnVScHBwMnNRTGh2OU5yTkVhNWhyU1hKdFV6b1RVVG5Bam5rWlE?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-13T00:57:03+00:00",
-      "collected_at": "2026-05-16T07:27:05.982018+00:00",
-      "summary": "초보도 작물 키운다…스마트 수직농장 농가 보급 v.daum.net",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 572,
+    "total": 571,
     "category_counts": {
-      "news": 343,
+      "news": 341,
       "plant_reviews": 19,
-      "support": 210
+      "support": 211
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 184
+        "count": 185
       },
       {
         "keyword": "지원",
-        "count": 135
+        "count": 134
       },
       {
         "keyword": "농촌",
-        "count": 100
+        "count": 99
       },
       {
         "keyword": "사업",
-        "count": 80
+        "count": 79
       },
       {
         "keyword": "스마트팜",
-        "count": 70
-      },
-      {
-        "keyword": "지원사업",
-        "count": 57
+        "count": 71
       },
       {
         "keyword": "귀농",
         "count": 57
       },
       {
+        "keyword": "지원사업",
+        "count": 56
+      },
+      {
         "keyword": "농산물",
-        "count": 48
+        "count": 47
+      },
+      {
+        "keyword": "모집",
+        "count": 45
       },
       {
         "keyword": "청년농",
         "count": 43
       },
       {
-        "keyword": "모집",
-        "count": 43
-      },
-      {
         "keyword": "작물",
-        "count": 34
+        "count": 33
       },
       {
         "keyword": "신청",
-        "count": 33
+        "count": 32
       }
     ],
     "top_sources": [
@@ -10916,19 +10898,19 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 61
+        "count": 62
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 55
+        "count": 54
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 52
+        "count": 51
       },
       {
         "source": "Google News 지원사업",
-        "count": 48
+        "count": 47
       },
       {
         "source": "농사로 이달의 농업기술",
@@ -10936,7 +10918,7 @@
       },
       {
         "source": "Google News 농업기술센터 모집",
-        "count": 24
+        "count": 25
       },
       {
         "source": "Google News 식물 키우기",
@@ -10952,7 +10934,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 5,
-    "fetched_items": 700,
+    "fetched_items": 703,
     "errors": []
   }
 }
