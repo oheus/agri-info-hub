@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T16:09:05.203827+00:00",
+  "generated_at": "2026-05-21T16:39:54.155093+00:00",
   "items": [
     {
       "id": "05b89650eefda7c15f239eb2",
@@ -1870,6 +1870,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "1928af236504ffe3dd9c3ae5",
+      "title": "수원시 영통구 원천동, 홀몸 어르신에 반려식물 전달 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zVm02a2lUeTFKb1BlREF0NC1VQTJhSklDV2FnUHRKY242bTFiYlpiWXpaZzZqN2I1dUtZS094VFFNRHRxRlA3aUw2NjdXeHMxTVdfa1RjRTFVVmFGLVlVWkhseTlVOUExY2lnd0xHSlZpZw?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-05-20T05:41:59+00:00",
+      "collected_at": "2026-05-21T16:39:49.737755+00:00",
+      "summary": "수원시 영통구 원천동, 홀몸 어르신에 반려식물 전달 웹이코노미",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "경기",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
     },
     {
       "id": "21ee18172129c0976568a04a",
@@ -10769,86 +10787,27 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "c980d42a4c2ac334f9e439a4",
-      "title": "철원군, 상반기 사료구매자금 64억 원 융자 지원 - 미디어투데이",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPclMxUnlhNmtpNlBGRy10cDJIZGVCMld2RklEblhVTDRuZG93RkZISWxINnFUQjBCd1FraDdFVFFyRDdSTG1VVEZfU2ptU2RGUi1DblVzRHpUR0pKYi1sSTFYT0t5MEwxMjRMYkRZb0pKczh1endLQVpJdS05NUo1MzVjRHBJYXdrb2RUTTdDYVdJTGNRNEh6SQ?oc=5",
-      "source": "Google News 농업 지원금",
-      "category": "support",
-      "published_at": "2026-05-13T01:48:00+00:00",
-      "collected_at": "2026-05-16T06:56:44.090862+00:00",
-      "summary": "철원군, 상반기 사료구매자금 64억 원 융자 지원 미디어투데이",
-      "keywords": [
-        "융자",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "4045b099cb6197cb68c644bf",
-      "title": "[6·3정읍]이학수, 농업인 생활안정 중점 '농업·농촌' 공약 발표 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WRWJqNlBvMjZOeThHYXJPeWR1aFh5a0xqUzE4c3o3bjZTOTVOcEpSZHpVQXhZRDQtbzFUczMxcjNWREd0dEp3TUc0UnQ0d0xna0JpTks1VmZ0VVNPbkJ0etIBeEFVX3lxTE5CWWk0RGt3TzktQXJEeHctYmNxd1pudUZLTGxXV3BUSlRFa2hoelBBRWYtODVnTEo3dmpsTGpJQ05BUXVKQVFtODZzRmdZY0dLVmhUeHhuRlVteFAzYXRyOW5iQVNpMUpSY3c1TzQwRXlrUHdrSkd2RQ?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-13T01:37:34+00:00",
-      "collected_at": "2026-05-15T16:21:53.795077+00:00",
-      "summary": "[6·3정읍]이학수, 농업인 생활안정 중점 '농업·농촌' 공약 발표 뉴시스",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "4006774228a499326c9d9717",
-      "title": "문성유 \"청년농 스마트팜 창업 지원\"… 제주 농업 사관학교 공약 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SV05FeDA2UHlpQWd6WnRwbGQ4dWJIREg1ZUlwSDlobXQ1ZEhYd2lGejdPSWFqenNoR0dDZUJFR0s2OHVaczlaaUlCbzhFaFNxVE1XbQ?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-13T01:34:20+00:00",
-      "collected_at": "2026-05-16T06:56:44.757007+00:00",
-      "summary": "문성유 \"청년농 스마트팜 창업 지원\"… 제주 농업 사관학교 공약 v.daum.net",
-      "keywords": [
-        "농업",
-        "스마트팜",
-        "청년농",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "제주",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 571,
+    "total": 569,
     "category_counts": {
-      "news": 341,
-      "plant_reviews": 19,
-      "support": 211
+      "news": 340,
+      "plant_reviews": 20,
+      "support": 209
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 185
+        "count": 183
       },
       {
         "keyword": "지원",
-        "count": 134
+        "count": 132
       },
       {
         "keyword": "농촌",
-        "count": 99
+        "count": 98
       },
       {
         "keyword": "사업",
@@ -10856,7 +10815,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 71
+        "count": 70
       },
       {
         "keyword": "귀농",
@@ -10876,7 +10835,7 @@
       },
       {
         "keyword": "청년농",
-        "count": 43
+        "count": 42
       },
       {
         "keyword": "작물",
@@ -10890,7 +10849,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 117
+        "count": 116
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10922,11 +10881,11 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 23
+        "count": 24
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 22
+        "count": 21
       }
     ]
   },
@@ -10934,7 +10893,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 5,
-    "fetched_items": 703,
+    "fetched_items": 707,
     "errors": []
   }
 }
