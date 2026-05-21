@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T14:37:17.982937+00:00",
+  "generated_at": "2026-05-21T15:07:51.964991+00:00",
   "items": [
     {
       "id": "27e03992b941b6b94e0b5950",
@@ -270,6 +270,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "e4d5d51975b16ec5d2bae0cc",
+      "title": "화순군, 초기 병해충 방제 벼 육묘상자처리제 지원 - 중도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5td3h1ZkREc1VIZE9fYVBsVVdxOWxNbWltV283cDNVRFVac3d4cnk1eHlqYzFnUlV4SDhoOUdkQlhiRUNSelRmRVoxQTQyMzIwMFg2dVl5WE5pcGM2aUxLcjVxZXZORG0xYjJ6OA?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "support",
+      "published_at": "2026-05-21T06:37:12+00:00",
+      "collected_at": "2026-05-21T15:07:36.762477+00:00",
+      "summary": "화순군, 초기 병해충 방제 벼 육묘상자처리제 지원 중도일보",
+      "keywords": [
+        "병해충",
+        "지원"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "53d40dc510c77e09de776e07",
       "title": "탄소·경영비 절감하는 ‘新 벼 재배 기술’ 눈길 - 농축유통신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16T2ZYdDhsWGFfYW1QS3h0ZDBiS2NxTmJkMlpjS0RZQzQ0by1UclZHdVZ3bXRjRDBubmozRnk1bklURHNuTGZWTmVVZzQ5MGtBUzJMbldWa3hiZDFQNnZpMG9ZWThBRXFh?oc=5",
@@ -438,6 +457,27 @@
       "importance": 70,
       "region": "",
       "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "4b781ddb3fb731594a4fff7e",
+      "title": "인천 남동구, 2026년 해외 박람회 단체참가 지원사업 참여업체 모집 - 한국시사경제",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sNU9WUUhBUjk1OVA0eHljal9RODUwZ1A2QzJydXhiamdRem53LURRbkk3VTZfd2M4a1hLUUhjRVlaOFJ6R3ZFU2RnTjRVZ2czeVFlT3RYOUszdUZ2MUlSSmdPUUtvclRMZkE?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-05-21T02:30:52+00:00",
+      "collected_at": "2026-05-21T15:07:48.982899+00:00",
+      "summary": "인천 남동구, 2026년 해외 박람회 단체참가 지원사업 참여업체 모집 한국시사경제",
+      "keywords": [
+        "지원사업",
+        "모집",
+        "지원",
+        "사업"
+      ],
+      "importance": 80,
+      "region": "인천",
+      "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
     },
@@ -2941,6 +2981,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "77b402b5ad26a96349f2bbac",
+      "title": "안성시, ‘고유가 피해지원금’ 2차 접수 시작 - 자치안성신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xS3F5WEpUTnV0ZkhlaW5OMHhuZVNIc1VoN095VmZPS0stcy1ZeWlSd1RQV2RVY3E2N3ZlQTFJbmZxZ1VlN3BNZ0hkZVRic1RaV2dOQWRYOHIyYjE5bTdkcWxaVDhiLXBtekhmbGJtaDNLTG10aXFHUmpIRDI?oc=5",
+      "source": "Google News 식물 관리",
+      "category": "support",
+      "published_at": "2026-05-19T07:07:20+00:00",
+      "collected_at": "2026-05-21T15:07:48.118013+00:00",
+      "summary": "안성시, ‘고유가 피해지원금’ 2차 접수 시작 자치안성신문",
+      "keywords": [
+        "지원",
+        "접수"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "3335a03a642dcebb26e7d093",
       "title": "무주군, ‘직장인 든든한 점심밥’ 사업 추진 - 무진장뉴스i",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FYUhMTVhWS3BZalRCZkNmdnRjUlpZXzJzZ1ZTSEhYOTZBRUF2aGlQNFY3dEUta1FxXzJHQzZISWR1amNjTzVmZXIwUl9kSHBqaEJNY3U5bklNQQ?oc=5",
@@ -4212,6 +4271,24 @@
       ],
       "importance": 64,
       "region": "제주",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "61cff3fe79b12f3c6e5f8364",
+      "title": "안성시 시민활동통합지원단, 안성시민과 함께 만드는 돌봄 실험 ‘사회연대처방’ 본격 추진 - 자치안성신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1POTBqVHNuVzU4bnVyOGZsU3Qzc0E2emlhV0p5UFV2S2Jsc2tVQktCT2dqRk92VER4UkxhbFdYNzZmTzJ3ZjVWdTJoTUVfeUQzRjRWTTBkcFNmenVxSnE2SEp6NFlKUlhkUmJZRlRrTUU3Q2hIOTdaWW04U2k?oc=5",
+      "source": "Google News 식물 관리",
+      "category": "support",
+      "published_at": "2026-05-18T07:06:14+00:00",
+      "collected_at": "2026-05-21T15:07:48.118013+00:00",
+      "summary": "안성시 시민활동통합지원단, 안성시민과 함께 만드는 돌봄 실험 ‘사회연대처방’ 본격 추진 자치안성신문",
+      "keywords": [
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
@@ -5501,6 +5578,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "85d2b9b3159c7b52351d4c99",
+      "title": "안성시외국인주민지원센터‧비룡중학교, 이주배경 청소년을 위한 업무협약 체결 - 자치안성신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Mdk5nS29oZ3JaOHVsN0lXZzJHOVlvOEpxWnI5djRJc3VzVEJrWnZhbjVnSlFua1hveWpvUURRVXFuUldvMkVMYU0zSDI0WkJDeGtJQTBsUjJjVDduUE1JbUdta1IteFVuWkdJbEU4SUtfMFRuejRuMFg4Mng?oc=5",
+      "source": "Google News 식물 관리",
+      "category": "support",
+      "published_at": "2026-05-17T07:08:09+00:00",
+      "collected_at": "2026-05-21T15:07:48.118013+00:00",
+      "summary": "안성시외국인주민지원센터‧비룡중학교, 이주배경 청소년을 위한 업무협약 체결 자치안성신문",
+      "keywords": [
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "543ab3efb4820b8b686167c9",
       "title": "부여, 2026년 전략작물 직불사업 신청 접수 중 - 서울일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yT2JtR21NaTlDcmh4X1BfbnpNbFBFaUliaTZJTlp1dGxPbTJqOW04UDhBc1Y5RmNtY2o0TFBrbzAwTlZWVUNQa0xybzJBaWI1VzVVRGZPRm51d0hubktFWTN3alIyWFRGYldseDJoSdIBb0FVX3lxTE8yT2JtR21NaTlDcmh4X1BfbnpNbFBFaUliaTZJTlp1dGxPbTJqOW04UDhBc1Y5RmNtY2o0TFBrbzAwTlZWVUNQa0xybzJBaWI1VzVVRGZPRm51d0hubktFWTN3alIyWFRGYldseDJoSQ?oc=5",
@@ -5979,6 +6074,22 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "162e265b830b6b399974cf4a",
+      "title": "‘둥근 잎과 위로 향하는 기운’…풍수에 좋은 식물, 어떻게 골라야 할까 - 레이디경향",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNYUE5UFBzZHJWcVpGNkhQVGZ5cnRQeVNocHRJTTByYnkxeXJwV2syQ0JkTVVzQl9pODYtdVNmUXFwMnpOVS1iU3ZZWUhma3pqUlVpLWl2ZTVncUVGOXlycUlOano?oc=5",
+      "source": "Google News 식물 관리",
+      "category": "plant_reviews",
+      "published_at": "2026-05-15T23:00:00+00:00",
+      "collected_at": "2026-05-21T15:07:48.118013+00:00",
+      "summary": "‘둥근 잎과 위로 향하는 기운’…풍수에 좋은 식물, 어떻게 골라야 할까 레이디경향",
+      "keywords": [],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
     },
     {
       "id": "9a55c191200ec7e3e4e6a49a",
@@ -10735,119 +10846,23 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "bb63d6e51b383416329565b6",
-      "title": "천안시, “아픈 식물, 반려식물병원에서 치료하세요” - thevoiceofus.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DMUVmVFE1dnlUUXdGZFVoSmpmeUJqN3VxLV9BUGsydkMtZEN1MlBUWUJqX0h5WklBeS1tb3VjUExGNGp1d2ZVc1FjUkVVTDF5YUlSTlJ2SVNQZDJFN0FFU3RRQkxVR1p0?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-05-12T23:39:30+00:00",
-      "collected_at": "2026-05-16T17:52:03.652234+00:00",
-      "summary": "천안시, “아픈 식물, 반려식물병원에서 치료하세요” thevoiceofus.co.kr",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "region": "충남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "5e42f9ed2841544e6f9322e8",
-      "title": "예산삽교읍, 반려식물로 어르신 마음 돌본다… 정신건강 지원사업 운영 - 중도일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlQkw3NjZYVWl1T2RMOWZPMjNBQUhya3BzMXpFaHoxRVRYLUdHZzgtR3Q0ZV8yelVCcGd3c0JHM1RHa1RaUEJjR1E4eU9BTHhMTVpUNEtlQjVHMGtnRDlseWsyMUc?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "support",
-      "published_at": "2026-05-12T21:49:05+00:00",
-      "collected_at": "2026-05-17T17:39:44.327579+00:00",
-      "summary": "예산삽교읍, 반려식물로 어르신 마음 돌본다… 정신건강 지원사업 운영 중도일보",
-      "keywords": [
-        "반려식물",
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "f1a66d0a2fd3a030f1176a65",
-      "title": "경남 귀농-귀촌 선배, 유치 상담사로 육성 - 동아일보",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PT18wQkFzSUVaZnNLdkJMQ29KLUU0dTBSdWgtOTVZcXJrVGJSbERyb055MUxkWU5iOHJsOWxuaW9Od3o2S3JEai1nVXk5MUY5dWdQYVozZlJ5Y3loM2o4ZXNScExrRDF0LVBjdGdvaHJZVU5uOHfSAWZBVV95cUxPQmVNV0RBaWJGWjIxSjY3cmF6dHdtYm9aUW1keXg1aGhKTkpSY3VqQlNBaFoyQkxkQ1h4c3IzZ1pFRHlUTXk1ZGdlNFg4MHV1R1dRT19XSFlYeG9sejQ1c2ZabDdaUUE?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-12T19:30:00+00:00",
-      "collected_at": "2026-05-18T07:26:51.887120+00:00",
-      "summary": "경남 귀농-귀촌 선배, 유치 상담사로 육성 동아일보",
-      "keywords": [
-        "귀농"
-      ],
-      "importance": 42,
-      "region": "경남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "5826fda648560c4f22d5ac32",
-      "title": "논산시, 2026년 신규농업인 귀농귀촌 영농기술교육 운영 - nmn.ff.or.kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zbzVsR3F5eTljblNLazNzckJ0SlpTTmowdU1HQVpzX0d4VWxDUTIzMnU0ZlR2eHZuTWx6UWpIVkdadmVwQUlOVk01QkEyaGxkSnFhMFRraDYwWnFXMXc?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-12T18:54:39+00:00",
-      "collected_at": "2026-05-16T07:27:04.644788+00:00",
-      "summary": "논산시, 2026년 신규농업인 귀농귀촌 영농기술교육 운영 nmn.ff.or.kr",
-      "keywords": [
-        "농업",
-        "귀농",
-        "농업인",
-        "귀농귀촌"
-      ],
-      "importance": 42,
-      "region": "충남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "cbd93f174526485c7972ff1d",
-      "title": "일상 속 초록 쉼표, 반려식물 전시회 개최 - 뉴스N제주",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UMlhzS2l0LXZEbENsWWRFa3hlX3NFU3psbEQyeVBTYTJGamt3TzhGdE50MVFEUW1kMmw5N0ZtMTMwS094QzNjdDZTd0VFOUhTcGdQcEduZHVsQWZNeXExMVhMYkNIcmdjTm9jbQ?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-05-12T12:53:39+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "일상 속 초록 쉼표, 반려식물 전시회 개최 뉴스N제주",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "region": "제주",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "식물 리뷰"
     }
   ],
   "stats": {
-    "total": 571,
+    "total": 572,
     "category_counts": {
-      "news": 344,
-      "plant_reviews": 21,
-      "support": 206
+      "news": 342,
+      "plant_reviews": 20,
+      "support": 210
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 185
+        "count": 184
       },
       {
         "keyword": "지원",
-        "count": 132
+        "count": 136
       },
       {
         "keyword": "농촌",
@@ -10862,12 +10877,12 @@
         "count": 70
       },
       {
-        "keyword": "귀농",
-        "count": 59
-      },
-      {
         "keyword": "지원사업",
         "count": 58
+      },
+      {
+        "keyword": "귀농",
+        "count": 57
       },
       {
         "keyword": "농산물",
@@ -10879,7 +10894,7 @@
       },
       {
         "keyword": "모집",
-        "count": 41
+        "count": 42
       },
       {
         "keyword": "작물",
@@ -10887,7 +10902,7 @@
       },
       {
         "keyword": "접수",
-        "count": 32
+        "count": 33
       }
     ],
     "top_sources": [
@@ -10897,7 +10912,7 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 71
+        "count": 69
       },
       {
         "source": "Google News 스마트팜",
@@ -10905,7 +10920,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 54
+        "count": 55
       },
       {
         "source": "Google News 농산물 가격",
@@ -10921,7 +10936,7 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 28
+        "count": 25
       },
       {
         "source": "Google News 농업기술센터 모집",
@@ -10937,7 +10952,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 10,
-    "fetched_items": 692,
+    "fetched_items": 698,
     "errors": []
   }
 }
