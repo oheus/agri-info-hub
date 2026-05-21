@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-21T17:41:13.170803+00:00",
-  "total": 572,
+  "generated_at": "2026-05-21T18:11:47.341211+00:00",
+  "total": 571,
   "category_counts": {
-    "news": 343,
+    "news": 342,
     "plant_reviews": 19,
     "support": 210
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 185
+      "count": 184
     },
     {
       "keyword": "지원",
@@ -52,14 +52,14 @@
       "count": 33
     },
     {
-      "keyword": "농업인",
-      "count": 33
+      "keyword": "신청",
+      "count": 32
     }
   ],
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 118
+      "count": 117
     },
     {
       "source": "Google News 청년농 귀농",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 10,
-    "fetched_items": 701,
+    "new_items": 4,
+    "fetched_items": 702,
     "errors": []
   }
 }
