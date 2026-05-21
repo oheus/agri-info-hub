@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-05-21T15:07:51.964991+00:00",
+  "generated_at": "2026-05-21T15:38:28.494663+00:00",
   "items": [
+    {
+      "id": "05b89650eefda7c15f239eb2",
+      "title": "커피·카카오·올리브 가격인상…기후변화 탓? - 단비뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LSTNFemVpRDBHQ0NfLTA4cWpBWW5BajFlVXBCT2NPLWxpWF80UGNobWJoMDB5T1I2UEZxd3lwVTBSUW53bFpsMVhGOUs1NDNXeFpDM3ZWN0Y1NERZckk2NGE4Y09McjNvcnRB?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-05-21T15:12:21+00:00",
+      "collected_at": "2026-05-21T15:38:15.904941+00:00",
+      "summary": "커피·카카오·올리브 가격인상…기후변화 탓? 단비뉴스",
+      "keywords": [
+        "기후"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "27e03992b941b6b94e0b5950",
       "title": "사천시, 2027년 유기질비료 지원사업 신청 접수 > 뉴스 - 더코리아",
@@ -1643,6 +1661,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "ddb69a568e7fd9629128b59a",
+      "title": "연천군 “농산물 가공 교육 신청하세요” - 현대일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Sd05XRVp4SGMtcVZ4OGt2OTBOWXQ0eWU0cnhuZHJ5VkQzSkJFNC1uTjBNTmN6VHVUN3RQa2U0UUlEWkE3WVh6c3JBcEh5eFRZdWY5dmdETnV2YlJnN0VSV01weTk3Q3ZWcE1jQi1R?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-05-20T06:32:06+00:00",
+      "collected_at": "2026-05-21T15:38:27.756977+00:00",
+      "summary": "연천군 “농산물 가공 교육 신청하세요” 현대일보",
+      "keywords": [
+        "농산물",
+        "신청"
+      ],
+      "importance": 74,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "0c411575a2a7ea9ac8af3915",
       "title": "“17년 방치 지하보도, 스마트팜 된다”…대전시, 시민참여형 운영사 공개 모집 - 스트레이트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wcGNfYmNBMERtdm9TXzIzamN5cmlwY25ER0dDeF9vMWROaVA2ektRZXNWenZmX1FIUklJUDVRZUVnajhiM0puWkUtYi0yVGh5TnRzWmp6SEZrcVZHeHBuczM5TWl5Y2FuaWQyQVlXaDhXWlhWQ1Zv0gF3QVVfeXFMTTBwY19iY0EwRG12b1NfMjNqY3lyaXBjbkRHR0N4X28xZE5pUDZ6S1Flc1Z6dmZfUUhSSUlQNVFlRWdqOGIzSm5aRS1iLTJUaHlOdHNaanpIRmtxVkd4cG5zMzlNaXljYW5pZDJBWVdoOFdaWFZDVm8?oc=5",
@@ -2461,6 +2498,26 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "c10604ea0f86bd40efba2f50",
+      "title": "10ha 모집에 33ha 신청한 경남 청년농단지...현재 6.3ha 계약 완료 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PTkFjRFlZV0ZBRXM2dmVCMTJidTRvTlpVWEFJTG1hUGx1RnFzUUVCNTFuTVRZWEtxeGlhbFctaGN4NTAwYU5LNHlUblcxTy1DMXRMNkJTaUbSAVhBVV95cUxPT05BY0RZWVdGQUVzNnZlQjEyYnU0b05aVVhBSUxtYVBsdUZxc1FFQjUxbk1UWVhLcXhpYWxXLWhjeDUwMGFOSzR5VG5XMU8tQzF0TDZCU2lG?oc=5",
+      "source": "Google News 농업 지원금",
+      "category": "support",
+      "published_at": "2026-05-19T21:24:20+00:00",
+      "collected_at": "2026-05-21T15:38:20.743550+00:00",
+      "summary": "10ha 모집에 33ha 신청한 경남 청년농단지...현재 6.3ha 계약 완료 아주경제",
+      "keywords": [
+        "청년농",
+        "신청",
+        "모집"
+      ],
+      "importance": 76,
+      "region": "경남",
+      "deadline_text": "6월 3일 마감",
+      "deadline_date": "2026-06-03",
+      "category_label": "지원사업"
     },
     {
       "id": "b08646cc82c64fa4da476b8d",
@@ -10789,70 +10846,13 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "8539f6e624e046bc708af4be",
-      "title": "백구면 지역사회보장협의체‘함께해요~’반려식물 나눔사업 추진 - 전북제일신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SVWgydTlXQ2h0bjdLa2tVR3ExUnhld0hjQThHOERtaGJPeWNlNnBKSVg3elgyel9VNHJxOHI5ME4tQ2RpRGU4RzhTNE1VbGJNNTVCOVlVTzktbEgtTlNlTkxZajh6QWpaMlE?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "support",
-      "published_at": "2026-05-13T00:47:50+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "백구면 지역사회보장협의체‘함께해요~’반려식물 나눔사업 추진 전북제일신문",
-      "keywords": [
-        "반려식물",
-        "사업"
-      ],
-      "importance": 58,
-      "region": "전북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "d376ab31dbbd25b7cb864f67",
-      "title": "예산 삽교읍, 반려식물로 어르신 마음 돌본다… ‘꽃길인생 프로젝트’ 추진 - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iZk43MThXLUNxV1ZxUWhwZ29jV0lQVUg5RVFLUk5wV2wyM3RGN1p5NXZ5V2V0VE5fZFVIcExFQ1hWenhjV3h1aXl4U1ROZi10alU2dk5qeHVia1NfVEktRjVWbTBOTXN4V1dFcQ?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-05-13T00:12:51+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "예산 삽교읍, 반려식물로 어르신 마음 돌본다… ‘꽃길인생 프로젝트’ 추진 농수축산신문",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "e457daf92b3141a95388ff50",
-      "title": "김천시, 유기질비료 지원사업 추가공급 - 다경뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdl9GSGpvclRfQTFoX3Z4M0R3LTFRNjhERV9TQko2YnQ0Qld0eEh5T1REdTJ3b2NSSnNBR01OX2Z1ZUdaSkItRGZXTEJ0Sjk4WjlfbDdldHdfMXBFa3BIaEtjdG9Gb2ttRnJuenZpeVVvNVduZS1WOGEtWVlIeHlMcG93OXZXZHZBUHhxckp5cUpycTU1MGtSOVBjT3g5blA5QXVha3UzMTdmcGhabTRpWDlIU0gzN3MyeklHUm1YblVUbHJPbFhSdzBDbw?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-12T23:55:00+00:00",
-      "collected_at": "2026-05-15T16:21:54.940113+00:00",
-      "summary": "김천시, 유기질비료 지원사업 추가공급 다경뉴스",
-      "keywords": [
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
     "total": 572,
     "category_counts": {
-      "news": 342,
-      "plant_reviews": 20,
+      "news": 343,
+      "plant_reviews": 19,
       "support": 210
     },
     "top_keywords": [
@@ -10862,7 +10862,7 @@
       },
       {
         "keyword": "지원",
-        "count": 136
+        "count": 135
       },
       {
         "keyword": "농촌",
@@ -10870,7 +10870,7 @@
       },
       {
         "keyword": "사업",
-        "count": 82
+        "count": 80
       },
       {
         "keyword": "스마트팜",
@@ -10878,7 +10878,7 @@
       },
       {
         "keyword": "지원사업",
-        "count": 58
+        "count": 57
       },
       {
         "keyword": "귀농",
@@ -10886,22 +10886,22 @@
       },
       {
         "keyword": "농산물",
-        "count": 47
+        "count": 48
       },
       {
         "keyword": "청년농",
-        "count": 42
+        "count": 43
       },
       {
         "keyword": "모집",
-        "count": 42
+        "count": 43
       },
       {
         "keyword": "작물",
         "count": 34
       },
       {
-        "keyword": "접수",
+        "keyword": "신청",
         "count": 33
       }
     ],
@@ -10924,22 +10924,22 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 51
+        "count": 52
       },
       {
         "source": "Google News 지원사업",
-        "count": 49
+        "count": 48
       },
       {
         "source": "농사로 이달의 농업기술",
         "count": 38
       },
       {
-        "source": "Google News 식물 키우기",
-        "count": 25
+        "source": "Google News 농업기술센터 모집",
+        "count": 24
       },
       {
-        "source": "Google News 농업기술센터 모집",
+        "source": "Google News 식물 키우기",
         "count": 23
       },
       {
@@ -10951,8 +10951,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 10,
-    "fetched_items": 698,
+    "new_items": 5,
+    "fetched_items": 700,
     "errors": []
   }
 }
