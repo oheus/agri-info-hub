@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T18:42:17.484965+00:00",
+  "generated_at": "2026-05-21T19:12:48.765038+00:00",
   "items": [
     {
       "id": "05b89650eefda7c15f239eb2",
@@ -89,6 +89,24 @@
       "summary": "농업·농촌경제 동향 2026년 봄 KDI 경제교육·정보센터",
       "keywords": [
         "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "7fe820f59e1d22a45ca46d39",
+      "title": "농협중앙회, 꼬마 농부들과 새참 나누며 농촌 문화 체험 - 리버티코리아포스트",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WMFZYM2RNeG9ZZWo3Q3lXMFZ2amlVenNXS1BkakI2OXZELThsbl8zbkhWTElKVDBfV0tNdmJkcnplOUZEbkdKR0dZbTluSHRSTFJyb1NaR1AxeGRXbkpXNlVCcGxLdWPSAWdBVV95cUxPVjBWWDNkTXhvWWVqN0N5VzBWdmppVXpzV0tQZGpCNjl2RC04bG5fM25IVkxJSlQwX1dLTXZiZHJ6ZTlGRG5HSkdHWW05bkh0UkxScm9TWkdQMXhkV25KVzZVQnBsS3Vj?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-21T12:02:54+00:00",
+      "collected_at": "2026-05-21T19:12:31.379523+00:00",
+      "summary": "농협중앙회, 꼬마 농부들과 새참 나누며 농촌 문화 체험 리버티코리아포스트",
+      "keywords": [
         "농촌"
       ],
       "importance": 42,
@@ -10783,107 +10801,43 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "8d4732129a80d03ba5920596",
-      "title": "고성군, 지역 특성화 채소 작물 기술개발 지원사업 확대 - 글로벌뉴스통신GNA",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QNkZvZ0FrRVV4Y3RpWnlBR2pfYlplc2hLMjNMS3FickNqYmhyUURNZ3dmMjBYb0JRWUF4Vi1XZmFzSjZnVU03SGJZZXJ4NzZNNEVmbDZJeTdWTFVMRTdIVThNN2FwVG44QzNYRHlnY0NtMkpv?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-13T03:25:54+00:00",
-      "collected_at": "2026-05-16T06:41:42.530859+00:00",
-      "summary": "고성군, 지역 특성화 채소 작물 기술개발 지원사업 확대 글로벌뉴스통신GNA",
-      "keywords": [
-        "작물",
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "7fc237b945521e4b4cfb6e31",
-      "title": "예산군농업기술센터, 귀농인 농자재 구입 지원사업 완료 - 충남일보",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZSGJRSWpKTTlDNmlyQXIzWF9MdVhJNHh4MkhWWmpmMnZGMlRRSzNXaktoLUJMWEFRaWFMU2dXTkxwMDNLM1BLS1pHMUlLVTFpbTRWeHZzdVpiZWItU1Mzdzg0NVVjdXN2YUFCa09GVVJtaDA?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-13T03:17:05+00:00",
-      "collected_at": "2026-05-15T16:21:54.940113+00:00",
-      "summary": "예산군농업기술센터, 귀농인 농자재 구입 지원사업 완료 충남일보",
-      "keywords": [
-        "농업",
-        "귀농",
-        "지원사업",
-        "농업기술센터",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "충남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "614f0daccf4a076ef26dd4ea",
-      "title": "문성유 “스마트팜 인큐베이팅으로 청년농 창업 지원”…‘제주 청년 창업농 사관학교’ 공약 발표 - 제주팟닷컴",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92TEpLOUZtYng2U2JRRmNIWTVJQ2h1ajJQQ014enpKMEVFWEdWMFExOFlMcVR2RUprZW4wY1U5akdjUmh6Ri1zeHVIblo2T0dhM0lsZllVekpYMzNS?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-13T02:46:01+00:00",
-      "collected_at": "2026-05-16T06:56:44.757007+00:00",
-      "summary": "문성유 “스마트팜 인큐베이팅으로 청년농 창업 지원”…‘제주 청년 창업농 사관학교’ 공약 발표 제주팟닷컴",
-      "keywords": [
-        "스마트팜",
-        "청년농",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "제주",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 572,
+    "total": 570,
     "category_counts": {
-      "news": 342,
+      "news": 343,
       "plant_reviews": 20,
-      "support": 210
+      "support": 207
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 184
+        "count": 183
       },
       {
         "keyword": "지원",
-        "count": 133
+        "count": 130
       },
       {
         "keyword": "농촌",
-        "count": 100
+        "count": 101
       },
       {
         "keyword": "사업",
-        "count": 79
+        "count": 77
       },
       {
         "keyword": "스마트팜",
-        "count": 70
+        "count": 69
       },
       {
         "keyword": "귀농",
-        "count": 57
+        "count": 56
       },
       {
         "keyword": "지원사업",
-        "count": 56
+        "count": 54
       },
       {
         "keyword": "농산물",
@@ -10895,21 +10849,21 @@
       },
       {
         "keyword": "청년농",
-        "count": 42
-      },
-      {
-        "keyword": "작물",
-        "count": 33
+        "count": 41
       },
       {
         "keyword": "신청",
+        "count": 32
+      },
+      {
+        "keyword": "접수",
         "count": 32
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 117
+        "count": 118
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10929,7 +10883,7 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 47
+        "count": 45
       },
       {
         "source": "농사로 이달의 농업기술",
@@ -10945,15 +10899,15 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 21
+        "count": 20
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 2,
-    "fetched_items": 701,
+    "new_items": 7,
+    "fetched_items": 707,
     "errors": []
   }
 }
