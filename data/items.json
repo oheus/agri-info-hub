@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T18:11:47.341211+00:00",
+  "generated_at": "2026-05-21T18:42:17.484965+00:00",
   "items": [
     {
       "id": "05b89650eefda7c15f239eb2",
@@ -4013,6 +4013,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "7dddbc965addcd9d7888f9bd",
+      "title": "‘매일아침’ 안산 여행, 실내식물 특화 식물원 & 시화나래휴게소 전망대 & 세계문화체험관 등 “서울 근교로 떠나요” - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Md2d5RTZsTkNHU3BjcERFSGxhcHBvUHhsVWJTQlQ1eFpBOVRXd0o4UTNabW1nclNSZEo3T2xHb04wUFh4NTgwai1zek9pSVFZcUFreW9QZV94OUY0Z3liM3QyMVVrZVUwb1pzaHN2WVBldw?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-05-19T00:31:00+00:00",
+      "collected_at": "2026-05-21T18:42:13.220705+00:00",
+      "summary": "‘매일아침’ 안산 여행, 실내식물 특화 식물원 & 시화나래휴게소 전망대 & 세계문화체험관 등 “서울 근교로 떠나요” 톱스타뉴스",
+      "keywords": [
+        "실내식물"
+      ],
+      "importance": 42,
+      "region": "서울",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
     },
     {
       "id": "b7306f365de74a6d46d18998",
@@ -10832,10 +10850,10 @@
     }
   ],
   "stats": {
-    "total": 571,
+    "total": 572,
     "category_counts": {
       "news": 342,
-      "plant_reviews": 19,
+      "plant_reviews": 20,
       "support": 210
     },
     "top_keywords": [
@@ -10923,7 +10941,7 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 23
+        "count": 24
       },
       {
         "source": "Google News 청년농 지원",
@@ -10934,8 +10952,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 702,
+    "new_items": 2,
+    "fetched_items": 701,
     "errors": []
   }
 }
