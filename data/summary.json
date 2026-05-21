@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-05-21T15:38:28.494663+00:00",
-  "total": 572,
+  "generated_at": "2026-05-21T16:09:05.203827+00:00",
+  "total": 571,
   "category_counts": {
-    "news": 343,
+    "news": 341,
     "plant_reviews": 19,
-    "support": 210
+    "support": 211
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 184
+      "count": 185
     },
     {
       "keyword": "지원",
-      "count": 135
+      "count": 134
     },
     {
       "keyword": "농촌",
-      "count": 100
+      "count": 99
     },
     {
       "keyword": "사업",
-      "count": 80
+      "count": 79
     },
     {
       "keyword": "스마트팜",
-      "count": 70
-    },
-    {
-      "keyword": "지원사업",
-      "count": 57
+      "count": 71
     },
     {
       "keyword": "귀농",
       "count": 57
     },
     {
+      "keyword": "지원사업",
+      "count": 56
+    },
+    {
       "keyword": "농산물",
-      "count": 48
+      "count": 47
+    },
+    {
+      "keyword": "모집",
+      "count": 45
     },
     {
       "keyword": "청년농",
       "count": 43
     },
     {
-      "keyword": "모집",
-      "count": 43
-    },
-    {
       "keyword": "작물",
-      "count": 34
+      "count": 33
     },
     {
       "keyword": "신청",
-      "count": 33
+      "count": 32
     }
   ],
   "top_sources": [
@@ -67,19 +67,19 @@
     },
     {
       "source": "Google News 스마트팜",
-      "count": 61
+      "count": 62
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 55
+      "count": 54
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 52
+      "count": 51
     },
     {
       "source": "Google News 지원사업",
-      "count": 48
+      "count": 47
     },
     {
       "source": "농사로 이달의 농업기술",
@@ -87,7 +87,7 @@
     },
     {
       "source": "Google News 농업기술센터 모집",
-      "count": 24
+      "count": 25
     },
     {
       "source": "Google News 식물 키우기",
@@ -102,7 +102,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 5,
-    "fetched_items": 700,
+    "fetched_items": 703,
     "errors": []
   }
 }
