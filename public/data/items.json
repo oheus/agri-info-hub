@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T17:10:32.997041+00:00",
+  "generated_at": "2026-05-21T17:41:13.170803+00:00",
   "items": [
     {
       "id": "05b89650eefda7c15f239eb2",
@@ -52,6 +52,25 @@
       "summary": "금산군, 재배기술 향상 우수 운영사례학습 견학 프로그램 금산중앙신문방송",
       "keywords": [
         "재배"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "9cbc779624c8c71a63c69efd",
+      "title": "기후변화에 대응한 시설원예 농가의 기술 수용 의향 분석과 시사점 - KDI 경제교육·정보센터",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV3Z1UkVhMlhOTXF0bzhTZGtrN3gwdzVzd1dXcUd5ZXQ2QlVtMW9lbm5mdmRpSjJKanpQTzJYSE5MTGdvbnpUOWpRZlVvQ1VDOFVzMEtmaDBrb0tXbU80dGU1bXh5Q0RTM2w3aU1jM1ZnNVQ3ZE45UGkzR18yXzg3cUIxc0h2c2RGcVpmQ1B6cXB6SXNDaGpFelc2YkcxUHVmX2pMR2JPT0wzdE53djhvQkdWS3puZw?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-21T12:43:16+00:00",
+      "collected_at": "2026-05-21T17:40:56.584433+00:00",
+      "summary": "기후변화에 대응한 시설원예 농가의 기술 수용 의향 분석과 시사점 KDI 경제교육·정보센터",
+      "keywords": [
+        "기후",
+        "시설원예"
       ],
       "importance": 42,
       "region": "",
@@ -441,6 +460,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "f16c8456e363491723824a15",
+      "title": "“신재생에너지로 농촌 미래 밝힌다” - 농축유통신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MNHZFUWlZWjJhbVpDQktCTkl2LVJxRUJIbmV2X1dMNXpIZDlabGg1UFZyOHRtemh4TWNTRmhFRkttakNiOTZLdzNEM1RFVlJxQWFaMUdWbUN6VWhKczAwRHMzTmFXTkpy?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-21T04:32:12+00:00",
+      "collected_at": "2026-05-21T17:40:54.305552+00:00",
+      "summary": "“신재생에너지로 농촌 미래 밝힌다” 농축유통신문",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "1fb6eb02e15dc44f5324bdb3",
       "title": "고창군, 14년 연속 귀농귀촌 도시부문 브랜드대상 수상 - 이로운넷",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mUGVkMXQ4MlFMUVlFUWJybFZZRVBHRlcwN1ZTdWRfM0JkMVdpU01KN05NV2ZoSnQ5cEdUSFhLY3BtNzlHYzdFTlVZckdicTVBRW5pY2xnc3dWS0lPU25IUkJlRzk3UQ?oc=5",
@@ -768,6 +805,26 @@
       ],
       "importance": 48,
       "region": "경남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "72d98ce0d0d34787eae016d9",
+      "title": "의령동부농협, 농촌왕진버스로 농업인 건강 챙겨 - 농수축산신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DcllvQVJKSnNzNnVkUkNnSUs3YURUOWFjM3dZcHRaNXI4M3F4Mmx6SVZVdU9WTGRFOGthU21aU2V0ZG9HNkttaTRkYzBBSWQ5Wno5ZEJRVy11N1dQNC11TnB3NzJnc3ZmU2xucA?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-21T01:48:20+00:00",
+      "collected_at": "2026-05-21T17:40:54.305552+00:00",
+      "summary": "의령동부농협, 농촌왕진버스로 농업인 건강 챙겨 농수축산신문",
+      "keywords": [
+        "농업",
+        "농촌",
+        "농업인"
+      ],
+      "importance": 42,
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -7740,6 +7797,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "71946fbb12e40f116d4f01d0",
+      "title": "이천시, 돌발병해충 확산 차단을 위한 공동방제 추진 - gyeonggi1news.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44UTNRV05JSEpnUlJaMlFUMmpHVUU4a2VRc3RTR2J4b3FRbEVxNmI4U0VRWVpjaFlKdTFIU3Mxa0tUeGp4UlE1VkN1QzVrM2tQV0pEbm9uaDV6bWxIYmtPeg?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-15T03:27:00+00:00",
+      "collected_at": "2026-05-21T17:40:58.772092+00:00",
+      "summary": "이천시, 돌발병해충 확산 차단을 위한 공동방제 추진 gyeonggi1news.com",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "0030cdcd4960df9349d81bf9",
       "title": "남원, 귀농인 ‘임시 둥지’ 확대…정착 지원 실효성 높인다 - 전라일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tSHd6OFZ0VkFfSkhqd0E5bnBVd3UwdmlzSnV0S3V0bjBZejd3RXdKZ0FYSVhNZ3VSam9TcGxrMVNneGExNHVOaWFXWmE1c0gtTWhfQkZ2N3pIUWhCZEVpVHR6YjhYYWh6OGpuVFRNQknSAXBBVV95cUxPbUh3ejhWdFZBX0pIandBOW5wVXd1MHZpc0p1dEt1dG4wWXo3d0V3SmdBWElYTWd1UmpvU3BsazFTZ3hhMTR1TmlhV1phNXNILU1oX0JGdjd6SFFoQmRFaVR0emI4WGFoejhqblRUTUJJ?oc=5",
@@ -10776,16 +10851,16 @@
     }
   ],
   "stats": {
-    "total": 568,
+    "total": 572,
     "category_counts": {
-      "news": 339,
+      "news": 343,
       "plant_reviews": 19,
       "support": 210
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 184
+        "count": 185
       },
       {
         "keyword": "지원",
@@ -10793,7 +10868,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 98
+        "count": 100
       },
       {
         "keyword": "사업",
@@ -10828,14 +10903,14 @@
         "count": 33
       },
       {
-        "keyword": "신청",
-        "count": 32
+        "keyword": "농업인",
+        "count": 33
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 116
+        "count": 118
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10843,11 +10918,11 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 62
+        "count": 63
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 54
+        "count": 55
       },
       {
         "source": "Google News 농산물 가격",
@@ -10878,8 +10953,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 5,
-    "fetched_items": 705,
+    "new_items": 10,
+    "fetched_items": 701,
     "errors": []
   }
 }
