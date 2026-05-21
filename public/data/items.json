@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T17:41:13.170803+00:00",
+  "generated_at": "2026-05-21T18:11:47.341211+00:00",
   "items": [
     {
       "id": "05b89650eefda7c15f239eb2",
@@ -10829,38 +10829,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "98ba07869db414e0e4095007",
-      "title": "이학수 후보 \"지속 가능한 미래 농업으로 농업인 생활 안정 이룰 것\" - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZNkx3ZE9iRlFhSjJhaFJHUHVWZ2hoSk81X3ZGS05HMTRtVm80UGdORHpVd2NLTS1sanpMeWVkUXVTQVVKUFp1b3BLbw?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-13T02:37:40+00:00",
-      "collected_at": "2026-05-16T07:57:29.316321+00:00",
-      "summary": "이학수 후보 \"지속 가능한 미래 농업으로 농업인 생활 안정 이룰 것\" v.daum.net",
-      "keywords": [
-        "농업",
-        "농업인"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 572,
+    "total": 571,
     "category_counts": {
-      "news": 343,
+      "news": 342,
       "plant_reviews": 19,
       "support": 210
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 185
+        "count": 184
       },
       {
         "keyword": "지원",
@@ -10903,14 +10884,14 @@
         "count": 33
       },
       {
-        "keyword": "농업인",
-        "count": 33
+        "keyword": "신청",
+        "count": 32
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 118
+        "count": 117
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10953,8 +10934,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 10,
-    "fetched_items": 701,
+    "new_items": 4,
+    "fetched_items": 702,
     "errors": []
   }
 }
