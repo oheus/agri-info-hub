@@ -1,6 +1,65 @@
 {
-  "generated_at": "2026-05-22T08:14:28.707715+00:00",
+  "generated_at": "2026-05-22T08:44:59.759206+00:00",
   "items": [
+    {
+      "id": "ce07c5d41592dbdc3a6077a9",
+      "title": "옥수수 갉아 먹는 해충 미리 방제해야 5월 하순",
+      "url": "https://www.nongsaro.go.kr/portal/ps/psv/psvr/psvre/curationDtl.ps?menuId=PS03352&srchCurationNo=2046",
+      "source": "농사로 이달의 농업기술",
+      "category": "news",
+      "published_at": null,
+      "collected_at": "2026-05-22T08:44:59.658613+00:00",
+      "summary": "옥수수 갉아 먹는 해충 미리 방제해야 5월 하순",
+      "keywords": [],
+      "importance": 52,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "55f16ce74340c5d7b414abce",
+      "title": "‘2027년 임산물 유기질비료 지원사업’ 신청 접수 - 보은사람들",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vOGRtTnJJamlaX0RCQWdWLW83TnhGNV9RQ2xJNW4yaGRTVWpWTVQ1S0M0cTJIMkxJcGxSNnI4dEJuLVJfRGNiZWg5aUJwUkswMzROTk1jUnRCdUp0aUdWY205X1k0elppcEZlSDd3?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-05-22T08:26:41+00:00",
+      "collected_at": "2026-05-22T08:44:41.831236+00:00",
+      "summary": "‘2027년 임산물 유기질비료 지원사업’ 신청 접수 보은사람들",
+      "keywords": [
+        "지원사업",
+        "신청",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "edf871154d70fa210d1e66d3",
+      "title": "통영시, 식량작물 생력재배 농업기계 보급 사업 추진 - 한산신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NT1hkYXJFZERyaVZTMFUwNHVSTFBzc2ZSZl9DZTlBY3U3SU9OR2FXazk1LS1BNlc5T0k3dG5PaHcwSjUzNllEc2E3MzU4SThUcTVUWEhqOVJ5M082UDNjM3h4LWZ6Ykc3ZUYydkp3?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "support",
+      "published_at": "2026-05-22T07:57:10+00:00",
+      "collected_at": "2026-05-22T08:44:45.093363+00:00",
+      "summary": "통영시, 식량작물 생력재배 농업기계 보급 사업 추진 한산신문",
+      "keywords": [
+        "농업",
+        "작물",
+        "재배",
+        "사업"
+      ],
+      "importance": 58,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
     {
       "id": "b6e23eba576b6d0ef4b7c0a8",
       "title": "농진청, 작물별 생육 관리 및 경영비 절감 기술 현장 지원 - 환경일보",
@@ -113,6 +172,24 @@
         "농업",
         "스마트팜",
         "허브"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "bd80efe0e83fd0f336bdbe6f",
+      "title": "영천시, 저탄소 벼 재배기술 현장 연시회 개최 - 환경일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zWTZ3MVF3SlI1bXdNY2RjUWw1ZWFsVnhCQzZlQTJMTkZLZ3lSZkQwd1A2allEc3lhVEFRczZjbXRJQXE4WVNpWHdnZUF2NFlmcHBrRUt2MWNLZWtUYVlSSEU5RUpNcGIt?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-22T05:32:26+00:00",
+      "collected_at": "2026-05-22T08:44:45.093363+00:00",
+      "summary": "영천시, 저탄소 벼 재배기술 현장 연시회 개최 환경일보",
+      "keywords": [
+        "재배"
       ],
       "importance": 42,
       "region": "",
@@ -339,6 +416,25 @@
       "category_label": "지원사업"
     },
     {
+      "id": "bea02323ed661d4d26476332",
+      "title": "동해시, 영농정착부터 유기질비료까지 농업 지원 강화 - fnewstv.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhMENrMmlUWVN2UTVrZ2laMjl0LV9PME4xMFhoUng1MXdZd2xPSFh3LXdPaHFvZDYtU3htcnR4N2xUcjlNUkVRNU52SVNoUUhyT2RiNVpPSTJNZ3NlU294eTM0QW0ycUNRVkRodElmLVk?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-05-22T02:35:03+00:00",
+      "collected_at": "2026-05-22T08:44:41.831236+00:00",
+      "summary": "동해시, 영농정착부터 유기질비료까지 농업 지원 강화 fnewstv.com",
+      "keywords": [
+        "농업",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "f66b3d758f7e0ec7070110ef",
       "title": "강화군, 드론으로 비닐하우스 온도 낮추는 차광제 지원사업 ‘인기’ - 한국시사경제",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5UHVVVFVnd3NwWnVOMTN2OURuTGpnMThuUFdhcDl5VDJWdUg5TGpRbGJaZGdvMHdGMUIwbHppRVhzcmNybDlWbFZ1TDVNOHluVmhHcy1oXzNqN0ptaFNtenZ0RHFxNm5SekE?oc=5",
@@ -547,25 +643,6 @@
         "사업"
       ],
       "importance": 58,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "8d429e0e8cc8d14ca6294e30",
-      "title": "동해시, 영농정착부터 유기질비료까지 농업 지원 강화 - 시사줌뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53Sk50SjlnUGFVazRycUdWQ2lHTXNhLTJKQXhHczlZM0l3RmVqMDFKdU1jWW5kVVpJM2tJOC1ERnBfUmk1eVRKaA?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-22T01:15:00+00:00",
-      "collected_at": "2026-05-22T04:40:27.725775+00:00",
-      "summary": "동해시, 영농정착부터 유기질비료까지 농업 지원 강화 시사줌뉴스",
-      "keywords": [
-        "농업",
-        "지원"
-      ],
-      "importance": 64,
       "region": "",
       "deadline_text": "",
       "deadline_date": "",
@@ -10752,41 +10829,23 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "94fa8dbb72a5ef939fa9053f",
-      "title": "비료값 뛰자 농산물 선물 급등…글로벌 곡물기업 ADM 52주 최고가 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DTmVrUVA2OUtXeHZabXRBRzFPMHU3d0FubGlwRkkxVF9rYVRSOVdIcTE4RnRpVlVuSlpJVEozWkI0bVVDYk8tSTFoWQ?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-05-14T01:51:00+00:00",
-      "collected_at": "2026-05-16T06:56:41.539451+00:00",
-      "summary": "비료값 뛰자 농산물 선물 급등…글로벌 곡물기업 ADM 52주 최고가 v.daum.net",
-      "keywords": [
-        "농산물"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 568,
+    "total": 571,
     "category_counts": {
-      "news": 331,
+      "news": 332,
       "plant_reviews": 20,
-      "support": 217
+      "support": 219
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 175
+        "count": 176
       },
       {
         "keyword": "지원",
-        "count": 135
+        "count": 136
       },
       {
         "keyword": "농촌",
@@ -10794,7 +10853,7 @@
       },
       {
         "keyword": "사업",
-        "count": 80
+        "count": 82
       },
       {
         "keyword": "스마트팜",
@@ -10802,7 +10861,7 @@
       },
       {
         "keyword": "지원사업",
-        "count": 56
+        "count": 57
       },
       {
         "keyword": "귀농",
@@ -10813,19 +10872,19 @@
         "count": 44
       },
       {
-        "keyword": "농산물",
+        "keyword": "신청",
         "count": 40
       },
       {
-        "keyword": "신청",
-        "count": 39
+        "keyword": "접수",
+        "count": 40
       },
       {
         "keyword": "청년농",
         "count": 39
       },
       {
-        "keyword": "접수",
+        "keyword": "농산물",
         "count": 39
       }
     ],
@@ -10844,19 +10903,19 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 59
+        "count": 61
       },
       {
         "source": "Google News 지원사업",
-        "count": 45
+        "count": 47
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 45
+        "count": 44
       },
       {
         "source": "농사로 이달의 농업기술",
-        "count": 38
+        "count": 39
       },
       {
         "source": "Google News 식물 키우기",
@@ -10864,7 +10923,7 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 26
+        "count": 25
       },
       {
         "source": "Google News 농업기술센터 모집",
@@ -10875,8 +10934,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 708,
+    "new_items": 7,
+    "fetched_items": 700,
     "errors": []
   }
 }
