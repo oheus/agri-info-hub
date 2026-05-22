@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T08:44:59.759206+00:00",
+  "generated_at": "2026-05-22T09:15:28.557978+00:00",
   "items": [
     {
       "id": "ce07c5d41592dbdc3a6077a9",
@@ -6321,6 +6321,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "af56eda06a270ea9d4795634",
+      "title": "거창군, 샤인머스캣 가격 하락분 지원 - 경남미디어",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjNlY2OFhUVFRGM2Y4bGdUaDZTQ3lDczdtTld2WWZGSndxWVI1RlREYmROdlNWUDlXQjFlTjUwd054U00tOHY3Ym1CZm9ZejVjNVpSVm9zdndCM01sb1hqd210U1ZrRERxZzJR?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "support",
+      "published_at": "2026-05-18T04:22:19+00:00",
+      "collected_at": "2026-05-22T09:15:16.856067+00:00",
+      "summary": "거창군, 샤인머스캣 가격 하락분 지원 경남미디어",
+      "keywords": [
+        "지원"
+      ],
+      "importance": 70,
+      "region": "경남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "1f2caea967e6d7a87c5f8007",
       "title": "김태흠 후보, “농업도 AI 대전환 시대”…“청년농 중심 구조개혁 필요” - 농수축산신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FanZFUUh2a0t4c2ZNQUFVZENfd1ZrSm96NjBYaVgtODFkNzR6UnpyeW5yZ0FsRDloMEwya1Ridk9NRXJJZmVCNDJ5U0ZPWTVZSktWbEdmdmtoOWZDUzJhME1abV9yWC1nR3FQag?oc=5",
@@ -10791,65 +10809,27 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "e54382698bb390d976ed6ee5",
-      "title": "“치유농업·농촌관광으로 농촌 살린다”…농진청, ‘활력있는 농촌’ 정책 속도 - 푸드아이콘",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GZ09ja0pSR3Q4VnJBRVJoVHRUWnFva29CTXlHc0ZVakN2bWZEQi04ZnFkUHBGaldUdnpMZkpFSVlwV2x1MktMWk1Bb3p2MHNkUWpaRGsxUk5abU5xaGE2OG8tWk00NS13UU11eA?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-14T02:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:53.795077+00:00",
-      "summary": "“치유농업·농촌관광으로 농촌 살린다”…농진청, ‘활력있는 농촌’ 정책 속도 푸드아이콘",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "d434ec12d554976bcf61feb2",
-      "title": "농진청 ‘활력있는 농촌’ 분과 회의…치유농업 현장 점검 - 데일리안",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOWnZscl95UGFXVEVXRlhtUTFlQ1JDYUdRZFBFX0FxS1NIOUFVeFBka241Z2JCSzkzbGZZMXU5WHllVWJ1ZjRBbzU2RUpkakxkcllqLTN2Rlp2SDhtM0tER3FOZEd2M2tROHlSZjQ5ZHZycnJqVVNzT3hyZlBrbTQ3MlFVX2lUQXZ0MkEtTnZXYXZleHJ3aDRVbWd5dGpFckVDbFdHMWFZbmJkQ3ZJOG15anZlX0U1VUhNbHc4ZnJKdmFwRFdyUk5ScEk4T0RCN3lZWDIxNzk4bVVEVjlYbVd0RDY4RzFlaHRHVVhwWC1PZjM0dk40TkpsWGlsa0tvV1Q3ZXFjVXBqUzdHSUhsM19xdWc5clB6bmJWY1M2QjM1R2pxdTTSAaYCQVVfeXFMT3dISjRDd0JlY0pnV3ZGTk1CV1EwM0JtX2J6QmM0VmcwWk56T1lNaTdxU2F4X0ZMNHd2enZ1ZGlsaU95eVBFNUxkb3doNVozUDZuZk1jQUVKQXNFUzFsN2lMMmpCVkktUlRZNGJZbG5HOUhSdzRpS2M3dFVCR0J6TG9TcVFxZHRRMEItbmZaMjZKTXlFWXlaRTRnWm1qR2pCbE0zWkVfRDdrREVRcnE2Z2VxZ3VCZmNlRkdvSXA5UVZsbDJhQ0tqWWt4Qk9PakZ0NVF5RERjMlkzX1UtTlMtSXhkX1QxZGVLMzdBaTR4eDNCd1BUNGFvMUlPcU1VbXBWVG5yNk55RkNlNWwxSktPN2NiUWs4ZF9zVlhYTHpYVk1pVHEwNlhn?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-14T02:00:00+00:00",
-      "collected_at": "2026-05-15T16:21:53.795077+00:00",
-      "summary": "농진청 ‘활력있는 농촌’ 분과 회의…치유농업 현장 점검 데일리안",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 571,
+    "total": 570,
     "category_counts": {
-      "news": 332,
+      "news": 330,
       "plant_reviews": 20,
-      "support": 219
+      "support": 220
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 176
+        "count": 174
       },
       {
         "keyword": "지원",
-        "count": 136
+        "count": 137
       },
       {
         "keyword": "농촌",
-        "count": 96
+        "count": 94
       },
       {
         "keyword": "사업",
@@ -10891,7 +10871,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 113
+        "count": 111
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10911,7 +10891,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 44
+        "count": 45
       },
       {
         "source": "농사로 이달의 농업기술",
@@ -10934,8 +10914,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 7,
-    "fetched_items": 700,
+    "new_items": 5,
+    "fetched_items": 695,
     "errors": []
   }
 }
