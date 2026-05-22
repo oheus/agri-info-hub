@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-05-22T01:07:01.763287+00:00",
-  "total": 556,
+  "generated_at": "2026-05-22T01:37:30.988825+00:00",
+  "total": 557,
   "category_counts": {
     "news": 332,
     "plant_reviews": 20,
-    "support": 204
+    "support": 205
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 177
+      "count": 179
     },
     {
       "keyword": "지원",
-      "count": 127
+      "count": 126
     },
     {
       "keyword": "농촌",
-      "count": 103
+      "count": 104
     },
     {
       "keyword": "사업",
-      "count": 77
+      "count": 76
     },
     {
       "keyword": "스마트팜",
-      "count": 65
-    },
-    {
-      "keyword": "귀농",
-      "count": 55
+      "count": 66
     },
     {
       "keyword": "지원사업",
-      "count": 55
+      "count": 54
+    },
+    {
+      "keyword": "귀농",
+      "count": 53
     },
     {
       "keyword": "모집",
-      "count": 44
+      "count": 45
     },
     {
       "keyword": "농산물",
-      "count": 42
+      "count": 40
     },
     {
       "keyword": "청년농",
       "count": 38
     },
     {
-      "keyword": "신청",
+      "keyword": "접수",
       "count": 33
     },
     {
-      "keyword": "접수",
+      "keyword": "신청",
       "count": 33
     }
   ],
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 119
+      "count": 120
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 67
+      "count": 66
     },
     {
       "source": "Google News 스마트팜",
-      "count": 59
+      "count": 60
     },
     {
       "source": "Google News 병해충 재배",
@@ -75,11 +75,11 @@
     },
     {
       "source": "Google News 지원사업",
-      "count": 45
+      "count": 44
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 44
+      "count": 43
     },
     {
       "source": "농사로 이달의 농업기술",
@@ -87,7 +87,7 @@
     },
     {
       "source": "Google News 식물 키우기",
-      "count": 24
+      "count": 25
     },
     {
       "source": "Google News 농업기술센터 모집",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 6,
-    "fetched_items": 700,
+    "new_items": 12,
+    "fetched_items": 697,
     "errors": []
   }
 }
