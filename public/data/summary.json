@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T12:03:07.121500+00:00",
+  "generated_at": "2026-05-22T12:33:34.800942+00:00",
   "total": 567,
   "category_counts": {
     "news": 329,
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 0,
-    "fetched_items": 702,
+    "new_items": 2,
+    "fetched_items": 704,
     "errors": []
   }
 }
