@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-22T02:07:59.164489+00:00",
-  "total": 559,
+  "generated_at": "2026-05-22T02:38:28.131376+00:00",
+  "total": 563,
   "category_counts": {
-    "news": 332,
+    "news": 335,
     "plant_reviews": 20,
-    "support": 207
+    "support": 208
   },
   "top_keywords": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "keyword": "지원",
-      "count": 127
+      "count": 129
     },
     {
       "keyword": "농촌",
@@ -21,15 +21,15 @@
     },
     {
       "keyword": "사업",
-      "count": 77
+      "count": 79
     },
     {
       "keyword": "스마트팜",
-      "count": 66
+      "count": 67
     },
     {
       "keyword": "지원사업",
-      "count": 54
+      "count": 56
     },
     {
       "keyword": "귀농",
@@ -37,7 +37,7 @@
     },
     {
       "keyword": "모집",
-      "count": 45
+      "count": 43
     },
     {
       "keyword": "농산물",
@@ -48,18 +48,18 @@
       "count": 39
     },
     {
-      "keyword": "접수",
-      "count": 35
+      "keyword": "신청",
+      "count": 37
     },
     {
-      "keyword": "신청",
-      "count": 35
+      "keyword": "접수",
+      "count": 36
     }
   ],
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 119
+      "count": 121
     },
     {
       "source": "Google News 청년농 귀농",
@@ -67,7 +67,7 @@
     },
     {
       "source": "Google News 스마트팜",
-      "count": 60
+      "count": 62
     },
     {
       "source": "Google News 병해충 재배",
@@ -75,7 +75,7 @@
     },
     {
       "source": "Google News 지원사업",
-      "count": 44
+      "count": 46
     },
     {
       "source": "Google News 농산물 가격",
@@ -90,19 +90,19 @@
       "count": 25
     },
     {
-      "source": "Google News 농업기술센터 모집",
-      "count": 23
+      "source": "Google News 청년농 지원",
+      "count": 22
     },
     {
-      "source": "Google News 청년농 지원",
+      "source": "Google News 농업기술센터 모집",
       "count": 21
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 697,
+    "new_items": 8,
+    "fetched_items": 710,
     "errors": []
   }
 }
