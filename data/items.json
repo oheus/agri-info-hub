@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T13:34:36.475940+00:00",
+  "generated_at": "2026-05-22T14:05:10.148476+00:00",
   "items": [
     {
       "id": "2f376d342192d89c25aa1f96",
@@ -556,6 +556,25 @@
       ],
       "importance": 74,
       "region": "제주",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "41098d391e3c4f1b672b94af",
+      "title": "단양군, 귀농·귀촌 체험 참가자 모집 - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41YWpwN0pCRmlmT1pGWmsxQVIzT0gydzdYUGh1MDBGT3dYTkxtQnBMd3Bwd3FUd0FVdGdhOXd3a3hLRDBTbjlPWVlwRU9WMmR2bHlsVGNkZEg5REk?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "support",
+      "published_at": "2026-05-22T02:46:00+00:00",
+      "collected_at": "2026-05-22T14:04:57.196942+00:00",
+      "summary": "단양군, 귀농·귀촌 체험 참가자 모집 KBS 뉴스",
+      "keywords": [
+        "귀농",
+        "모집"
+      ],
+      "importance": 64,
+      "region": "",
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
@@ -2686,6 +2705,25 @@
       "category_label": "지원사업"
     },
     {
+      "id": "51054cf231d5698124d0959f",
+      "title": "알림소식 > 공지·공고 > 2026년도 농업기계 산업발전 유공자 정부포상 공모 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbDNWSjJEcHVaSGY0b0tNaXhpU2NXUlZ6MFRPR3NHaEZNT0xiSFBkN2s1SDFYMXBzbmNPQ01fajNVM1ZvaVI1Q3Vpc29TYVFremhDMEU2RWNBQkxiSFBLSl9SOERBUjUwcWJWclpVbHVyUkFTekV6ODFKSzJvU1JyeU10WldjRkhMaF9WTDA2RnJZMVdfTXplcW9IcENGWDBoNnpiMzV3MHZQbjR5V09UZVdpUXkzMEZjOU5hRWgxUGZsZEZISmxOVVc3d1FEenlNdXd0bWV5eTdBaHRxSXZTZEJjUEJIencxOGc4ampHYlAyMG1SMkh6TG1uQUE?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "support",
+      "published_at": "2026-05-20T09:13:13+00:00",
+      "collected_at": "2026-05-22T14:05:03.017267+00:00",
+      "summary": "알림소식 > 공지·공고 > 2026년도 농업기계 산업발전 유공자 정부포상 공모 농림축산식품부",
+      "keywords": [
+        "농업",
+        "공모"
+      ],
+      "importance": 64,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "35e4831428f6d5d226c0fb50",
       "title": "무주군, 사과·포도 등 60억 규모 농산물 가격안정 지원…29일까지 신청 - 프레시안",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTOHZpWnBBOHlzajJWbkhfa2thWHdpY3FudDExYm9tdzVLYmh5NFNoUUM5N2d5bXNRal8xN3h1bjdEYlhmdlBlYm9GNmxPZTAwSkd0TDdkd2ZTWVhueHVIZFhHQjNhRHV5VVVz?oc=5",
@@ -3084,25 +3122,6 @@
       "collected_at": "2026-05-20T18:02:20.778196+00:00",
       "summary": "알림소식 > 공지·공고 > 2026년 차세대농어업경영인대상 유공 포상후보자 공모 농림축산식품부",
       "keywords": [
-        "공모"
-      ],
-      "importance": 74,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "eb2c01d65f8324867ad5bb2a",
-      "title": "알림소식 > 공지·공고 > 2026년도 농업기계 산업발전 유공자 정부포상 공모 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00OThLdEdrSWd4a0tiNW1BcFRjaFhqSDFzYnFWQWxDUnpzandIREJ1RTBSazl4NHhNYW91QThKZmxVaWo1ZU1odW1pZ0l0MDBRdGdBMEhnY0RvMlJfRFFUc2ZVWkNGWFpFOENFbTZtYXk3ME9DNmZELVBnVQ?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-05-20T06:17:43+00:00",
-      "collected_at": "2026-05-21T14:06:33.430205+00:00",
-      "summary": "알림소식 > 공지·공고 > 2026년도 농업기계 산업발전 유공자 정부포상 공모 농림축산식품부",
-      "keywords": [
-        "농업",
         "공모"
       ],
       "importance": 74,
@@ -3675,13 +3694,13 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "e99fa34209771b31da8e0175",
+      "id": "73942ecd6cda733adbedf512",
       "title": "미래농업서 ‘갓생’ 찾는다…농식품부, 청년 인턴 24명 모집 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15YWZNX0lVc1ppTUdBeGxDM2lfMm9Sekhhb1lqLXhXT3lweDRQYWlJY1J6TGFuaWtIZkRQcHB4Y002MF9BLVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YaURLM3F3UjI3dHEwTmFsQjd3YUROOWYyY3BhZXFfNVZ0LTFDQmh4MWIxTnlIcC1xb1hwSWJJQWx3WWhOcmV0cGtXdw?oc=5",
       "source": "Google News 농업",
       "category": "support",
-      "published_at": "2026-05-20T02:01:00+00:00",
-      "collected_at": "2026-05-21T16:08:44.988035+00:00",
+      "published_at": "2026-05-20T02:01:55+00:00",
+      "collected_at": "2026-05-22T14:04:54.464847+00:00",
       "summary": "미래농업서 ‘갓생’ 찾는다…농식품부, 청년 인턴 24명 모집 v.daum.net",
       "keywords": [
         "농업",
@@ -4342,6 +4361,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "1443b7b16d53cacfaf895206",
+      "title": "강원농협·농축협발전협의회, 우상호·김진태 향해 '농업 정책' 건의 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aamcxTGdmdXdxbERuclZRR2w5TXFMYkhRRGlLSjh5XzBFb1dVRThEWnlMbVF5VkVkbXpaY1RjU2ZTLUNKQm1CRzBYdw?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-19T08:48:00+00:00",
+      "collected_at": "2026-05-22T14:04:54.464847+00:00",
+      "summary": "강원농협·농축협발전협의회, 우상호·김진태 향해 '농업 정책' 건의 v.daum.net",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "region": "강원",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "1ed0fc9bad6f9bace7b8e359",
       "title": "시그니파이, 연암대 스마트팜 혁신센터에 식물생육 LED 적용 - 한스경제",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pMXl1NnNBQ0VTNmR4WTR2YU0yR2MzNllRV2Q0ZmdSMExQLXNHbGxrVGxNVi00cTdQc2JPUExiUGFyenlxMXVTY1dOSU1vVjFsSzJxTU5Tc1JockpXanV1TE5BOXdob0lLSF9r0gFvQVVfeXFMTW91cm9nVVJXYmVLaTJ6bEpUM3RoRC1MY3VQYWk0TENQX3JwRHRjUkZpaGZIcVMyV2s0Q1dGdE1UVm9FX3Niei1EaUsyQThUZnJ3TTZHMDBCLTFyUkZIWkJmRUhOLUVqTF9Gc2cyQkNJ?oc=5",
@@ -4564,13 +4601,13 @@
       "category_label": "지원사업"
     },
     {
-      "id": "6b89cfce4beb1ccdcc655188",
+      "id": "22a3128ed6e10640637e2424",
       "title": "경기도농업기술원, 시설가지 스마트 수경재배 기술 개발 추진 - 한국농업신문",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52aWRDTzZCV2JkcVRoMWpqb2RzMXhHX1dxRDhBcjIzU0NmUkg0VmpGVWlGc2M4S3g5dlBnY1dkMkMyQ21DczhSVVRpX3BlVkx0dURRQjZIY3ltWnhkOWFrNkNwMDZxTjM0Yk1rYjBn0gFwQVVfeXFMT21RdWNQTDl0Y2hwWENSc3lKaDgyNzhFdldEOVY4T3puUl9JbzZXWGsxLUhBbUhKaVM4Z1JxRWJOMzh0Vm1wM29GYktyaXpMX1FXVmx4UjRiLXJodXlhSVRmOFJmSU01R0s1dGJrOUZGMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iMkk1UVZiZzFYOUFTMTBNeHozam5vdkN4QnNhS3l0bjZiaWZybFYwZUN1SzlLX08wUEFhaUIxeW52YjRhUHVkT0phdHZudEdYRDZ4U1U4WFNWeURTekFFWGJ6UFNsUzgyeWNZRdIBcEFVX3lxTE9tUXVjUEw5dGNocFhDUnN5Smg4Mjc4RXZXRDlWOE96blJfSW82V1hrMS1IQW1ISmlTOGdScUViTjM4dFZtcDNvRmJLcml6TF9RV1ZseFI0Yi1yaHV5YUlUZjhSZklNNUdLNXRiazlGRjA?oc=5",
       "source": "Google News 병해충 재배",
       "category": "news",
-      "published_at": "2026-05-19T07:30:00+00:00",
-      "collected_at": "2026-05-19T22:23:35.770329+00:00",
+      "published_at": "2026-05-19T07:30:42+00:00",
+      "collected_at": "2026-05-22T14:04:58.270301+00:00",
       "summary": "경기도농업기술원, 시설가지 스마트 수경재배 기술 개발 추진 한국농업신문",
       "keywords": [
         "농업",
@@ -5153,6 +5190,25 @@
       "keywords": [
         "농업",
         "재배"
+      ],
+      "importance": 42,
+      "region": "강원",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "0711685c8671c5cb29b6793a",
+      "title": "강원농축협발전협의회·강원농협, 우상호·김진태 도지사 후보에 ‘농업·농촌 정책제안’ 공약 반영 요청 - 프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsejFxdGFibVk1dF9mRW92azdpdmRlUTVjR2FGTFlXbTMybThJWVRGQTZQYWkxZ2JVb2s3SDFfQVlCdGswYmhlQUxwMnhJTklxcWhpVmNrYWJub3dMVHR4SGg5b3JvamZDVTVB?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-19T04:10:38+00:00",
+      "collected_at": "2026-05-22T14:04:54.464847+00:00",
+      "summary": "강원농축협발전협의회·강원농협, 우상호·김진태 도지사 후보에 ‘농업·농촌 정책제안’ 공약 반영 요청 프레시안",
+      "keywords": [
+        "농업",
+        "농촌"
       ],
       "importance": 42,
       "region": "강원",
@@ -10663,117 +10719,39 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "e90a01a0d7a460c5793fceaf",
-      "title": "영천 청년농민,스마트팜 토마토 홍콩 첫 수출 ‘쾌거’ - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ESjNLUTJUUFU0WFZiLTd6M2RYdjM2ZGlhWTc4blNDazlPMGlZMl9fc1lQNU5JVm1pV0sydk55U1NaeDBhNUxjbGxlUHNpQzFqSDlqOGw5QmN5Zw?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-05-14T05:02:15+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "영천 청년농민,스마트팜 토마토 홍콩 첫 수출 ‘쾌거’ 농민신문",
-      "keywords": [
-        "스마트팜",
-        "청년농"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "ec927806a099db7ed45b4e1e",
-      "title": "울산 울주군, AI 기반 청년 스마트팜 보급 육성 지원사업 추진 - 울산종합일보",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92LU9YZUpVMFFNVWRVSGh0a1padmc5ODVzQXRvakpMbDNqMHJmTHkzQWlEYmdxcUZIYzV5bzk4bl9Hb2NEYzNTVW16WVZndF9hTGdoMDRIZzlwQzJ5MFhIUWdXUDVnTFhhSVpuWnN3?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-14T05:00:08+00:00",
-      "collected_at": "2026-05-16T07:57:30.502041+00:00",
-      "summary": "울산 울주군, AI 기반 청년 스마트팜 보급 육성 지원사업 추진 울산종합일보",
-      "keywords": [
-        "스마트팜",
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "울산",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "dc443ea6c2e0d3974131ff81",
-      "title": "고흥군, 439억 규모 에너지 자립형 스마트팜 사업 추진 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hcUlnUjA3QUtoUGxabmhWaEE1dVViUVBhT0FNNmVka3pfNXBubDFGdTlDMURkRmpBTFpmYTBNU1dLNTZDdmR6RGpBUWdYNk0?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "support",
-      "published_at": "2026-05-14T04:54:33+00:00",
-      "collected_at": "2026-05-19T14:06:46.270547+00:00",
-      "summary": "고흥군, 439억 규모 에너지 자립형 스마트팜 사업 추진 v.daum.net",
-      "keywords": [
-        "스마트팜",
-        "사업"
-      ],
-      "importance": 58,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "0d9dd3fd0a87c19ee74d801a",
-      "title": "영월군, MBC 건축박람회서 귀농귀촌 홍보부스 운영 - 전국매일신문",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OelpPODFYUFBpd3Q1MmF2LW0wSGg3czIxbWo0WG03Ry12WER6RkZ6T3p5YkRoYzJOM2Q2cmF0RG83SXVkWUxsU3dub2lvbXprX1pFOG8xRnNMZnZDTjkxUE5XQUdlLUtjOUhJWG53?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-14T04:44:55+00:00",
-      "collected_at": "2026-05-18T21:02:02.435006+00:00",
-      "summary": "영월군, MBC 건축박람회서 귀농귀촌 홍보부스 운영 전국매일신문",
-      "keywords": [
-        "귀농",
-        "귀농귀촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 567,
+    "total": 566,
     "category_counts": {
       "news": 330,
       "plant_reviews": 20,
-      "support": 217
+      "support": 216
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 173
+        "count": 175
       },
       {
         "keyword": "지원",
-        "count": 133
+        "count": 132
       },
       {
         "keyword": "농촌",
-        "count": 94
+        "count": 95
       },
       {
         "keyword": "사업",
-        "count": 80
+        "count": 78
       },
       {
         "keyword": "스마트팜",
-        "count": 67
+        "count": 64
       },
       {
         "keyword": "지원사업",
-        "count": 55
+        "count": 54
       },
       {
         "keyword": "귀농",
@@ -10781,7 +10759,7 @@
       },
       {
         "keyword": "모집",
-        "count": 44
+        "count": 45
       },
       {
         "keyword": "신청",
@@ -10797,13 +10775,13 @@
       },
       {
         "keyword": "청년농",
-        "count": 38
+        "count": 37
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 111
+        "count": 113
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10811,19 +10789,19 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 62
+        "count": 60
       },
       {
         "source": "Google News 병해충 재배",
         "count": 59
       },
       {
-        "source": "Google News 지원사업",
+        "source": "Google News 농산물 가격",
         "count": 45
       },
       {
-        "source": "Google News 농산물 가격",
-        "count": 45
+        "source": "Google News 지원사업",
+        "count": 44
       },
       {
         "source": "농사로 이달의 농업기술",
@@ -10838,7 +10816,7 @@
         "count": 25
       },
       {
-        "source": "Google News 농업기술센터 모집",
+        "source": "Google News 농림축산식품부",
         "count": 19
       }
     ]
@@ -10846,8 +10824,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 3,
-    "fetched_items": 696,
+    "new_items": 6,
+    "fetched_items": 707,
     "errors": []
   }
 }
