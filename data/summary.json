@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-22T11:02:05.898017+00:00",
-  "total": 568,
+  "generated_at": "2026-05-22T11:32:36.766066+00:00",
+  "total": 567,
   "category_counts": {
-    "news": 330,
+    "news": 329,
     "plant_reviews": 20,
     "support": 218
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 172
+      "count": 173
     },
     {
       "keyword": "지원",
@@ -71,7 +71,7 @@
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 61
+      "count": 60
     },
     {
       "source": "Google News 지원사업",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 6,
-    "fetched_items": 704,
+    "new_items": 5,
+    "fetched_items": 693,
     "errors": []
   }
 }
