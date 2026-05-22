@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T10:16:37.014345+00:00",
+  "generated_at": "2026-05-22T11:02:05.898017+00:00",
   "items": [
     {
       "id": "3fafdd8afa1dd4d62f509e98",
@@ -314,6 +314,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "a3962bf66d39b4c16c1869bd",
+      "title": "알림소식 > 보도자료 > 어서와!! K-농촌의 매력 궁금했지? - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzWnROcklkTVhhUFNKaU96MWJlbU1hWWtEOGlDalNxcXcxY1hZTzdaY0U4Nzc4OTVQdi1SWWR3cENKeUFUTmZQVWZYYnplMlk0emJGMWR2UnBoNjNFbGNrWktfbjZhYWZ0LUR5R0dVYXJsNkVhU3hZQ1l3MA?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "news",
+      "published_at": "2026-05-22T05:00:00+00:00",
+      "collected_at": "2026-05-22T11:01:57.021368+00:00",
+      "summary": "알림소식 > 보도자료 > 어서와!! K-농촌의 매력 궁금했지? 농림축산식품부",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "4340048d6ff21d5fdb265c5b",
@@ -6332,6 +6350,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "bf89a7421dc080c98be0d6c7",
+      "title": "경남도, 청년농 유입·스마트농업 등 성과 가시화 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aNnF3Y0lwVGxCeFVIS0xYOVZFVmI2SjNNZW9UZUtOb2MtZ1FBaHNrNDVzc2FXMzFvWks3Rmlqc0hoYmM0XzM1b3ctRXl2NjA?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-05-18T04:49:08+00:00",
+      "collected_at": "2026-05-22T11:01:50.600962+00:00",
+      "summary": "경남도, 청년농 유입·스마트농업 등 성과 가시화 v.daum.net",
+      "keywords": [
+        "농업",
+        "청년농"
+      ],
+      "importance": 48,
+      "region": "경남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "7d6278db3a4db536f83c7296",
       "title": "경남 ‘농정 대전환’ 속도…청년농·스마트팜 성과 가시화 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QdlQxQUptY2x5aUJScjRkdDR0bWp2QXpLbG9iTDVMM0podVh2ZmZwNmRrcW5vU3pzUEYwM0ZjWGF1UkNob0NocWNFTDM3RHRVdDJaTw?oc=5",
@@ -10725,37 +10762,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "1364ce6407c1d2c1bc0d3619",
-      "title": "영천시, 스마트팜 시설 해외 관계자들 견학 잇따라 - 경북신문",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RRkd5dmc0NWpxdWczaFpFN1k0ZW43UVB4VlVLR0s0dXJmUk1KejVZMkF6LVRVVkQySGVDSUc2S0djSWZSZE85cVZWQmYtRExpU1Q5LXRqVlg?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-05-14T02:57:58+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "영천시, 스마트팜 시설 해외 관계자들 견학 잇따라 경북신문",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "경북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 567,
+    "total": 568,
     "category_counts": {
-      "news": 329,
+      "news": 330,
       "plant_reviews": 20,
       "support": 218
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 171
+        "count": 172
       },
       {
         "keyword": "지원",
@@ -10763,7 +10782,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 93
+        "count": 94
       },
       {
         "keyword": "사업",
@@ -10771,7 +10790,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 68
+        "count": 67
       },
       {
         "keyword": "지원사업",
@@ -10799,7 +10818,7 @@
       },
       {
         "keyword": "청년농",
-        "count": 37
+        "count": 38
       }
     ],
     "top_sources": [
@@ -10809,11 +10828,11 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 64
+        "count": 65
       },
       {
         "source": "Google News 스마트팜",
-        "count": 63
+        "count": 62
       },
       {
         "source": "Google News 병해충 재배",
@@ -10849,7 +10868,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 6,
-    "fetched_items": 695,
+    "fetched_items": 704,
     "errors": []
   }
 }
