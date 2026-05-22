@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T07:13:31.331819+00:00",
+  "generated_at": "2026-05-22T07:43:59.953034+00:00",
   "items": [
     {
       "id": "b6e23eba576b6d0ef4b7c0a8",
@@ -17,6 +17,27 @@
       "importance": 64,
       "region": "",
       "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "e1efb5de24d602108aadfce0",
+      "title": "사천시, 오는 6월부터 '2027년 유기질비료 지원사업' 신청 시작 - 한국뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zaEY1RjAzZnNzOGoyUXNrbVhzQk5FbDIyS1dxVWV1NHV3UWg5ZjRCQm1YYTgtdU5wemRMd2VvSFVQSE5LM0U1VUZBR1lBMWhFeWcyQXN3ZUZOQWZ2bmFNTFpWZHdSZw?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-05-22T06:36:38+00:00",
+      "collected_at": "2026-05-22T07:43:42.847116+00:00",
+      "summary": "사천시, 오는 6월부터 '2027년 유기질비료 지원사업' 신청 시작 한국뉴스통신",
+      "keywords": [
+        "지원사업",
+        "신청",
+        "지원",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
     },
@@ -10751,25 +10772,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "9a807d546c41466a38c99306",
-      "title": "울산서 AI 기반 청년 스마트팜 육성 앞장…전 주기 연계 지원 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB4QXFya0dOeG1xdEFUT0RTRWtJSFBMejJDQndZSVdFa21vdVNKdmtxbk1HZThYdVJZM0ZXWDZRSDVhTnhPQlE?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "support",
-      "published_at": "2026-05-14T01:27:11+00:00",
-      "collected_at": "2026-05-16T06:56:39.483643+00:00",
-      "summary": "울산서 AI 기반 청년 스마트팜 육성 앞장…전 주기 연계 지원 v.daum.net",
-      "keywords": [
-        "스마트팜",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "울산",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
@@ -10794,15 +10796,15 @@
       },
       {
         "keyword": "사업",
-        "count": 80
+        "count": 81
       },
       {
         "keyword": "스마트팜",
-        "count": 69
+        "count": 68
       },
       {
         "keyword": "지원사업",
-        "count": 56
+        "count": 57
       },
       {
         "keyword": "귀농",
@@ -10817,16 +10819,16 @@
         "count": 40
       },
       {
+        "keyword": "신청",
+        "count": 39
+      },
+      {
         "keyword": "청년농",
         "count": 39
       },
       {
         "keyword": "접수",
         "count": 39
-      },
-      {
-        "keyword": "신청",
-        "count": 38
       }
     ],
     "top_sources": [
@@ -10840,18 +10842,18 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 64
+        "count": 63
       },
       {
         "source": "Google News 병해충 재배",
         "count": 59
       },
       {
-        "source": "Google News 농산물 가격",
-        "count": 45
+        "source": "Google News 지원사업",
+        "count": 46
       },
       {
-        "source": "Google News 지원사업",
+        "source": "Google News 농산물 가격",
         "count": 45
       },
       {
@@ -10875,8 +10877,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 7,
-    "fetched_items": 690,
+    "new_items": 1,
+    "fetched_items": 702,
     "errors": []
   }
 }
