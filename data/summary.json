@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-05-22T05:11:25.835384+00:00",
+  "generated_at": "2026-05-22T05:42:03.086974+00:00",
   "total": 561,
   "category_counts": {
-    "news": 330,
+    "news": 328,
     "plant_reviews": 20,
-    "support": 211
+    "support": 213
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 177
+      "count": 176
     },
     {
       "keyword": "지원",
-      "count": 131
+      "count": 132
     },
     {
       "keyword": "농촌",
@@ -37,7 +37,11 @@
     },
     {
       "keyword": "모집",
-      "count": 41
+      "count": 42
+    },
+    {
+      "keyword": "접수",
+      "count": 39
     },
     {
       "keyword": "청년농",
@@ -50,16 +54,12 @@
     {
       "keyword": "신청",
       "count": 38
-    },
-    {
-      "keyword": "접수",
-      "count": 38
     }
   ],
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 114
+      "count": 113
     },
     {
       "source": "Google News 청년농 귀농",
@@ -87,7 +87,7 @@
     },
     {
       "source": "Google News 식물 키우기",
-      "count": 27
+      "count": 28
     },
     {
       "source": "Google News 청년농 지원",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 708,
+    "new_items": 2,
+    "fetched_items": 567,
     "errors": []
   }
 }
