@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-05-22T05:42:03.086974+00:00",
-  "total": 561,
+  "generated_at": "2026-05-22T06:12:32.829088+00:00",
+  "total": 566,
   "category_counts": {
-    "news": 328,
-    "plant_reviews": 20,
-    "support": 213
+    "news": 330,
+    "plant_reviews": 19,
+    "support": 217
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 176
+      "count": 177
     },
     {
       "keyword": "지원",
-      "count": 132
+      "count": 135
     },
     {
       "keyword": "농촌",
-      "count": 97
+      "count": 94
     },
     {
       "keyword": "사업",
@@ -25,7 +25,7 @@
     },
     {
       "keyword": "스마트팜",
-      "count": 65
+      "count": 69
     },
     {
       "keyword": "지원사업",
@@ -33,22 +33,22 @@
     },
     {
       "keyword": "귀농",
-      "count": 52
+      "count": 51
     },
     {
       "keyword": "모집",
-      "count": 42
-    },
-    {
-      "keyword": "접수",
-      "count": 39
+      "count": 44
     },
     {
       "keyword": "청년농",
-      "count": 39
+      "count": 40
     },
     {
       "keyword": "농산물",
+      "count": 40
+    },
+    {
+      "keyword": "접수",
       "count": 39
     },
     {
@@ -59,15 +59,15 @@
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 113
+      "count": 111
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 66
+      "count": 65
     },
     {
       "source": "Google News 스마트팜",
-      "count": 60
+      "count": 64
     },
     {
       "source": "Google News 병해충 재배",
@@ -79,7 +79,7 @@
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 44
+      "count": 45
     },
     {
       "source": "농사로 이달의 농업기술",
@@ -87,11 +87,11 @@
     },
     {
       "source": "Google News 식물 키우기",
-      "count": 28
+      "count": 27
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 24
+      "count": 26
     },
     {
       "source": "Google News 농업기술센터 모집",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 2,
-    "fetched_items": 567,
+    "new_items": 14,
+    "fetched_items": 699,
     "errors": []
   }
 }
