@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T03:08:54.846249+00:00",
+  "generated_at": "2026-05-22T03:39:23.251106+00:00",
   "items": [
     {
       "id": "a6bdb87d7fe63c634c081e89",
@@ -22,6 +22,22 @@
       "deadline_text": "5월 25일 마감",
       "deadline_date": "2026-05-25",
       "category_label": "지원사업"
+    },
+    {
+      "id": "e1beba29ca4c21f4bbc126bf",
+      "title": "\"태양광 지어도 식량 가격 안 오른다\"…미 연구진, 입지 논쟁 우려 반박 - AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hVWRjS29YQ2NkNHZvMkJJSHhuQW84ajVLM0lSSVVDTkVURUlUNXNMN0FBWE5pVW9kY3JhTlJXVVJDa1lIM2hBWkNKS2YxNkwtR29TbnRYb19HaE53N1BNc3dpX0VtMTFfU1E?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-05-22T02:50:00+00:00",
+      "collected_at": "2026-05-22T03:39:11.019238+00:00",
+      "summary": "\"태양광 지어도 식량 가격 안 오른다\"…미 연구진, 입지 논쟁 우려 반박 AI타임스",
+      "keywords": [],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "649e483c14f34bd574e770ea",
@@ -5822,6 +5838,26 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "b70445257bd0b2f48921d3d6",
+      "title": "양산시 농업기술센터, 제20기 농심대학 교육생 모집 - 경남경제",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jM1Q1TUE3bHF6OUxpSUZDNklsZFlFRkVScGxsUU5IYmphX3V4SmZXcHVlZE1rejlWSjV0OWNyVjBhRTRPdDktVVgwdUxNZkhtWXNLemFiT2hzU3hMSjAzR0JoQjk1cGZ50gFoQVVfeXFMTWMzVDVNQTdscXo5TGlJRkM2SWxkWUVGRVJwbGxRTkhiamFfdXhKZldwdWVkTWt6OVZKNXQ5Y3JWMGFFNE90OS1VWDB1TE1mSG1Zc0t6YWJPaHNTeExKMDNHQmhCOTVwZnk?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-05-18T02:18:00+00:00",
+      "collected_at": "2026-05-22T03:39:22.460920+00:00",
+      "summary": "양산시 농업기술센터, 제20기 농심대학 교육생 모집 경남경제",
+      "keywords": [
+        "농업",
+        "모집",
+        "농업기술센터"
+      ],
+      "importance": 74,
+      "region": "경남",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "516c78cb7b9d5119d06bbb16",
       "title": "화성시 ‘2027년 유기질비료 지원사업’ 6월 조기 접수 시행:장애인인식개선신문 - 장애인인식개선신문",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9DbHhMRjJrZElfMHJqQ1JWYl9wTm1tdE9DaXJ5MDQyU1cyYndDaDVMTENTU3Q3Wm00eDFfOVlRT3YwZ9IBX0FVX3lxTFA3UU9oSjZtQVEtd3NMbS0wdHVFZWNrbUotekhDVDNmeVlUU2w0V2xiRHJyd2VXcU9NVS1xZGNyT0pBUlVVWTdGNmZEVVM5ZHVYbVZyYUIzeVB2cndZR1Fn?oc=5",
@@ -5896,26 +5932,6 @@
       "importance": 64,
       "region": "경기",
       "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "0eafab5599b80f2f0a01a3c3",
-      "title": "양산시 농업기술센터, 제20기 농심대학 교육생 모집 - 경남열린신문",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ubmY0d29kTGY5UjBzd0hSc2dabzdrODZmTExYX3d5elIwaE9WTmtQcUVSTkQ1RnhUR0ozTEtSX1NUUWE5ZFc5dWh4UEtJcW1KRnN6WW5KdnpIeXBhaFFTb3NwZmM4ZnlBc0t1bUxMU2Y3RFZ30gF0QVVfeXFMT25uZjR3b2RMZjlSMHN3SFJzZ1pvN2s4NmZMTFhfd3l6UjBoT1ZOa1BxRVJORDVGeFRHSjNMS1JfU1RRYTlkVzl1aHhQS0lxbUpGc3pZbkp2ekh5cGFoUVNvc3BmYzhmeUFzS3VtTExTZjdEVnc?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-05-18T01:51:34+00:00",
-      "collected_at": "2026-05-18T07:27:06.297439+00:00",
-      "summary": "양산시 농업기술센터, 제20기 농심대학 교육생 모집 경남열린신문",
-      "keywords": [
-        "농업",
-        "모집",
-        "농업기술센터"
-      ],
-      "importance": 74,
-      "region": "경남",
-      "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
     },
@@ -10600,24 +10616,6 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "8097c4c279f0b0a1ebfc8c71",
-      "title": "[시론] 농촌융복합산업, 구조혁신만이 살길이다 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VVWpDNGVHVVlWWUpqYlRZNGQwVDJxdWE3V0tHSzltUHdJN29OenM4a3dWUnhjSjd6TC1xZE1wYjd4eHdaQ2dsRWl1RHBoUUpwUlRCbHFaTXFkZw?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-13T09:31:00+00:00",
-      "collected_at": "2026-05-15T18:07:08.745479+00:00",
-      "summary": "[시론] 농촌융복합산업, 구조혁신만이 살길이다 농민신문",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
@@ -10638,7 +10636,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 99
+        "count": 98
       },
       {
         "keyword": "사업",
@@ -10680,7 +10678,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 116
+        "count": 115
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10700,7 +10698,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 43
+        "count": 44
       },
       {
         "source": "농사로 이달의 농업기술",
@@ -10723,8 +10721,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 9,
-    "fetched_items": 702,
+    "new_items": 3,
+    "fetched_items": 703,
     "errors": []
   }
 }
