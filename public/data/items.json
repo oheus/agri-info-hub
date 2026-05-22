@@ -1,6 +1,67 @@
 {
-  "generated_at": "2026-05-22T05:42:03.086974+00:00",
+  "generated_at": "2026-05-22T06:12:32.829088+00:00",
   "items": [
+    {
+      "id": "2b89bdbd5bc67620019002ec",
+      "title": "해남군, 청년농업인 안정 정착 위한 맞춤형 지원 강화 - 데일리저널",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mN3RiUS11RkxlQTJnaWNka0hkalFBNExLcVdQclZBeWVwWnBTQ0VIR1RKcnAtcjY1YjNuUWxOU053NGY1aWplTWJud2Qwbk9SY19RVGFjR2VveVRYT2FxQWNoM1VuSDZHWGc?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-22T05:49:56+00:00",
+      "collected_at": "2026-05-22T06:12:25.489667+00:00",
+      "summary": "해남군, 청년농업인 안정 정착 위한 맞춤형 지원 강화 데일리저널",
+      "keywords": [
+        "농업",
+        "청년농",
+        "농업인",
+        "청년농업인",
+        "지원"
+      ],
+      "importance": 70,
+      "region": "전남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "a99d96199e51e362396edf80",
+      "title": "가락시장 농산물 가격-2026년 5월22일 - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWY0ZQOXVJeTNneF85TmZDWENCdEV4ekdUelg4YXMwODIxSG9zTmd2TDlHMHc4ZnRaYzl5elNqZVdvRHozRXkzakN1Zmo4TEVLTmp0anVxcU90UQ?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-05-22T05:46:00+00:00",
+      "collected_at": "2026-05-22T06:12:19.512661+00:00",
+      "summary": "가락시장 농산물 가격-2026년 5월22일 농민신문",
+      "keywords": [
+        "농산물",
+        "농산물 가격"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "8d77b5150d02be55ce479e8a",
+      "title": "연암대, 농업 AI 교육체계 전면 확대…‘K-스마트팜 AID 허브대학’ 구축 나서 - 한국대학신문",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wQ1R3MXFDclUtNmtReW80X2VCS1hIOHIybUUyYXVEeENfNmE4dklXbzJYVk9ISTFhNU84d3p2d1dPRzhVV2x5cTlYQWpkWU4zVlE5ZmFDNEpqV0lWczRhVlU0Y2hsQQ?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-22T05:42:51+00:00",
+      "collected_at": "2026-05-22T06:12:16.146517+00:00",
+      "summary": "연암대, 농업 AI 교육체계 전면 확대…‘K-스마트팜 AID 허브대학’ 구축 나서 한국대학신문",
+      "keywords": [
+        "농업",
+        "스마트팜",
+        "허브"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "308161fa6dd8734834af7fcd",
       "title": "양주시농업기술센터, 5월 반려식물 사진 공모전 25일까지 접수 - 웹이코노미",
@@ -62,6 +123,28 @@
       "category_label": "지원사업"
     },
     {
+      "id": "c2c6a2337af787b33a511a45",
+      "title": "양주시농업기술센터, '가장 화려한 순간' 5월 반려식물 사진 공모전 오는 25일까지 접수 - 경기헤드라인",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qczJEcV9scmVQeU8xV3pMX1I3b25JV3lxVllieDVmd3NpZDJRcS1mT2NQbTIwZldRaDVpVmNPWnlqamNCQ2FyeF9wZEhrM3hZVGhlWVdDSnhGVWdpTXk1a0QySmE3Zw?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "support",
+      "published_at": "2026-05-22T03:30:43+00:00",
+      "collected_at": "2026-05-22T06:12:28.186382+00:00",
+      "summary": "양주시농업기술센터, '가장 화려한 순간' 5월 반려식물 사진 공모전 오는 25일까지 접수 경기헤드라인",
+      "keywords": [
+        "농업",
+        "반려식물",
+        "공모",
+        "농업기술센터",
+        "접수"
+      ],
+      "importance": 58,
+      "region": "경기",
+      "deadline_text": "5월 25일 마감",
+      "deadline_date": "2026-05-25",
+      "category_label": "지원사업"
+    },
+    {
       "id": "a6bdb87d7fe63c634c081e89",
       "title": "양주시농업기술센터, 가장 화려한 순간 5월 반려식물 사진 공모전 오는 25일까지 접수 > 뉴스 - 더코리아",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PVWdCaEU4MnBtN0F1Q2NGSjBFcWU2TXh2TUNydUNhWEhqc0pxX2Y3RG9sV0M0TjB3Sk5ockhDZTJFQkxtOXJuZ3lNb3lmdjBNTEE3R0dIYlZNajJHMG8wTnpYUldlbWZ0eXRxTlAzbnc?oc=5",
@@ -100,6 +183,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "ae58405ddcf1e03d47bdc940",
+      "title": "제주도농업기술원, 현장에서 배우는 영농기술…현장실습 과정 교육생 모집 - 미디어투데이",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2tTZkQxTm5NOTREcXdHQksxRHNRQmhLTHZndVNGNklKZFpRb1pSU29DNDliUWM0TVoxeTFJMWFySXpQQml3V2xrN3ZXbGMtT1cybWlNTGE3VEw2ekExd1ozbUYtMnN3M29NajF2ZTdMZXZIbWtKZ29aeWRCbE91SWtfZk5tWjdqQUNaY1YzZVFiZDNZNXAyaQ?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-05-22T02:46:00+00:00",
+      "collected_at": "2026-05-22T06:12:30.045242+00:00",
+      "summary": "제주도농업기술원, 현장에서 배우는 영농기술…현장실습 과정 교육생 모집 미디어투데이",
+      "keywords": [
+        "농업",
+        "모집"
+      ],
+      "importance": 74,
+      "region": "제주",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "649e483c14f34bd574e770ea",
       "title": "\"공직 가치 결합\"…창원특례시, '다육이' 처럼 단단한 청렴 싹 틔운다 - 네이트",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ROENiLW8xVEgzZzRDNlUzZDNwWWRxSE5QUUxwdlBNUkhSdkxlcERqMjZnN0FvU2Y2eV9XcDZINmxFM3cyaDBZd0tqME5ybXNJMWQ4?oc=5",
@@ -116,28 +218,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
-    },
-    {
-      "id": "f601b0b10715fc567e303d8c",
-      "title": "양주시농업기술센터, '가장 화려한 순간' 5월 반려식물 사진 공모전 오는 25일까지 접수 - HKBC환경방송",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91YzJBRUx4enZuS3h1VlZfZkVaUnhrUmNNRHJ4UUhMMGdTX2dwTnhtbUltT0IwU2sxU3lpY1hYbWRJM0FVSEVpa3JpQnRhMmp5M1pJczR5YjhRT1BKVXY1OFdvV0vSAWdBVV95cUxQNC1wUmRoS1M5eXRqaEM2dXVRQ1dIY2RxTkhWU0ZoeW53SmRvSm1iSGVHR0NLYzVnQ2hTNEppdmx5TzZ4aHp0bzRpdThFQ1oyT3I2SXk2UUVaVG5PQzFtSHg3YTQ0ZmxZ?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "support",
-      "published_at": "2026-05-22T02:38:17+00:00",
-      "collected_at": "2026-05-22T05:11:21.101211+00:00",
-      "summary": "양주시농업기술센터, '가장 화려한 순간' 5월 반려식물 사진 공모전 오는 25일까지 접수 HKBC환경방송",
-      "keywords": [
-        "농업",
-        "반려식물",
-        "공모",
-        "농업기술센터",
-        "접수"
-      ],
-      "importance": 58,
-      "region": "경기",
-      "deadline_text": "5월 25일 마감",
-      "deadline_date": "2026-05-25",
-      "category_label": "지원사업"
     },
     {
       "id": "1b97ae8cb2bcf5ccf8fb4771",
@@ -481,6 +561,25 @@
       "category_label": "지원사업"
     },
     {
+      "id": "3879cab196b26ca822828330",
+      "title": "수원시미디어센터, '수원 로케이션 대학생 단편영화 제작지원' 참여팀 모집 - 한국시사경제",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyN210X1lqcDFpOGh3ZHVOYVpJQTU4aTczYnJEbndmZWtYOHJUcTJzd2hnQ01Eaks0ckN0elRQVlNxODRDM0ZValRmNU1MWnczRE1BSW5xZ3VBRklhc2xqOVZ4YkhSVTlUM1E?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-05-22T00:31:33+00:00",
+      "collected_at": "2026-05-22T06:12:30.045242+00:00",
+      "summary": "수원시미디어센터, '수원 로케이션 대학생 단편영화 제작지원' 참여팀 모집 한국시사경제",
+      "keywords": [
+        "모집",
+        "지원"
+      ],
+      "importance": 80,
+      "region": "경기",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "05b89650eefda7c15f239eb2",
       "title": "커피·카카오·올리브 가격인상…기후변화 탓? - 단비뉴스",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LSTNFemVpRDBHQ0NfLTA4cWpBWW5BajFlVXBCT2NPLWxpWF80UGNobWJoMDB5T1I2UEZxd3lwVTBSUW53bFpsMVhGOUs1NDNXeFpDM3ZWN0Y1NERZckk2NGE4Y09McjNvcnRB?oc=5",
@@ -608,6 +707,24 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "517596ba6cee5e4772b97fb3",
+      "title": "“충남 모든 학교에 스마트팜”…이명수 “교실에 녹색 미래 심겠다” - 아산뉴스",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WMG94VXZDTHRsWkdVdGVFZWpabUlmM0tSdmxFU0htUFIybXdsV2Z1WHNJeklCbk5VR2Q2bVU1dHFDZ0hnRWhKd0VRR09XbmlJX05pNE5DVXc5VzdxQ1hlTUd0bjVCOUFJSnAxQ0IySDlGdHNTTmZKRE12MA?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-21T11:35:00+00:00",
+      "collected_at": "2026-05-22T06:12:16.146517+00:00",
+      "summary": "“충남 모든 학교에 스마트팜”…이명수 “교실에 녹색 미래 심겠다” 아산뉴스",
+      "keywords": [
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "충남",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -2695,6 +2812,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "09531b135bf8c04cc24b0567",
+      "title": "‘폐지하보도’ 활용한 시민 참여형 ‘스마트팜’ 조성 - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHUk9nTW04T0VJWUhrOHFmVEZ2cUR4UHI1aDdERGZPbmdMVDFyLUZpZ1VfOGVTOWNqM3E3SG16RHZVQU51RWxhcGxuc3psTmJ4WWRLdFctUXZqNlVLRnhJWm1BemtZdlNXcGJGN1g1MA?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-20T06:00:48+00:00",
+      "collected_at": "2026-05-22T06:12:16.146517+00:00",
+      "summary": "‘폐지하보도’ 활용한 시민 참여형 ‘스마트팜’ 조성 서울신문",
+      "keywords": [
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "서울",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "1928af236504ffe3dd9c3ae5",
       "title": "수원시 영통구 원천동, 홀몸 어르신에 반려식물 전달 - 웹이코노미",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zVm02a2lUeTFKb1BlREF0NC1VQTJhSklDV2FnUHRKY242bTFiYlpiWXpaZzZqN2I1dUtZS094VFFNRHRxRlA3aUw2NjdXeHMxTVdfa1RjRTFVVmFGLVlVWkhseTlVOUExY2lnd0xHSlZpZw?oc=5",
@@ -3198,6 +3333,25 @@
       "importance": 70,
       "region": "전국",
       "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "2d6a500428c0e149c867e88d",
+      "title": "농식품부 '청년 창업농 장학생' 선발...등록금 전액-학업장려금 250만원 지원 - 도농라이프타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TQ3Z6bGZUYnlwMVdrZDcxNG1kb1QwWUM0YXF6dUpZci1BcXRzNUtKcGQyWUxVeTNoaXhta18wWjN5N0ZuNW1Hdk5hckdPZjh2MGtZV1B2Wm5IMGlFZUh4cVBJWkw1a0dYYldkaw?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-20T02:00:00+00:00",
+      "collected_at": "2026-05-22T06:12:25.489667+00:00",
+      "summary": "농식품부 '청년 창업농 장학생' 선발...등록금 전액-학업장려금 250만원 지원 도농라이프타임즈",
+      "keywords": [
+        "농식품부",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "전국",
+      "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
     },
@@ -4318,6 +4472,24 @@
       "summary": "박찬우 천안시장 후보 “돈 되는 농업 만들겠다”…농업예산 7% 확대 공약 프레시안",
       "keywords": [
         "농업"
+      ],
+      "importance": 42,
+      "region": "충남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "b0532fec5aa39e4d87256bd3",
+      "title": "스마트팜 유통기업 어그레이트, 천안 취약계층에 유럽상추 10톤 나눔 - 농수축산신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tOU5MejRJcjhZR08zUGNfcHFKVnBIZUVyLVJnQWU0MjNHbVNrQW5FaDNqclVERFltQTRkcXJpcjBndEhWdkRjNjZ6bU5SZWhkWk02UWZkSXdQQl9YM2lOcXptc2kyQUNUZ0lwYQ?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-19T05:36:09+00:00",
+      "collected_at": "2026-05-22T06:12:16.146517+00:00",
+      "summary": "스마트팜 유통기업 어그레이트, 천안 취약계층에 유럽상추 10톤 나눔 농수축산신문",
+      "keywords": [
+        "스마트팜"
       ],
       "importance": 42,
       "region": "충남",
@@ -10563,103 +10735,27 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "b33aebe826ec0af4dd52986e",
-      "title": "박찬우 천안시장 후보, 천안농민회로부터 '농업·농촌·농민 살리기' 서명 전달받아 - 중도일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkbU8zdjNlUlpFLUhZMTVaVmM2YXpZeWgydnVKUXo3M1dBbnFpQUoxZDdHdUVIODM4aERXdUd1Q3pnT1FPSy1kSWVpT2RyTDFicHlPZnl1YkdYVGFabmhuV2k1cEszVGF4TkFYbg?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-14T00:57:38+00:00",
-      "collected_at": "2026-05-15T16:21:53.795077+00:00",
-      "summary": "박찬우 천안시장 후보, 천안농민회로부터 '농업·농촌·농민 살리기' 서명 전달받아 중도일보",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "충남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "5f759f95899f869a7a6d1082",
-      "title": "농업·농촌 에너지 대전환, '현장'서 해법 찾는다 - 넷제로뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2YzZ3Tm1qMDVNaXpDeXhVQlFDSVBWVF9UdUMwcUFNWmxwVUJqX3JqOFVaaFRnWE5GRUlrUGVNendkZjZIUG9PRUZScFg5U25iOXRDcGhoVHNKRGR1MnVUOFh2YnBhRXdoN1JV0gFuQVVfeXFMT1JETjVQRVJweVlTbTJ0MUxiWmdSZ1lxWFRjUERTSFJ3RmhIc3BFTEQ5dHFSY1FCNWJpdTlUNHhUSGthdjc1YXc5elFRRVAzMjV6a3JUSFM5NVlTMW8tTkJEM1BWNXBNS3BwT2lvWVE?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-14T00:50:06+00:00",
-      "collected_at": "2026-05-15T16:21:53.795077+00:00",
-      "summary": "농업·농촌 에너지 대전환, '현장'서 해법 찾는다 넷제로뉴스",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "대전",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "1fbba548fb0f0673f4dfe738",
-      "title": "제주세계유산본부, 15일부터 반려식물 전시회 개최 - 제주일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EVW1zMG1heE9FUTNicVo3V05nenlpWGVQWkhoNVVwUjBXenJENnN3T0FZR25WbHFOMWNzekNVX04tUnRJZlpoMHphT3JYcEUzWnBPOTFSMkZWOTlsYzdEa3Ita2NMUFZqdjlpZw?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-05-13T23:54:21+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "제주세계유산본부, 15일부터 반려식물 전시회 개최 제주일보",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "region": "제주",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "5ec48f8442c6d4acd8c14d80",
-      "title": "“살기 좋은 농촌 알린다” 영월군, 도시민 대상 귀농귀촌 홍보전 - 중도일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52TmJYNkdGc0FpR1FMNzNnaDRqRjIxdkRaNmNVYkt2dkJZdzVDUkxnY0ZxVndvelpxTEE4X2s0elJZSkxYZ1NhdlRETm1Wd1RURUtLWDREdXJ1cTk2bEl3SDhZcmdSOEg5ZG5oNg?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-13T23:39:49+00:00",
-      "collected_at": "2026-05-16T07:27:04.644788+00:00",
-      "summary": "“살기 좋은 농촌 알린다” 영월군, 도시민 대상 귀농귀촌 홍보전 중도일보",
-      "keywords": [
-        "농촌",
-        "귀농",
-        "귀농귀촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 561,
+    "total": 566,
     "category_counts": {
-      "news": 328,
-      "plant_reviews": 20,
-      "support": 213
+      "news": 330,
+      "plant_reviews": 19,
+      "support": 217
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 176
+        "count": 177
       },
       {
         "keyword": "지원",
-        "count": 132
+        "count": 135
       },
       {
         "keyword": "농촌",
-        "count": 97
+        "count": 94
       },
       {
         "keyword": "사업",
@@ -10667,7 +10763,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 65
+        "count": 69
       },
       {
         "keyword": "지원사업",
@@ -10675,22 +10771,22 @@
       },
       {
         "keyword": "귀농",
-        "count": 52
+        "count": 51
       },
       {
         "keyword": "모집",
-        "count": 42
-      },
-      {
-        "keyword": "접수",
-        "count": 39
+        "count": 44
       },
       {
         "keyword": "청년농",
-        "count": 39
+        "count": 40
       },
       {
         "keyword": "농산물",
+        "count": 40
+      },
+      {
+        "keyword": "접수",
         "count": 39
       },
       {
@@ -10701,15 +10797,15 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 113
+        "count": 111
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 66
+        "count": 65
       },
       {
         "source": "Google News 스마트팜",
-        "count": 60
+        "count": 64
       },
       {
         "source": "Google News 병해충 재배",
@@ -10721,7 +10817,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 44
+        "count": 45
       },
       {
         "source": "농사로 이달의 농업기술",
@@ -10729,11 +10825,11 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 28
+        "count": 27
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 24
+        "count": 26
       },
       {
         "source": "Google News 농업기술센터 모집",
@@ -10744,8 +10840,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 2,
-    "fetched_items": 567,
+    "new_items": 14,
+    "fetched_items": 699,
     "errors": []
   }
 }
