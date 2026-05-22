@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T03:39:23.251106+00:00",
+  "generated_at": "2026-05-22T04:10:05.774787+00:00",
   "items": [
     {
       "id": "a6bdb87d7fe63c634c081e89",
@@ -56,6 +56,28 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
+    },
+    {
+      "id": "1b97ae8cb2bcf5ccf8fb4771",
+      "title": "양주시농업기술센터, `가장 화려한 순간` 5월 반려식물 사진 공모전 오는 25일까지 접수 - 경기평화신문",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9OMm1RYi1ldzJxY3I4RW9WeXZoU0ZUelRKWG9kLU9qaUV1Y2lsdlZLYm81Ykl5U3E1d0RnRnJwRUNBNWtfREtpNHV3?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "support",
+      "published_at": "2026-05-22T02:38:00+00:00",
+      "collected_at": "2026-05-22T04:10:00.417475+00:00",
+      "summary": "양주시농업기술센터, `가장 화려한 순간` 5월 반려식물 사진 공모전 오는 25일까지 접수 경기평화신문",
+      "keywords": [
+        "농업",
+        "반려식물",
+        "공모",
+        "농업기술센터",
+        "접수"
+      ],
+      "importance": 58,
+      "region": "경기",
+      "deadline_text": "5월 25일 마감",
+      "deadline_date": "2026-05-25",
+      "category_label": "지원사업"
     },
     {
       "id": "f66b3d758f7e0ec7070110ef",
@@ -314,6 +336,28 @@
       ],
       "importance": 76,
       "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "5824b89515473381f5c4f454",
+      "title": "경남 함양군, 유기질비료 지원사업 조기 신청 접수 - 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UQWlfY0lMZXQyOEtBbDVRY2dRSVVWbzVZbGVXOEFpZUZGV0hOUVFCYzFYVnY0amZuOHpzb3hUVWw0MUtMZTVwUzE4MENHMnR4RnYwWlM5OHBzVmgyUjNBdFp5S2RRSmNLQlRNWE5FU1NYQdIBckFVX3lxTE1UQWlfY0lMZXQyOEtBbDVRY2dRSVVWbzVZbGVXOEFpZUZGV0hOUVFCYzFYVnY0amZuOHpzb3hUVWw0MUtMZTVwUzE4MENHMnR4RnYwWlM5OHBzVmgyUjNBdFp5S2RRSmNLQlRNWE5FU1NYQQ?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-05-22T00:47:10+00:00",
+      "collected_at": "2026-05-22T04:09:47.736572+00:00",
+      "summary": "경남 함양군, 유기질비료 지원사업 조기 신청 접수 폴리뉴스 Polinews",
+      "keywords": [
+        "지원사업",
+        "신청",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "경남",
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
@@ -976,6 +1020,24 @@
       "summary": "“신재생에너지로 농촌 미래 밝힌다” 농축유통신문",
       "keywords": [
         "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "450457b98f8f34a18547bf33",
+      "title": "금산군, 재배기술 향상 우수 운영사례학습 견학 프로그램 추진 - 투데이플러스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMWHBSbWRIcFY5OUt6MGNhUk5iWmVDOEJwTjMtVWRxSV9fa3VmbEVBNjdPdzZXU3N2V0VsWW9kYVkyNDM3bE5HNnVpTzlmbzJ4c0tGdjFsTWs4bG9QdnJGNHM3N3VVYnZzazZGTGJLYmZFQQ?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-21T04:20:50+00:00",
+      "collected_at": "2026-05-22T04:09:51.423185+00:00",
+      "summary": "금산군, 재배기술 향상 우수 운영사례학습 견학 프로그램 추진 투데이플러스",
+      "keywords": [
+        "재배"
       ],
       "importance": 42,
       "region": "",
@@ -3093,6 +3155,25 @@
       "published_at": "2026-05-20T01:46:14+00:00",
       "collected_at": "2026-05-20T18:02:10.290898+00:00",
       "summary": "정인화 후보, 농업도 미래산업 “청년 돌아오는 농촌 만들 것” 광양뉴스",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "80563a28b7daf14ed201245f",
+      "title": "박성현-농촌지도자연합회, 광양 농업 발전 ‘정책협약’ 체결 - 광양뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Zc1JEQmlMeEdlSzk3UFVhazEzb0o3Q2w2dF9CMmNrdDlzY1hUdC1qZHN5YmYzNC1iODg0bEdZNEJnQ3dBdGNSZGdNTUhJdjVJREJpbUJmVVhBa1ZETmlmWGpqcDE5RmZL?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-20T01:13:56+00:00",
+      "collected_at": "2026-05-22T04:09:33.541309+00:00",
+      "summary": "박성현-농촌지도자연합회, 광양 농업 발전 ‘정책협약’ 체결 광양뉴스",
       "keywords": [
         "농업",
         "농촌"
@@ -10557,82 +10638,23 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "bb392cab112ed5f601df6e20",
-      "title": "괴산군, 소수면 임대형 스마트팜 조성 협약…미래농업 기반 구축 - 충청뉴스라인",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tT0ZRWlVJRjl0OEIyWXFDTkE0ZnplZzNMTHNoajNTQ2J3TWpyUTFXclphQzBFRzczZzZIRjhLMURzeEMxNnpvYWZsaGhfVW00OHVuQlB0WmRaYWMyOF9TNEV3c1RfaUp4Wlk2SlNjQjVlOTTSAXNBVV95cUxOLU9GUVpVSUY5dDhCMllxQ05BNGZ6ZWczTExzaGozU0Nid01qclExV3JaYUMwRUc3M2c2SEY4SzFEc3hDMTZ6b2FmbGhoX1VtNDh1bkJQdFpkWmFjMjhfUzRFd3NUX2lKeFpZNkpTY0I1ZTk0?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-05-13T12:36:17+00:00",
-      "collected_at": "2026-05-16T08:28:01.691426+00:00",
-      "summary": "괴산군, 소수면 임대형 스마트팜 조성 협약…미래농업 기반 구축 충청뉴스라인",
-      "keywords": [
-        "농업",
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "516c2252427884d1c35ab91c",
-      "title": "천안농민회, 박찬우 천안시장에게 ‘농업·농촌·농민 살리기’ 서명부 전달 - 서울신문",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdUkxaEpFZHUyYWJoX3BfQzh3cnVIZkRzaVlHR0J6RVJRSDFxVUh2NFlCOUNVTjR6SXNQNmNCdTRqdzVTcGFKc2w5YjhSdFhaWkc3S2piaTRBV0pYdnFKVWZFdzRhLXNrRTJqZlJsdDg0MDlvckdhY1oyNUhreHd5VnVUYThBYWVhbkE?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-13T11:50:15+00:00",
-      "collected_at": "2026-05-15T16:21:53.795077+00:00",
-      "summary": "천안농민회, 박찬우 천안시장에게 ‘농업·농촌·농민 살리기’ 서명부 전달 서울신문",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "서울",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "fd52549d965c4b79f674f548",
-      "title": "안성시농업기술센터, 농기계정비기능사 필기과정 교육생 모집 - 투데이경제",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xeWVSeUdIT3hRc3BBTXdlSC1pd0RQeUtVSjRmdXVWQ0wxX203TXltdjJfYlVsWlYxdkhyWFNtYlJvR1V4Z0h2X3JFVHY3TE9peXRPMXhsOHZjNDRLcHpCMTFiX3dXVWdOZE0w?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-05-13T11:14:25+00:00",
-      "collected_at": "2026-05-18T07:27:06.297439+00:00",
-      "summary": "안성시농업기술센터, 농기계정비기능사 필기과정 교육생 모집 투데이경제",
-      "keywords": [
-        "농업",
-        "농기계",
-        "모집",
-        "농업기술센터"
-      ],
-      "importance": 74,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 560,
+    "total": 561,
     "category_counts": {
       "news": 330,
       "plant_reviews": 20,
-      "support": 210
+      "support": 211
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 179
+        "count": 178
       },
       {
         "keyword": "지원",
-        "count": 130
+        "count": 131
       },
       {
         "keyword": "농촌",
@@ -10640,15 +10662,15 @@
       },
       {
         "keyword": "사업",
-        "count": 80
+        "count": 81
       },
       {
         "keyword": "스마트팜",
-        "count": 66
+        "count": 65
       },
       {
         "keyword": "지원사업",
-        "count": 56
+        "count": 57
       },
       {
         "keyword": "귀농",
@@ -10656,7 +10678,7 @@
       },
       {
         "keyword": "모집",
-        "count": 43
+        "count": 42
       },
       {
         "keyword": "농산물",
@@ -10668,11 +10690,11 @@
       },
       {
         "keyword": "접수",
-        "count": 36
+        "count": 38
       },
       {
         "keyword": "신청",
-        "count": 36
+        "count": 37
       }
     ],
     "top_sources": [
@@ -10686,15 +10708,15 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 61
+        "count": 60
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 53
+        "count": 54
       },
       {
         "source": "Google News 지원사업",
-        "count": 46
+        "count": 47
       },
       {
         "source": "Google News 농산물 가격",
@@ -10706,7 +10728,7 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 26
+        "count": 27
       },
       {
         "source": "Google News 청년농 지원",
@@ -10714,15 +10736,15 @@
       },
       {
         "source": "Google News 농업기술센터 모집",
-        "count": 21
+        "count": 20
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 3,
-    "fetched_items": 703,
+    "new_items": 6,
+    "fetched_items": 700,
     "errors": []
   }
 }
