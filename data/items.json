@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T12:33:34.800942+00:00",
+  "generated_at": "2026-05-22T13:04:04.986300+00:00",
   "items": [
     {
       "id": "2f376d342192d89c25aa1f96",
@@ -193,6 +193,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "12b80a9f3360435f11133b26",
+      "title": "강원농축협발전협의회-강원농협, 도지사 후보에 농업·농촌 정책 제안 - 한국농어민신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YOHRzZ1VKRDRORVdubWxXT3RTMEJQSVZZUDI0cjdnNDhjTjBSdnYwb1VBM3RsMDB3R1NWYVBhSjZMQnpjcXJMVVZLb2N3OGJOU2g2R1B3UlVlS280RUNYYlFZcThtYTB5X2xNVA?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-22T06:07:45+00:00",
+      "collected_at": "2026-05-22T13:03:46.205108+00:00",
+      "summary": "강원농축협발전협의회-강원농협, 도지사 후보에 농업·농촌 정책 제안 한국농어민신문",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "강원",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "2b89bdbd5bc67620019002ec",
@@ -2537,6 +2556,25 @@
       ],
       "importance": 48,
       "region": "전북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "3b3aa8c5fe36cf8626358e1c",
+      "title": "“AI·로봇이 농촌 살린다”…경북, 스마트농업 전환 속도 - kyongbuk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBydWw2V2ZMVV9BMlhxNTYxcUhrdEZ0bloyQVdaRW42SVRCSmNzemZsSnJNUmZzN3hEUXE2TlNhbU52OFUzM2lMTkpVY2hncjJ2YkVyRXpUX2Z4WkVsa01NRHR2WmhsZ2lwZU54dXNwOA?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-20T09:43:18+00:00",
+      "collected_at": "2026-05-22T13:03:46.205108+00:00",
+      "summary": "“AI·로봇이 농촌 살린다”…경북, 스마트농업 전환 속도 kyongbuk.co.kr",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "경북",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -10706,70 +10744,31 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "9237e0362a8cc36ff249b9f0",
-      "title": "둔덕면 지사협, 반려식물 지원 사업 진행 - 새거제신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84YVd1ODJ6N3Vod2lCaVloTFpBck9Ud2RjUUhUNTNLRHh3dy1CRWxka3lNSWZQY1lyUDhRRzB5WWJtdFltTHZfUUNRZ1JtaDlsQUZqR0J2WUUzcHJJY2tGYlc3bHFIaTlJWkVV?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "support",
-      "published_at": "2026-05-14T04:08:15+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "둔덕면 지사협, 반려식물 지원 사업 진행 새거제신문",
-      "keywords": [
-        "반려식물",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "eebb1dc16b73f7a6b44bd25f",
-      "title": "조상호 “농업·농민·농촌 다시 뛰는 세종형 미래농업 2.0 추진” - 세종의소리",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OTEtxWlJ4QnpGbHZST1ZCZ2VUbEVGQzZHOTFFLTljOENnZWlWVWJTQ1Z5d3JJMENmMnk0LVFUWDFmTU9BNVFDa2hUNDlxVzZDRFcyY2lrTlJsV2JQVmdwSkxJU2ZySUk?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-14T04:01:36+00:00",
-      "collected_at": "2026-05-15T16:21:53.795077+00:00",
-      "summary": "조상호 “농업·농민·농촌 다시 뛰는 세종형 미래농업 2.0 추진” 세종의소리",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "세종",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
     "total": 567,
     "category_counts": {
-      "news": 329,
+      "news": 330,
       "plant_reviews": 20,
-      "support": 218
+      "support": 217
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 173
+        "count": 174
       },
       {
         "keyword": "지원",
-        "count": 134
+        "count": 133
       },
       {
         "keyword": "농촌",
-        "count": 94
+        "count": 95
       },
       {
         "keyword": "사업",
-        "count": 81
+        "count": 80
       },
       {
         "keyword": "스마트팜",
@@ -10807,7 +10806,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 111
+        "count": 112
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10835,7 +10834,7 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 28
+        "count": 27
       },
       {
         "source": "Google News 청년농 지원",
@@ -10850,8 +10849,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 2,
-    "fetched_items": 704,
+    "new_items": 3,
+    "fetched_items": 703,
     "errors": []
   }
 }
