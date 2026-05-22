@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-05-22T11:02:05.898017+00:00",
+  "generated_at": "2026-05-22T11:32:36.766066+00:00",
   "items": [
+    {
+      "id": "2f376d342192d89c25aa1f96",
+      "title": "[사진] 中 저장 농업농촌청, UN 본부서 '국제 차의 날' 행사 개최 - 서울뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ibFFuNzB1MThrbF85eUgxNkVfLTM0MHR0TVN0M0hZeE1jWjluRUxuajhsblJNOG5NbS1heXM5R0xBYTVZcThYT0lUblROdm0yTlFEMlJZbWpQRXNvZkRHUEFfa1dMS0w3RDBz?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-22T11:03:37+00:00",
+      "collected_at": "2026-05-22T11:32:18.438761+00:00",
+      "summary": "[사진] 中 저장 농업농촌청, UN 본부서 '국제 차의 날' 행사 개최 서울뉴스통신",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "서울",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "3fafdd8afa1dd4d62f509e98",
       "title": "농업·농촌 교통문제 해소와 기본소득·태양광사업 등 공약 전면 내세워 - 농수축산신문",
@@ -10726,55 +10745,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "3059f4103b7cf49f950e5a22",
-      "title": "감귤농사 폐토양피복자재 집중 수거…깨끗한 제주농촌 만든다 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uekNsS1ZMeEIxZUdtM1JMdW9wRzRwRmhvS0dfQm1pSEdjVWZyVmt3QnpHRENId3ktVHBHZzNZV2xaSWNfa2NaOTB3aU9Kc25DZElZZTljamJnUQ?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-14T04:01:00+00:00",
-      "collected_at": "2026-05-15T16:21:53.795077+00:00",
-      "summary": "감귤농사 폐토양피복자재 집중 수거…깨끗한 제주농촌 만든다 농민신문",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "제주",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "8e7a3eddf54a661818ab1c45",
-      "title": "\"품질 높이고 수확 늘린다\" 영덕군, 미래형 사과 재배기술 보급 박차 - 프라임경제",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03N25NZ2tZVE1qMVl1a2praGtOVVpBUkZ0MHF0TnJLNkktR0c5R1JUZUVsdjRNRTBxN3hYM0RhMEJ2VGpKb2VGU3llRk5tYThCSlRWV1d2NDlsbG1IOExOc2dwVmFRU0l6TTRyMWdyTE53dw?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-14T03:40:25+00:00",
-      "collected_at": "2026-05-18T08:27:56.954716+00:00",
-      "summary": "\"품질 높이고 수확 늘린다\" 영덕군, 미래형 사과 재배기술 보급 박차 프라임경제",
-      "keywords": [
-        "재배"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 568,
+    "total": 567,
     "category_counts": {
-      "news": 330,
+      "news": 329,
       "plant_reviews": 20,
       "support": 218
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 172
+        "count": 173
       },
       {
         "keyword": "지원",
@@ -10836,7 +10819,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 61
+        "count": 60
       },
       {
         "source": "Google News 지원사업",
@@ -10867,8 +10850,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 6,
-    "fetched_items": 704,
+    "new_items": 5,
+    "fetched_items": 693,
     "errors": []
   }
 }
