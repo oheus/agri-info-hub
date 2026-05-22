@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-05-22T05:11:25.835384+00:00",
+  "generated_at": "2026-05-22T05:42:03.086974+00:00",
   "items": [
+    {
+      "id": "308161fa6dd8734834af7fcd",
+      "title": "양주시농업기술센터, 5월 반려식물 사진 공모전 25일까지 접수 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDZWR5SDI2RXloYU02R1BKZEJ3el9FRmp6X2dheEVDZl8zd0pQRDlFcWlyUWdOR1R5Q3RWc0txSXhzNlYxaVBlQzlhQmtRNzVqdEFGZS1oWFBMSlRDLWZyMVl5UFppSm1YNUNMTWRQM0ZLZw?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "support",
+      "published_at": "2026-05-22T05:25:49+00:00",
+      "collected_at": "2026-05-22T05:41:58.301961+00:00",
+      "summary": "양주시농업기술센터, 5월 반려식물 사진 공모전 25일까지 접수 웹이코노미",
+      "keywords": [
+        "농업",
+        "반려식물",
+        "공모",
+        "농업기술센터",
+        "접수"
+      ],
+      "importance": 58,
+      "region": "경기",
+      "deadline_text": "5월 25일 마감",
+      "deadline_date": "2026-05-25",
+      "category_label": "지원사업"
+    },
     {
       "id": "9f8130e129e12239704eaa3b",
       "title": "[위클리오늘] 동해시, 영농정착부터 유기질비료까지 농업 지원 강화 - 위클리오늘",
@@ -1826,6 +1848,25 @@
       ],
       "importance": 74,
       "region": "강원",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "2a3ce33004397536d712a5d1",
+      "title": "안성시 외국인주민지원센터, 한국어 교실 수강생 모집 - 자치안성신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nVTVhQS1lMTI2bzZVR2lJY3dvcFRmbUJPMlRlZERoZzJvcEo4MjBxX0VQeVBaWERLRzVsOXQ0VkdjdlBIR1p4UGhYZURCckdHRXNfb3RQWkJUaGg1ODJEWHI0SjVsOU54aXJmVExXamkya1ZUZEtEQlZKcFA?oc=5",
+      "source": "Google News 식물 관리",
+      "category": "support",
+      "published_at": "2026-05-20T23:02:23+00:00",
+      "collected_at": "2026-05-22T05:41:59.458022+00:00",
+      "summary": "안성시 외국인주민지원센터, 한국어 교실 수강생 모집 자치안성신문",
+      "keywords": [
+        "모집",
+        "지원"
+      ],
+      "importance": 70,
+      "region": "",
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
@@ -10598,59 +10639,23 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "6f4a942f47d2484c0a476d43",
-      "title": "- 농업과학기술정보서비스(ASTIS)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZVdUcmx4b3pKUDR6ekpYT3BJd2JueVNjY0xTM0t4MG1NWEE1OVhDU1JxWlhXN1hUbXRhS0tlTGYtTHJsYndKNnVwVTBST3pKb3NnaVRmSTVic1F2YzJKNElEUHpackc4eFlMblltSGo0NENDeWdRQS1CcEd0aEoyYTdYWWpubEprcUJUdE1xRzg?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-05-13T22:58:21+00:00",
-      "collected_at": "2026-05-16T06:56:42.817671+00:00",
-      "summary": "농업과학기술정보서비스(ASTIS)",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "553686f547c23711021dfb13",
-      "title": "고기철 \"농업, 서귀포 핵심 산업... 경쟁력 확대해야\" | - 스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtME92SnUzUnJFWHR3R0ljcE03YTd2NGQwWDZicTltVXRqLVcxUmFGNllsbUhlRk1namdjVXJSRkpMWkM3SXNFR1ctbGZ6ZkxDWjB1NTdfYkUwVzFkd2hHVTFSSzNDVmpIOFlVQUVfV1liMkJVNmhn?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-13T21:34:19+00:00",
-      "collected_at": "2026-05-15T16:21:53.795077+00:00",
-      "summary": "고기철 \"농업, 서귀포 핵심 산업... 경쟁력 확대해야\" | 스트레이트뉴스",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
     "total": 561,
     "category_counts": {
-      "news": 330,
+      "news": 328,
       "plant_reviews": 20,
-      "support": 211
+      "support": 213
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 177
+        "count": 176
       },
       {
         "keyword": "지원",
-        "count": 131
+        "count": 132
       },
       {
         "keyword": "농촌",
@@ -10674,7 +10679,11 @@
       },
       {
         "keyword": "모집",
-        "count": 41
+        "count": 42
+      },
+      {
+        "keyword": "접수",
+        "count": 39
       },
       {
         "keyword": "청년농",
@@ -10687,16 +10696,12 @@
       {
         "keyword": "신청",
         "count": 38
-      },
-      {
-        "keyword": "접수",
-        "count": 38
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 114
+        "count": 113
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10724,7 +10729,7 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 27
+        "count": 28
       },
       {
         "source": "Google News 청년농 지원",
@@ -10739,8 +10744,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 708,
+    "new_items": 2,
+    "fetched_items": 567,
     "errors": []
   }
 }
