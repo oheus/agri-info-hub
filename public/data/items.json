@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-05-22T04:40:33.516874+00:00",
+  "generated_at": "2026-05-22T05:11:25.835384+00:00",
   "items": [
+    {
+      "id": "9f8130e129e12239704eaa3b",
+      "title": "[위클리오늘] 동해시, 영농정착부터 유기질비료까지 농업 지원 강화 - 위클리오늘",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ucm5USlY2YnlURlpSbVc5VU1LR2dTUzNIcHZSWDM4UW9pNXlnU3JRTXVNcDFzTHF2R1hBbXhjbUJURnVrSGhpUEV6ZmROTkVma21abUp3MWFIeEZfNFNqZGROcXY2Nm1qbTZqOEVn?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-22T05:03:28+00:00",
+      "collected_at": "2026-05-22T05:11:14.637953+00:00",
+      "summary": "[위클리오늘] 동해시, 영농정착부터 유기질비료까지 농업 지원 강화 위클리오늘",
+      "keywords": [
+        "농업",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
     {
       "id": "c0250de103903059a587b6e9",
       "title": "임실군, 전략작물직불제 하계작물 신청 서두르세요 - v.daum.net",
@@ -75,6 +94,28 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
+    },
+    {
+      "id": "f601b0b10715fc567e303d8c",
+      "title": "양주시농업기술센터, '가장 화려한 순간' 5월 반려식물 사진 공모전 오는 25일까지 접수 - HKBC환경방송",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91YzJBRUx4enZuS3h1VlZfZkVaUnhrUmNNRHJ4UUhMMGdTX2dwTnhtbUltT0IwU2sxU3lpY1hYbWRJM0FVSEVpa3JpQnRhMmp5M1pJczR5YjhRT1BKVXY1OFdvV0vSAWdBVV95cUxQNC1wUmRoS1M5eXRqaEM2dXVRQ1dIY2RxTkhWU0ZoeW53SmRvSm1iSGVHR0NLYzVnQ2hTNEppdmx5TzZ4aHp0bzRpdThFQ1oyT3I2SXk2UUVaVG5PQzFtSHg3YTQ0ZmxZ?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "support",
+      "published_at": "2026-05-22T02:38:17+00:00",
+      "collected_at": "2026-05-22T05:11:21.101211+00:00",
+      "summary": "양주시농업기술센터, '가장 화려한 순간' 5월 반려식물 사진 공모전 오는 25일까지 접수 HKBC환경방송",
+      "keywords": [
+        "농업",
+        "반려식물",
+        "공모",
+        "농업기술센터",
+        "접수"
+      ],
+      "importance": 58,
+      "region": "경기",
+      "deadline_text": "5월 25일 마감",
+      "deadline_date": "2026-05-25",
+      "category_label": "지원사업"
     },
     {
       "id": "1b97ae8cb2bcf5ccf8fb4771",
@@ -252,28 +293,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "305bd2315af7f40f0ba084b3",
-      "title": "양주시농업기술센터, ‘가장 화려한 순간’ 5월 반려식물 사진 공모전 오는 25일까지 접수 - 경기시사투데이",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tUjBVTDlJV1V1cXhqa3ZlTXVTa2k5RHZYQTlaaFZ3RWFTa2ozbFNSenBwbGlIc1M0RDNTeHRENUswNTJRS05xRDg5c2pDWTlTN3dXTktzWHVYQ2ZVTVZXVW9ZVFd4OW1Q?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "support",
-      "published_at": "2026-05-22T01:33:44+00:00",
-      "collected_at": "2026-05-22T02:07:54.931547+00:00",
-      "summary": "양주시농업기술센터, ‘가장 화려한 순간’ 5월 반려식물 사진 공모전 오는 25일까지 접수 경기시사투데이",
-      "keywords": [
-        "농업",
-        "반려식물",
-        "공모",
-        "농업기술센터",
-        "접수"
-      ],
-      "importance": 58,
-      "region": "경기",
-      "deadline_text": "5월 25일 마감",
-      "deadline_date": "2026-05-25",
-      "category_label": "지원사업"
     },
     {
       "id": "1f7a57af408b90e3f24c0e55",
@@ -3786,6 +3805,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "a4e3ea5c553acd4c086ea759",
+      "title": "경상남도 AI 농업의 화려한 구호, 데이터만으로 농촌의 현실은 바뀌지 않는다 - 진주인터넷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xZk5mUk9tUkdObjJFRlZqRkI1WElGRk84NHNfbE9TRTI4UmdSdmJlcEdVaUhXbWhDZVhIMUYzZEVTQlBVd3RyNzY3UlEzQjA5MXp5Rk5fUDE3R241TEVjMjNsYmFFX0RGSlF6djBNNTNzdjFxVkE?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-19T08:00:05+00:00",
+      "collected_at": "2026-05-22T05:11:03.374741+00:00",
+      "summary": "경상남도 AI 농업의 화려한 구호, 데이터만으로 농촌의 현실은 바뀌지 않는다 진주인터넷뉴스",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "경남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "8b859c5923d9319562e5c64a",
       "title": "고흥군, 스마트팜 팝업스토어 성황리 마무리 - 이뉴스투데이",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiQldZOEJpN25yd2tKQUNmbVJDMkFsR0Z6S08tdzRYcy1hbl94T243b0VRdGxSNWNMdFItWG1QNHVHTnZiY0VrU0hFRTBicXpKblpMUWJvdzJuZFBucHlGc1FXeE9ndU1UampjQ1hlek1oWVQ40gF0QVVfeXFMUGJCV1k4Qmk3bnJ3a0pBQ2ZtUkMyQWxHRnpLTy13NFhzLWFuX3hPbjdvRVF0bFI1Y0x0Ui1YbVA0dUdOdmJjRWtTSEVFMGJxekpuWkxRYm93Mm5kUG5weUZzUVd4T2d1TVRqamNDWGV6TWhZVDg?oc=5",
@@ -4792,6 +4830,27 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "a4fd413a7b698af2995fa963",
+      "title": "화성특례시, ‘2027년 유기질비료 지원사업’ 6월 조기 접수 시행 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dnVtYy0wRXFiaXBDajRwODkySmNUc1NIYUpiOTdoZXJvY1JINjJaaU56MWhDdGVFTE03YzZGXzVBZWt2eTIyNWFTc21rWW9sV2Rnclh3NUc0UmF4dlZiWGJJOVo?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-05-19T00:41:34+00:00",
+      "collected_at": "2026-05-22T05:11:04.241930+00:00",
+      "summary": "화성특례시, ‘2027년 유기질비료 지원사업’ 6월 조기 접수 시행 매일일보",
+      "keywords": [
+        "지원사업",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 64,
+      "region": "경기",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "7dddbc965addcd9d7888f9bd",
@@ -5830,27 +5889,6 @@
       ],
       "importance": 74,
       "region": "대전",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "cbaa3906f323367e7a865bc3",
-      "title": "화성특례시, ‘2027년 유기질비료 지원사업’...6월 조기 접수 시행 - ilyoseoul.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BbUV0dGJwakxPRXd6MHFfX3dPN3JTNWFPQUZFN25KMHE0dlRWVmJxY0EyUktma3Fib3I1UzhkSWR6WEZPUkhNM1dxbWtVT2VLQW1aVmp2NjhQMDZoWC16RUx6bVJHZlQ4Uk9HdUdENA?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-18T04:32:42+00:00",
-      "collected_at": "2026-05-19T06:07:59.387823+00:00",
-      "summary": "화성특례시, ‘2027년 유기질비료 지원사업’...6월 조기 접수 시행 ilyoseoul.co.kr",
-      "keywords": [
-        "지원사업",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "경기",
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
@@ -10596,45 +10634,27 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "ac07b725a584f45e7f2ba40f",
-      "title": "고기철 \"농업, 서귀포 핵심 산업... 경쟁력 확대해야\" - 스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56d2xmUk5SZUdSRlAwY195RlFpUFVtUjBNcm1ROE5uLUplMFd6cV9nZlZTM1lYdjFpajdBWG5CUHo1S3NZUUxKM2hQYjFPNTEyS0E0SVVTV1RyTjVZbmxOT3dzSVlBTzRlSXROQ25TZWo1V2c?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-13T21:30:56+00:00",
-      "collected_at": "2026-05-15T17:29:27.367662+00:00",
-      "summary": "고기철 \"농업, 서귀포 핵심 산업... 경쟁력 확대해야\" 스트레이트뉴스",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 560,
+    "total": 561,
     "category_counts": {
       "news": 330,
       "plant_reviews": 20,
-      "support": 210
+      "support": 211
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 176
+        "count": 177
       },
       {
         "keyword": "지원",
-        "count": 130
+        "count": 131
       },
       {
         "keyword": "농촌",
-        "count": 96
+        "count": 97
       },
       {
         "keyword": "사업",
@@ -10708,7 +10728,7 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 23
+        "count": 24
       },
       {
         "source": "Google News 농업기술센터 모집",
@@ -10719,8 +10739,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 12,
-    "fetched_items": 699,
+    "new_items": 4,
+    "fetched_items": 708,
     "errors": []
   }
 }
