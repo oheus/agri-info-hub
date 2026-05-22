@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T09:46:02.158710+00:00",
+  "generated_at": "2026-05-22T10:16:37.014345+00:00",
   "items": [
     {
       "id": "3fafdd8afa1dd4d62f509e98",
@@ -314,6 +314,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "4340048d6ff21d5fdb265c5b",
+      "title": "[농진청] 도심형 스마트팜에 교육·체험·치유 가치 더한다 - 월간친환경",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfSzBzUTZVMjVITHBZLVA4bzRaeTYtdmNmQVEwLVU2RUU4bURzRVpLV3hHNnFrZXh1RnZrSjBCbUtrWmZ3UnR1b3dLLXJ5Ujh2LXJHeXdEcm5zbHR4OEdrSUJVTzNxSG1GVmNCUTdsYXowZw?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-22T04:46:42+00:00",
+      "collected_at": "2026-05-22T10:16:16.460304+00:00",
+      "summary": "[농진청] 도심형 스마트팜에 교육·체험·치유 가치 더한다 월간친환경",
+      "keywords": [
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "73a990ec73ad81b1e3df0030",
@@ -3679,6 +3697,24 @@
       "keywords": [
         "농업",
         "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "894f81e2fa338d93f9d300ae",
+      "title": "정읍시 “선배 농가가 신규 귀농인 정착 돕는다” - 전라일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHcG4wR3NBdm9fbUNIOWozUV81T0VYcUFwNVFXdzdFNGwwX045YVlOaXpEVXhQX2RFRGJuUlF0Zjlkd3FmazJHb3JORVhueXA0WEpKeEdfX3VITWZReUZvcXNzNzVhYnJVN253TkRSRUXSAXBBVV95cUxQR3BuMEdzQXZvX21DSDlqM1FfNU9FWHFBcDVRV3c3RTRsMF9OOWFZTml6RFV4UF9kRURiblJRdGY5ZHdxZmsyR29yTkVYbnlwNFhKSnhHX191SE1mUXlGb3Fzczc1YWJyVTdud05EUkVF?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-05-20T01:34:45+00:00",
+      "collected_at": "2026-05-22T10:16:18.262456+00:00",
+      "summary": "정읍시 “선배 농가가 신규 귀농인 정착 돕는다” 전라일보",
+      "keywords": [
+        "귀농"
       ],
       "importance": 42,
       "region": "",
@@ -10707,46 +10743,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "de6606c6174b9b36fb1e33bf",
-      "title": "영천 청년농업인, 스마트팜 토마토 홍콩 첫 수출 '쾌거' - 경북신문",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5dnJUQ1ZBT2hOaFk3RUNtM0Q1RldVdWVYWFpmTUd0Y2gyZFZ2VnNyUnMwOGJ5bkpsNDQ2bzhIb3lPR0dyNTZKeENncmRhanJpSVh3RnNYdk8?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-05-14T02:54:00+00:00",
-      "collected_at": "2026-05-20T18:02:13.576206+00:00",
-      "summary": "영천 청년농업인, 스마트팜 토마토 홍콩 첫 수출 '쾌거' 경북신문",
-      "keywords": [
-        "농업",
-        "스마트팜",
-        "청년농",
-        "농업인",
-        "청년농업인"
-      ],
-      "importance": 48,
-      "region": "경북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "9cfb5fa36e0ce200c5a367ae",
-      "title": "울주군·울산테크노파크, AI 기반 청년 스마트팜 육성 본격화 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0bnRmZ0VkTjJnZ2VpUHVKZG40N21KZmp0dUNyVWR6cTJmei12T050dlE5Mmx0endNcW1hakxZTjNqMEo3N2c?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-05-14T02:43:01+00:00",
-      "collected_at": "2026-05-20T18:02:13.576206+00:00",
-      "summary": "울주군·울산테크노파크, AI 기반 청년 스마트팜 육성 본격화 v.daum.net",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "울산",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
@@ -10759,7 +10755,7 @@
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 172
+        "count": 171
       },
       {
         "keyword": "지원",
@@ -10775,7 +10771,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 69
+        "count": 68
       },
       {
         "keyword": "지원사업",
@@ -10783,7 +10779,7 @@
       },
       {
         "keyword": "귀농",
-        "count": 50
+        "count": 51
       },
       {
         "keyword": "모집",
@@ -10803,7 +10799,7 @@
       },
       {
         "keyword": "청년농",
-        "count": 38
+        "count": 37
       }
     ],
     "top_sources": [
@@ -10812,11 +10808,11 @@
         "count": 111
       },
       {
-        "source": "Google News 스마트팜",
+        "source": "Google News 청년농 귀농",
         "count": 64
       },
       {
-        "source": "Google News 청년농 귀농",
+        "source": "Google News 스마트팜",
         "count": 63
       },
       {
@@ -10852,8 +10848,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 8,
-    "fetched_items": 702,
+    "new_items": 6,
+    "fetched_items": 695,
     "errors": []
   }
 }
