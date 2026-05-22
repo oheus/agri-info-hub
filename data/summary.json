@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-05-22T04:40:33.516874+00:00",
-  "total": 560,
+  "generated_at": "2026-05-22T05:11:25.835384+00:00",
+  "total": 561,
   "category_counts": {
     "news": 330,
     "plant_reviews": 20,
-    "support": 210
+    "support": 211
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 176
+      "count": 177
     },
     {
       "keyword": "지원",
-      "count": 130
+      "count": 131
     },
     {
       "keyword": "농촌",
-      "count": 96
+      "count": 97
     },
     {
       "keyword": "사업",
@@ -91,7 +91,7 @@
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 23
+      "count": 24
     },
     {
       "source": "Google News 농업기술센터 모집",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 12,
-    "fetched_items": 699,
+    "new_items": 4,
+    "fetched_items": 708,
     "errors": []
   }
 }
