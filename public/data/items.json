@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T13:01:00.128085+00:00",
+  "generated_at": "2026-05-23T13:31:26.782726+00:00",
   "items": [
     {
       "id": "b065c5adf1eb5ac0dd8e5a41",
@@ -3400,6 +3400,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "ceb7198793cca172a3f1cfb6",
+      "title": "대전시, 폐지하보도 활용 시민 참여형 스마트팜 운영사 모집 - 서울일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lZkJQcExmSEFPU3RuLTNQMU9yc3hBb04xQTZndDVmODJLZkVvSHRKekhSaXRWd3BQUEQ1YWZDQTV5WTctS3F3RktLdHJxZ2pXempFMWdiS2NaTDF1RFcyMTJrMDBxV2xSZ1ZPY0xlWdIBb0FVX3lxTE9lZkJQcExmSEFPU3RuLTNQMU9yc3hBb04xQTZndDVmODJLZkVvSHRKekhSaXRWd3BQUEQ1YWZDQTV5WTctS3F3RktLdHJxZ2pXempFMWdiS2NaTDF1RFcyMTJrMDBxV2xSZ1ZPY0xlWQ?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "support",
+      "published_at": "2026-05-20T07:00:00+00:00",
+      "collected_at": "2026-05-23T13:31:13.246441+00:00",
+      "summary": "대전시, 폐지하보도 활용 시민 참여형 스마트팜 운영사 모집 서울일보",
+      "keywords": [
+        "스마트팜",
+        "모집"
+      ],
+      "importance": 64,
+      "region": "서울",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "3310519c2aca2f879597fe85",
@@ -10690,38 +10709,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "83fd46ad3b2e15ff2f7d1e02",
-      "title": "강원농업기술원, 마른논 써레질 재배 기술 연구 협의회 개최 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5idTk5S21PQUVmM3ZBd21rRnA0Z21LX29DWk9xY3htLVJrS3A4Z25rMUdCajJ4SUFVeU16NUJfaXBUZG91ckE?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-14T07:49:07+00:00",
-      "collected_at": "2026-05-16T06:56:40.860831+00:00",
-      "summary": "강원농업기술원, 마른논 써레질 재배 기술 연구 협의회 개최 v.daum.net",
-      "keywords": [
-        "농업",
-        "재배"
-      ],
-      "importance": 42,
-      "region": "강원",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
     "total": 565,
     "category_counts": {
-      "news": 323,
+      "news": 322,
       "plant_reviews": 20,
-      "support": 222
+      "support": 223
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 166
+        "count": 165
       },
       {
         "keyword": "지원",
@@ -10737,7 +10737,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 58
+        "count": 59
       },
       {
         "keyword": "지원사업",
@@ -10748,11 +10748,11 @@
         "count": 51
       },
       {
-        "keyword": "신청",
-        "count": 45
+        "keyword": "모집",
+        "count": 46
       },
       {
-        "keyword": "모집",
+        "keyword": "신청",
         "count": 45
       },
       {
@@ -10775,7 +10775,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 68
+        "count": 67
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10783,7 +10783,7 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 55
+        "count": 56
       },
       {
         "source": "Google News 농산물 가격",
@@ -10814,8 +10814,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 67,
-    "fetched_items": 697,
+    "new_items": 7,
+    "fetched_items": 703,
     "errors": []
   }
 }
