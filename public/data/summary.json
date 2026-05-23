@@ -1,65 +1,69 @@
 {
-  "generated_at": "2026-05-22T14:05:10.148476+00:00",
-  "total": 566,
+  "generated_at": "2026-05-23T13:01:00.128085+00:00",
+  "total": 565,
   "category_counts": {
-    "news": 330,
+    "news": 323,
     "plant_reviews": 20,
-    "support": 216
+    "support": 222
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 175
+      "count": 166
     },
     {
       "keyword": "지원",
-      "count": 132
+      "count": 136
     },
     {
       "keyword": "농촌",
-      "count": 95
+      "count": 89
     },
     {
       "keyword": "사업",
-      "count": 78
+      "count": 79
     },
     {
       "keyword": "스마트팜",
-      "count": 64
+      "count": 58
     },
     {
       "keyword": "지원사업",
-      "count": 54
+      "count": 55
     },
     {
       "keyword": "귀농",
       "count": 51
     },
     {
+      "keyword": "신청",
+      "count": 45
+    },
+    {
       "keyword": "모집",
       "count": 45
     },
     {
-      "keyword": "신청",
-      "count": 40
-    },
-    {
       "keyword": "접수",
-      "count": 40
+      "count": 41
     },
     {
       "keyword": "농산물",
-      "count": 39
+      "count": 40
     },
     {
       "keyword": "청년농",
-      "count": 37
+      "count": 38
     }
   ],
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 113
+      "count": 105
+    },
+    {
+      "source": "Google News 병해충 재배",
+      "count": 68
     },
     {
       "source": "Google News 청년농 귀농",
@@ -67,19 +71,15 @@
     },
     {
       "source": "Google News 스마트팜",
-      "count": 60
-    },
-    {
-      "source": "Google News 병해충 재배",
-      "count": 59
+      "count": 55
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 45
+      "count": 46
     },
     {
       "source": "Google News 지원사업",
-      "count": 44
+      "count": 45
     },
     {
       "source": "농사로 이달의 농업기술",
@@ -94,15 +94,15 @@
       "count": 25
     },
     {
-      "source": "Google News 농림축산식품부",
-      "count": 19
+      "source": "Google News 농업기술센터 모집",
+      "count": 20
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 6,
-    "fetched_items": 707,
+    "new_items": 67,
+    "fetched_items": 697,
     "errors": []
   }
 }
