@@ -1,6 +1,67 @@
 {
-  "generated_at": "2026-05-24T09:39:20.682793+00:00",
+  "generated_at": "2026-05-24T15:50:39.287421+00:00",
   "items": [
+    {
+      "id": "e1d81ca69fbca9d0962aed3c",
+      "title": "태백시, 2026년 임산부 친환경농산물 지원사업 신청 접수 - fnewstv.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qV0lZOV9hUDlmc2IyQnhMZlhwYzVfTFV1VGowNVdCU3dENHBfa2tjbVNvZW5aVE91ZGxBVEhVUC1fc1h5NHVFYW9uaWtodHRGXzNjMjIxdHBGYUVScVVpWVFNaF9YTjNsVEhBLVlTZE8?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-05-24T12:50:20+00:00",
+      "collected_at": "2026-05-24T15:50:37.049216+00:00",
+      "summary": "태백시, 2026년 임산부 친환경농산물 지원사업 신청 접수 fnewstv.com",
+      "keywords": [
+        "농산물",
+        "지원사업",
+        "신청",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 80,
+      "region": "강원",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "ea00fc7413b0a6ef93b4426e",
+      "title": "경북도, 혁신형 '지하스마트팜' 기술 개발 나서 - tbc.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXZGZjBUbEZXVjlORWY0SVNkRTg5MlhlXzFES1J4cXRGblhmajNodlhXaC1iMEtsNkduRkdGWjh0bDVqa1N1bkc0TzZoa0IxcFBNZjd0X045MXdBWEhDckl1MG5CeHQ5ZFFlWDZWaDlqREt1bDJ2bkx1WW9CQVJQQ1NubkpiZw?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-24T12:26:33+00:00",
+      "collected_at": "2026-05-24T15:50:24.119605+00:00",
+      "summary": "경북도, 혁신형 '지하스마트팜' 기술 개발 나서 tbc.co.kr",
+      "keywords": [
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "경북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "2384afff2a89c929b3bad6a4",
+      "title": "\"젊어지는 우리 농촌\"... 오성환 당진시장 후보, 청년농 복귀 위한 '파격 지원' - 중도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfeGJmaWQzMkhYZy1uR0lWSXZZZ3Q5RmdKN3ZzeVZfS2l2SUFWUVV0T0l5MjBNUmVkNlJYU25ISi0tM1Fnejd1em9oRktRVlRNazRlTFVBUWtGVU0tRTNSaGFqa1BqWElOZ2lKZg?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-24T10:26:48+00:00",
+      "collected_at": "2026-05-24T15:50:33.257656+00:00",
+      "summary": "\"젊어지는 우리 농촌\"... 오성환 당진시장 후보, 청년농 복귀 위한 '파격 지원' 중도일보",
+      "keywords": [
+        "농촌",
+        "청년농",
+        "지원"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
     {
       "id": "a20a42e8aebb7a7d2075270e",
       "title": "거창군, 주요 농산물 기준가격 차액지원금 지급 > 뉴스 - 더코리아",
@@ -39,24 +100,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "cbef19f29f03ecfb989267d5",
-      "title": "경북도, 혁신형 '지하스마트팜' 기술 개발 나서 - tbc.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaS1hdUp3akxObDJraWhfYlFzSk43eUdNQzVpQmVxS0J0MlpIV2FiQzI4UC1sVlltNkg2R2RxQWVNQ0VSM1E0ak1iLVI4SDEzMGtINEE5SExWSWMxdEF0NjA3bk1Edm42S1FwRmYtckF2eUpDQ1FsSE5BYnVMeXM2RA?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-05-24T07:07:36+00:00",
-      "collected_at": "2026-05-24T07:37:20.069653+00:00",
-      "summary": "경북도, 혁신형 '지하스마트팜' 기술 개발 나서 tbc.co.kr",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "경북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     },
     {
       "id": "376290f7d343f3861cafbdaa",
@@ -111,6 +154,24 @@
       ],
       "importance": 42,
       "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "383b1c9ac5babd16850bcc45",
+      "title": "연중 15도·지하 4m 식물공장…경북도, 지하 스마트팜 개발 나서 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94Y3BSTkFoTHN3MHRIcnRxNjg0cGFwNVFPZ25WVXlTbUhfUk8za0pRZ1FwT3lPVEUwUVFDMm92UG9JMXpqZndaMEtjMA?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-24T05:24:18+00:00",
+      "collected_at": "2026-05-24T15:50:24.119605+00:00",
+      "summary": "연중 15도·지하 4m 식물공장…경북도, 지하 스마트팜 개발 나서 v.daum.net",
+      "keywords": [
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "경북",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -3905,6 +3966,24 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "e5a30f6ceb88c9d85ba98a81",
+      "title": "[보도자료]농촌진흥청, “현장 맞춤형 농약 사용 기술 제도화” 추진 상황 점검 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQS00Z0poM0FIeDN4U2cxdF9Ga2VqLXFhWXB2cWIwUHluQUc3RjB6Q2xHZnQtSVlEZ0lmUWplZ3N6ekJua21YN3BwUW55c01MLVlrN1htTVZrYlFnQjlEUGJEM05yU3Q0WkJqQkJYZFdkeUlyV09vTFM1WHdXT3ZXR0RENzU2WDZudnVTY3RraWxHMk1JS3piaFU5N3pOLTJYQS1PcHAwd29ZdzRJcGVJVGgyd19DeUVVVFo0c18yMEtXeVE4Wko0REQ3OU9iZEZSRzJNeXBLM0sxTWd0YkF3Y1VwcTJpQVRqTmp1eVgzc1J1Nzh2d1I1ajU0TzdmNW80dEpmalhDcnNpdWlJNGNYaXAzREtwRm41LXIyWmZoMmNMZVZJVXhZY2Vqei1RbXl1eGRNR2JUb19nTExUYmREb2t0ekNCX3Zi?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-20T07:00:00+00:00",
+      "collected_at": "2026-05-24T15:50:29.994777+00:00",
+      "summary": "[보도자료]농촌진흥청, “현장 맞춤형 농약 사용 기술 제도화” 추진 상황 점검 rda.go.kr",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "3310519c2aca2f879597fe85",
@@ -8677,6 +8756,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "a1348742a2955901d9e3ea14",
+      "title": "임광식 횡성군수 후보 “귀농·귀촌인 참여·의결권 보장” - 강원도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZ21wZUpaMm93c0pORkV4bmdWNlUyTGlKbXFrRTVyZzFPQ2J6dGFnUW9wY25MZkJ4WHFvSE1IcUQxN1lIY1hvMlVHcExmWUk2OWtiWlNDcE5LV0Y2STBFMHlBdllSSlU?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-05-17T07:37:17+00:00",
+      "collected_at": "2026-05-24T15:50:25.490525+00:00",
+      "summary": "임광식 횡성군수 후보 “귀농·귀촌인 참여·의결권 보장” 강원도민일보",
+      "keywords": [
+        "귀농"
+      ],
+      "importance": 42,
+      "region": "강원",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "0b956f3d5503296d0b15d4c9",
       "title": "임광식 횡성군수 후보, 귀농귀촌인 참여·의결권 보장 정책 발표 - 강원일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnWWJINUkwUENVaXlTeWVGZGFXcVhtV2stZ2FxdEF6NEFKOHVuODV1Tk5uajFvN3FUNEpwSm9KNklxQ0RweWNWZU9hMU1nbFdYN3V1alctMXhiTFF1QnhvVGlCSFg?oc=5",
@@ -10665,100 +10762,6 @@
       "deadline_text": "5월 29일 마감",
       "deadline_date": "2026-05-29",
       "category_label": "지원사업"
-    },
-    {
-      "id": "3ffeb33e753123e1d10d638d",
-      "title": "수입산 호밀 대체 사료작물 재배 추진 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43ZVlfai1Fdkp4RjdDS1BQeVNHMUdkdkFadzdKVXBDaUh4WDIyQW9Xa0p6cERjTldLamkxVnIwZU9Bak5yMXNQS3ByWWNUZHc?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-15T04:39:25+00:00",
-      "collected_at": "2026-05-16T06:56:40.860831+00:00",
-      "summary": "수입산 호밀 대체 사료작물 재배 추진 v.daum.net",
-      "keywords": [
-        "작물",
-        "재배"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "264d743272383548156aa637",
-      "title": "사료작물 '트리티케일', 제주 축산 수입사료 대체품 '주목' - 헤드라인제주",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lQ29Ia1doVTVnLWxlZ19mUkwyT2tiaE1QXzZfLXV4cENMRHREN1JzXzdLOGpQZ0FhMTROc09WbmdFSEJlanRtTWpyRW9KLV92bW1VWTNneGRPNldwU0gtYXR0anp6SlZIeVdoZERwYnBaZ2M?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-15T04:11:11+00:00",
-      "collected_at": "2026-05-19T09:46:42.333179+00:00",
-      "summary": "사료작물 '트리티케일', 제주 축산 수입사료 대체품 '주목' 헤드라인제주",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "제주",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "a605516f2ccad179ac4977b5",
-      "title": "김경희 국민의 힘 이천시장 후보, \"이천의 농업, 전통을 지키고 미래산업으로 키워야\" - gyeonggi1news.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qZjZCcWN3TDI0dlgtTmNLNXZBQ2lwYTVQRE9NODVpdzFQcmpfWVJxVkFDaDRSN2FvTDZQVE1rbE14Z1dKeGQ1WURuaXU1WXBRTDR1S1Y5dFFENy04bm1Ucg?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-15T03:42:00+00:00",
-      "collected_at": "2026-05-15T16:21:53.795077+00:00",
-      "summary": "김경희 국민의 힘 이천시장 후보, \"이천의 농업, 전통을 지키고 미래산업으로 키워야\" gyeonggi1news.com",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "0030cdcd4960df9349d81bf9",
-      "title": "남원, 귀농인 ‘임시 둥지’ 확대…정착 지원 실효성 높인다 - 전라일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tSHd6OFZ0VkFfSkhqd0E5bnBVd3UwdmlzSnV0S3V0bjBZejd3RXdKZ0FYSVhNZ3VSam9TcGxrMVNneGExNHVOaWFXWmE1c0gtTWhfQkZ2N3pIUWhCZEVpVHR6YjhYYWh6OGpuVFRNQknSAXBBVV95cUxPbUh3ejhWdFZBX0pIandBOW5wVXd1MHZpc0p1dEt1dG4wWXo3d0V3SmdBWElYTWd1UmpvU3BsazFTZ3hhMTR1TmlhV1phNXNILU1oX0JGdjd6SFFoQmRFaVR0emI4WGFoejhqblRUTUJJ?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-05-15T02:45:26+00:00",
-      "collected_at": "2026-05-16T06:56:40.191655+00:00",
-      "summary": "남원, 귀농인 ‘임시 둥지’ 확대…정착 지원 실효성 높인다 전라일보",
-      "keywords": [
-        "귀농",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "1d053c58a136502a531099f0",
-      "title": "김경희 이천시장 후보, ‘이천쌀 명품화·청년농부 창업몰 지원’…농업 정책 제시 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80ZG52eDA4Zkd4X0lJcUluWXI3MjBxdVI1cmY0NUF4V19tQk0tQlFTenVVeFpYanpGRG1sbm9JRU1teGFzT3ZEbEV0M0I3aDg?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-15T02:45:02+00:00",
-      "collected_at": "2026-05-16T06:56:44.757007+00:00",
-      "summary": "김경희 이천시장 후보, ‘이천쌀 명품화·청년농부 창업몰 지원’…농업 정책 제시 v.daum.net",
-      "keywords": [
-        "농업",
-        "청년농",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
@@ -10771,7 +10774,7 @@
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 171
+        "count": 169
       },
       {
         "keyword": "지원",
@@ -10779,23 +10782,23 @@
       },
       {
         "keyword": "농촌",
-        "count": 89
+        "count": 91
       },
       {
         "keyword": "사업",
-        "count": 77
+        "count": 78
       },
       {
         "keyword": "스마트팜",
-        "count": 62
+        "count": 63
       },
       {
         "keyword": "지원사업",
-        "count": 56
+        "count": 57
       },
       {
         "keyword": "신청",
-        "count": 47
+        "count": 48
       },
       {
         "keyword": "모집",
@@ -10807,11 +10810,11 @@
       },
       {
         "keyword": "농산물",
-        "count": 43
+        "count": 44
       },
       {
         "keyword": "접수",
-        "count": 42
+        "count": 43
       },
       {
         "keyword": "청년농",
@@ -10821,11 +10824,11 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 108
+        "count": 107
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 67
+        "count": 65
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10833,7 +10836,7 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 57
+        "count": 58
       },
       {
         "source": "Google News 농산물 가격",
@@ -10864,8 +10867,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 1,
-    "fetched_items": 714,
+    "new_items": 17,
+    "fetched_items": 713,
     "errors": []
   }
 }
