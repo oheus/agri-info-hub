@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-24T16:21:08.482209+00:00",
-  "total": 568,
+  "generated_at": "2026-05-24T16:51:36.850874+00:00",
+  "total": 569,
   "category_counts": {
-    "news": 329,
+    "news": 330,
     "plant_reviews": 18,
     "support": 221
   },
@@ -17,7 +17,7 @@
     },
     {
       "keyword": "농촌",
-      "count": 91
+      "count": 92
     },
     {
       "keyword": "사업",
@@ -59,7 +59,7 @@
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 107
+      "count": 108
     },
     {
       "source": "Google News 병해충 재배",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 1,
-    "fetched_items": 719,
+    "new_items": 4,
+    "fetched_items": 715,
     "errors": []
   }
 }
