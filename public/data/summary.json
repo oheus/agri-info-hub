@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-05-24T08:08:01.176497+00:00",
-  "total": 567,
+  "generated_at": "2026-05-24T08:38:28.248053+00:00",
+  "total": 568,
   "category_counts": {
-    "news": 327,
+    "news": 329,
     "plant_reviews": 18,
-    "support": 222
+    "support": 221
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 168
+      "count": 170
     },
     {
       "keyword": "지원",
-      "count": 136
+      "count": 137
     },
     {
       "keyword": "농촌",
-      "count": 90
+      "count": 89
     },
     {
       "keyword": "사업",
-      "count": 78
+      "count": 77
     },
     {
       "keyword": "스마트팜",
-      "count": 63
+      "count": 62
     },
     {
       "keyword": "지원사업",
@@ -33,23 +33,23 @@
     },
     {
       "keyword": "신청",
-      "count": 48
-    },
-    {
-      "keyword": "귀농",
       "count": 47
     },
     {
       "keyword": "모집",
-      "count": 46
+      "count": 45
     },
     {
-      "keyword": "접수",
-      "count": 43
+      "keyword": "귀농",
+      "count": 45
     },
     {
       "keyword": "농산물",
-      "count": 40
+      "count": 43
+    },
+    {
+      "keyword": "접수",
+      "count": 42
     },
     {
       "keyword": "청년농",
@@ -67,15 +67,15 @@
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 62
+      "count": 60
     },
     {
       "source": "Google News 스마트팜",
-      "count": 58
+      "count": 57
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 48
+      "count": 53
     },
     {
       "source": "Google News 지원사업",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 9,
-    "fetched_items": 710,
+    "new_items": 18,
+    "fetched_items": 709,
     "errors": []
   }
 }
