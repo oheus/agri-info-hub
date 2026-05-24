@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T16:21:08.482209+00:00",
+  "generated_at": "2026-05-24T16:51:36.850874+00:00",
   "items": [
     {
       "id": "e1d81ca69fbca9d0962aed3c",
@@ -8034,6 +8034,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "f6d68e30fe098d4c2854c0d4",
+      "title": "이재명 대통령, 모내기 현장 찾아 농촌 민심 챙겨 - 농수축산신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oWUkxdzVKVUE2R1Z4bTJ0RF9mVm1tcWlZaEtGM0JSUENaVUc1eXM2bHM3bGZnN3BEYU5yWGh6R05vczFMd3A4Qk51Y2FDOUZIa0c4eGE5V2h2azdTeW5KVV8yUXkxbW5SYkVBWg?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-18T03:40:54+00:00",
+      "collected_at": "2026-05-24T16:51:19.838173+00:00",
+      "summary": "이재명 대통령, 모내기 현장 찾아 농촌 민심 챙겨 농수축산신문",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "d6145b54ae28260284d9cca1",
       "title": "평택시, 벼 드문모 심기 재배 기술 시연회 추진 - 경기탑뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92dWwzVWJzcTQ4VzlJaTNtaUlvek00NnZMOUVPM21YRTNmTGZFNWtQWGVhM19zRTFmVGh0cXdKeWFxSm5MeF9CU0FSU2tKMnJINEpJRGpjVDZEV1BtNEhJVg?oc=5",
@@ -10765,9 +10783,9 @@
     }
   ],
   "stats": {
-    "total": 568,
+    "total": 569,
     "category_counts": {
-      "news": 329,
+      "news": 330,
       "plant_reviews": 18,
       "support": 221
     },
@@ -10782,7 +10800,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 91
+        "count": 92
       },
       {
         "keyword": "사업",
@@ -10824,7 +10842,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 107
+        "count": 108
       },
       {
         "source": "Google News 병해충 재배",
@@ -10867,8 +10885,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 1,
-    "fetched_items": 719,
+    "new_items": 4,
+    "fetched_items": 715,
     "errors": []
   }
 }
