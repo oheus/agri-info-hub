@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T07:37:35.556763+00:00",
+  "generated_at": "2026-05-24T08:08:01.176497+00:00",
   "items": [
     {
       "id": "cfc8785801891589c1c8d75c",
@@ -59,6 +59,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "2158ebebd5927527b4ea74c3",
+      "title": "농촌진흥청, 미주개발은행과 농업 협력 강화 양해각서 체결 - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZlpUX2ZKM0YzTWpjaS1Fb0pweURxWDBURHk0UFlvT2ZqamJLeXJtcmtIeWNIOGxhaW4wNzFHTTNicHRCQzNCMXppYjAzalJHUV9ObWRZRXBxN1N0MDM0TXY3REctY3JUdDgzX20wUi1nMlpUQUNEX2UzTHBOTlZSVk10UldiX1NkeVZYMw?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-24T05:34:20+00:00",
+      "collected_at": "2026-05-24T08:07:44.928974+00:00",
+      "summary": "농촌진흥청, 미주개발은행과 농업 협력 강화 양해각서 체결 대한민국 정책브리핑",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "9df490dd972874b2a9a2a55d",
       "title": "\"농촌 환경보전 위한 지원 필요\" - 홍성신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tYS1faUJkQXVLc3c3UFNLemhObUVLRHc2Y3Axc1I3Vl8tYjFKSTJDYmdMdlNTVEwzRFV5WEkxYTFleGt5X2ZjclJWRkJjR1p1b1VCbXFLWjVSUkszdUhuR3lvbTdjRXJudzQw?oc=5",
@@ -92,6 +111,24 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "4164bdf7df4da00935621310",
+      "title": "냉·난방비 걱정 없는 땅속 농장···경북, 지하 스마트팜 개발 착수 - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3NE5DZHp1eGJrcGtlTU02ZnBwNml3U2EybzRvUndTSGN2NVozWEtQQVc0TkNkM1Y1ZWs3Q0ZFOU5Gd3ZabEIxZ2lwc1UycU1sQ0ZyYVNqQXRJZ9IBX0FVX3lxTE8zX0NXUTBfQmRkVTNvLVVXZGRpbTlzWkNkaVBMTzNqSWtrVnVhVjdTZUtaVzA3cDhfOGJNSUtva3YtMEFqNnZaVHV4QWtSOHFjRkw3RnVZLThqTkxmZ0JJ?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-24T00:43:00+00:00",
+      "collected_at": "2026-05-24T08:07:46.972346+00:00",
+      "summary": "냉·난방비 걱정 없는 땅속 농장···경북, 지하 스마트팜 개발 착수 경향신문",
+      "keywords": [
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "경북",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -2720,25 +2757,6 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "ee55b1c6f82646e3736a4a1f",
-      "title": "농촌진흥청, 미주개발은행과 농업 협력 강화 양해각서 체결 - 푸드아이콘",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYeS1SQlNqQTZxZ3ZtR25PaWczSkc1RWxzbFpMMkxUcjNwMDBlb2YxTEdNa1Vsa3dUanJyV1NZc1djLTBDN01IOVY2Njg5UVcyTmhuS19NSTVzVDBUdE9RdDVTZTVpZy1iM0lzdw?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-21T00:56:00+00:00",
-      "collected_at": "2026-05-21T14:06:26.605985+00:00",
-      "summary": "농촌진흥청, 미주개발은행과 농업 협력 강화 양해각서 체결 푸드아이콘",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     },
     {
       "id": "81abb13023684278cac73f1b",
@@ -7213,6 +7231,24 @@
       "category_label": "지원사업"
     },
     {
+      "id": "555256094678745e8a61012d",
+      "title": "농협중앙회, 대학생 600명 재능 나눔 활동…소멸위기 농촌에 희망 심는다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wdDBGeXlTQno4anhnbm85U0lELTc2UWJYNnN0SFNzeFdreHB0ZlRBcmotU3FaVU5tSWRqWnRVMlJNODNpWncyby1TR0pYWHpYdTBQeA?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-18T06:55:00+00:00",
+      "collected_at": "2026-05-24T08:07:44.928974+00:00",
+      "summary": "농협중앙회, 대학생 600명 재능 나눔 활동…소멸위기 농촌에 희망 심는다 v.daum.net",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "c5379c20ae5de16a2705f76f",
       "title": "'G day'가 실현되는 호주 스마트팜 시장 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nNUtXUG5ydDFMOUU1dWFub2xNT2x6Zk5UR3pIdE91LV9oNnVackRsZmJpN1RRc1NyWmZIS0R6XzBwbzlGcjZfLTR5ZDU3VHB5Z1owMg?oc=5",
@@ -10711,42 +10747,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "032d432b8b285d1f4e67e822",
-      "title": "귀농·귀촌 어려움, 선배에게 물어봐…완주군, 행복 멘토단 위촉 - 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZGJ2cURjQVhJdzZhSE5YVmJpcHA4UEF3VjNodzFsN1l3SV9xUTF5eTdqUndUYzZqUHl2bEZPbnlNWXR0M2dUUlZUd25VcjRjMW1fQUctOFbSAVhBVV95cUxPa2RidnFEY0FYSXc2YUhOWFZiaXBwOFBBd1YzaHcxbDdZd0lfcVExeXk3alJ3VGM2alB5dmxGT255TVl0dDNnVFJWVHduVXI0YzFtX0FHLThW?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-15T02:15:35+00:00",
-      "collected_at": "2026-05-18T07:26:51.887120+00:00",
-      "summary": "귀농·귀촌 어려움, 선배에게 물어봐…완주군, 행복 멘토단 위촉 아주경제",
-      "keywords": [
-        "귀농"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "099076645ad45929e4d75c96",
-      "title": "“국산 레몬 가치 알리고 싶어요” - 농촌여성신문",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMbGhSNXFhSkRsa2UyRVowcnJwZGVBc1B0WEtUX2dRcHRYUVBBZm5GMTdkRk8yNGRsQ3BlbFhZbGJWWlB0NkNKbGFEeGlXQkZLU1ZKS29aa2ktcHN1R3czT0NmY1lmQdIBakFVX3lxTE8yaktucVhRNTg1WnlFSnFNVDRzZXh0OTNsRzJRc3JzRzVzOE9zTnFZYnBzT1RrLTVkeGF0dEtVZWtYUlRodl9EVmZwNnRJYXFBZG5rWE1pNEpoU2NnX0VXem42dFdpQVA0N3c?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-15T02:02:15+00:00",
-      "collected_at": "2026-05-22T01:37:12.663409+00:00",
-      "summary": "“국산 레몬 가치 알리고 싶어요” 농촌여성신문",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
@@ -10775,7 +10775,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 62
+        "count": 63
       },
       {
         "keyword": "지원사업",
@@ -10787,7 +10787,7 @@
       },
       {
         "keyword": "귀농",
-        "count": 48
+        "count": 47
       },
       {
         "keyword": "모집",
@@ -10817,11 +10817,11 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 63
+        "count": 62
       },
       {
         "source": "Google News 스마트팜",
-        "count": 57
+        "count": 58
       },
       {
         "source": "Google News 농산물 가격",
@@ -10852,8 +10852,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 40,
-    "fetched_items": 714,
+    "new_items": 9,
+    "fetched_items": 710,
     "errors": []
   }
 }
