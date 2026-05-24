@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T08:38:28.248053+00:00",
+  "generated_at": "2026-05-24T09:08:55.566785+00:00",
   "items": [
     {
       "id": "a20a42e8aebb7a7d2075270e",
@@ -111,6 +111,24 @@
       ],
       "importance": 42,
       "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "20ef27566ebe300bff7cd7d6",
+      "title": "조상호, \"위기의 세종 농업 이대로 둘 수 없다…‘세종 읍면 농업 활성화’·‘도농 상생’ 공약 발표[인터뷰]\" - 이세종경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nYjJtRVZiMDNmS1gzTHBCYlNmTFVYeHdobFUyemY0UFpJZmloT3M4RS13ZDViaXBpR0E0YmJQT1QwX1FzVlJNSWZBQ2ZNU1EwbkVFOXUtZUZnLWJQYmpUOFJhOGdhMVJiS2s2Yw?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-24T03:39:18+00:00",
+      "collected_at": "2026-05-24T09:08:38.990186+00:00",
+      "summary": "조상호, \"위기의 세종 농업 이대로 둘 수 없다…‘세종 읍면 농업 활성화’·‘도농 상생’ 공약 발표[인터뷰]\" 이세종경제",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "region": "세종",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -10741,24 +10759,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "3180b1454b84f64240e0b327",
-      "title": "제주서 '트리티케일' 새로운 사료작물 가능성 확인 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LaW16Vkd3dEJOcnF4V2lzOW9obFU5ZEZ2aEQ1TGFsdXBxQkp4SFBFODluS3FJb3VfVG4tMnU1UU9ReHR5TE5FUHBmcm1sRlpTb01VLWYtazNwX2VkaVJKZFZoOXo4VU1EZFpnTWVuS0JSeHlIVU95LdIBeEFVX3lxTE1LaW16Vkd3dEJOcnF4V2lzOW9obFU5ZEZ2aEQ1TGFsdXBxQkp4SFBFODluS3FJb3VfVG4tMnU1UU9ReHR5TE5FUHBmcm1sRlpTb01VLWYtazNwX2VkaVJKZFZoOXo4VU1EZFpnTWVuS0JSeHlIVU95LQ?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-15T02:44:43+00:00",
-      "collected_at": "2026-05-16T06:56:40.860831+00:00",
-      "summary": "제주서 '트리티케일' 새로운 사료작물 가능성 확인 뉴시스",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "제주",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
@@ -10771,7 +10771,7 @@
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 170
+        "count": 171
       },
       {
         "keyword": "지원",
@@ -10821,11 +10821,11 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 107
+        "count": 108
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 68
+        "count": 67
       },
       {
         "source": "Google News 청년농 귀농",
@@ -10864,8 +10864,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 18,
-    "fetched_items": 709,
+    "new_items": 6,
+    "fetched_items": 712,
     "errors": []
   }
 }
