@@ -1,6 +1,101 @@
 {
-  "generated_at": "2026-05-26T07:34:29.924733+00:00",
+  "generated_at": "2026-05-26T08:05:00.506432+00:00",
   "items": [
+    {
+      "id": "1c386e6f190ceafdb89a870b",
+      "title": "중동 위기로 농업 피해…EU, 국가보조금 규제 완화 - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ga20xWGg4N1JwX1RibGN1Wk1BTlpWUTNMcTA2TDJfRWZtUUctanZpbFVMUEp6SEw5OGxfRVBoZDY4NENvQzB1YzIxM0FDelRsZG5RVlFvTngyZw?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "support",
+      "published_at": "2026-05-26T07:57:47+00:00",
+      "collected_at": "2026-05-26T08:04:46.957648+00:00",
+      "summary": "중동 위기로 농업 피해…EU, 국가보조금 규제 완화 농민신문",
+      "keywords": [
+        "농업",
+        "보조금",
+        "보조"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "ae67775439408217efd323c4",
+      "title": "제천시, 귀농·귀촌 정착률 56%…‘자연·치유’ 경쟁력 빛났다 - 국민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01d25jV1dNZ3I2UnNwaF9uaWhWR1J2al8zOHZVUkdnbGdUaUFRNjVUc3hkd3NfNHhxTjZwSFllRTR2WVpPX0xvZXFMVW80YkI2eW56bGZucnM5QkZRZlVtQm5Bc0RuNzjSAWxBVV95cUxNQ3V3M0hoeTdjM3llWHgwbmszSXJrSTdaZUZfbzRXOTVuakNqZmE1bXZTeVBDZ2h3cDVNZHZxYUhwVjQxTERTdjhqU3VaZ2t1ajFxMS00dFZXOUJNa3pJMHhQR0sxQk5ZNFRadW8?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-05-26T07:49:00+00:00",
+      "collected_at": "2026-05-26T08:04:44.471813+00:00",
+      "summary": "제천시, 귀농·귀촌 정착률 56%…‘자연·치유’ 경쟁력 빛났다 국민일보",
+      "keywords": [
+        "귀농"
+      ],
+      "importance": 42,
+      "region": "충북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "b94e5d1b0039d3c22a25360a",
+      "title": "경북농협, 농촌 왕진버스·여성 리더 특강으로 농업인 복지 강화 - 경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wNGdYWnpDRnlJZWVvNXVSa0NfV3p5a0NOQ2E1Tnk5SXNOVUpyN1FkaE5rb0FyUWs5R09pSWdwcURKcTRIdnNVSVBBeVNKZlFkN1c1d3c4U0s?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-26T07:48:44+00:00",
+      "collected_at": "2026-05-26T08:04:41.448643+00:00",
+      "summary": "경북농협, 농촌 왕진버스·여성 리더 특강으로 농업인 복지 강화 경북신문",
+      "keywords": [
+        "농업",
+        "농촌",
+        "농업인"
+      ],
+      "importance": 42,
+      "region": "경북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "2bd447cd62b368eabe50f953",
+      "title": "경주시, 저탄소 재배기술 확산 `벼 무경운 이앙 연시회` 개최 - CBN뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zd2JWby1wc2NqWmFKbGs2SVA0cFcwb29OYS0wRld2OW90b0ZBZ1ZOZFRob3pGaDZCNmg1TGxmQlIzcGswZTBDVXlhUFZialFtclE0?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-26T07:41:15+00:00",
+      "collected_at": "2026-05-26T08:04:45.704722+00:00",
+      "summary": "경주시, 저탄소 재배기술 확산 `벼 무경운 이앙 연시회` 개최 CBN뉴스",
+      "keywords": [
+        "재배"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "fdc9b5288ccf4f270689a7aa",
+      "title": "‘세대간의 만남’으로 잇는 제주농업…새농민·청년농 11쌍 ‘새 인연’ - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00a3NwSk1PSGRTU3p1Q1lPZzJVRTh6amo2Mnc4cUFhbXhtOURUa3hmZXFHN0o2UW5hdExtOU5pVTczR2tyeXpabE5NWE1BMUZSNy1HQnBNQ0NVdw?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-26T07:39:00+00:00",
+      "collected_at": "2026-05-26T08:04:41.448643+00:00",
+      "summary": "‘세대간의 만남’으로 잇는 제주농업…새농민·청년농 11쌍 ‘새 인연’ 농민신문",
+      "keywords": [
+        "농업",
+        "청년농"
+      ],
+      "importance": 48,
+      "region": "제주",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "f7b04ccf3411ab78b629edeb",
       "title": "양주시, 공동주택 찾아가는 반려식물 상담서비스 운영 - 누리일보",
@@ -195,6 +290,25 @@
       "category_label": "지원사업"
     },
     {
+      "id": "53461bb50280416eda67122c",
+      "title": "영월군 ‘귀농귀촌 체험학교’ 마무리…도시민 안정적 정착 견인 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HOXBOQVJPaWVyQWxRNXNzLVNJdzctX0F5MlhkV3lONGRUNjlXRHFVQmdUQkNYYW42c2RIUUNKNGZFYXRrOXJuckloUUNKMVNKdXFLLXZ6d2hRRDlGamhZeFpVQzRNVGlOeE9icEJlX09IVktl0gF0QVVfeXFMTkc5cE5BUk9pZXJBbFE1c3MtU0l3Ny1fQXkyWGRXeU40ZFQ2OVdEcVVCZ1RCQ1hhbjZzZEhRQ0o0ZkVhdGs5cm5ySWhRQ0oxU0p1cUstdnp3aFFEOUZqaFl4WlVDNE1UaU54T2JwQmVfT0hWS2U?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-05-26T05:29:47+00:00",
+      "collected_at": "2026-05-26T08:04:44.471813+00:00",
+      "summary": "영월군 ‘귀농귀촌 체험학교’ 마무리…도시민 안정적 정착 견인 이뉴스투데이",
+      "keywords": [
+        "귀농",
+        "귀농귀촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "f1fdae0ccde608b78f1aaf0c",
       "title": "순천시, ‘치유농업+주민공동체’ 결합… 농촌 돌봄 대폭 확대 - 녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HQ3RGZ2xhYlBDSVZ6TWdIUWg5cmdRbmZlZjdBMko4WG9RbENaeHZLcDFfRXRvLVRIclM5OFRNN1U3NUtSd0gybFJJYTlNd3l3NldmVVlscnBLRXFkQ2toRi04ODd1RTM1?oc=5",
@@ -350,6 +464,26 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "e565010f45a765fb7e604a60",
+      "title": "농업인 대상 공익직불금 신청 마감일 코앞 ... \"신청하세요!\" - 미디어제주",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BdFBURC1fZUdEVUZoREY0X2sxNG9COVFyUWlZYzZTWTc1SFdxakhuc1BlaFBjZXQ4WUZIMWVBTmljc00tVUd5QTc4aXRMUEI0UmxLUUpwVllPQ20xcjAzZzVuckhza3REVWExNVZtUmjSAXBBVV95cUxNQXRQVEQtX2VHRFVGaERGNF9rMTRvQjlRclFpWWM2U1k3NUhXcWpIbnNQZWhQY2V0OFlGSDFlQU5pY3NNLVVHeUE3OGl0TFBCNFJsS1FKcFZZT0NtMXIwM2c1bnJIc2t0RFVhMTVWbVJo?oc=5",
+      "source": "Google News 농업",
+      "category": "support",
+      "published_at": "2026-05-26T04:09:56+00:00",
+      "collected_at": "2026-05-26T08:04:41.448643+00:00",
+      "summary": "농업인 대상 공익직불금 신청 마감일 코앞 ... \"신청하세요!\" 미디어제주",
+      "keywords": [
+        "농업",
+        "농업인",
+        "신청"
+      ],
+      "importance": 70,
+      "region": "제주",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "b57c22fb5854b0d7c55fa272",
@@ -622,6 +756,26 @@
       "category_label": "지원사업"
     },
     {
+      "id": "43d59999742ae60856157858",
+      "title": "5월 27일부터 28일까지, 3·4월분 농업용 면세유 유가연동보조금 102억 원 우선 지급 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02YWlKMktQVXdHU1JXQlRzOHNRRWZZVGhpS1BFdUtZUUd1NDUwamFLcUlQdzVkQlhxR1hYSEprZk9BQzZreE5RVEJxSzl3OWNycDRyRnFoTk9ZTGdwc2RIWEZDSlVTQlU?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "support",
+      "published_at": "2026-05-26T02:00:00+00:00",
+      "collected_at": "2026-05-26T08:04:51.295147+00:00",
+      "summary": "5월 27일부터 28일까지, 3·4월분 농업용 면세유 유가연동보조금 102억 원 우선 지급 농림축산식품부",
+      "keywords": [
+        "농업",
+        "보조금",
+        "보조"
+      ],
+      "importance": 64,
+      "region": "전국",
+      "deadline_text": "5월 27일 마감",
+      "deadline_date": "2026-05-27",
+      "category_label": "지원사업"
+    },
+    {
       "id": "d1a821a3bb1a1eddd3f5fe01",
       "title": "양주시, 치유농업 프로그램 참여기관 모집 - 미디어투데이",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5keWw1WVQzcDdSWGlONF9tTXlkYm9NUC1EVTR5emJkNkw2aGhaMmhiOVNLWnlxTHhUVU1oRzVaUUJGREFXNFVOZHBn?oc=5",
@@ -664,14 +818,14 @@
       "category_label": "지원사업"
     },
     {
-      "id": "4b5636dc2f50b7e7f38368b2",
-      "title": "청년농업인 키우는 영주시… 영농정착 지원 대상 추가모집 - 프레스뉴스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fNXY4SG5uY0RaaVZhVEc3R2UzT0Q5SHdaN29JcDQxU1lDV1U3UUxIcWg2SFdzSXRKT3FPdl9HeUdoLXVfbHFWRGx5S2lvdHJjWHc5NklVNlROSHZrRXRDZGRjU1dFOVpqSnNoSG9FS0s?oc=5",
-      "source": "Google News 청년농 지원",
+      "id": "a712dcb8dc8a47fa13a8ce0a",
+      "title": "청년농업인 키우는 영주시… 영농정착 지원 대상 추가모집 - 신경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BY2ExaVdtWjQzQ0tyWXRxU3dwcjFwQWxOTGpQV3Z3SUpfb3pUMkNKLXk5UG8tQ1BnelVYQl9RUHBRZFRMU1I2NDRodWp5TkpnemU2bW16TVM?oc=5",
+      "source": "Google News 농업 지원금",
       "category": "support",
-      "published_at": "2026-05-26T01:25:38+00:00",
-      "collected_at": "2026-05-26T06:02:46.864784+00:00",
-      "summary": "청년농업인 키우는 영주시… 영농정착 지원 대상 추가모집 프레스뉴스",
+      "published_at": "2026-05-26T01:30:10+00:00",
+      "collected_at": "2026-05-26T08:04:52.239302+00:00",
+      "summary": "청년농업인 키우는 영주시… 영농정착 지원 대상 추가모집 신경북뉴스",
       "keywords": [
         "농업",
         "청년농",
@@ -681,7 +835,7 @@
         "지원"
       ],
       "importance": 76,
-      "region": "",
+      "region": "경북",
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
@@ -1281,14 +1435,14 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "328cf169e7860644f874b78c",
-      "title": "농촌 '에너지 자립' 가능할까…상주서 미래 농업 실험 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51NWlPRFBGWmhHWm5mcUpTeWxfbWNVeFRKLXRiRjZqTTBWd1R4ODdNRllTOGJURjR4ckpUVEloMGRwOVFTUUtqZ1JucHpkVXlyREE3eVVUTE85eWtTNWFTc9IBYEFVX3lxTE51NWlPRFBGWmhHWm5mcUpTeWxfbWNVeFRKLXRiRjZqTTBWd1R4ODdNRllTOGJURjR4ckpUVEloMGRwOVFTUUtqZ1JucHpkVXlyREE3eVVUTE85eWtTNWFTcw?oc=5",
+      "id": "34f4cfc28fc9ac72c4e7d821",
+      "title": "농촌 '에너지 자립' 가능할까…상주서 미래 농업 실험 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZd1NTWDlBLWNZamNycXYzMWxHd29LQ0RnVVlYUTlFcmtlUGFSYTVuVWJ4eWl1TERwMkRYTGFtVHQ5bE1ma0pMSWZpUURFVGpGWS1QaQ?oc=5",
       "source": "Google News 농업",
       "category": "news",
-      "published_at": "2026-05-25T04:37:48+00:00",
-      "collected_at": "2026-05-26T06:02:34.063248+00:00",
-      "summary": "농촌 '에너지 자립' 가능할까…상주서 미래 농업 실험 연합뉴스",
+      "published_at": "2026-05-25T04:39:42+00:00",
+      "collected_at": "2026-05-26T08:04:41.448643+00:00",
+      "summary": "농촌 '에너지 자립' 가능할까…상주서 미래 농업 실험 v.daum.net",
       "keywords": [
         "농업",
         "농촌"
@@ -11332,16 +11486,16 @@
     }
   ],
   "stats": {
-    "total": 593,
+    "total": 601,
     "category_counts": {
-      "news": 326,
+      "news": 331,
       "plant_reviews": 15,
-      "support": 252
+      "support": 255
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 188
+        "count": 193
       },
       {
         "keyword": "지원",
@@ -11349,7 +11503,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 108
+        "count": 109
       },
       {
         "keyword": "사업",
@@ -11369,11 +11523,11 @@
       },
       {
         "keyword": "신청",
-        "count": 56
+        "count": 57
       },
       {
         "keyword": "청년농",
-        "count": 53
+        "count": 54
       },
       {
         "keyword": "접수",
@@ -11381,7 +11535,7 @@
       },
       {
         "keyword": "귀농",
-        "count": 49
+        "count": 51
       },
       {
         "keyword": "농산물",
@@ -11391,15 +11545,15 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 131
+        "count": 134
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 68
+        "count": 70
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 67
+        "count": 68
       },
       {
         "source": "Google News 스마트팜",
@@ -11407,7 +11561,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 53
+        "count": 54
       },
       {
         "source": "Google News 지원사업",
@@ -11415,11 +11569,11 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 34
+        "count": 33
       },
       {
         "source": "Google News 농림축산식품부",
-        "count": 22
+        "count": 23
       },
       {
         "source": "Google News 농업기술센터 모집",
@@ -11434,8 +11588,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 10,
-    "fetched_items": 711,
+    "new_items": 13,
+    "fetched_items": 717,
     "errors": []
   }
 }
