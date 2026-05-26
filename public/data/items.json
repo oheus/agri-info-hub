@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T14:59:48.906486+00:00",
+  "generated_at": "2026-05-26T15:21:52.290535+00:00",
   "items": [
     {
       "id": "e9bca1bd19917aa7348f3f0c",
@@ -2961,6 +2961,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "b959d9ca684d30d5b88a4411",
+      "title": "대전농협, '농심천심국민참여단' 출범···도시·농촌 상생 본격화 - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wQUlFOGVhd1N3NExFN3dZNlE4dEYtTnBaNjFleHI5ZDJxd05WcE5Pc0ZlTDdVaEw1X0FLWXQxbmd4U283aFo5ek1UNjl2Y0xFMXg5LXc4b0RuSlZFVmJFVjh4RzdqVm5X?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-22T09:43:53+00:00",
+      "collected_at": "2026-05-26T15:21:11.338136+00:00",
+      "summary": "대전농협, '농심천심국민참여단' 출범···도시·농촌 상생 본격화 팍스경제TV",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "대전",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "3fafdd8afa1dd4d62f509e98",
       "title": "농업·농촌 교통문제 해소와 기본소득·태양광사업 등 공약 전면 내세워 - 농수축산신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmS0U3X2ZueDIzeFQyX2h4SkV0dllRam11SkVlRHFGdDA4SWI2U1ZiUUFXZHdFNDNEODIyUFRYYm5CclA5bExmUVpXdGplQ3h4YkNjdVBOUGQ2emJvZzUtNU1wNmRxejR0ZUJJMA?oc=5",
@@ -4686,6 +4704,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "7db029f0b6888d486d5028c9",
+      "title": "영천시, ‘마른논 써레질’로 농촌 인력난·탄소중립 잡는다 - kyongbuk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01QWUtNF9rd0FpZkxjaXdzb0xNZ3lIWUVWOTc3cEFFMlg5YkQtcV9XSDV0YmljT0g0dXNiMVJJTGRIR1p3ZjQxRnZ2RFNCamo4RUw0SnRPWTJwWUpXQXZ2Zk5yWWtPVVJHSklka00taw?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-21T07:09:42+00:00",
+      "collected_at": "2026-05-26T15:21:11.338136+00:00",
+      "summary": "영천시, ‘마른논 써레질’로 농촌 인력난·탄소중립 잡는다 kyongbuk.co.kr",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "5fede49406c9a442591c462b",
       "title": "홍천군, '영농현장 기술보급확산지원단' 전격 가동 이상기후·병해충 선제 대응 - 의정신문 서울시티",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xcEM1dlZuSU9EdHFXcHNXeFVpVzI0Y01HeVo5OVgzZlM0eGxfNEcyWGIwOUFYT1JfYmRodlU3RWQ2NXRmekZrY3RMRWc3QmhjYXRTWDEwTzdrTGpoR09JRkJYOWFqeUFtVFdrODRtMA?oc=5",
@@ -4888,6 +4924,24 @@
       "summary": "이재명 대통령 “걱정 없는 농업·농촌 만들 것” 농축유통신문",
       "keywords": [
         "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "40a2b56f07faeedfb4ac1587",
+      "title": "농촌에 활력 더하는 ‘농촌융복합산업’ 우수사례를 찾습니다 - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zZ1E0QjFkdzNYcDN0SkE2TUdNcjF6WnVMLS1wcEtCYmk4Z0s0dnFWODQ5Y0Jxa2hsYUxwYWdRZVRqWFlXT2hwNTl2MG5nT3JwM2MzQW43aXhWdw?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-21T04:54:00+00:00",
+      "collected_at": "2026-05-26T15:21:11.338136+00:00",
+      "summary": "농촌에 활력 더하는 ‘농촌융복합산업’ 우수사례를 찾습니다 농민신문",
+      "keywords": [
         "농촌"
       ],
       "importance": 42,
@@ -12102,9 +12156,9 @@
     }
   ],
   "stats": {
-    "total": 633,
+    "total": 636,
     "category_counts": {
-      "news": 351,
+      "news": 354,
       "plant_reviews": 16,
       "support": 266
     },
@@ -12119,7 +12173,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 116
+        "count": 119
       },
       {
         "keyword": "사업",
@@ -12161,7 +12215,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 145
+        "count": 148
       },
       {
         "source": "Google News 청년농 귀농",
@@ -12204,8 +12258,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 7,
-    "fetched_items": 710,
+    "new_items": 5,
+    "fetched_items": 600,
     "errors": []
   }
 }
