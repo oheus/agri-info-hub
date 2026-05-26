@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-26T14:59:48.906486+00:00",
-  "total": 633,
+  "generated_at": "2026-05-26T15:21:52.290535+00:00",
+  "total": 636,
   "category_counts": {
-    "news": 351,
+    "news": 354,
     "plant_reviews": 16,
     "support": 266
   },
@@ -17,7 +17,7 @@
     },
     {
       "keyword": "농촌",
-      "count": 116
+      "count": 119
     },
     {
       "keyword": "사업",
@@ -59,7 +59,7 @@
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 145
+      "count": 148
     },
     {
       "source": "Google News 청년농 귀농",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 7,
-    "fetched_items": 710,
+    "new_items": 5,
+    "fetched_items": 600,
     "errors": []
   }
 }
