@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T15:21:52.290535+00:00",
+  "generated_at": "2026-05-26T15:52:38.994232+00:00",
   "items": [
     {
       "id": "e9bca1bd19917aa7348f3f0c",
@@ -499,6 +499,25 @@
       ],
       "importance": 48,
       "region": "제주",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "550ab7f132827b35b2707905",
+      "title": "지속가능한 농업의 미래는 스마트팜 - 삼다일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UdTQxX3lTU2RYc2tIdFAtdENpQ3ZXbGtjb0tCbm5Oa2w3MEJWSHFqS2VsUlV2eUd2SXA1cEdiZTJ2cllINE1RbDJMbDBjblRpMUk3SkE3VGpwREdFdGRQSmJSdzFaSGhsRWxnRA?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-26T07:30:00+00:00",
+      "collected_at": "2026-05-26T15:52:19.138980+00:00",
+      "summary": "지속가능한 농업의 미래는 스마트팜 삼다일보",
+      "keywords": [
+        "농업",
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -12156,16 +12175,16 @@
     }
   ],
   "stats": {
-    "total": 636,
+    "total": 637,
     "category_counts": {
-      "news": 354,
+      "news": 355,
       "plant_reviews": 16,
       "support": 266
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 206
+        "count": 207
       },
       {
         "keyword": "지원",
@@ -12181,7 +12200,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 75
+        "count": 76
       },
       {
         "keyword": "지원사업",
@@ -12227,7 +12246,7 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 67
+        "count": 68
       },
       {
         "source": "Google News 지원사업",
@@ -12258,8 +12277,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 5,
-    "fetched_items": 600,
+    "new_items": 4,
+    "fetched_items": 650,
     "errors": []
   }
 }
