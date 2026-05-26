@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T14:29:15.771548+00:00",
+  "generated_at": "2026-05-26T14:59:48.906486+00:00",
   "items": [
     {
       "id": "e9bca1bd19917aa7348f3f0c",
@@ -19,6 +19,27 @@
         "지원"
       ],
       "importance": 76,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "ed33e3edaca18124d434d5a4",
+      "title": "[함안군 소식] 유기질비료 지원사업 접수-출산 가정 운동비 지원 - KPI뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XNnFfOTVGYkZtYVNOTGF0VTZ4azU2UFhQdWFSa2tSWUNzczlobXRhYlcxMUpfMjlMNy1fUzVMbzZfWTduZmxvOVR0bTRZWS14MGNoc0VVR3BYRDds0gFTQVVfeXFMTnhCdVFScUFMUnBYdUpITFFYQVdGaVRsc3ZOeElFeWV1RGQ5NlhMWndwRGJOWkUwWlU1TENyd2N6OENCUjQ3T0tOM25WN0RoT0dEa3M?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-05-26T13:20:33+00:00",
+      "collected_at": "2026-05-26T14:59:30.776249+00:00",
+      "summary": "[함안군 소식] 유기질비료 지원사업 접수-출산 가정 운동비 지원 KPI뉴스",
+      "keywords": [
+        "지원사업",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 64,
       "region": "",
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
@@ -5616,6 +5637,24 @@
       "category_label": "지원사업"
     },
     {
+      "id": "4f8e1c6fb3690cddba4ab0a4",
+      "title": "다육이 심고 병아리 안고 - 전남교육통",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFQTRxeFBKSUg1czJHNlBzQ25Hc0E1ejVkREhLMXlrbnd1RFRzUmhoYnlWWFRzcjM4X01wX2U2aTluLWdOMHgtOEdDZGJ2YS1fRU1yQmZxR3pBUVBuNjY1NDM4Tk5oUdIBakFVX3lxTE91Nm5vQUl0d281ZmIwRlhfNVRkMmhqamdfX2JnMzR3WlFkczlVQTBXOHh0bG5PWHJiTU50WWlldzRWZ3E1RlVKOGFTQURud285SFFjNWR6cHJRc29WZHNWMXFTZS1SeXhKOEE?oc=5",
+      "source": "Google News 식물 관리",
+      "category": "plant_reviews",
+      "published_at": "2026-05-20T23:50:00+00:00",
+      "collected_at": "2026-05-26T14:59:45.297839+00:00",
+      "summary": "다육이 심고 병아리 안고 전남교육통",
+      "keywords": [
+        "다육이"
+      ],
+      "importance": 42,
+      "region": "전남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
+    },
+    {
       "id": "c8ff453ed75a926a908047a7",
       "title": "\"귀농귀촌 첫걸음 도와요\" - 중도일보",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GVlBkNm92czVOY0ZKY3I4YnBGRDUzLW5ndHFJaGhPRkY5dEVIcjJ4R2RibWhaTnFja2tLUldqRlBha0pFWWFtN1hrUkNYaVRnMWxUa0JvME40SnVoMnJGcmkwUmZkSzJqck8yeg?oc=5",
@@ -7350,6 +7389,45 @@
       "collected_at": "2026-05-20T18:02:17.134040+00:00",
       "summary": "봄철 콩 생육 초기 병해충 주의보 농축유통신문",
       "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "6a686e12c6c4c2f4f7a39ef5",
+      "title": "부여군, 농촌 쉼터 설치 기준 완화… 농업인 편의 높인다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uTkFRQjNsU0NaRGhFRFJtTDFGbk9EcjhiZ1hzWUQ4al9IVE9xY0dmMEcyczlZSFlSOVlfaTh4NktBUmlaeUNmLVR4MzViMEE?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-20T02:18:39+00:00",
+      "collected_at": "2026-05-26T14:59:29.766254+00:00",
+      "summary": "부여군, 농촌 쉼터 설치 기준 완화… 농업인 편의 높인다 v.daum.net",
+      "keywords": [
+        "농업",
+        "농촌",
+        "농업인"
+      ],
+      "importance": 42,
+      "region": "충남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "2779837654d92b1d196426e1",
+      "title": "서천군, 고온다습한 봄 날씨에 원예작물 병해충 철저 관리 당부 - 충청타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81NE9sangxckp4SWlEWklVaktmZ1J6T0xOeXFQVTdfSXE1TElOV1dKdzN4eGZ4enRzMHhQei0wdG5ObDFIeTROS21SWU5xZTUyakNjZVZkSG8tNnJDRXlIR3BnOWJZYkFw?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-20T02:14:27+00:00",
+      "collected_at": "2026-05-26T14:59:35.142856+00:00",
+      "summary": "서천군, 고온다습한 봄 날씨에 원예작물 병해충 철저 관리 당부 충청타임즈",
+      "keywords": [
+        "작물",
         "병해충"
       ],
       "importance": 48,
@@ -12024,28 +12102,28 @@
     }
   ],
   "stats": {
-    "total": 629,
+    "total": 633,
     "category_counts": {
-      "news": 349,
-      "plant_reviews": 15,
-      "support": 265
+      "news": 351,
+      "plant_reviews": 16,
+      "support": 266
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 205
+        "count": 206
       },
       {
         "keyword": "지원",
-        "count": 164
+        "count": 165
       },
       {
         "keyword": "농촌",
-        "count": 115
+        "count": 116
       },
       {
         "keyword": "사업",
-        "count": 90
+        "count": 91
       },
       {
         "keyword": "스마트팜",
@@ -12053,7 +12131,7 @@
       },
       {
         "keyword": "지원사업",
-        "count": 69
+        "count": 70
       },
       {
         "keyword": "모집",
@@ -12069,7 +12147,7 @@
       },
       {
         "keyword": "접수",
-        "count": 53
+        "count": 54
       },
       {
         "keyword": "귀농",
@@ -12083,7 +12161,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 144
+        "count": 145
       },
       {
         "source": "Google News 청년농 귀농",
@@ -12091,19 +12169,19 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 70
+        "count": 71
       },
       {
         "source": "Google News 스마트팜",
         "count": 67
       },
       {
-        "source": "Google News 농산물 가격",
+        "source": "Google News 지원사업",
         "count": 55
       },
       {
-        "source": "Google News 지원사업",
-        "count": 54
+        "source": "Google News 농산물 가격",
+        "count": 55
       },
       {
         "source": "Google News 청년농 지원",
@@ -12126,8 +12204,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 9,
-    "fetched_items": 659,
+    "new_items": 7,
+    "fetched_items": 710,
     "errors": []
   }
 }
