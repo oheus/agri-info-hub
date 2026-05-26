@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T16:23:21.345585+00:00",
+  "generated_at": "2026-05-26T18:00:39.362209+00:00",
   "items": [
     {
       "id": "e9bca1bd19917aa7348f3f0c",
@@ -1148,6 +1148,28 @@
       ],
       "importance": 64,
       "region": "전국",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "f87bbc08be2ff4cce5f08ba4",
+      "title": "김해시, 2027년 유기질비료 지원사업 신청 접수 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2cVNZX2xZdmtaanlTNHF2Y2RlQi05a2dqTEpibkFWUnhpUk00OC1ydmxJX21Uc0I1YzFxT1NWSkFkdnlGZm5RSktqVFNUclo2NUtrUUp6WG11dURNQzJ4YTZtbi00S01fWWxQM05GNEPSAXRBVV95cUxPSkN6TUNORFJpbjF2ekRSZlpHWmdGdVliU0N4d1JLNWI5SktDMVUyYU9MNW5oLXg5eGdBbHBCSjlaUjAtOTJNV1RYTlVMc1Qzb05VY3J5c2VoUXRGRVAtcTVtRDJ3NlJjelpMVkNBT3V6eTJjTA?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-05-26T02:30:00+00:00",
+      "collected_at": "2026-05-26T18:00:18.496648+00:00",
+      "summary": "김해시, 2027년 유기질비료 지원사업 신청 접수 이뉴스투데이",
+      "keywords": [
+        "지원사업",
+        "신청",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "경남",
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
@@ -12193,11 +12215,11 @@
     }
   ],
   "stats": {
-    "total": 638,
+    "total": 639,
     "category_counts": {
       "news": 356,
       "plant_reviews": 16,
-      "support": 266
+      "support": 267
     },
     "top_keywords": [
       {
@@ -12206,7 +12228,7 @@
       },
       {
         "keyword": "지원",
-        "count": 165
+        "count": 166
       },
       {
         "keyword": "농촌",
@@ -12214,7 +12236,7 @@
       },
       {
         "keyword": "사업",
-        "count": 91
+        "count": 92
       },
       {
         "keyword": "스마트팜",
@@ -12222,23 +12244,23 @@
       },
       {
         "keyword": "지원사업",
-        "count": 70
+        "count": 71
       },
       {
         "keyword": "모집",
         "count": 63
       },
       {
+        "keyword": "신청",
+        "count": 58
+      },
+      {
         "keyword": "청년농",
         "count": 57
       },
       {
-        "keyword": "신청",
-        "count": 57
-      },
-      {
         "keyword": "접수",
-        "count": 54
+        "count": 55
       },
       {
         "keyword": "귀농",
@@ -12268,7 +12290,7 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 55
+        "count": 56
       },
       {
         "source": "Google News 농산물 가격",
@@ -12296,7 +12318,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 3,
-    "fetched_items": 586,
+    "fetched_items": 702,
     "errors": []
   }
 }
