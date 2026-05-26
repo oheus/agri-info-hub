@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-26T15:21:52.290535+00:00",
-  "total": 636,
+  "generated_at": "2026-05-26T15:52:38.994232+00:00",
+  "total": 637,
   "category_counts": {
-    "news": 354,
+    "news": 355,
     "plant_reviews": 16,
     "support": 266
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 206
+      "count": 207
     },
     {
       "keyword": "지원",
@@ -25,7 +25,7 @@
     },
     {
       "keyword": "스마트팜",
-      "count": 75
+      "count": 76
     },
     {
       "keyword": "지원사업",
@@ -71,7 +71,7 @@
     },
     {
       "source": "Google News 스마트팜",
-      "count": 67
+      "count": 68
     },
     {
       "source": "Google News 지원사업",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 5,
-    "fetched_items": 600,
+    "new_items": 4,
+    "fetched_items": 650,
     "errors": []
   }
 }
