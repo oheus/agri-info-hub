@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-05-26T06:33:28.702955+00:00",
+  "generated_at": "2026-05-26T07:03:57.619406+00:00",
   "items": [
+    {
+      "id": "5d539d4d16361793a81b4624",
+      "title": "양주시, 공동주택 찾아가는 반려식물 상담서비스 운영 - 경기시사투데이",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oRmJLRVBzSFZybzhMel9SRzg4VVd4dW52OXRQMk1qT3JPVW01THZ1d0ZBS0xnc2tjaG5OQzFvaUE0VzRUT2lHTXhvUW5wV3prWVV2VzFZYzJyNWt6VzhacVM1QkR1UjN4?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-05-26T06:59:12+00:00",
+      "collected_at": "2026-05-26T07:03:52.741892+00:00",
+      "summary": "양주시, 공동주택 찾아가는 반려식물 상담서비스 운영 경기시사투데이",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "경기",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
+    },
+    {
+      "id": "96402295bf1a9532a2e07613",
+      "title": "KREI, 농산물가격안정제 및 선제적 수급관리 체계 논의 - 푸드아이콘",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXM3FyX29qekNxa1dhZ3BGb3MtUVlsbFVSVVBJc0tGeFhQNkFrYUsxQUYxNnQ2UVF0blBpUXo1R2hMRExYOHBGODdLTEItN282UlpiNWVVTkNGbDNkRng2UkV5dmgyNHp2TVZHTQ?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-05-26T06:51:27+00:00",
+      "collected_at": "2026-05-26T07:03:43.788950+00:00",
+      "summary": "KREI, 농산물가격안정제 및 선제적 수급관리 체계 논의 푸드아이콘",
+      "keywords": [
+        "농산물"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "f5eb94fea6056bd8280b0678",
+      "title": "평창군, 올해 첫 귀농·귀촌학교 시동…정착 지원 본격화 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zbjdXbTJFNDY3UUo2Yy1Cd0VTS0hsY1paRnhhc0NHLV91czRLWmRNbmxRZW5RN0czZVpSbWFuTlo1T0NZalh0SWU4WndKMTA?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "support",
+      "published_at": "2026-05-26T06:36:23+00:00",
+      "collected_at": "2026-05-26T07:03:40.991429+00:00",
+      "summary": "평창군, 올해 첫 귀농·귀촌학교 시동…정착 지원 본격화 v.daum.net",
+      "keywords": [
+        "귀농",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "f951226832221d3268c1eb4f",
+      "title": "양주시, 치유농업 프로그램 6곳 모집 - 뉴스티앤티",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XbWswNEk5VFdyejNTcVJmVnNQM05CTG0tNENKMDRsYXFTdm16UlJvemUzeURWQl93cHhRYmhyUzNVOG5FLVJydGlzc2VsZENvQWhWaFFRTS0yaE9vOENGV3hGWnFUQi1Jcnc?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-05-26T06:32:36+00:00",
+      "collected_at": "2026-05-26T07:03:54.798173+00:00",
+      "summary": "양주시, 치유농업 프로그램 6곳 모집 뉴스티앤티",
+      "keywords": [
+        "농업",
+        "모집"
+      ],
+      "importance": 74,
+      "region": "경기",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
     {
       "id": "938d452e397d49918ee50af4",
       "title": "예산군, 청년농업인 지원사업 2차 모집 - 전국매일신문",
@@ -103,24 +177,6 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "8d1f9d336311795209d3cd73",
-      "title": "양주시, 공동주택 찾아가는 반려식물 상담서비스 운영 - 경인신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tcVlnLU82SS13WE1GWW50VTIxYkI4T0RQc1ZaclpKR3Z2NDFIVU84bDE5b0ZyOTJvLW1XaXlaeEkxLXhMOHY5TjVnUkFPRThrTmtBYjNHWkVlb09JVWNHUjR0T0l3aUE?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-05-26T05:13:32+00:00",
-      "collected_at": "2026-05-26T06:02:48.790151+00:00",
-      "summary": "양주시, 공동주택 찾아가는 반려식물 상담서비스 운영 경인신문",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "region": "경기",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "식물 리뷰"
-    },
-    {
       "id": "f419e029a6127d9d5c03efba",
       "title": "영주시, 미래 농업 이끌 '젊은 농부' 늘린다… 정착 지원금 추가 접수 - 대경일보",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IYnltRFlERmZsUWZOUG1zZEtVMVFiUDRxYWlLMy1wckVqMGxOUjR4c2VvblBfN2hxS0JxX3hmT1lRbW1TZXFhVUh3dFVPZXZLdEM3VFNwb1Z2ZmtveGphXzhMU0tTa2hy?oc=5",
@@ -215,6 +271,25 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "b57c22fb5854b0d7c55fa272",
+      "title": "순천시, 치유농업 기반 농촌돌봄서비스 확대 시행 - 호남타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrRWp2b2F5Y1NoT2lvZDRBZUkxSUZVdFBZMHBoTmp0bTJaYjUzMUhoVGZzaGN5XzAzWkVteXFaTGMwckg4R3BOeEV4Q2daVzFfeXktbWU2Q0o1VVp0YTRPU0libFZ6SmJPT2hGcG53?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-26T04:07:10+00:00",
+      "collected_at": "2026-05-26T07:03:37.159388+00:00",
+      "summary": "순천시, 치유농업 기반 농촌돌봄서비스 확대 시행 호남타임즈",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전남",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -356,24 +431,6 @@
       "category_label": "지원사업"
     },
     {
-      "id": "90dfbfe26dc634ec3ece3355",
-      "title": "[KREI] 농산물가격안정제 및 선제적 수급관리 체계 논의 - 월간친환경",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50blhEaFVheENxWUxncVh0dnhleGkyN0hIUzBHd3F3ZWwtYkVjRWJQOTRvSGR1bEMxTFpQZTBfZWlCRkxpdGJ5d2dLYUYweDN4dXRzcjNicXU1WU9SeFUzZGM1Z01qdUM4OGRJZjBYUzJ6dw?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-05-26T02:39:02+00:00",
-      "collected_at": "2026-05-26T06:02:40.584622+00:00",
-      "summary": "[KREI] 농산물가격안정제 및 선제적 수급관리 체계 논의 월간친환경",
-      "keywords": [
-        "농산물"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
       "id": "bac7920f2d2d76eb699f1bd9",
       "title": "고려아연, 전국 취약계층 물품 지원 '희망풍차' 후원 - 네이트",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ob0JLbmJzSF9WSDVZcXU0OUEzcnlyWUtZcGhEdXJJc3UtR1hqUVN1ajdvcmpfZUNSOF8tSlVic3pSSmcwaEJHTHkzOGtidEl3T1Fr?oc=5",
@@ -445,6 +502,26 @@
       "region": "경기",
       "deadline_text": "6월 2일 마감",
       "deadline_date": "2026-06-02",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "2f67da4e130d9a6a5cb03bad",
+      "title": "알림소식 > 보도자료 > 5월 27일부터 28일까지, 3·4월분 농업용 면세유 유가연동보조금 102억 원 우선 지급 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOMkJ1dklNaExJenN1bkdfR1lIZjJmcTF2Zk00X2JWRkR1U3dBMXFsOFRsWFQ1QmdfM2ZrMEZzY0ZKVWs5dDdXTWstNmxlamFiNGVVYVFMNDJTZmdjcVJWS29fdUlyN0xKSmJoYTNveTZfNXE4UDhabW54RVFfZDhEbG5SMlpid21rUUNsQlVNd05rQ2FxUnd6TXZYN3NlTklXeWpSWmhGUDAyNVZtcV9aTzVOSm9lODFaRkFndHVRdEJBS0RLQ3JTeC1EQjRTZ0JqdGc5MzEzNUVkR3M4NHp6VEpONjl1RnJPMTZiM2JkeWxQdmptTWZfcUZqUEpzVmlxRnNkV0ZLS3RiVGFhVHVJWmQtMHV0aTdtaTl3OGl6X0x2SU1XTUtzdVJBeldBVWNWUkt3MkVBTGdPSFMzRzhZZktNN2EtMVRuX0ppVDR1bXk0UmFoRXVrczlYZG1uU01FOUFzOGFoWFFlbjFpMG15YUhwTy1iMjJVNmhkUmh5TjY4bEVoUWY5elZuaE1vNWFpNTNnMjUyYmVBTktxbmtDZ3NQc3g1dTkwd2hBa29KOWFKSEF0TTFtSzRwVTEtYTFlVHdFQzVoVHFjY19uNDJhcGRNalVZQW44?oc=5",
+      "source": "Google News 농식품부 공고",
+      "category": "support",
+      "published_at": "2026-05-26T02:00:00+00:00",
+      "collected_at": "2026-05-26T07:03:45.037194+00:00",
+      "summary": "알림소식 > 보도자료 > 5월 27일부터 28일까지, 3·4월분 농업용 면세유 유가연동보조금 102억 원 우선 지급 농림축산식품부",
+      "keywords": [
+        "농업",
+        "보조금",
+        "보조"
+      ],
+      "importance": 74,
+      "region": "전국",
+      "deadline_text": "5월 27일 마감",
+      "deadline_date": "2026-05-27",
       "category_label": "지원사업"
     },
     {
@@ -11173,45 +11250,27 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
-    },
-    {
-      "id": "b09827848f25179285a8f481",
-      "title": "\"작은 화분 하나가 건넨 안부\"… 태백 구문소동, 반려식물로 고독사 예방 나서 - 강원신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aSmc5czFJWXVNeDZPU3o4azB2OGtWVG10UVMySE1nOGFWYWQ1VktudDNyNW80NG1xOUlQZEcxN2tWVjd0aV81UVhweWVPTzJoMEZkSWVRa2ZPNDl6d3R2ZVo0Q2VjTHZr?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-05-16T02:26:19+00:00",
-      "collected_at": "2026-05-16T06:56:45.959901+00:00",
-      "summary": "\"작은 화분 하나가 건넨 안부\"… 태백 구문소동, 반려식물로 고독사 예방 나서 강원신문",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "region": "강원",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "식물 리뷰"
     }
   ],
   "stats": {
-    "total": 586,
+    "total": 589,
     "category_counts": {
-      "news": 322,
-      "plant_reviews": 16,
-      "support": 248
+      "news": 323,
+      "plant_reviews": 15,
+      "support": 251
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 184
+        "count": 187
       },
       {
         "keyword": "지원",
-        "count": 155
+        "count": 156
       },
       {
         "keyword": "농촌",
-        "count": 107
+        "count": 108
       },
       {
         "keyword": "사업",
@@ -11227,7 +11286,7 @@
       },
       {
         "keyword": "모집",
-        "count": 59
+        "count": 60
       },
       {
         "keyword": "신청",
@@ -11243,7 +11302,7 @@
       },
       {
         "keyword": "귀농",
-        "count": 48
+        "count": 49
       },
       {
         "keyword": "농산물",
@@ -11253,15 +11312,15 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 130
+        "count": 131
+      },
+      {
+        "source": "Google News 청년농 귀농",
+        "count": 67
       },
       {
         "source": "Google News 병해충 재배",
         "count": 67
-      },
-      {
-        "source": "Google News 청년농 귀농",
-        "count": 66
       },
       {
         "source": "Google News 스마트팜",
@@ -11288,7 +11347,7 @@
         "count": 21
       },
       {
-        "source": "Google News 식물 키우기",
+        "source": "Google News 지자체 농업기술센터",
         "count": 20
       }
     ]
@@ -11296,8 +11355,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 24,
-    "fetched_items": 722,
+    "new_items": 9,
+    "fetched_items": 718,
     "errors": []
   }
 }
