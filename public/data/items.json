@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-26T18:00:39.362209+00:00",
+  "generated_at": "2026-05-26T22:07:21.655488+00:00",
   "items": [
+    {
+      "id": "758584bbae8f12768fe0ad7b",
+      "title": "[AI로 읽는 경제] ② 농산물값은 올라갈 땐 바로 뛰는데, 왜 내릴 땐 한참 뒤에야 떨어지나 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KbmdOSFdVY0NMbl9yZjN2dHlhd0dfYXpjQmp2WTVnVTB1ZVk5S1NiNDdWQTNSZTRvSUswZjFJRWxMVjU3YzhnRjR1N2NxT1RMNFI4TG81aTBGMkFX?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-05-26T21:00:00+00:00",
+      "collected_at": "2026-05-26T22:06:53.350537+00:00",
+      "summary": "[AI로 읽는 경제] ② 농산물값은 올라갈 땐 바로 뛰는데, 왜 내릴 땐 한참 뒤에야 떨어지나 뉴스핌",
+      "keywords": [
+        "농산물"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "b92ee880f959848bf3a69ab6",
+      "title": "무인 예찰 장비 ‘AI트랩’으로 병해충 발생 신속 대응 - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVZrQVYxSEFjc3RUdjFONEpiZVJGN2FYSVV6T0htZmNqNldjdERWT2h6V1FjcERqakxiWldYSm1SSGFwRjBTUWVHV01XZzRyLTBWdjZ4S2pXMWktakJ4eUpweGJObU1fX250ZTFMVmVYbWZCZU5vTnpITHBMLTVLRzlobUN3bk9BTVAzT29R?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-26T15:30:00+00:00",
+      "collected_at": "2026-05-26T22:06:52.329135+00:00",
+      "summary": "무인 예찰 장비 ‘AI트랩’으로 병해충 발생 신속 대응 조선일보",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "e9bca1bd19917aa7348f3f0c",
       "title": "청년농업인 키우는 영주시… 영농정착 지원 대상 추가모집 - 시사뉴스",
@@ -175,6 +211,25 @@
       "published_at": "2026-05-26T10:57:12+00:00",
       "collected_at": "2026-05-26T14:28:55.320852+00:00",
       "summary": "화순군, '밭농업' 기계화율 높인다 ... 일관기계화 지원 나서 아이뉴스24",
+      "keywords": [
+        "농업",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "41493a9ae9cdc89c2e1b3c29",
+      "title": "k채널/화순군, 농업기계 장기임대 지원으로 농작업률 향상 기대 - K채널",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMeVF1bnBKam1Xc05uLVVDb04yZ2tEa3MyRlM4bHlJWldsNm1BVEU1MUV4VGIyNExKS1phd1ItaWdvamdaSmpvWlFVNzZldl9COHVDekhfMzIteEFxMHJMLWxFdTFfb2d6R0E?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-05-26T10:38:03+00:00",
+      "collected_at": "2026-05-26T22:06:49.464834+00:00",
+      "summary": "k채널/화순군, 농업기계 장기임대 지원으로 농작업률 향상 기대 K채널",
       "keywords": [
         "농업",
         "지원"
@@ -761,6 +816,28 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "c2f4e68cb48ac3ddf3182262",
+      "title": "김해시, 2027년 유기질비료 지원사업 신청 접수 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KQ3pNQ05EUmluMXZ6RFJmWkdaZ0Z1WWJTQ3h3Uks1YjlKS0MxVTJhT0w1bmgteDl4Z0FscEJKOVpSMC05Mk1XVFhOVUxzVDNvTlVjcnlzZWhRdEZFUC1xNW1EMnc2UmN6WkxWQ0FPdXp5MmNM0gF0QVVfeXFMT0pDek1DTkRSaW4xdnpEUmZaR1pnRnVZYlNDeHdSSzViOUpLQzFVMmFPTDVuaC14OXhnQWxwQko5WlIwLTkyTVdUWE5VTHNUM29OVWNyeXNlaFF0RkVQLXE1bUQydzZSY3paTFZDQU91enkyY0w?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-05-26T05:28:47+00:00",
+      "collected_at": "2026-05-26T22:06:49.464834+00:00",
+      "summary": "김해시, 2027년 유기질비료 지원사업 신청 접수 이뉴스투데이",
+      "keywords": [
+        "지원사업",
+        "신청",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "경남",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "f1fdae0ccde608b78f1aaf0c",
       "title": "순천시, ‘치유농업+주민공동체’ 결합… 농촌 돌봄 대폭 확대 - 녹색경제신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HQ3RGZ2xhYlBDSVZ6TWdIUWg5cmdRbmZlZjdBMko4WG9RbENaeHZLcDFfRXRvLVRIclM5OFRNN1U3NUtSd0gybFJJYTlNd3l3NldmVVlscnBLRXFkQ2toRi04ODd1RTM1?oc=5",
@@ -778,6 +855,28 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "38445cde322a3e388cb2a99f",
+      "title": "예산군, 청년농 육성 본격화… 영농정착 지원사업 추가 모집 나서 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iOFdvWkNkclliMTRxM2I1Q3NfLWxXNGFfRW83bWRRV2JPemxFS2gyRV9TbGxtU2ZlbU02OXlLNjhxMnF4eDVSQ1otM1RaSk0?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "support",
+      "published_at": "2026-05-26T05:25:00+00:00",
+      "collected_at": "2026-05-26T22:06:51.404418+00:00",
+      "summary": "예산군, 청년농 육성 본격화… 영농정착 지원사업 추가 모집 나서 v.daum.net",
+      "keywords": [
+        "청년농",
+        "지원사업",
+        "모집",
+        "지원",
+        "사업"
+      ],
+      "importance": 76,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "e9f1872c3c1304e8ab9056b1",
@@ -1148,28 +1247,6 @@
       ],
       "importance": 64,
       "region": "전국",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "f87bbc08be2ff4cce5f08ba4",
-      "title": "김해시, 2027년 유기질비료 지원사업 신청 접수 - 이뉴스투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2cVNZX2xZdmtaanlTNHF2Y2RlQi05a2dqTEpibkFWUnhpUk00OC1ydmxJX21Uc0I1YzFxT1NWSkFkdnlGZm5RSktqVFNUclo2NUtrUUp6WG11dURNQzJ4YTZtbi00S01fWWxQM05GNEPSAXRBVV95cUxPSkN6TUNORFJpbjF2ekRSZlpHWmdGdVliU0N4d1JLNWI5SktDMVUyYU9MNW5oLXg5eGdBbHBCSjlaUjAtOTJNV1RYTlVMc1Qzb05VY3J5c2VoUXRGRVAtcTVtRDJ3NlJjelpMVkNBT3V6eTJjTA?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-26T02:30:00+00:00",
-      "collected_at": "2026-05-26T18:00:18.496648+00:00",
-      "summary": "김해시, 2027년 유기질비료 지원사업 신청 접수 이뉴스투데이",
-      "keywords": [
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "경남",
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
@@ -1630,28 +1707,6 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "f67266802def51b7f5a9254b",
-      "title": "예산군, 청년농 육성 본격화… 영농정착 지원사업 추가 모집 나서 - 중도일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10Mlo1bEoyMmVQNnJDUEtEMEExdTU3NXNsSmwwR1N1a3N2ZDZFVDdpdUdrTUdhU2lpUG50LXpGQWRCQzZDMjMxMzBzX0VOVTB1QkwxaldCTGVBOS11VnpXN1RNbmpnaHgtdUFZbg?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-25T21:04:56+00:00",
-      "collected_at": "2026-05-26T06:02:46.864784+00:00",
-      "summary": "예산군, 청년농 육성 본격화… 영농정착 지원사업 추가 모집 나서 중도일보",
-      "keywords": [
-        "청년농",
-        "지원사업",
-        "모집",
-        "지원",
-        "사업"
-      ],
-      "importance": 76,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
       "id": "8c0493689e6e527842ccdbbf",
       "title": "\"반려식물 상담부터 정원 드로잉까지\"…서울 공원서 즐기는 가드닝 - 뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ibEZqSTE2eUk5NUZ4OW1nQXF1Nkh1SXJaUjRmTnBZZFVMbTlXMEw4bmVmY0hpc3VLcms0X1hUUkUwTF95Y3U5VEF3b1pPcXd5dFdZV0FVQjNVcDVa?oc=5",
@@ -1737,6 +1792,24 @@
         "병해충"
       ],
       "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "5305297effde781174e937f2",
+      "title": "강호동 회장·초등학생 함께 모 심어 - 한국농업신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tTUh0akRBSGExQXFRYW9HZ0RwU0hkNU4zZm8xblNRcUFtWkhUVHk4akVLcUwyOWRDYXg4eVpTSlBfYlB5MDJ0YVlTcms5cTQ5N0FQMXp6b2FHNnc3VUVsTnRVQjM1Y0FGWVJfOdIBcEFVX3lxTE40aXFoM1liekhScC1CdDZhTXRyU1ZkX3VubmVUYkJsZDI0UndiQjZYRlZYd0J5RUQ3eW1COWFwX2kzMzFTMnFmZEJydTRMZ05KYzhnak1yN1B2OEZLeUJSMldkcURWekV2ZF9NeHJnRng?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-25T13:22:13+00:00",
+      "collected_at": "2026-05-26T22:06:48.383784+00:00",
+      "summary": "강호동 회장·초등학생 함께 모 심어 한국농업신문",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
       "region": "",
       "deadline_text": "",
       "deadline_date": "",
@@ -2997,6 +3070,24 @@
       ],
       "importance": 42,
       "region": "강원",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "aa109e9f5ce2a20d29e89616",
+      "title": "조기심 농식품법인연합회 신임 회장···“농업법인 어려움 해결할 것” - 한국농어민신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJeS1MVXN1ZjJVcFNHYmVMYngzcVNSUmt5ekZKYzZsM1gydi1wQ050UkpIZHhBVjFaRXFZM3BEb1JWT2dxY2RkRVo2eXpYbnZLdW1PMGg4TGxHbHNJMTVLclNJLUVBbnhUeUkteg?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-22T09:44:33+00:00",
+      "collected_at": "2026-05-26T22:06:48.383784+00:00",
+      "summary": "조기심 농식품법인연합회 신임 회장···“농업법인 어려움 해결할 것” 한국농어민신문",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -12215,20 +12306,20 @@
     }
   ],
   "stats": {
-    "total": 639,
+    "total": 644,
     "category_counts": {
-      "news": 356,
+      "news": 360,
       "plant_reviews": 16,
-      "support": 267
+      "support": 268
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 208
+        "count": 211
       },
       {
         "keyword": "지원",
-        "count": 166
+        "count": 167
       },
       {
         "keyword": "농촌",
@@ -12268,21 +12359,21 @@
       },
       {
         "keyword": "농산물",
-        "count": 48
+        "count": 49
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 149
+        "count": 151
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 73
+        "count": 74
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 71
+        "count": 72
       },
       {
         "source": "Google News 스마트팜",
@@ -12290,15 +12381,15 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 56
+        "count": 57
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 55
+        "count": 56
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 37
+        "count": 36
       },
       {
         "source": "Google News 농림축산식품부",
@@ -12317,8 +12408,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 3,
-    "fetched_items": 702,
+    "new_items": 14,
+    "fetched_items": 722,
     "errors": []
   }
 }
