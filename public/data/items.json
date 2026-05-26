@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T15:52:38.994232+00:00",
+  "generated_at": "2026-05-26T18:00:39.362209+00:00",
   "items": [
     {
       "id": "e9bca1bd19917aa7348f3f0c",
@@ -66,6 +66,25 @@
       ],
       "importance": 76,
       "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "9b8e719bdb972445656a2981",
+      "title": "양주시, 치유농업 프로그램 참여기관 모집 - 새한일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wMkN4Z09rcUUxWkp3UElhbVlMWnBaR1VUSEJ5azZpTG1KREpueDItQUw4bFhUMzhydmNpdGRWTnJobGFlenVLbWtjUnR0Z0ZaNm5NTjVzV1NsOUotR3pkUmltdWdaSm_SAWpBVV95cUxNRlo4c290TGM1dDhRZDhJU2t2VTJoS19FY0NBeE9QNXdoY01KX3ZQN1VVbWZBdmtQTWs0YXJORWthUXZQdUVvS0t5a0R4dFZlVVpWVkNVNWpLQWdmWW5CbXFPX3c2dUlKSG5R?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-05-26T12:56:52+00:00",
+      "collected_at": "2026-05-26T16:23:20.359803+00:00",
+      "summary": "양주시, 치유농업 프로그램 참여기관 모집 새한일보",
+      "keywords": [
+        "농업",
+        "모집"
+      ],
+      "importance": 74,
+      "region": "경기",
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
@@ -1134,6 +1153,28 @@
       "category_label": "지원사업"
     },
     {
+      "id": "f87bbc08be2ff4cce5f08ba4",
+      "title": "김해시, 2027년 유기질비료 지원사업 신청 접수 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2cVNZX2xZdmtaanlTNHF2Y2RlQi05a2dqTEpibkFWUnhpUk00OC1ydmxJX21Uc0I1YzFxT1NWSkFkdnlGZm5RSktqVFNUclo2NUtrUUp6WG11dURNQzJ4YTZtbi00S01fWWxQM05GNEPSAXRBVV95cUxPSkN6TUNORFJpbjF2ekRSZlpHWmdGdVliU0N4d1JLNWI5SktDMVUyYU9MNW5oLXg5eGdBbHBCSjlaUjAtOTJNV1RYTlVMc1Qzb05VY3J5c2VoUXRGRVAtcTVtRDJ3NlJjelpMVkNBT3V6eTJjTA?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-05-26T02:30:00+00:00",
+      "collected_at": "2026-05-26T18:00:18.496648+00:00",
+      "summary": "김해시, 2027년 유기질비료 지원사업 신청 접수 이뉴스투데이",
+      "keywords": [
+        "지원사업",
+        "신청",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "경남",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "bac7920f2d2d76eb699f1bd9",
       "title": "고려아연, 전국 취약계층 물품 지원 '희망풍차' 후원 - 네이트",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ob0JLbmJzSF9WSDVZcXU0OUEzcnlyWUtZcGhEdXJJc3UtR1hqUVN1ajdvcmpfZUNSOF8tSlVic3pSSmcwaEJHTHkzOGtidEl3T1Fr?oc=5",
@@ -1264,25 +1305,6 @@
       "region": "전국",
       "deadline_text": "5월 27일 마감",
       "deadline_date": "2026-05-27",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "d1a821a3bb1a1eddd3f5fe01",
-      "title": "양주시, 치유농업 프로그램 참여기관 모집 - 미디어투데이",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5keWw1WVQzcDdSWGlONF9tTXlkYm9NUC1EVTR5emJkNkw2aGhaMmhiOVNLWnlxTHhUVU1oRzVaUUJGREFXNFVOZHBn?oc=5",
-      "source": "Google News 지자체 농업기술센터",
-      "category": "support",
-      "published_at": "2026-05-26T01:57:00+00:00",
-      "collected_at": "2026-05-26T06:02:50.818947+00:00",
-      "summary": "양주시, 치유농업 프로그램 참여기관 모집 미디어투데이",
-      "keywords": [
-        "농업",
-        "모집"
-      ],
-      "importance": 74,
-      "region": "경기",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
       "category_label": "지원사업"
     },
     {
@@ -6743,6 +6765,24 @@
       "category_label": "지원사업"
     },
     {
+      "id": "81204248dd042320f733ce5f",
+      "title": "손모내기 하며 일손돕고 전통 농업 배워 - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ET1BOdzZuR3JoMWM0VWdXTnp2VFhrQXBJWFdrdklPSFctVE1MdzBsQTBGRGNiSUVCYUJ6a09rMmprUmZJcUVSTVUySVNtdC1YamxSRGI3eVdkZw?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-20T07:00:00+00:00",
+      "collected_at": "2026-05-26T16:23:01.488622+00:00",
+      "summary": "손모내기 하며 일손돕고 전통 농업 배워 농민신문",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "3310519c2aca2f879597fe85",
       "title": "대전시, 17년 방치 폐지하보도에 시민참여형 스마트팜 조성 - 뉴스프리존",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xSW13UEtNSTlPY2p1NldLMGJSYVhYZ3BidnlCUDM1TmdQNDFpR3Y4d1hBY2RGZHBXaDNBQUk0eE1aMThOUmZJbWhfampDX0k2UTgxSXhxekROaDdUOU1CMFF1LUg1U3c1bU9CaXhDUXVrbC1sUkhz0gF3QVVfeXFMTjFJbXdQS01JOU9janU2V0swYlJhWFhncGJ2eUJQMzVOZ1A0MWlHdjh3WEFjZEZkcFdoM0FBSTR4TVoxOE5SZkltaF9qakNfSTZRODFJeHF6RE5oN1Q5TUIwUXUtSDVTdzVtT0JpeENRdWtsLWxSSHM?oc=5",
@@ -12175,20 +12215,20 @@
     }
   ],
   "stats": {
-    "total": 637,
+    "total": 639,
     "category_counts": {
-      "news": 355,
+      "news": 356,
       "plant_reviews": 16,
-      "support": 266
+      "support": 267
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 207
+        "count": 208
       },
       {
         "keyword": "지원",
-        "count": 165
+        "count": 166
       },
       {
         "keyword": "농촌",
@@ -12196,7 +12236,7 @@
       },
       {
         "keyword": "사업",
-        "count": 91
+        "count": 92
       },
       {
         "keyword": "스마트팜",
@@ -12204,23 +12244,23 @@
       },
       {
         "keyword": "지원사업",
-        "count": 70
+        "count": 71
       },
       {
         "keyword": "모집",
         "count": 63
       },
       {
+        "keyword": "신청",
+        "count": 58
+      },
+      {
         "keyword": "청년농",
         "count": 57
       },
       {
-        "keyword": "신청",
-        "count": 57
-      },
-      {
         "keyword": "접수",
-        "count": 54
+        "count": 55
       },
       {
         "keyword": "귀농",
@@ -12234,7 +12274,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 148
+        "count": 149
       },
       {
         "source": "Google News 청년농 귀농",
@@ -12250,7 +12290,7 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 55
+        "count": 56
       },
       {
         "source": "Google News 농산물 가격",
@@ -12266,7 +12306,7 @@
       },
       {
         "source": "Google News 농업기술센터 모집",
-        "count": 21
+        "count": 22
       },
       {
         "source": "Google News 식물 키우기",
@@ -12277,8 +12317,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 650,
+    "new_items": 3,
+    "fetched_items": 702,
     "errors": []
   }
 }
