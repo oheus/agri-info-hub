@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T14:17:07.398729+00:00",
+  "generated_at": "2026-05-27T14:47:38.945503+00:00",
   "items": [
     {
       "id": "d90b2e0d6cde7cda3a737f4a",
@@ -960,6 +960,44 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "21be5adf497e381ff1971b9c",
+      "title": "안성시, 저탄소 농산물 인증 지원 참여 농가 모집 - 미디어와이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EQ3hIdkY2Vk13Rzc3WUJUUnlaS1AtRHVqQW1seFRoZFZ6LXNRZ3laSnVWSjFtRHJDT0M0blhySFRQWTRMeFFvek9VbVVMRXFBN3hkTlpfLVhuN00tX2hYYkk1RVk0Q21GaHfSAW5BVV95cUxPT2NhMHlvbnBYeTlSRTluQ3hFN01YVWdlMm11dTFsa2tuSXFWcWM4M3BBUXZ3ZGpDQXMwcG9QWWR0eHJPSWNVbERHaFBjNzZaNTQ5UmV5UVppQnQ2Rk15TGczUlpJdkNKTXZtbnhMUQ?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-05-27T04:24:41+00:00",
+      "collected_at": "2026-05-27T14:47:38.181809+00:00",
+      "summary": "안성시, 저탄소 농산물 인증 지원 참여 농가 모집 미디어와이",
+      "keywords": [
+        "농산물",
+        "모집",
+        "지원"
+      ],
+      "importance": 80,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "bcaeeac164d3870f03eec5d1",
+      "title": "고성군, 복지·치유·농경문화 연계 ‘살기 좋은 농촌’ 만든다 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aUEtiSlRNLS15azY4el95MlNKWk1wYkxUT0J3aG82SzFzRjJRRnhxMUNnYVl6VjhfSndwdjdrRGQ4dGlKWF92NlpBcUY2Zm53cVppMmZWM1RhS2J2R0NEa28tTml0enZQbGh1N05obUtwMTZ0c3g2LdIBeEFVX3lxTE1aUEtiSlRNLS15azY4el95MlNKWk1wYkxUT0J3aG82SzFzRjJRRnhxMUNnYVl6VjhfSndwdjdrRGQ4dGlKWF92NlpBcUY2Zm53cVppMmZWM1RhS2J2R0NEa28tTml0enZQbGh1N05obUtwMTZ0c3g2LQ?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-27T04:09:30+00:00",
+      "collected_at": "2026-05-27T14:47:20.816165+00:00",
+      "summary": "고성군, 복지·치유·농경문화 연계 ‘살기 좋은 농촌’ 만든다 뉴시스",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "f5734c1b44cae9c7a7acd99a",
@@ -13038,49 +13076,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "562aade59de5b9fa2a2c8137",
-      "title": "엽근채소 관측- 배추, 무, 양배추 가격 9월 중순 이후 하락세 - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45ZW0wZkdNVThPZ2lMcDVBLWw0cmRJVWljUjFwZHhjelcyWTRrN2x1STJ6T2ZoYllYYl9JQzlCTzJZbnJra0dPdnlnTTFXNkdxdXFZNlJ2cmhGV3pjQ09JRk5kMjFaZWJhVl9r?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-05-18T00:12:30+00:00",
-      "collected_at": "2026-05-19T06:08:05.063332+00:00",
-      "summary": "엽근채소 관측- 배추, 무, 양배추 가격 9월 중순 이후 하락세 농수축산신문",
-      "keywords": [],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "03ec64f35da8bf8c822f1918",
-      "title": "주민과 귀농귀촌인, 함께 만든 동백꽃길 - 홍성신문·내포타임즈",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54YzA5X0ZHVHItcU1FRlVocGo3V0hLYmxQYUZCSWZubDJGNjFwY2pucmlRYlV0MGtrOGExOVVTRjV1R3BIU3B5dzJ1Mkx5SkV5dU5sdnJJR3l2UHJqUkRJSURwb3pvSVJZQ004?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-18T00:04:40+00:00",
-      "collected_at": "2026-05-18T07:26:51.887120+00:00",
-      "summary": "주민과 귀농귀촌인, 함께 만든 동백꽃길 홍성신문·내포타임즈",
-      "keywords": [
-        "귀농",
-        "귀농귀촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
     "total": 685,
     "category_counts": {
-      "news": 376,
+      "news": 375,
       "plant_reviews": 25,
-      "support": 284
+      "support": 285
     },
     "top_keywords": [
       {
@@ -13089,11 +13092,11 @@
       },
       {
         "keyword": "지원",
-        "count": 185
+        "count": 186
       },
       {
         "keyword": "농촌",
-        "count": 123
+        "count": 124
       },
       {
         "keyword": "사업",
@@ -13109,19 +13112,19 @@
       },
       {
         "keyword": "모집",
-        "count": 66
+        "count": 67
       },
       {
         "keyword": "청년농",
         "count": 65
       },
       {
-        "keyword": "신청",
+        "keyword": "농산물",
         "count": 59
       },
       {
-        "keyword": "농산물",
-        "count": 58
+        "keyword": "신청",
+        "count": 59
       },
       {
         "keyword": "접수",
@@ -13129,17 +13132,17 @@
       },
       {
         "keyword": "귀농",
-        "count": 48
+        "count": 47
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 158
+        "count": 159
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 75
+        "count": 74
       },
       {
         "source": "Google News 스마트팜",
@@ -13155,7 +13158,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 58
+        "count": 57
       },
       {
         "source": "Google News 청년농 지원",
@@ -13171,15 +13174,15 @@
       },
       {
         "source": "Google News 농업기술센터 모집",
-        "count": 22
+        "count": 23
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 62,
-    "fetched_items": 733,
+    "new_items": 8,
+    "fetched_items": 677,
     "errors": []
   }
 }
