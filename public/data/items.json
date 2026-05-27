@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T20:22:56.922197+00:00",
+  "generated_at": "2026-05-27T20:53:23.591327+00:00",
   "items": [
     {
       "id": "adaf6f4ca7ba12b9e892fa0c",
@@ -56,6 +56,28 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "20e57e7dbd3ace9517f358bf",
+      "title": "여수시, '유기질비료 지원사업' 신청 접수 - 한국뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ncDM3VElxcDFYVVNjcUplV0RaQXdQck5meDlZZUg2OFVidDVnMVFYM28zb2owUDRZRV9pWXBvVWxJOFdla3ZKeUtIWUE3OFlvU2YtQXkzblZ3cjd6UHd0T1NrMHJUUQ?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-05-27T14:39:09+00:00",
+      "collected_at": "2026-05-27T20:53:22.811002+00:00",
+      "summary": "여수시, '유기질비료 지원사업' 신청 접수 한국뉴스통신",
+      "keywords": [
+        "지원사업",
+        "신청",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 80,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "d90b2e0d6cde7cda3a737f4a",
@@ -390,6 +412,27 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "576fbdb6321ec3754dafaa5a",
+      "title": "안성시농업기술센터, 5월 26일부터 한 달간 저탄소 농산물 인증 전액 무료 지원 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNU21jeExyeGlHS3JucXBqQklhTEs1akFWekJ4V0xxamhRVEl3YmhUWVlJTzZncTA1dWdZeXlXQkRaWC1WMkhtbGZiUQ?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-05-27T08:25:02+00:00",
+      "collected_at": "2026-05-27T20:53:22.811002+00:00",
+      "summary": "안성시농업기술센터, 5월 26일부터 한 달간 저탄소 농산물 인증 전액 무료 지원 v.daum.net",
+      "keywords": [
+        "농업",
+        "농산물",
+        "농업기술센터",
+        "지원"
+      ],
+      "importance": 74,
+      "region": "",
+      "deadline_text": "5월 26일 마감",
+      "deadline_date": "2026-05-26",
+      "category_label": "지원사업"
+    },
+    {
       "id": "b1de364908da911abfd64748",
       "title": "평택시, 홀몸 어르신 위한 반려식물 정서지원 프로그램 중간보고회 열려 - 웹이코노미",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pRGpRY3VLZ1UyNlRSYjRyd3RHeVRMLVpKdnNsckxFczFuclJSUVFkOU5Rb2UydGh6cUdEZjRXbG54YWY4ZjJCai1QNEIzRmlFX0hjRkFidlFQcW9nOVBwN1hTLU5kNV9lSmZBOG5lQWpLUQ?oc=5",
@@ -406,27 +449,6 @@
       "region": "경기",
       "deadline_text": "",
       "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "1549c640a148a98f7d60ca1c",
-      "title": "안성시농업기술센터, 5월 26일부터 한 달간 저탄소 농산물 인증 전액 무료 지원 - 인천일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MY0ZWS1NvZlpnakNKTzhvam5vMHFtVUcwNGpKSFo0cFR1ZXp6TGhkTS1VYmRZOF8tTldqZzZQYVhCQUxmVzRzdDJpdENrVHVGLWZTQUI3N0xucmpSQi10U1RvTHhSdDJnRnlBM0Rjbw?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-05-27T08:18:00+00:00",
-      "collected_at": "2026-05-27T09:04:17.197577+00:00",
-      "summary": "안성시농업기술센터, 5월 26일부터 한 달간 저탄소 농산물 인증 전액 무료 지원 인천일보",
-      "keywords": [
-        "농업",
-        "농산물",
-        "농업기술센터",
-        "지원"
-      ],
-      "importance": 74,
-      "region": "인천",
-      "deadline_text": "5월 26일 마감",
-      "deadline_date": "2026-05-26",
       "category_label": "지원사업"
     },
     {
@@ -13102,11 +13124,11 @@
     }
   ],
   "stats": {
-    "total": 687,
+    "total": 688,
     "category_counts": {
       "news": 381,
       "plant_reviews": 25,
-      "support": 281
+      "support": 282
     },
     "top_keywords": [
       {
@@ -13115,7 +13137,7 @@
       },
       {
         "keyword": "지원",
-        "count": 184
+        "count": 185
       },
       {
         "keyword": "농촌",
@@ -13123,7 +13145,7 @@
       },
       {
         "keyword": "사업",
-        "count": 96
+        "count": 97
       },
       {
         "keyword": "스마트팜",
@@ -13131,7 +13153,7 @@
       },
       {
         "keyword": "지원사업",
-        "count": 79
+        "count": 80
       },
       {
         "keyword": "모집",
@@ -13147,11 +13169,11 @@
       },
       {
         "keyword": "신청",
-        "count": 58
+        "count": 59
       },
       {
         "keyword": "접수",
-        "count": 53
+        "count": 54
       },
       {
         "keyword": "귀농",
@@ -13196,7 +13218,7 @@
         "count": 26
       },
       {
-        "source": "Google News 지자체 농업기술센터",
+        "source": "Google News 농업기술센터 모집",
         "count": 23
       }
     ]
@@ -13204,8 +13226,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 1,
-    "fetched_items": 732,
+    "new_items": 2,
+    "fetched_items": 726,
     "errors": []
   }
 }
