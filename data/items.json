@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T17:20:13.445871+00:00",
+  "generated_at": "2026-05-27T17:50:41.166068+00:00",
   "items": [
     {
       "id": "adaf6f4ca7ba12b9e892fa0c",
@@ -39,14 +39,14 @@
       "category_label": "지원사업"
     },
     {
-      "id": "f4b112410f7df0bbf7924660",
-      "title": "농지은행 활용부터 한 달 살이까지… 귀농귀촌 정보 한 자리에 - 국민일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02N210alNvdlpOdW5BbXBEc1diZzZmbFdMNUgtWE1qZUVaMEhRbXBWTThsbUlkUFBTNDdlR3FPbTMxbEJyMG1DTlZnQURmb1V0MmhDYnBNNHpVUGg1NWdJVG5yTWZ5dC1HZzFwS9IBbEFVX3lxTE02N210alNvdlpOdW5BbXBEc1diZzZmbFdMNUgtWE1qZUVaMEhRbXBWTThsbUlkUFBTNDdlR3FPbTMxbEJyMG1DTlZnQURmb1V0MmhDYnBNNHpVUGg1NWdJVG5yTWZ5dC1HZzFwSw?oc=5",
+      "id": "0199e17b0e0a51dd45749c74",
+      "title": "농지은행 활용부터 한 달 살이까지… 귀농귀촌 정보 한 자리에 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tMlRuRTJEYk1sNmJoUWw3VTVWNEFSVkZNSGJobEU4RkVsX3N1UUVxUTgzZlNqWnItYzk1RkJCWkNlRnZ6VGI0Tzh3cjQ4Ujg?oc=5",
       "source": "Google News 청년농 귀농",
       "category": "news",
-      "published_at": "2026-05-27T15:10:00+00:00",
-      "collected_at": "2026-05-27T16:49:29.730641+00:00",
-      "summary": "농지은행 활용부터 한 달 살이까지… 귀농귀촌 정보 한 자리에 국민일보",
+      "published_at": "2026-05-27T15:13:06+00:00",
+      "collected_at": "2026-05-27T17:50:27.677451+00:00",
+      "summary": "농지은행 활용부터 한 달 살이까지… 귀농귀촌 정보 한 자리에 v.daum.net",
       "keywords": [
         "귀농",
         "귀농귀촌"
@@ -180,6 +180,28 @@
       "importance": 64,
       "region": "경북",
       "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "17ec0fd10c210089264cd166",
+      "title": "안성시, 저탄소 농산물 인증 지원사업 모집 - 경인미래신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40R0JIdDJlRXd5dzNaa251UFFQM1R5OGp2R244VkgxeDVBWUtpa2ZvNk1qblZzbHJpZzI3NS1rT2FqSTdZcHJra2ZodzJGTkx4dGJGWjJtS3lhTXNqN3lUTXd3?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-05-27T10:06:34+00:00",
+      "collected_at": "2026-05-27T17:50:38.727052+00:00",
+      "summary": "안성시, 저탄소 농산물 인증 지원사업 모집 경인미래신문",
+      "keywords": [
+        "농산물",
+        "지원사업",
+        "모집",
+        "지원",
+        "사업"
+      ],
+      "importance": 80,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
     },
@@ -576,6 +598,24 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "ff03b8c61783429637bef858",
+      "title": "바람과 벼 사이에서 키운 청년농의 꿈 - 대전일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpUUpfSkJMU3M0VnVuRElabS1hbG5Ha2RNSXFRWTdiMFRiTm5iNzAzUlRsejZsSG1nVTlLYTRaY0ppdTdKQ29VYkt1YS1zcU40RnV3TXdhdVVHeWRpR1VKbkstVDAyY2pKbnQydTVSeWU4aTTSAXNBVV95cUxQaVFKX0pCTFNzNFZ1bkRJWm0tYWxuR2tkTUlxUVk3YjBUYk5uYjcwM1JUbHo2bEhtZ1U5S2E0WmNKaXU3SkNvVWJLdWEtc3FONEZ1d013YXVVR3lkaUdVSm5LLVQwMmNqSm50MnU1UnllOGk0?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-05-27T07:27:19+00:00",
+      "collected_at": "2026-05-27T17:50:27.677451+00:00",
+      "summary": "바람과 벼 사이에서 키운 청년농의 꿈 대전일보",
+      "keywords": [
+        "청년농"
+      ],
+      "importance": 48,
+      "region": "대전",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -1178,6 +1218,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "e5662b9d5880a29d83258693",
+      "title": "고성군, 복지∙치유∙농경문화 연계한 ‘살기 좋은 농촌’ 만든다 - 뉴스프리존",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ObFpkMTVCbG1Qd0xiQjd5clVTbG83S1ZqZ3FXZmttcTROLW9oTFZKOUhEcWdpNE84b016cnRmY3didDh6TUczVVJZUEFENlhkblFuZHNndGMzV21ZT1NLX1FfSllYblJCaXR3eWpvRGtvY3I5dnow0gF3QVVfeXFMT05sWmQxNUJsbVB3TGJCN3lyVVNsbzdLVmpncVdma21xNE4tb2hMVko5SERxZ2k0TzhvTXpydGZjd2J0OHpNRzNVUllQQUQ2WGRuUW5kc2d0YzNXbVlPU0tfUV9KWVhuUkJpdHd5am9Ea29jcjl2ejA?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-27T04:43:34+00:00",
+      "collected_at": "2026-05-27T17:50:24.799150+00:00",
+      "summary": "고성군, 복지∙치유∙농경문화 연계한 ‘살기 좋은 농촌’ 만든다 뉴스프리존",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "b2e615603e9e2e9e8fa4ec9d",
       "title": "안성시, 2026년 하반기 저탄소 농산물 인증 지원사업 모집 시작 - 하나뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YTGlKcXRBalhVWXRIcGJYMzNtc3JaN1ZxNGRkajBIQ3pDNkJkYWVPMmdLTDR1cGdMeS1HeERSTGFCMXhLMUVjalQzU0RKU25saTJOY1pFVnJhOC1tZ1V2bkdMRnVaQXBQN3N5dg?oc=5",
@@ -1398,6 +1456,28 @@
       "importance": 64,
       "region": "",
       "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "eb2dcdc2760cc3710f818b65",
+      "title": "안성시, ‘2026년 하반기 저탄소 농산물 인증 지원사업’ 모집 - 이코노믹포스트",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HRG10RUZrYWVvVjdJbmc0N21XUDJzY3ZxbWJfeGkxb2Z2MzFGWEVDZXQ4NFZJSjljdi1GOGFELVJPbTJ5TWEtNzVEZ0U?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-05-27T02:58:44+00:00",
+      "collected_at": "2026-05-27T17:50:40.431783+00:00",
+      "summary": "안성시, ‘2026년 하반기 저탄소 농산물 인증 지원사업’ 모집 이코노믹포스트",
+      "keywords": [
+        "농산물",
+        "지원사업",
+        "모집",
+        "지원",
+        "사업"
+      ],
+      "importance": 80,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
     },
@@ -5930,6 +6010,22 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "7551e05966a05892b960be24",
+      "title": "알림소식 > 보도자료 > 송미령 장관, 가정의 달을 기념하여 가족친화 이벤트로 직원들과 행복 소통 추진 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLbFJ0YkZHN00yZlRFUjd6T0ZyNEZDQ2pQNlZNaHBuTTdzcXFhU1pSbzI3eEhrakFaSDZFaUN3U2ZzOERFYkZSOVJJU3U5Y1BaNEtCNnVpRFNtbEo1NGZBdUZQRWhQOW9Sd25VMm9NWWxGbGEzT0o5SENFUQ?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "news",
+      "published_at": "2026-05-22T02:00:00+00:00",
+      "collected_at": "2026-05-27T17:50:33.243016+00:00",
+      "summary": "알림소식 > 보도자료 > 송미령 장관, 가정의 달을 기념하여 가족친화 이벤트로 직원들과 행복 소통 추진 농림축산식품부",
+      "keywords": [],
+      "importance": 42,
+      "region": "전국",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -13105,103 +13201,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "9529c984a0799855171fe4d5",
-      "title": "[6·3 진주] 조규일 \"지속 가능한 농업, 안전한 진주실현\" - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tQ01CcU92NDVIRGhyQy1rTmJzMlBSX25NWnV1S0tQUGZIcXg0eUpOXy1sTWcyaEtMdkJkeGtWcU9rd1A1UGtvQ0FwMEU4NHhKS1RMaTNVa3JhTVBmYldQOEQ1UFA4am16eUl2b1kzQURlZndsd1JWc9IBeEFVX3lxTE0tQ01CcU92NDVIRGhyQy1rTmJzMlBSX25NWnV1S0tQUGZIcXg0eUpOXy1sTWcyaEtMdkJkeGtWcU9rd1A1UGtvQ0FwMEU4NHhKS1RMaTNVa3JhTVBmYldQOEQ1UFA4am16eUl2b1kzQURlZndsd1JWcw?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-18T02:32:05+00:00",
-      "collected_at": "2026-05-18T07:26:48.208918+00:00",
-      "summary": "[6·3 진주] 조규일 \"지속 가능한 농업, 안전한 진주실현\" 뉴시스",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "region": "경남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "88cf2243ef6fb71ac94be55d",
-      "title": "\"외지 청년농 경남으로 몰린다\"…스마트농업단지 '인기' - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sTDAwMnhqcTgzeFpIQmJEd20zUHY2MFNEdUZ5Z2ZwS0ZoUjJQbUI1eVozM2tfdXc5TjhvX1ZZdWFLQ0ljNUZ4M0Y0ZkVRZ3FHQTE0ag?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-18T02:30:01+00:00",
-      "collected_at": "2026-05-18T21:02:02.435006+00:00",
-      "summary": "\"외지 청년농 경남으로 몰린다\"…스마트농업단지 '인기' v.daum.net",
-      "keywords": [
-        "농업",
-        "청년농"
-      ],
-      "importance": 48,
-      "region": "경남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "b70445257bd0b2f48921d3d6",
-      "title": "양산시 농업기술센터, 제20기 농심대학 교육생 모집 - 경남경제",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jM1Q1TUE3bHF6OUxpSUZDNklsZFlFRkVScGxsUU5IYmphX3V4SmZXcHVlZE1rejlWSjV0OWNyVjBhRTRPdDktVVgwdUxNZkhtWXNLemFiT2hzU3hMSjAzR0JoQjk1cGZ50gFoQVVfeXFMTWMzVDVNQTdscXo5TGlJRkM2SWxkWUVGRVJwbGxRTkhiamFfdXhKZldwdWVkTWt6OVZKNXQ5Y3JWMGFFNE90OS1VWDB1TE1mSG1Zc0t6YWJPaHNTeExKMDNHQmhCOTVwZnk?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-05-18T02:18:00+00:00",
-      "collected_at": "2026-05-22T03:39:22.460920+00:00",
-      "summary": "양산시 농업기술센터, 제20기 농심대학 교육생 모집 경남경제",
-      "keywords": [
-        "농업",
-        "모집",
-        "농업기술센터"
-      ],
-      "importance": 74,
-      "region": "경남",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "516c78cb7b9d5119d06bbb16",
-      "title": "화성시 ‘2027년 유기질비료 지원사업’ 6월 조기 접수 시행:장애인인식개선신문 - 장애인인식개선신문",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9DbHhMRjJrZElfMHJqQ1JWYl9wTm1tdE9DaXJ5MDQyU1cyYndDaDVMTENTU3Q3Wm00eDFfOVlRT3YwZ9IBX0FVX3lxTFA3UU9oSjZtQVEtd3NMbS0wdHVFZWNrbUotekhDVDNmeVlUU2w0V2xiRHJyd2VXcU9NVS1xZGNyT0pBUlVVWTdGNmZEVVM5ZHVYbVZyYUIzeVB2cndZR1Fn?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-18T02:13:00+00:00",
-      "collected_at": "2026-05-18T07:26:49.209288+00:00",
-      "summary": "화성시 ‘2027년 유기질비료 지원사업’ 6월 조기 접수 시행:장애인인식개선신문 장애인인식개선신문",
-      "keywords": [
-        "지원사업",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "경기",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "add02c15315c1d5284ecdefb",
-      "title": "[청년! 농업·농촌에서 희망을 찾다] 장(醬)으로 전통을 이어가다 - 매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OMmt1WEF5Ujd6and2LV95WGhFR3FjM3NjTi1kQi1NUXBNdTJxUkZxd2ZWMkJoaVhRT1J5QUdaOVd0OU5YaFdiNzlfcFl6V2w1RDd3SDZqa1poV3dPbm5IeEh3?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-18T02:11:38+00:00",
-      "collected_at": "2026-05-18T07:26:48.208918+00:00",
-      "summary": "[청년! 농업·농촌에서 희망을 찾다] 장(醬)으로 전통을 이어가다 매일신문",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
@@ -13214,11 +13213,11 @@
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 229
+        "count": 225
       },
       {
         "keyword": "지원",
-        "count": 187
+        "count": 188
       },
       {
         "keyword": "농촌",
@@ -13226,7 +13225,7 @@
       },
       {
         "keyword": "사업",
-        "count": 97
+        "count": 98
       },
       {
         "keyword": "스마트팜",
@@ -13234,27 +13233,27 @@
       },
       {
         "keyword": "지원사업",
-        "count": 80
+        "count": 81
       },
       {
         "keyword": "모집",
-        "count": 68
+        "count": 69
       },
       {
         "keyword": "청년농",
         "count": 65
       },
       {
+        "keyword": "농산물",
+        "count": 61
+      },
+      {
         "keyword": "신청",
         "count": 60
       },
       {
-        "keyword": "농산물",
-        "count": 59
-      },
-      {
         "keyword": "접수",
-        "count": 55
+        "count": 54
       },
       {
         "keyword": "귀농",
@@ -13264,7 +13263,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 161
+        "count": 160
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13280,7 +13279,7 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 65
+        "count": 64
       },
       {
         "source": "Google News 농산물 가격",
@@ -13296,10 +13295,10 @@
       },
       {
         "source": "Google News 농림축산식품부",
-        "count": 25
+        "count": 26
       },
       {
-        "source": "Google News 농업기술센터 모집",
+        "source": "Google News 지자체 농업기술센터",
         "count": 23
       }
     ]
@@ -13307,8 +13306,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 734,
+    "new_items": 11,
+    "fetched_items": 736,
     "errors": []
   }
 }
