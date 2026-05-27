@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T17:50:41.166068+00:00",
+  "generated_at": "2026-05-27T18:21:09.304696+00:00",
   "items": [
     {
       "id": "adaf6f4ca7ba12b9e892fa0c",
@@ -470,14 +470,14 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "3369a68c257ed803ea604958",
-      "title": "창녕군, 친환경농업 육성…'2027년 유기질비료 지원사업' 신청 접수 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsRlhER3NMN3pwTWE1Nlg3NkRUWmZMbzE3UGpJMnREM1RVTkhFTUFvLWlVX2RObWJPUDVPSWEwR1c1cEkwNEgyWEc3NnllMUJ2WU9j?oc=5",
+      "id": "e203f4ce50add011e86b74b0",
+      "title": "창녕군, 친환경농업 육성…'2027년 유기질비료 지원사업' 신청 접수 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zOVhwWTgzbEVtSTR6V3ByTktFb25FZXhTWGo5Q3B1RE8xUXRDWVNHd0ZxWnBvNVhBdDZBc3d2eXBIaXZTNUlyeGxwckVrWmc?oc=5",
       "source": "Google News 지원사업",
       "category": "support",
-      "published_at": "2026-05-27T08:03:00+00:00",
-      "collected_at": "2026-05-27T08:18:15.381023+00:00",
-      "summary": "창녕군, 친환경농업 육성…'2027년 유기질비료 지원사업' 신청 접수 네이트",
+      "published_at": "2026-05-27T08:04:59+00:00",
+      "collected_at": "2026-05-27T18:20:54.179326+00:00",
+      "summary": "창녕군, 친환경농업 육성…'2027년 유기질비료 지원사업' 신청 접수 v.daum.net",
       "keywords": [
         "농업",
         "친환경농업",
@@ -1818,6 +1818,25 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "569a09c43e5e828a24e2e374",
+      "title": "\"농업, 돌봄된다\"…순천 치유농업 기반 농촌복지 확대 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83ZnlEWURRY2dnLUlHc0VXUTJvbkd0cHI0VnFLVGhVSWNsNWhCRDFWRE1QV0VGdF9JeE55eHBiRlNnclVneWxUUm1wNUhkaHJLV0c0cA?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-26T21:45:04+00:00",
+      "collected_at": "2026-05-27T18:20:53.444643+00:00",
+      "summary": "\"농업, 돌봄된다\"…순천 치유농업 기반 농촌복지 확대 v.daum.net",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전남",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -6986,6 +7005,24 @@
       ],
       "importance": 42,
       "region": "경북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "2a9f359dbc1f129a98c3d0c5",
+      "title": "농진청, 휴가철 대비 전국 농촌 체험장 등 991곳 안전 점검 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44cU1aRXBmWjNhN2tLc1ktUF9kWUNvSnNicG9qVDBFSnc3U3NSaWpieTVNb3lpalRyZE1IMkdDUDFESzRNTU90bGcyRmFsVDJqa0ZJMkpCNkJVOFXSAWBBVV95cUxNVFhpdHlSWUtyNnE2d2JGaFE4Y3hiMERKRGRIQXUyb0g0S3hGVkpuTlFHaXNBa1ktTlhaWGpzQWlqclA5Y2RfSWZRR0ZLRW9yUHk3X2x0b2ptcXlGRGV4T3k?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-21T05:20:08+00:00",
+      "collected_at": "2026-05-27T18:20:53.444643+00:00",
+      "summary": "농진청, 휴가철 대비 전국 농촌 체험장 등 991곳 안전 점검 연합뉴스",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -13144,84 +13181,27 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "d6145b54ae28260284d9cca1",
-      "title": "평택시, 벼 드문모 심기 재배 기술 시연회 추진 - 경기탑뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92dWwzVWJzcTQ4VzlJaTNtaUlvek00NnZMOUVPM21YRTNmTGZFNWtQWGVhM19zRTFmVGh0cXdKeWFxSm5MeF9CU0FSU2tKMnJINEpJRGpjVDZEV1BtNEhJVg?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-18T03:30:13+00:00",
-      "collected_at": "2026-05-23T13:00:47.839563+00:00",
-      "summary": "평택시, 벼 드문모 심기 재배 기술 시연회 추진 경기탑뉴스",
-      "keywords": [
-        "재배"
-      ],
-      "importance": 42,
-      "region": "경기",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "d5139ed0bed2638b109b8532",
-      "title": "양주시, 무인제초보트로 농업 혁신 가속화 - 브릿지경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JNk5LVjVsM053eVh4cUhiYi1NTU9RYmlhZW9GMjdxVzFhTVRfWmstQ0RQZm5Od2dkMjZZb3pqSlo4WXVHVXFsbHRVUW1HRU5nQkw2OGJIUlQ4QQ?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-18T03:10:00+00:00",
-      "collected_at": "2026-05-18T07:26:48.208918+00:00",
-      "summary": "양주시, 무인제초보트로 농업 혁신 가속화 브릿지경제",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "region": "경기",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f2ed77454cd6df9878e82ba8",
-      "title": "무주 청년 농업인 6명 '영농정착 지원'대상 선정…후계농업경영인에도 5명 포함 - 프레시안",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aakx0Y01ZRjZfSzNuRXBSQ0xkQzhWWUVYT3dXVHFhZk1lQ3dDN1FRMmhXU2RTY0RzMjBWV1dwMm1wTk8zbjNvWEZTNzlsMl91VE9OVldncFBYODR5X1ZiWVFEdmdqQUdqWlRr?oc=5",
-      "source": "Google News 농업 지원금",
-      "category": "support",
-      "published_at": "2026-05-18T02:39:19+00:00",
-      "collected_at": "2026-05-18T07:26:59.295885+00:00",
-      "summary": "무주 청년 농업인 6명 '영농정착 지원'대상 선정…후계농업경영인에도 5명 포함 프레시안",
-      "keywords": [
-        "농업",
-        "농업인",
-        "후계농",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 692,
+    "total": 691,
     "category_counts": {
       "news": 381,
       "plant_reviews": 25,
-      "support": 286
+      "support": 285
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 225
+        "count": 224
       },
       {
         "keyword": "지원",
-        "count": 188
+        "count": 187
       },
       {
         "keyword": "농촌",
-        "count": 125
+        "count": 127
       },
       {
         "keyword": "사업",
@@ -13263,7 +13243,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 160
+        "count": 161
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13275,7 +13255,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 67
+        "count": 66
       },
       {
         "source": "Google News 지원사업",
@@ -13306,8 +13286,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 11,
-    "fetched_items": 736,
+    "new_items": 6,
+    "fetched_items": 731,
     "errors": []
   }
 }
