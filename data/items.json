@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T19:52:29.335458+00:00",
+  "generated_at": "2026-05-27T20:22:56.922197+00:00",
   "items": [
     {
       "id": "adaf6f4ca7ba12b9e892fa0c",
@@ -13099,36 +13099,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "a21f4f1eedbd927e80636f29",
-      "title": "화성시 2027년 유기질비료 지원사업 조기 신청접수 나서 - 열린뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xWERFemFHYVJGbmx5YVVyemo4dTJSZ2R1c05sdFIzWlBiZERXMk5LSER5SzFrQm9vcExiSGdxUVJLa2RYekppdG83WXdQS3lsaDB1cmYzOUd4YS03bDBpUDh2bXltdw?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-18T04:39:40+00:00",
-      "collected_at": "2026-05-18T07:26:49.209288+00:00",
-      "summary": "화성시 2027년 유기질비료 지원사업 조기 신청접수 나서 열린뉴스통신",
-      "keywords": [
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "경기",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 688,
+    "total": 687,
     "category_counts": {
       "news": 381,
       "plant_reviews": 25,
-      "support": 282
+      "support": 281
     },
     "top_keywords": [
       {
@@ -13137,7 +13115,7 @@
       },
       {
         "keyword": "지원",
-        "count": 185
+        "count": 184
       },
       {
         "keyword": "농촌",
@@ -13145,7 +13123,7 @@
       },
       {
         "keyword": "사업",
-        "count": 97
+        "count": 96
       },
       {
         "keyword": "스마트팜",
@@ -13153,7 +13131,7 @@
       },
       {
         "keyword": "지원사업",
-        "count": 80
+        "count": 79
       },
       {
         "keyword": "모집",
@@ -13169,11 +13147,11 @@
       },
       {
         "keyword": "신청",
-        "count": 59
+        "count": 58
       },
       {
         "keyword": "접수",
-        "count": 54
+        "count": 53
       },
       {
         "keyword": "귀농",
@@ -13199,7 +13177,7 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 63
+        "count": 62
       },
       {
         "source": "Google News 농산물 가격",
@@ -13226,8 +13204,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 2,
-    "fetched_items": 726,
+    "new_items": 1,
+    "fetched_items": 732,
     "errors": []
   }
 }
