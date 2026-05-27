@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T16:19:13.670926+00:00",
+  "generated_at": "2026-05-27T16:49:43.780097+00:00",
   "items": [
     {
       "id": "adaf6f4ca7ba12b9e892fa0c",
@@ -37,6 +37,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "f4b112410f7df0bbf7924660",
+      "title": "농지은행 활용부터 한 달 살이까지… 귀농귀촌 정보 한 자리에 - 국민일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02N210alNvdlpOdW5BbXBEc1diZzZmbFdMNUgtWE1qZUVaMEhRbXBWTThsbUlkUFBTNDdlR3FPbTMxbEJyMG1DTlZnQURmb1V0MmhDYnBNNHpVUGg1NWdJVG5yTWZ5dC1HZzFwS9IBbEFVX3lxTE02N210alNvdlpOdW5BbXBEc1diZzZmbFdMNUgtWE1qZUVaMEhRbXBWTThsbUlkUFBTNDdlR3FPbTMxbEJyMG1DTlZnQURmb1V0MmhDYnBNNHpVUGg1NWdJVG5yTWZ5dC1HZzFwSw?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-05-27T15:10:00+00:00",
+      "collected_at": "2026-05-27T16:49:29.730641+00:00",
+      "summary": "농지은행 활용부터 한 달 살이까지… 귀농귀촌 정보 한 자리에 국민일보",
+      "keywords": [
+        "귀농",
+        "귀농귀촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "d90b2e0d6cde7cda3a737f4a",
@@ -1199,6 +1218,25 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "a47cf911ebfe7d3d252b0926",
+      "title": "창원서 '스마트팜 코리아 2026' 개막…미래 농업기술 한자리 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XY1Q3c3ViVXJNN0gwTUZ3SXl5aF9Ta19ZTk1JZ21QdElKQ01qQzZGVXZ3OVVCWUxhemtLOEVrZ0NsODY2SVV6SXJOTkEtQXBKYWJ5aExRLWJRbGZmVUpCSDhySmJSZTVOV05XTkpSMGY?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-27T04:09:34+00:00",
+      "collected_at": "2026-05-27T16:49:28.684341+00:00",
+      "summary": "창원서 '스마트팜 코리아 2026' 개막…미래 농업기술 한자리 신아일보",
+      "keywords": [
+        "농업",
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "경남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "bcaeeac164d3870f03eec5d1",
@@ -13182,43 +13220,23 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "78f826c229db3c852ee8bfbf",
-      "title": "화성특례시, ‘2027년 유기질비료 지원사업’ 시행 - 저널25방송",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VUS1STTZidmFHTThCTHBDWTluSHJMSHcyQkRmMEdPOGNiWXotNHRLV09vQThucVU3M3FzbWhtT1FZLUV2R3lmTGplT3VEYlRrVjlFb0tYZUxuMFZqVHdST0ctMkdOQmxBeHhhYg?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-18T01:56:22+00:00",
-      "collected_at": "2026-05-18T07:26:49.209288+00:00",
-      "summary": "화성특례시, ‘2027년 유기질비료 지원사업’ 시행 저널25방송",
-      "keywords": [
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "경기",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 692,
+    "total": 693,
     "category_counts": {
-      "news": 380,
+      "news": 382,
       "plant_reviews": 25,
-      "support": 287
+      "support": 286
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 228
+        "count": 229
       },
       {
         "keyword": "지원",
-        "count": 188
+        "count": 187
       },
       {
         "keyword": "농촌",
@@ -13226,14 +13244,14 @@
       },
       {
         "keyword": "사업",
-        "count": 98
-      },
-      {
-        "keyword": "지원사업",
-        "count": 81
+        "count": 97
       },
       {
         "keyword": "스마트팜",
+        "count": 81
+      },
+      {
+        "keyword": "지원사업",
         "count": 80
       },
       {
@@ -13258,7 +13276,7 @@
       },
       {
         "keyword": "귀농",
-        "count": 48
+        "count": 49
       }
     ],
     "top_sources": [
@@ -13268,11 +13286,11 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 74
+        "count": 75
       },
       {
         "source": "Google News 스마트팜",
-        "count": 72
+        "count": 73
       },
       {
         "source": "Google News 병해충 재배",
@@ -13280,7 +13298,7 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 66
+        "count": 65
       },
       {
         "source": "Google News 농산물 가격",
@@ -13307,8 +13325,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 13,
-    "fetched_items": 734,
+    "new_items": 3,
+    "fetched_items": 732,
     "errors": []
   }
 }
