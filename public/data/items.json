@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T18:51:35.341380+00:00",
+  "generated_at": "2026-05-27T19:22:01.890175+00:00",
   "items": [
     {
       "id": "adaf6f4ca7ba12b9e892fa0c",
@@ -616,6 +616,25 @@
       ],
       "importance": 48,
       "region": "대전",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "9f053261b692bd828686c6d2",
+      "title": "창업 키우고 정착 돕고… 포항시 귀농귀촌 정책 ‘눈길’ - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSR3ZDTUY5SFk2aVN0MUVQWk9rQ0EtSEtQNFZTMmdJU2hXQTNCdGVWc3NyYjdnZlJzRHlxUFRtd0s4ZGgyWnFHN3NQaUh6MGlSU1AzdQ?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-05-27T07:21:53+00:00",
+      "collected_at": "2026-05-27T19:21:49.342292+00:00",
+      "summary": "창업 키우고 정착 돕고… 포항시 귀농귀촌 정책 ‘눈길’ v.daum.net",
+      "keywords": [
+        "귀농",
+        "귀농귀촌"
+      ],
+      "importance": 42,
+      "region": "경북",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -1819,6 +1838,24 @@
       ],
       "importance": 42,
       "region": "서울",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "a27573954e970930be8fbc67",
+      "title": "제놀루션, 친환경 RNA 작물보호제 특허 출원 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OeTU1ZkZlZlduU1lmOUdiM3JoVmFtSHYzNy1VWFFoampyZldYaXJIZjlsNWxNVnpIS2RfZWo3YjI0akdLTUF0a3Nsck1Vd05LdHM4emJSb0g4QlhFV0RkdUxDeFQ2Wk5uVk9xemFuRmxJLXBQVGtHNdIBeEFVX3lxTE1OeTU1ZkZlZlduU1lmOUdiM3JoVmFtSHYzNy1VWFFoampyZldYaXJIZjlsNWxNVnpIS2RfZWo3YjI0akdLTUF0a3Nsck1Vd05LdHM4emJSb0g4QlhFV0RkdUxDeFQ2Wk5uVk9xemFuRmxJLXBQVGtHNQ?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-26T23:19:00+00:00",
+      "collected_at": "2026-05-27T19:21:50.237372+00:00",
+      "summary": "제놀루션, 친환경 RNA 작물보호제 특허 출원 뉴시스",
+      "keywords": [
+        "작물"
+      ],
+      "importance": 42,
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -10980,6 +11017,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "12c30c0baef6fee2f1f757df",
+      "title": "광양시 귀농어귀촌협회, 농촌 일손 돕기 ‘구슬땀’ - 전국매일신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Kc09jRFdaNzJyXy1MQTRNZTUxNFgxRTl4LVVrbFI5ektTRjU4T24zMHdnMkJIMW5mNHhQT2JRNkhFTnpZT0xZU043LThxS2tQNVFoR2locE03dFVZU3ViQWNUdkNHUmdWcVVYVnd3?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-05-19T07:00:00+00:00",
+      "collected_at": "2026-05-27T19:21:49.342292+00:00",
+      "summary": "광양시 귀농어귀촌협회, 농촌 일손 돕기 ‘구슬땀’ 전국매일신문",
+      "keywords": [
+        "농촌",
+        "귀농"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "20a612f8dd02d1caf6681acc",
       "title": "충남도지사 후보, 농촌 AI·청년농 정책 놓고 공방 - 농수축산신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNWDZpTEVzNGFYdXNGdklUSzBDUEgzenRJaE1TdE9aaXY2OTUwaUVkcmdXMHp6NFRZb2l2djJfUVlZSkxZLXpIeExZd3o5Tk9DZ20zV25OMnVCUURjSWx4Zk45alZHaDVWak9XTw?oc=5",
@@ -13085,85 +13141,27 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "8f3deff3fecdd629aae0326d",
-      "title": "정읍시, 예비 농업인 28명 배출… ‘2026 귀농귀촌 아카데미’ 성료 - 아시아뉴스전북",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52S1Fwekhna2haN3pNVkltcllNWENubV93VVJucVRBdFZvYVhVR19NTU5fRVhVUHdpWFNxR0dtdlRvc0VBeTVEWHNQYXBQdV90MjlqMl9pYmlVRzlqRjlpM29ha3U2Z05RMmJwTG1R0gFuQVVfeXFMTnZLUXB6SGdraFo3ek1WSW1yWU1YQ25tX3dVUm5xVEF0Vm9hWFVHX01NTl9FWFVQd2lYU3FHR212VG9zRUF5NURYc1BhcFB1X3QyOWoyX2liaVVHOWpGOWkzb2FrdTZnTlEyYnBMbVE?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-18T04:25:56+00:00",
-      "collected_at": "2026-05-18T07:26:51.887120+00:00",
-      "summary": "정읍시, 예비 농업인 28명 배출… ‘2026 귀농귀촌 아카데미’ 성료 아시아뉴스전북",
-      "keywords": [
-        "농업",
-        "귀농",
-        "농업인",
-        "귀농귀촌"
-      ],
-      "importance": 42,
-      "region": "전북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "af56eda06a270ea9d4795634",
-      "title": "거창군, 샤인머스캣 가격 하락분 지원 - 경남미디어",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjNlY2OFhUVFRGM2Y4bGdUaDZTQ3lDczdtTld2WWZGSndxWVI1RlREYmROdlNWUDlXQjFlTjUwd054U00tOHY3Ym1CZm9ZejVjNVpSVm9zdndCM01sb1hqd210U1ZrRERxZzJR?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "support",
-      "published_at": "2026-05-18T04:22:19+00:00",
-      "collected_at": "2026-05-22T09:15:16.856067+00:00",
-      "summary": "거창군, 샤인머스캣 가격 하락분 지원 경남미디어",
-      "keywords": [
-        "지원"
-      ],
-      "importance": 70,
-      "region": "경남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "1f2caea967e6d7a87c5f8007",
-      "title": "김태흠 후보, “농업도 AI 대전환 시대”…“청년농 중심 구조개혁 필요” - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FanZFUUh2a0t4c2ZNQUFVZENfd1ZrSm96NjBYaVgtODFkNzR6UnpyeW5yZ0FsRDloMEwya1Ridk9NRXJJZmVCNDJ5U0ZPWTVZSktWbEdmdmtoOWZDUzJhME1abV9yWC1nR3FQag?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-18T04:20:45+00:00",
-      "collected_at": "2026-05-18T07:26:51.887120+00:00",
-      "summary": "김태흠 후보, “농업도 AI 대전환 시대”…“청년농 중심 구조개혁 필요” 농수축산신문",
-      "keywords": [
-        "농업",
-        "청년농"
-      ],
-      "importance": 48,
-      "region": "대전",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
     "total": 689,
     "category_counts": {
-      "news": 380,
+      "news": 381,
       "plant_reviews": 25,
-      "support": 284
+      "support": 283
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 224
+        "count": 222
       },
       {
         "keyword": "지원",
-        "count": 186
+        "count": 185
       },
       {
         "keyword": "농촌",
-        "count": 126
+        "count": 127
       },
       {
         "keyword": "사업",
@@ -13183,7 +13181,7 @@
       },
       {
         "keyword": "청년농",
-        "count": 65
+        "count": 64
       },
       {
         "keyword": "농산물",
@@ -13199,7 +13197,7 @@
       },
       {
         "keyword": "귀농",
-        "count": 49
+        "count": 50
       }
     ],
     "top_sources": [
@@ -13217,7 +13215,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 67
+        "count": 68
       },
       {
         "source": "Google News 지원사업",
@@ -13225,7 +13223,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 56
+        "count": 55
       },
       {
         "source": "Google News 청년농 지원",
@@ -13248,8 +13246,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 5,
-    "fetched_items": 725,
+    "new_items": 7,
+    "fetched_items": 730,
     "errors": []
   }
 }
