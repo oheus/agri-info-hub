@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T14:47:38.945503+00:00",
+  "generated_at": "2026-05-27T15:18:10.463586+00:00",
   "items": [
     {
       "id": "d90b2e0d6cde7cda3a737f4a",
@@ -16,6 +16,41 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
+    },
+    {
+      "id": "3c2dfe2e7d50f9979b60ad67",
+      "title": "농촌진흥청 운영지원과 공무직(청사미화원) 채용 공고 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNY2pYeXh2SWppVEFjc29rQlZ0bGtRUUNEZzR0aTdhLUVxNS1OMjlJV3VTdWpjb3Z2dHlPYmdVdW9hXzhMVVloS3N1UUdISFlreWt3MEJDMWVJekVsSEZoaUtMOHV5cURDaG4zd0NZQ1QyWGxqSDhtNUlpcnlFZHFrR01HZFFpcXNaN19XeUhvZXVxdUxUQy0xTlZFRTFvS3BVZjJFTDFBczExWkVhc3o5SEhXeGxzQ1BHRl9vcUdMZlRwS2ZNTE9uVmxFZ2JHTHBRZTkzVFI1Tm50MVhuTHVTX0NIZWlUdWN6Y09SNlZLLWNwZlI1RlBabFBJbVM4STY5N0JKVXFUMk1UaFNZZExBQ0pjOUFVNk01dkJXMUxRcEtQcXktc1B3OGx3TnJ6ZVkwa1ZiRw?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "support",
+      "published_at": "2026-05-27T12:15:59+00:00",
+      "collected_at": "2026-05-27T15:18:00.856560+00:00",
+      "summary": "농촌진흥청 운영지원과 공무직(청사미화원) 채용 공고 rda.go.kr",
+      "keywords": [
+        "농촌",
+        "지원"
+      ],
+      "importance": 70,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "35c9e54db7d314053c6dfd23",
+      "title": "제3회 국립축산과학원 축산자원개발부 난지축산연구센터 공무직근로자 채용공고 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNZWRHTDJPZ1hnams2amotTXRqQnV2X3RQQ01yeDRrUE9LajQzSUJuTHVRWDlTUDE0VGI1TU11WHNvbWVKanV4MnBwZ1pUTWNPX2M5RTN2bUN4VnpsQ0hoMXh3Z2V6SGVOQ2ZMTHU3S2hzV3A3OV94UnhJZXNRY2RIcmJtcUhWYlFrV2t4QlB2cjVxdU9nSE5DdlotM19lejFudFQ3TFNiSWhNZWpqNkNfNi1DdVBlWUYteGVBRUk4N2N4QWJEQzFKLW1oOUV5RnhCZHRZdE1lcm5udVVpZ2drejBnU0cyM0wxNjRhX2pDOE5TVW9yRWlGQXZNZ3ZMcnlUZGJrbE1Eb3ZUM0xRQmI1aWh6OWdDVXZ4c1FGS1BLbkxSTmVWZ2xaWklZamU5MEYzRG1lQw?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-27T12:04:58+00:00",
+      "collected_at": "2026-05-27T15:18:00.856560+00:00",
+      "summary": "제3회 국립축산과학원 축산자원개발부 난지축산연구센터 공무직근로자 채용공고 rda.go.kr",
+      "keywords": [],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "a53ae90727be0e4035c14774",
@@ -219,6 +254,44 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "574712d70862fbda3f129fc3",
+      "title": "신송규 괴산군의원 후보 “농촌·복지·귀농귀촌 살리겠다” - 괴산타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Xbi16dXU0bi1xTTFxYzBKR241enVuMDFyMVgyaExWUnVkZmJ4R091NkFhbXFNeVpOY3I2VzlvUFJuQWVYalpCRkJpajkzYm1SQkVkYXpRdnk3SFJZdEU1M0V4b0xvd0E5UktKWEhR?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-27T08:47:43+00:00",
+      "collected_at": "2026-05-27T15:17:50.779889+00:00",
+      "summary": "신송규 괴산군의원 후보 “농촌·복지·귀농귀촌 살리겠다” 괴산타임즈",
+      "keywords": [
+        "농촌",
+        "귀농",
+        "귀농귀촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "6fa783db47c84ce6becee846",
+      "title": "[단독] 정부, 농산물 과잉생산 막는다… 차액 보전 요건·생산량 조절 대책 강화 추진 - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV1dJX29yYkl2VUNHajNUQU1KLTF5aUFnMHg4X01LRVVYUjl2SUdBTVJxQW56eEpXWTUya29lc2hITnh0YnI0b1RTYy1mWUNaOW1HZXBjZVE1ZmFpdENaS21BQjlER0VSanpkNGg4SWJKS0ZhVXN0d2EzMlJiWG1TSHVJS28wZ9IBmgFBVV95cUxPV2tMSURjR0VTNFVfRFp3UXdWSm5MZUU4bkVsMHNQQ1d3WXlyRENGZjhXcTlTX1BVLUp0ZFpQMlJpbUM4VlVMQ0RSSUF3emNfU3NIdjc0eGRNT29XQU5pOEo0aHZCY003Y0l0NnRJWEpuTXc0SmpIRE56Um9pZVFYMmRTTTk1VmZYTklpSkZ1amd6VkZtUlNOX1FR?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-05-27T08:32:00+00:00",
+      "collected_at": "2026-05-27T15:17:58.441982+00:00",
+      "summary": "[단독] 정부, 농산물 과잉생산 막는다… 차액 보전 요건·생산량 조절 대책 강화 추진 - 조선비즈 Chosunbiz",
+      "keywords": [
+        "농산물"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "b1de364908da911abfd64748",
@@ -915,6 +988,22 @@
       ],
       "importance": 48,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "141813b5bd9cc63de7201455",
+      "title": "보도자료 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlbUdfMFJVM3VLXzdxOFRXa0tPX0NGSnJUVUNndlozR3NxSzFoM2lseV85OEFWeEFXUDZEVlFqZkZDWEROSU1sNmxXV2FDdzhIQ0w5QXZXMDBKY2RnRFRBaTBTRjhDSTBUeEpVUUdGVjQzbVJ5Z3phcTNvVQ?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "news",
+      "published_at": "2026-05-27T04:46:46+00:00",
+      "collected_at": "2026-05-27T15:18:01.836207+00:00",
+      "summary": "보도자료 농림축산식품부",
+      "keywords": [],
+      "importance": 42,
+      "region": "전국",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -6902,22 +6991,6 @@
       "keywords": [
         "농업"
       ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "4b6477e34f4685e770d6722e",
-      "title": "보도자료 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NTTJ3T1RFMHJ2LUVLcFlndkFaVWxiU0FmOGszLUw4LTdIMVItQ015SUU5QV9QY3lZU1FPV0owRDNxZlcxZTgyU2Z1ZXVQa3pHaGNHY0M0aWV6MzBUSjY2TlNOand6Q290akdTN1FBcmRMT1Y0QkFzUnFnVQ?oc=5",
-      "source": "Google News 농림축산식품부",
-      "category": "news",
-      "published_at": "2026-05-21T02:00:00+00:00",
-      "collected_at": "2026-05-23T23:01:20.093243+00:00",
-      "summary": "보도자료 농림축산식품부",
-      "keywords": [],
       "importance": 42,
       "region": "전국",
       "deadline_text": "",
@@ -13021,69 +13094,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "b28a81c4b97d43d7387d1f66",
-      "title": "“18개 시군 농촌공간 재구조화 기본계획 수립” - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyT292MDM0TkxKcEFqQzFGa2paVnBHNlJuSUF1cXBqR0pIalg1SndlSnlxQkcwWDJvSWM3MENEOTB5MmlpWlR6SWcxRVZLUzQ?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-18T00:25:52+00:00",
-      "collected_at": "2026-05-18T07:26:48.208918+00:00",
-      "summary": "“18개 시군 농촌공간 재구조화 기본계획 수립” v.daum.net",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "bd0c6d4f38079c0938e4d129",
-      "title": "국립식량과학원, 국산 식량작물 산업화 현장 간담회 가져 - 한국농촌경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RTFFsWkROWUVOZC1VdkRSOEg3WFlUVVhmNjlVWS1SNFNjWW11eGhYdHpVYTdBc0RYclBNckRJWEVEZmZaWEpiVFJacGk5ODFhMUJJNkhDQWlVY3J6ZjNRTw?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-18T00:25:17+00:00",
-      "collected_at": "2026-05-18T07:26:53.150548+00:00",
-      "summary": "국립식량과학원, 국산 식량작물 산업화 현장 간담회 가져 한국농촌경제신문",
-      "keywords": [
-        "농촌",
-        "작물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "006c20c50ff4805930115766",
-      "title": "박영주 전국작물보호제유통협회 회장 - 영농자재신문",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84c0VHOFV5Nl9rU1NVSHhoWTYzU2xBVUc5bnl0OWJkcTdCNXQyd2h3bDd2T1ZPWWc4OGRsbXA3M2xxdXVtSjlMT0M5UnJNTXJzTkpMemFJMXNCSVNK?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-18T00:21:37+00:00",
-      "collected_at": "2026-05-18T07:26:48.208918+00:00",
-      "summary": "박영주 전국작물보호제유통협회 회장 영농자재신문",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 685,
+    "total": 686,
     "category_counts": {
       "news": 375,
       "plant_reviews": 25,
-      "support": 285
+      "support": 286
     },
     "top_keywords": [
       {
@@ -13092,7 +13110,7 @@
       },
       {
         "keyword": "지원",
-        "count": 186
+        "count": 187
       },
       {
         "keyword": "농촌",
@@ -13120,7 +13138,7 @@
       },
       {
         "keyword": "농산물",
-        "count": 59
+        "count": 60
       },
       {
         "keyword": "신청",
@@ -13132,13 +13150,13 @@
       },
       {
         "keyword": "귀농",
-        "count": 47
+        "count": 48
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 159
+        "count": 158
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13154,11 +13172,11 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 66
+        "count": 65
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 57
+        "count": 58
       },
       {
         "source": "Google News 청년농 지원",
@@ -13181,8 +13199,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 8,
-    "fetched_items": 677,
+    "new_items": 9,
+    "fetched_items": 736,
     "errors": []
   }
 }
