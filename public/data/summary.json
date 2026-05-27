@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-27T22:24:40.439365+00:00",
-  "total": 686,
+  "generated_at": "2026-05-27T22:55:06.950629+00:00",
+  "total": 685,
   "category_counts": {
     "news": 385,
     "plant_reviews": 24,
-    "support": 277
+    "support": 276
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 216
+      "count": 215
     },
     {
       "keyword": "지원",
@@ -83,7 +83,7 @@
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 36
+      "count": 35
     },
     {
       "source": "Google News 식물 키우기",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 735,
+    "new_items": 2,
+    "fetched_items": 723,
     "errors": []
   }
 }
