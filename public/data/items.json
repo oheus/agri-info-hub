@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-05-27T22:24:40.439365+00:00",
+  "generated_at": "2026-05-27T22:55:06.950629+00:00",
   "items": [
+    {
+      "id": "4e768d8522037c5ab3516592",
+      "title": "양주시, 치유농업 프로그램 참여기관 모집 - 경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tMTlhMnJmVzZaUXlUendFUElvMXNRS1FUb3VpWGJ0OHVuTTlvaF9STXQwTG1xX1J1RW1fYWV2dGtveVhMc0xrOVBxWGFzWkZlWkxoZ0VNb0hvbHhZczJPU2l3?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-05-27T22:54:02+00:00",
+      "collected_at": "2026-05-27T22:55:05.993137+00:00",
+      "summary": "양주시, 치유농업 프로그램 참여기관 모집 경기신문",
+      "keywords": [
+        "농업",
+        "모집"
+      ],
+      "importance": 74,
+      "region": "경기",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
     {
       "id": "09de7022cfb6d8a78f475768",
       "title": "2026년 하반기 저탄소 농산물 인증 지원사업 모집 시작 - 전주일보",
@@ -2134,25 +2153,6 @@
       "category_label": "지원사업"
     },
     {
-      "id": "9b8e719bdb972445656a2981",
-      "title": "양주시, 치유농업 프로그램 참여기관 모집 - 새한일보",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wMkN4Z09rcUUxWkp3UElhbVlMWnBaR1VUSEJ5azZpTG1KREpueDItQUw4bFhUMzhydmNpdGRWTnJobGFlenVLbWtjUnR0Z0ZaNm5NTjVzV1NsOUotR3pkUmltdWdaSm_SAWpBVV95cUxNRlo4c290TGM1dDhRZDhJU2t2VTJoS19FY0NBeE9QNXdoY01KX3ZQN1VVbWZBdmtQTWs0YXJORWthUXZQdUVvS0t5a0R4dFZlVVpWVkNVNWpLQWdmWW5CbXFPX3c2dUlKSG5R?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-05-26T12:56:52+00:00",
-      "collected_at": "2026-05-26T16:23:20.359803+00:00",
-      "summary": "양주시, 치유농업 프로그램 참여기관 모집 새한일보",
-      "keywords": [
-        "농업",
-        "모집"
-      ],
-      "importance": 74,
-      "region": "경기",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
       "id": "38d59944c1ad9869d532968e",
       "title": "경북농협, 고향주부모임 회원 등에 농업가치 특강 진행 - 농민신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZSjNldzEzZWhRT2FBQ19tLVRVTmpZZG12dXFlcUJqMjRqeDFYM2QyY1BKRy16TFlTa0lrbTBYQlV0RUMzODd4eUlqRUZsb2txX292WjBKNHdjQQ?oc=5",
@@ -3583,6 +3583,24 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "8b061df2fa0fa998f477fee8",
+      "title": "해남군, 고품질 고추 생산을 위한 병해충 중점 지도 - 농수축산신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15Z0otZ1pRNjRZaE1FOU5CMng3eXBGd1hYdEpRaWFYQTg3cjQtcnhUb044V21qeUg2Q19MMGZocGlqOGlwNVBCX0Y2bGxXSWxSU2RCNjF0RlZrSVN5enp4d05HZXd3VnI2T0llUg?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-26T01:36:59+00:00",
+      "collected_at": "2026-05-27T22:54:54.840071+00:00",
+      "summary": "해남군, 고품질 고추 생산을 위한 병해충 중점 지도 농수축산신문",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "전남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "2d6a7134049d0522261f82e2",
@@ -5077,24 +5095,6 @@
       ],
       "importance": 42,
       "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "51378d0885c45be2aee55838",
-      "title": "해남군, 고품질 고추 생산을 위한 병해충 중점 지도 - 일간투데이",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4alRTZ3Y0bGdMemYtZDhGcmd1YUptYTRxTU15Y1JWVnJSLXotUTUzNk5iT3JicDVwZnFXRzJhZmNhTnZscnlqeWVZdFlvZkk0ZzFKdWQ5LURab1VsTGV2d1NLNkZIQUx6YWl3?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-23T02:36:00+00:00",
-      "collected_at": "2026-05-23T23:01:15.001058+00:00",
-      "summary": "해남군, 고품질 고추 생산을 위한 병해충 중점 지도 일간투데이",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "전남",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -13061,39 +13061,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "625811adb32e34ba3ba569ba",
-      "title": "무주군, 미래 농업 밝힌다! 농림축산식품부 공모서 (청년)후계농업경영인 선발 쾌거 - 엔디엔뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zYXZBd2MtR0hOdWVLOWNzMFFXY2lWX2F4ZEt4TWttb1NBM0ZMb0N4bEt1NVA5ckR4TVQweXV1RGQ0THU0U2VqSGZrRlEzQlNldl9mSnBsVUh3VEhRLVR3ZkxKLXdqMkhCTnVhaXYtY3prd9IBckFVX3lxTE4zYXZBd2MtR0hOdWVLOWNzMFFXY2lWX2F4ZEt4TWttb1NBM0ZMb0N4bEt1NVA5ckR4TVQweXV1RGQ0THU0U2VqSGZrRlEzQlNldl9mSnBsVUh3VEhRLVR3ZkxKLXdqMkhCTnVhaXYtY3prdw?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-18T06:34:43+00:00",
-      "collected_at": "2026-05-18T12:36:31.416748+00:00",
-      "summary": "무주군, 미래 농업 밝힌다! 농림축산식품부 공모서 (청년)후계농업경영인 선발 쾌거 엔디엔뉴스",
-      "keywords": [
-        "농업",
-        "공모",
-        "후계농"
-      ],
-      "importance": 58,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 686,
+    "total": 685,
     "category_counts": {
       "news": 385,
       "plant_reviews": 24,
-      "support": 277
+      "support": 276
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 216
+        "count": 215
       },
       {
         "keyword": "지원",
@@ -13167,7 +13147,7 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 36
+        "count": 35
       },
       {
         "source": "Google News 식물 키우기",
@@ -13186,8 +13166,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 735,
+    "new_items": 2,
+    "fetched_items": 723,
     "errors": []
   }
 }
