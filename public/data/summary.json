@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-27T16:49:43.780097+00:00",
-  "total": 693,
+  "generated_at": "2026-05-27T17:20:13.445871+00:00",
+  "total": 692,
   "category_counts": {
-    "news": 382,
+    "news": 381,
     "plant_reviews": 25,
     "support": 286
   },
@@ -71,7 +71,7 @@
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 68
+      "count": 67
     },
     {
       "source": "Google News 지원사업",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 3,
-    "fetched_items": 732,
+    "new_items": 4,
+    "fetched_items": 734,
     "errors": []
   }
 }
