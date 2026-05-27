@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T18:21:09.304696+00:00",
+  "generated_at": "2026-05-27T18:51:35.341380+00:00",
   "items": [
     {
       "id": "adaf6f4ca7ba12b9e892fa0c",
@@ -1624,6 +1624,25 @@
         "청년농"
       ],
       "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "dc7aca29d83908e44d5d8492",
+      "title": "철원군 유용미생물 GH1-13 활용 작물 재배 - 시사줌뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94UWgza1pmOEEyWjBYRGs1R2FpMHI0SUl2aG9NUTZyUU1ZUWtzUHpZV0Q5UGZHX2UwbENEenpyRjZ1RnBEUVVn?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-27T01:09:00+00:00",
+      "collected_at": "2026-05-27T18:51:24.341257+00:00",
+      "summary": "철원군 유용미생물 GH1-13 활용 작물 재배 시사줌뉴스",
+      "keywords": [
+        "작물",
+        "재배"
+      ],
+      "importance": 42,
       "region": "",
       "deadline_text": "",
       "deadline_date": "",
@@ -13124,71 +13143,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "8c34199ad669463844f9f12a",
-      "title": "화성특례시, ‘2027년 유기질비료 지원사업’ 올해부터 신청 시기 6월로 전격 변경 - 탐사일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XZjVwOWJUTkIwenJVR0RCcmJTenBVbS1Yc0tSNU1Ud1RydHFYaXB0eXRIMWJOWW5jWTJEak4xR3BoQVJDTHY1MzRLOEdjaDhHNktyeURPVkZPSGdLc0J5bW1DY1I1cUI3U3c?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-18T04:17:57+00:00",
-      "collected_at": "2026-05-18T20:01:03.662371+00:00",
-      "summary": "화성특례시, ‘2027년 유기질비료 지원사업’ 올해부터 신청 시기 6월로 전격 변경 탐사일보",
-      "keywords": [
-        "지원사업",
-        "신청",
-        "지원",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "경기",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "b0b627cf44abcf759ca8ccea",
-      "title": "한국청과, 평창 농산물 거래 활성화 협력 강화 - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95UkpWb1ExVFo4VnpzUlBpc0ZTdUNXejFSeG9nbWgtOTVzMDN1X1hzX3RpN21KWjJ3NzAteHlzNVdmY3VFbzhuaWJKa00zWlYtTW5mM0ZsWW53SnVnaXhqRE9nZHdhVHRjM2NvNQ?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-05-18T04:04:25+00:00",
-      "collected_at": "2026-05-18T07:26:54.537576+00:00",
-      "summary": "한국청과, 평창 농산물 거래 활성화 협력 강화 농수축산신문",
-      "keywords": [
-        "농산물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f6d68e30fe098d4c2854c0d4",
-      "title": "이재명 대통령, 모내기 현장 찾아 농촌 민심 챙겨 - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oWUkxdzVKVUE2R1Z4bTJ0RF9mVm1tcWlZaEtGM0JSUENaVUc1eXM2bHM3bGZnN3BEYU5yWGh6R05vczFMd3A4Qk51Y2FDOUZIa0c4eGE5V2h2azdTeW5KVV8yUXkxbW5SYkVBWg?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-18T03:40:54+00:00",
-      "collected_at": "2026-05-24T16:51:19.838173+00:00",
-      "summary": "이재명 대통령, 모내기 현장 찾아 농촌 민심 챙겨 농수축산신문",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 691,
+    "total": 689,
     "category_counts": {
-      "news": 381,
+      "news": 380,
       "plant_reviews": 25,
-      "support": 285
+      "support": 284
     },
     "top_keywords": [
       {
@@ -13197,15 +13159,15 @@
       },
       {
         "keyword": "지원",
-        "count": 187
+        "count": 186
       },
       {
         "keyword": "농촌",
-        "count": 127
+        "count": 126
       },
       {
         "keyword": "사업",
-        "count": 98
+        "count": 97
       },
       {
         "keyword": "스마트팜",
@@ -13213,7 +13175,7 @@
       },
       {
         "keyword": "지원사업",
-        "count": 81
+        "count": 80
       },
       {
         "keyword": "모집",
@@ -13225,11 +13187,11 @@
       },
       {
         "keyword": "농산물",
-        "count": 61
+        "count": 60
       },
       {
         "keyword": "신청",
-        "count": 60
+        "count": 59
       },
       {
         "keyword": "접수",
@@ -13243,7 +13205,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 161
+        "count": 160
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13255,15 +13217,15 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 66
+        "count": 67
       },
       {
         "source": "Google News 지원사업",
-        "count": 64
+        "count": 63
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 57
+        "count": 56
       },
       {
         "source": "Google News 청년농 지원",
@@ -13286,8 +13248,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 6,
-    "fetched_items": 731,
+    "new_items": 5,
+    "fetched_items": 725,
     "errors": []
   }
 }
