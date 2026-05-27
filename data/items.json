@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T16:49:43.780097+00:00",
+  "generated_at": "2026-05-27T17:20:13.445871+00:00",
   "items": [
     {
       "id": "adaf6f4ca7ba12b9e892fa0c",
@@ -1142,6 +1142,26 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "214c2d322a0fa4a8552f2ba0",
+      "title": "\"기후위기 대응\"…안성시, 저탄소 농산물 인증 참여 농가 모집 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53R1RBdWlaSkN0MkxHX1dQZS1QY1R6bnJzc0Fvei1XZTdsWXFPR1ZwdlhDbVpXQ2lGQ2kyd3I1bTVYamhoQlEyZ3AtRkhxWmM?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-05-27T04:47:15+00:00",
+      "collected_at": "2026-05-27T17:20:10.767007+00:00",
+      "summary": "\"기후위기 대응\"…안성시, 저탄소 농산물 인증 참여 농가 모집 v.daum.net",
+      "keywords": [
+        "농산물",
+        "기후",
+        "모집"
+      ],
+      "importance": 74,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "141813b5bd9cc63de7201455",
       "title": "보도자료 - 농림축산식품부",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlbUdfMFJVM3VLXzdxOFRXa0tPX0NGSnJUVUNndlozR3NxSzFoM2lseV85OEFWeEFXUDZEVlFqZkZDWEROSU1sNmxXV2FDdzhIQ0w5QXZXMDBKY2RnRFRBaTBTRjhDSTBUeEpVUUdGVjQzbVJ5Z3phcTNvVQ?oc=5",
@@ -1156,26 +1176,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "3520fb1c0e6ac9d25d3bc814",
-      "title": "\"기후위기 대응\"…안성시, 저탄소 농산물 인증 참여 농가 모집 - 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9qbDhvWmdlOENaanNQVDJ5N3QwWUtmSEZDbVpwajBrNGItZ24zODkxOW9sRHBsVnpNUDhoZmt0Y2kzUnRVM0E?oc=5",
-      "source": "Google News 지자체 농업기술센터",
-      "category": "support",
-      "published_at": "2026-05-27T04:45:18+00:00",
-      "collected_at": "2026-05-27T14:17:05.115744+00:00",
-      "summary": "\"기후위기 대응\"…안성시, 저탄소 농산물 인증 참여 농가 모집 아이뉴스24",
-      "keywords": [
-        "농산물",
-        "기후",
-        "모집"
-      ],
-      "importance": 74,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     },
     {
       "id": "b2e615603e9e2e9e8fa4ec9d",
@@ -13202,30 +13202,12 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "666ea2a556128c4194322b8e",
-      "title": "“실시간 인공지능 분석”... 중소형 스마트 온실 작물 생육 바로 본다 - 인공지능신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxUmRpRlhTU3p4WUpTRHpXUl9sbWNxanFNWWY2clZrVElZU2R5d0hJRXpJM2VqMENmYndHR1MweUs1RkR0bEhRcjlCN3N6elN0NF9KWTZGNGZVU2hqRGstYTBIWHpPeGs?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-18T02:04:08+00:00",
-      "collected_at": "2026-05-18T07:26:53.150548+00:00",
-      "summary": "“실시간 인공지능 분석”... 중소형 스마트 온실 작물 생육 바로 본다 인공지능신문",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 693,
+    "total": 692,
     "category_counts": {
-      "news": 382,
+      "news": 381,
       "plant_reviews": 25,
       "support": 286
     },
@@ -13294,7 +13276,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 68
+        "count": 67
       },
       {
         "source": "Google News 지원사업",
@@ -13325,8 +13307,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 3,
-    "fetched_items": 732,
+    "new_items": 4,
+    "fetched_items": 734,
     "errors": []
   }
 }
