@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-27T19:22:01.890175+00:00",
-  "total": 689,
+  "generated_at": "2026-05-27T19:52:29.335458+00:00",
+  "total": 688,
   "category_counts": {
     "news": 381,
     "plant_reviews": 25,
-    "support": 283
+    "support": 282
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 222
+      "count": 221
     },
     {
       "keyword": "지원",
@@ -33,7 +33,7 @@
     },
     {
       "keyword": "모집",
-      "count": 69
+      "count": 68
     },
     {
       "keyword": "청년농",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 7,
-    "fetched_items": 730,
+    "new_items": 2,
+    "fetched_items": 726,
     "errors": []
   }
 }
