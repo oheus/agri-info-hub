@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-27T20:22:56.922197+00:00",
-  "total": 687,
+  "generated_at": "2026-05-27T20:53:23.591327+00:00",
+  "total": 688,
   "category_counts": {
     "news": 381,
     "plant_reviews": 25,
-    "support": 281
+    "support": 282
   },
   "top_keywords": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "keyword": "지원",
-      "count": 184
+      "count": 185
     },
     {
       "keyword": "농촌",
@@ -21,7 +21,7 @@
     },
     {
       "keyword": "사업",
-      "count": 96
+      "count": 97
     },
     {
       "keyword": "스마트팜",
@@ -29,7 +29,7 @@
     },
     {
       "keyword": "지원사업",
-      "count": 79
+      "count": 80
     },
     {
       "keyword": "모집",
@@ -45,11 +45,11 @@
     },
     {
       "keyword": "신청",
-      "count": 58
+      "count": 59
     },
     {
       "keyword": "접수",
-      "count": 53
+      "count": 54
     },
     {
       "keyword": "귀농",
@@ -94,15 +94,15 @@
       "count": 26
     },
     {
-      "source": "Google News 지자체 농업기술센터",
+      "source": "Google News 농업기술센터 모집",
       "count": 23
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 1,
-    "fetched_items": 732,
+    "new_items": 2,
+    "fetched_items": 726,
     "errors": []
   }
 }
