@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-05-27T15:18:10.463586+00:00",
+  "generated_at": "2026-05-27T15:48:43.248015+00:00",
   "items": [
+    {
+      "id": "502beae818567ddd9f5e8031",
+      "title": "평택시, 홀몸 어르신 위한 반려식물 정서지원 프로그램 용역 중간보고회 개최 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sc3k2NG9ieXF3LUwyaDBuX1gzNmN5WUlVQTBWMjQxeUxrNlNfX3dUMWQwZ20zOTM5d29WODQxM0xQT3A2emZYY3ZrVGxLaTIwVjFlWl9KV3pXX3pKdHRWczBGTHo2V3o0UElhLThqUlQ?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "support",
+      "published_at": "2026-05-27T15:24:00+00:00",
+      "collected_at": "2026-05-27T15:48:38.569564+00:00",
+      "summary": "평택시, 홀몸 어르신 위한 반려식물 정서지원 프로그램 용역 중간보고회 개최 > 뉴스 더코리아",
+      "keywords": [
+        "반려식물",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "경기",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
     {
       "id": "d90b2e0d6cde7cda3a737f4a",
       "title": "자식 있는 집은 “꼭 이 식물 키우세요” 집 안에 공기가 숲속으로 바뀝니다 - 네이트뷰",
@@ -1606,6 +1625,24 @@
         "병해충"
       ],
       "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "3a9512c5db0e10fb8e13f314",
+      "title": "‘스마트농업’부터 ‘농지규제 완화’까지…지선 후보들 앞다퉈 “농심 잡기” - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JZENOUFFOU1hxNXVSUDdyQ3AzRjRlZzVJMXFaZlhBU3E0aFVBUjJEUWU1cGo2MGt6amFGNWJzZ1NBMy1kTkd1YUpheEFwRVVHQ1c0WXhPS0lRUQ?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-26T15:00:00+00:00",
+      "collected_at": "2026-05-27T15:48:25.274478+00:00",
+      "summary": "‘스마트농업’부터 ‘농지규제 완화’까지…지선 후보들 앞다퉈 “농심 잡기” 농민신문",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
       "region": "",
       "deadline_text": "",
       "deadline_date": "",
@@ -13076,41 +13113,23 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "9b00534162b47ca583e18f23",
-      "title": "\"온실 CCTV로 작물 상태 확인\"···AI 모니터링 개발 - 대구MBC",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41clp6bGdWYU1OcjZnaWJLLUVfSUZHdVFRVEo5XzlVZFY3b25qR0NaalhyMlJVNVVjTm1YYU16Y0N3Y0hOOUV6YTB4cVY?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-18T00:56:21+00:00",
-      "collected_at": "2026-05-18T07:26:53.150548+00:00",
-      "summary": "\"온실 CCTV로 작물 상태 확인\"···AI 모니터링 개발 대구MBC",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "대구",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 686,
+    "total": 687,
     "category_counts": {
       "news": 375,
       "plant_reviews": 25,
-      "support": 286
+      "support": 287
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 225
+        "count": 226
       },
       {
         "keyword": "지원",
-        "count": 187
+        "count": 188
       },
       {
         "keyword": "농촌",
@@ -13156,7 +13175,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 158
+        "count": 159
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13172,7 +13191,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 65
+        "count": 64
       },
       {
         "source": "Google News 농산물 가격",
@@ -13184,7 +13203,7 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 27
+        "count": 28
       },
       {
         "source": "Google News 농림축산식품부",
@@ -13199,8 +13218,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 9,
-    "fetched_items": 736,
+    "new_items": 3,
+    "fetched_items": 737,
     "errors": []
   }
 }
