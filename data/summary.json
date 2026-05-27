@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-05-27T15:18:10.463586+00:00",
-  "total": 686,
+  "generated_at": "2026-05-27T15:48:43.248015+00:00",
+  "total": 687,
   "category_counts": {
     "news": 375,
     "plant_reviews": 25,
-    "support": 286
+    "support": 287
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 225
+      "count": 226
     },
     {
       "keyword": "지원",
-      "count": 187
+      "count": 188
     },
     {
       "keyword": "농촌",
@@ -59,7 +59,7 @@
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 158
+      "count": 159
     },
     {
       "source": "Google News 청년농 귀농",
@@ -75,7 +75,7 @@
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 65
+      "count": 64
     },
     {
       "source": "Google News 농산물 가격",
@@ -87,7 +87,7 @@
     },
     {
       "source": "Google News 식물 키우기",
-      "count": 27
+      "count": 28
     },
     {
       "source": "Google News 농림축산식품부",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 9,
-    "fetched_items": 736,
+    "new_items": 3,
+    "fetched_items": 737,
     "errors": []
   }
 }
