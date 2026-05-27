@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-05-27T21:54:15.276390+00:00",
+  "generated_at": "2026-05-27T22:24:40.439365+00:00",
   "items": [
+    {
+      "id": "09de7022cfb6d8a78f475768",
+      "title": "2026년 하반기 저탄소 농산물 인증 지원사업 모집 시작 - 전주일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42ZnNrWUE3NEFpN0c3dHRBN3JqaHQtRzhZSlZtZTJER19qLXhLYWpRcjVXYnYzTHZxa00tVVRwemRUUXVIVC1OVmlCOThnUk1lRWlaTEpzMzRXVVduY0c2c0JsVlNFV2dOaGRSUQ?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-05-27T22:01:11+00:00",
+      "collected_at": "2026-05-27T22:24:38.097347+00:00",
+      "summary": "2026년 하반기 저탄소 농산물 인증 지원사업 모집 시작 전주일보",
+      "keywords": [
+        "농산물",
+        "지원사업",
+        "모집",
+        "지원",
+        "사업"
+      ],
+      "importance": 80,
+      "region": "전북",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "655c6075b53823e1db0da7ac",
+      "title": "똑똑! 청년농부 - rda.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QUVR6ZmVvUnVWODczYTc3TGtiaEpMQ3V6d0gyWVJJMlpBb2FmTzRXYnA5OGtHbl85S3pOTkE0MHVCUFhKRW5aWHliQjU3OUdWZUVqdDR3aGMwSWpsOU5IR3dtZlVNWGhSRDZv?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-27T21:28:28+00:00",
+      "collected_at": "2026-05-27T22:24:31.976813+00:00",
+      "summary": "똑똑! 청년농부 rda.go.kr",
+      "keywords": [
+        "청년농"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "adaf6f4ca7ba12b9e892fa0c",
       "title": "도시와 농촌잇는 체험·공감 생태계 구축 - 조선일보",
@@ -13041,66 +13081,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "ec52bcbf3bbfd9f472da0313",
-      "title": "평택시, 벼 드문모 심기 재배 기술 시연회 추진 - 수도권지역뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5peHZKT0wzbncyMXZsaUl0dDJLcnZRNWNOMC15QmplUC1XcUkwTlBmMzRsdmMyN0dwZjJ5WlBIc2FIbFpNWWVDcUJRN29iUXlmeVc4NWZGUGtnRXpqRWdOUzlid2hiYk9P?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-18T06:22:16+00:00",
-      "collected_at": "2026-05-27T21:23:38.559618+00:00",
-      "summary": "평택시, 벼 드문모 심기 재배 기술 시연회 추진 수도권지역뉴스",
-      "keywords": [
-        "재배"
-      ],
-      "importance": 42,
-      "region": "경기",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "3b655243ba99dce04e4cfe33",
-      "title": "평창군, 농축산물 가격안정기금 21억원 지원 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oWHY1RkdpSDBsdVN5YjlCeG5KQTVPN196eDJzQkRzUmV6WUVfaVlsLWdLcDdiSTljWXdpbktuX0R1VTJIeTlpNkRUZXkzNjFuX3oxR01rdFZicGdzOEY0ZjNKZkxhRFdueUJHQ3hXMWs?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "support",
-      "published_at": "2026-05-18T06:13:51+00:00",
-      "collected_at": "2026-05-18T07:26:54.537576+00:00",
-      "summary": "평창군, 농축산물 가격안정기금 21억원 지원 신아일보",
-      "keywords": [
-        "지원"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "3af958e19c0cde0afba6e60d",
-      "title": "공지·공고 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uV0dlYXNCUVJvRzQ0VGJzRjhCOXVfVWNCZHBsMU4zTnZ1SkhwRHgyUU5kanNkUDRnQV8wM3NtVEtYUURrZG4xeUhHc3Eyb2NNZXpUdmZJMVl0bUJiS1E4b0VJaHFZYnFtQ3BpaUE5c3JDY2tMNDlFcDl2OA?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-05-18T06:12:45+00:00",
-      "collected_at": "2026-05-18T20:01:08.647084+00:00",
-      "summary": "공지·공고 농림축산식품부",
-      "keywords": [],
-      "importance": 74,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 687,
+    "total": 686,
     "category_counts": {
       "news": 385,
       "plant_reviews": 24,
-      "support": 278
+      "support": 277
     },
     "top_keywords": [
       {
@@ -13117,11 +13105,11 @@
       },
       {
         "keyword": "사업",
-        "count": 97
+        "count": 98
       },
       {
         "keyword": "지원사업",
-        "count": 80
+        "count": 81
       },
       {
         "keyword": "스마트팜",
@@ -13129,11 +13117,11 @@
       },
       {
         "keyword": "모집",
-        "count": 68
+        "count": 69
       },
       {
         "keyword": "청년농",
-        "count": 61
+        "count": 62
       },
       {
         "keyword": "신청",
@@ -13141,7 +13129,7 @@
       },
       {
         "keyword": "농산물",
-        "count": 57
+        "count": 58
       },
       {
         "keyword": "접수",
@@ -13159,7 +13147,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 78
+        "count": 77
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13175,7 +13163,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 52
+        "count": 51
       },
       {
         "source": "Google News 청년농 지원",
@@ -13190,16 +13178,16 @@
         "count": 26
       },
       {
-        "source": "Google News 농업기술센터 모집",
-        "count": 23
+        "source": "Google News 지자체 농업기술센터",
+        "count": 24
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 0,
-    "fetched_items": 732,
+    "new_items": 4,
+    "fetched_items": 735,
     "errors": []
   }
 }
