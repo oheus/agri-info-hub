@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T19:22:01.890175+00:00",
+  "generated_at": "2026-05-27T19:52:29.335458+00:00",
   "items": [
     {
       "id": "adaf6f4ca7ba12b9e892fa0c",
@@ -13121,39 +13121,19 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "9dd3c74826ed310fa261eec5",
-      "title": "대전농업기술센터, 가루쌀 빵 교육 참가자 모집 - 타임뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95MkdBNXNjb2J3TXJUUl9aU1NaZnBWLWdQZ29fVkhyWExhT0Npd2xyVkZxaWdUR1FOV1ltSTFkb1h5anFvYUdVbVNRQ05LUF95b1Z1eQ?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-05-18T04:33:22+00:00",
-      "collected_at": "2026-05-18T07:27:06.297439+00:00",
-      "summary": "대전농업기술센터, 가루쌀 빵 교육 참가자 모집 타임뉴스",
-      "keywords": [
-        "농업",
-        "모집",
-        "농업기술센터"
-      ],
-      "importance": 74,
-      "region": "대전",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 689,
+    "total": 688,
     "category_counts": {
       "news": 381,
       "plant_reviews": 25,
-      "support": 283
+      "support": 282
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 222
+        "count": 221
       },
       {
         "keyword": "지원",
@@ -13177,7 +13157,7 @@
       },
       {
         "keyword": "모집",
-        "count": 69
+        "count": 68
       },
       {
         "keyword": "청년농",
@@ -13246,8 +13226,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 7,
-    "fetched_items": 730,
+    "new_items": 2,
+    "fetched_items": 726,
     "errors": []
   }
 }
