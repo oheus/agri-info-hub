@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T15:10:25.281642+00:00",
+  "generated_at": "2026-05-28T15:40:56.367853+00:00",
   "items": [
     {
       "id": "1ee5c448054b85d40c75bc7c",
@@ -36,6 +36,28 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "9629dea252fa445961b9a251",
+      "title": "광양시, 2027년 유기질비료 지원사업 조기 신청 접수 - 뉴스라운드",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5odzZkVHk3VDc4ZWZ6Rk9UdkJ0cVRnN29QRVptYk1nT21YTlN0MUllZGc1eno2WDlqcWh5a2poaUFmSFNOYXFYd2lmTWt6cXJWTFl0SWg2XzYwbXp1amw3aGFMYWR3cTJUc1pvTdIBcEFVX3lxTE04LTd1TVZTRWFMWkVOYTNUYUl4ZldESjZpY1Y0cGZpc254dVdTMlNTeXZKRWg5cnRXUHFhS1dJSl8yU0VtNWNYVHdZT1ZTRHlkYjlXejJsZzBORndyYzFxT3NpY2RFdl82eDc4dHZQVjA?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-05-28T12:42:14+00:00",
+      "collected_at": "2026-05-28T15:40:39.825023+00:00",
+      "summary": "광양시, 2027년 유기질비료 지원사업 조기 신청 접수 뉴스라운드",
+      "keywords": [
+        "지원사업",
+        "신청",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "5468d147c8ce98323b60a006",
@@ -112,6 +134,25 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "4e729fa817f7403cf63fba0f",
+      "title": "2026년 제1회 농업유전자원센터 공무직근로자 채용 공고 - 농촌진흥청",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONVZNQUNwNkt0V2Z4SHF4c2hoQkt5cGVQLVFoSVNSczN3RDlLa1lVM1UzUEdhQUF0MjlMa25NYUwzTGxSSWNWRTVLN2ZmeTRlbjhUdnBRdmFNWHRUN3picHJlXzdMcURQWTB4U0QzUk0xNkdoUUY0NlcwdDREdjRsWUozeFJ6R19HR0ZKdFpPaEhMUnQx?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-28T08:57:53+00:00",
+      "collected_at": "2026-05-28T15:40:46.450720+00:00",
+      "summary": "2026년 제1회 농업유전자원센터 공무직근로자 채용 공고 농촌진흥청",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 48,
+      "region": "전국",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -469,14 +510,14 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "a197cee61b89dd14e0676f07",
-      "title": "귀농 2년차, 이제야 마음의 뿌리를 내리는 기분 - 오마이뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSFR5ZFpOSTZhTlVIVEtiRmRPTUMyVnk3cnZnX1RQcmxBaGxveVZqZEtzWUdoWEhDcW51RzJhR245Mm5KekVBb1RnQnViRVpvUmtFYm5TZkxPdFZ1YUVFdXM4MVcxbWtibUwwRjUtNFJ3aWlVUmd3?oc=5",
+      "id": "c402bd952f4e644cde7e1559",
+      "title": "귀농 2년차, 이제야 마음의 뿌리를 내리는 기분 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1TUEN6VW5fc2pBekg4eUQxUGRxVEdEVWN2UkFDRVFRamFjQWVubzc1bXdMck0ydEFQcEhnWHpCbVRfdk1kT1E?oc=5",
       "source": "Google News 청년농 귀농",
       "category": "news",
-      "published_at": "2026-05-28T05:51:00+00:00",
-      "collected_at": "2026-05-28T13:49:52.250896+00:00",
-      "summary": "귀농 2년차, 이제야 마음의 뿌리를 내리는 기분 오마이뉴스",
+      "published_at": "2026-05-28T05:57:53+00:00",
+      "collected_at": "2026-05-28T15:40:41.898542+00:00",
+      "summary": "귀농 2년차, 이제야 마음의 뿌리를 내리는 기분 v.daum.net",
       "keywords": [
         "귀농"
       ],
@@ -858,28 +899,6 @@
       "importance": 64,
       "region": "",
       "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "1d89445d0723fbeb1b7beb6a",
-      "title": "광양시, 2027년 유기질비료 지원사업 조기 신청 접수 - 미디어투데이",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nM1hmdDF5dklYR09ZNVJHazkxYWJNbHRGNnNnWnRVdW9rdktfV3VmS3Q1alI2c29QNDdka1J5a0VsRUc3WHFQbVl3?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-28T02:01:00+00:00",
-      "collected_at": "2026-05-28T13:49:49.210351+00:00",
-      "summary": "광양시, 2027년 유기질비료 지원사업 조기 신청 접수 미디어투데이",
-      "keywords": [
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
     },
@@ -13258,71 +13277,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "d12b9a89642ec5f8ff8fdc08",
-      "title": "예산군, 청년농 현장점검 강화… 농촌 인력지원·안전관리 총력 - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4Wk0xWElxcHc0aEVJMWNfS1Fhc2haVVFkLXljY3pxRDVzMlNNaUc4VjFiY19JRFBfSkJaa3hDSlBxR1ZiaEwxaThWMnFoWlU2aEpkSk9yOG5yYm40N2NjR2twUUZLZ1JVZVp0Sw?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-19T04:55:42+00:00",
-      "collected_at": "2026-05-19T04:59:31.360705+00:00",
-      "summary": "예산군, 청년농 현장점검 강화… 농촌 인력지원·안전관리 총력 농수축산신문",
-      "keywords": [
-        "농촌",
-        "청년농",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "114836276618ce9147ea2da2",
-      "title": "박찬우, 농업예산 7%·먹거리 통합지원센터 승부수…\"실수요자 중심 농정으로 전환” - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLbFMwTDB3QUw3NUhNeWVXTlJ2QnR4ajFIUmtDa3RrazVnbjN5SDZ4cEJPVjE3M28xb2FqcHkyNldhZjRXc2NGWW1rX3ZvLUlPLXBpNDFOQnBuMTU3X1oxbC0xRUFkV0dfX2dudQ?oc=5",
-      "source": "Google News 농업",
-      "category": "support",
-      "published_at": "2026-05-19T04:46:31+00:00",
-      "collected_at": "2026-05-19T04:59:20.393223+00:00",
-      "summary": "박찬우, 농업예산 7%·먹거리 통합지원센터 승부수…\"실수요자 중심 농정으로 전환” 농수축산신문",
-      "keywords": [
-        "농업",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "eeb2752527f0e78efb5c3249",
-      "title": "인천 미추홀구, 가로수 병해충 선제 차단…친환경 수간주사 방제 추진 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50dURzU0hWNThIR0NtNmxnbUY2MENoYW84ZHI3c21SMHR6eWVSZ3VVMXFxR2hRN1J4S2pDdFJOUWkxUHBobDE1bTAtVXQ0cWp3eWhxYlFKa3VhcExTTGJ1eElhbXE?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-19T04:38:32+00:00",
-      "collected_at": "2026-05-22T04:40:21.007233+00:00",
-      "summary": "인천 미추홀구, 가로수 병해충 선제 차단…친환경 수간주사 방제 추진 매일일보",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "인천",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 696,
+    "total": 694,
     "category_counts": {
       "news": 384,
       "plant_reviews": 28,
-      "support": 284
+      "support": 282
     },
     "top_keywords": [
       {
@@ -13331,7 +13293,7 @@
       },
       {
         "keyword": "지원",
-        "count": 191
+        "count": 189
       },
       {
         "keyword": "농촌",
@@ -13355,7 +13317,7 @@
       },
       {
         "keyword": "청년농",
-        "count": 69
+        "count": 68
       },
       {
         "keyword": "신청",
@@ -13377,7 +13339,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 157
+        "count": 156
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13389,7 +13351,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 70
+        "count": 69
       },
       {
         "source": "Google News 지원사업",
@@ -13401,7 +13363,7 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 38
+        "count": 37
       },
       {
         "source": "Google News 지자체 농업기술센터",
@@ -13421,7 +13383,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 4,
-    "fetched_items": 730,
+    "fetched_items": 735,
     "errors": []
   }
 }
