@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T13:50:07.190878+00:00",
+  "generated_at": "2026-05-28T14:39:53.335492+00:00",
   "items": [
     {
       "id": "5468d147c8ce98323b60a006",
@@ -15,6 +15,49 @@
       ],
       "importance": 48,
       "region": "전남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "be73337f245ff33da6fcb8b8",
+      "title": "영광군, 미래 농업 이끌 ‘청년농업인 영농정착 지원사업’ 2차 대상자 모집 - 퍼블릭뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TdHBodUxPUW15Nmh0MllNWmxxQUNENDN6dVFyQ1RST1ZWYTBKOGo5VlZJei1ySXR6a3pnM01LSS1SS3dmNEZaZmROTEpFUWJQMVNVY3ljZEQxYzkwZlhiNzQtZ0hQeEI5WnA4?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-05-28T11:50:20+00:00",
+      "collected_at": "2026-05-28T14:39:34.869119+00:00",
+      "summary": "영광군, 미래 농업 이끌 ‘청년농업인 영농정착 지원사업’ 2차 대상자 모집 퍼블릭뉴스통신",
+      "keywords": [
+        "농업",
+        "청년농",
+        "농업인",
+        "지원사업",
+        "모집",
+        "청년농업인",
+        "지원",
+        "사업"
+      ],
+      "importance": 76,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "64942fa232f2fc891b4f8af5",
+      "title": "광주시, 지역환경 맞춤형 우리밀 품종·재배기술 실증 - 무등뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yM2ZSVEJWek1FbVJDV2dLcjZIVlhobnd5bVg3Y3lqUW1jOHNNaEJ6R09zQVBZVGFKZFZ2ZENpU3RFRDdPWmpZMHAtdGdYXzNaRV9CT0drSHc4MGRKOGpnUUc3akFMR1k?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-28T09:19:43+00:00",
+      "collected_at": "2026-05-28T14:39:38.649467+00:00",
+      "summary": "광주시, 지역환경 맞춤형 우리밀 품종·재배기술 실증 무등뉴스",
+      "keywords": [
+        "재배"
+      ],
+      "importance": 42,
+      "region": "광주",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -160,6 +203,28 @@
       "category_label": "지원사업"
     },
     {
+      "id": "995ec5c916cd7e4afe74e5aa",
+      "title": "영광군, 청년농업인 육성 영농정착 지원 - 중도일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VZFdVcHpkMWVBcXFFRkNLTmxIMGVWQ0Y5c2pPYl9tYktycTJRVlUxenlVQ3VYUXlzR2t2TTNfcFFkM1pac2xfY1RoVHZGQ1BEV1g1SkhBc3J2dEJmS2otcGtjX2U?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-28T07:35:33+00:00",
+      "collected_at": "2026-05-28T14:39:46.218543+00:00",
+      "summary": "영광군, 청년농업인 육성 영농정착 지원 중도일보",
+      "keywords": [
+        "농업",
+        "청년농",
+        "농업인",
+        "청년농업인",
+        "지원"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "ad68b37b28a1654056572339",
       "title": "농협, 한국농수산대와 청년농 성장 지원 협력 - 뉴스후플러스",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ndHNybXZXQWtrRDJSaDM1aGdOTy04UUF2S3MwZUtZYzFVVHVoSmlQSTg3Q2JWdnhrajdDa3FNSHkwMUZPaVJDNFFXMmhlTEJpZUZoTG1DM0ZfSkJTX2RKek9HMDU1MEc2YVpOVXVn?oc=5",
@@ -214,6 +279,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "3c495ed54d590df82310517d",
+      "title": "서산시, 귀농·귀촌 정착 돕는 종합 지원… “농가서 미리 살아보세요” - 뉴스티앤티",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RVEhtWWI2WE9PdW93b0p1QTdPUWw5X2hsTWFhVTZhbV8xX1Z6UXdlX1NMRmNSZVJRN2VDbnRIWkhCQ05MVHVUamhSSmFrVTVsUHJJY2NYaG02aU4yMTdJQ0JaM0ZUaHNTa2c?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-05-28T06:52:31+00:00",
+      "collected_at": "2026-05-28T14:39:50.836676+00:00",
+      "summary": "서산시, 귀농·귀촌 정착 돕는 종합 지원… “농가서 미리 살아보세요” 뉴스티앤티",
+      "keywords": [
+        "귀농",
+        "지원"
+      ],
+      "importance": 74,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "06051adae5191f1860a240e1",
@@ -464,6 +548,31 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "25fa453ef21d04b63d1e864a",
+      "title": "영광군, ‘청년농업인 영농정착 지원사업’ 대상자 모집 - 도민연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83VXUxdFc4ZHRMWDNwNy10VFpfU0g2X2NVVnl0RHJESGRYelpzNjBueW91VlBpTktHdTNjN3JNUWMtdTFsanRXMUh2UDlFRVFNQ3pGWmhqV2RGV1pvNUt5LXU1QVpUbjlFdGc?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-28T05:25:41+00:00",
+      "collected_at": "2026-05-28T14:39:46.218543+00:00",
+      "summary": "영광군, ‘청년농업인 영농정착 지원사업’ 대상자 모집 도민연합뉴스",
+      "keywords": [
+        "농업",
+        "청년농",
+        "농업인",
+        "지원사업",
+        "모집",
+        "청년농업인",
+        "지원",
+        "사업"
+      ],
+      "importance": 76,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "cb6834b9d5f1a6c258c47c75",
       "title": "“취임 축하 난이 어르신 반려 식물로 변신” - 한국시민기자협회 뉴스포털1",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NMjNpUHpTbTlKUFZIVzFVMzlMV1ZHYnp4d3c0OTNoN3ZIMkZfSGdBbzR0bTRLU2lDcDFwLUVjUjd4S2RCZDFUMERGTm81ZkJpNFN3LTFGYkxDZi1Rd3lwUzRRMjFsbkpUMVQwVG5jQ18wajhXX1800gF3QVVfeXFMTU0yM2lQelNtOUpQVkhXMVUzOUxXVkdienh3dzQ5M2g3dkgyRl9IZ0FvNHRtNEtTaUNwMXAtRWNSN3hLZEJkMVQwREZObzVmQmk0U3ctMUZiTENmLVF3eXBTNFEyMWxuSlQxVDBUbmNDXzBqOFdfXzQ?oc=5",
@@ -621,6 +730,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "48d56b543361567dd6892388",
+      "title": "금산군, 추부면 미삭소하천 정비사업 토지보상 본격 착수 - 금산소식",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JQ29CaFlOUHB3TFQzQUU3cjhXRWNaakZOUlE1WmRodm0wSERvUnFnRkktVENUVTVOdWI4VEItMUVkNWJTMFJwRVJlajBDZ0JIRnoyZUVMWQ?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-05-28T03:16:57+00:00",
+      "collected_at": "2026-05-28T14:39:50.836676+00:00",
+      "summary": "금산군, 추부면 미삭소하천 정비사업 토지보상 본격 착수 금산소식",
+      "keywords": [
+        "사업"
+      ],
+      "importance": 68,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "716cf6cc05a28a9ae1ccceb1",
@@ -904,6 +1031,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "96b9e8a4d2f3ff6a5aa729b5",
+      "title": "롯데리아, 청년농부 물류비 선제 지원…지역 상생 가치 실현 - 1코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jSjFWMTNJdDZjQWtiX0pDc1pBYmRnZHRLOVpOQnlLZ0gwSTJlSUkzREpyanhNV1ZWdjBNWkh5OGs0VjAxU3RfalhpMlJmelBmakRNZGEySDZFR0I4d2VxRlhoZVN0ZjlwTDdpcDVlaTE?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-28T01:26:45+00:00",
+      "collected_at": "2026-05-28T14:39:46.218543+00:00",
+      "summary": "롯데리아, 청년농부 물류비 선제 지원…지역 상생 가치 실현 1코노미뉴스",
+      "keywords": [
+        "청년농",
+        "지원"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "711a1d51121bf0a326dce386",
@@ -3024,6 +3170,28 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "ceb9ae9d910c5384d78e0d57",
+      "title": "산청군, 유기질비료 지원사업 신청·접수 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wWWwyM0NxUVNhTVhBN0dRMUZ0b2dMQTRreHhEVG56cG00aXVBUzJrUVplQVc2UEEzX0tBbFJ0OVdSOW1HQUYteUZ0R3Rnb1ZiSUVn?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-05-27T00:39:00+00:00",
+      "collected_at": "2026-05-28T14:39:50.836676+00:00",
+      "summary": "산청군, 유기질비료 지원사업 신청·접수 네이트",
+      "keywords": [
+        "지원사업",
+        "신청",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 80,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "3e43aff8dd84a8d8a2183c62",
       "title": "“농업의 미래는 청년”…충남 청년농업인 400인, 김태흠 후보 지지 선언 - 농수축산신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81a2JsYnpmaEkxU1ZrcjRSQ25pYXJGTHBUQmpZN2xZbDJBRkxONkNxTzFKS2dMTy1ockJXcklzRVFNNmZ4Vk11ZGdDQnkxWkUweE1zYW5BYTctX2RXLXhTOGtmcXotQm1fQ3YyVw?oc=5",
@@ -3904,6 +4072,24 @@
       "category_label": "지원사업"
     },
     {
+      "id": "3a1c87675bc059e12eeb659a",
+      "title": "[양주소식]시, 공동주택 찾아가는 반려식물 상담 서비스 등 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05MklUT3BFQnViM3piaEFVbjRabzliM01mbUNGT0l2Y3p6Qi1rU1RFMlNnZUtlUzlVeXpqaVVyYjQ3RmowaEhMSTQ2UkU5V3FVNkhV?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "plant_reviews",
+      "published_at": "2026-05-26T07:01:00+00:00",
+      "collected_at": "2026-05-28T14:39:50.836676+00:00",
+      "summary": "[양주소식]시, 공동주택 찾아가는 반려식물 상담 서비스 등 네이트",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 52,
+      "region": "경기",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
+    },
+    {
       "id": "304edb6211429a5d5baeeba8",
       "title": "2026년 우수 치유농업시설 인증 심사위원 공개모집 - 농촌진흥청",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEQzNVRaWjVIRmlsTmZKZkNkM29wd05rXzJabGxac0gxU0FPUmthcHRCb2dqZXB3VFNBckRqbWNReV9DSHBEcjA4X3VyREpEam9yV3dncFRMZEpwTGdfUXJHY3N2UjZFdTJ3eUpBUnFXUXZMT3pncGRzRWNwcnMzb3ROQUN2cTVhZTdEblIwNHlRQQ?oc=5",
@@ -3959,24 +4145,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "bc189a36253c8ab48c351d18",
-      "title": "[양주소식]시, 공동주택 찾아가는 반려식물 상담 서비스 등 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FU2dSbXNRQ3dZbksyQWN3dTktNjFhNFd2Q0ZZX0JEMEItaFY4cWhzc2ZvOUFOcXNqU0VBY0dSUDRsZHBDM2xLamQ1VERUUGZpR2lHem81VVQteldENmFrSA?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-05-26T06:59:41+00:00",
-      "collected_at": "2026-05-26T07:34:25.014028+00:00",
-      "summary": "[양주소식]시, 공동주택 찾아가는 반려식물 상담 서비스 등 뉴시스",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "region": "경기",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "식물 리뷰"
     },
     {
       "id": "96402295bf1a9532a2e07613",
@@ -13168,128 +13336,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "0043d83a74a656366bf209f4",
-      "title": "“봉화 농업 미래, 군수 후보에게 묻는다”…농정토론회 26일 개최 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2bVViZEFNVExPQ01DSm1LMEN5bXRpZ2lFSEgtTlFZd282ZmE4Q2Q4RjM2LW54QmtjTDJjR3ZEaVVLSG80S3c?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-19T04:05:03+00:00",
-      "collected_at": "2026-05-20T18:02:10.290898+00:00",
-      "summary": "“봉화 농업 미래, 군수 후보에게 묻는다”…농정토론회 26일 개최 v.daum.net",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "a0e347429d95c43a6fd690c5",
-      "title": "박찬우 천안시장 후보, 농업·농촌·농민 공약 발표… “농업예산 7%로 확대” - 엠뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IUlVpVUdMeTdHRWQyX1FFMS1nRUR6QWRPcDMzeFV0bFFfWGZQV3RNR1NHYjBRZjN5ZnpsT0hmWHhPcGJUWWI4U0xiYXc2X1pFNHlkc1BpcjgwenhWT0dkYlNHZ2NlQQ?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-19T03:35:18+00:00",
-      "collected_at": "2026-05-19T04:59:20.393223+00:00",
-      "summary": "박찬우 천안시장 후보, 농업·농촌·농민 공약 발표… “농업예산 7%로 확대” 엠뉴스",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "충남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "130cfe439b1032c852993357",
-      "title": "「탄소중립에 따른 한우산업 전환 및 지원에 관한 법률」 시행규칙 제정안 입법예고 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQc1dhOU5WQTc2RVMyVUkwN1c4dFRMS1BYMmVla0g5bmFjOTlYYi14NVR2ZTBxaTBOMHlfR1EydEg5S1lTa1FGbUlGWjFfbS1qZ2RmZE9ua2VKS3EtOVM4cUdteXFPTV9QZkxGV3NGWVd1ZFpvM0NrcGlxcw?oc=5",
-      "source": "Google News 농림축산식품부",
-      "category": "support",
-      "published_at": "2026-05-19T03:00:57+00:00",
-      "collected_at": "2026-05-19T09:46:49.585789+00:00",
-      "summary": "「탄소중립에 따른 한우산업 전환 및 지원에 관한 법률」 시행규칙 제정안 입법예고 농림축산식품부",
-      "keywords": [
-        "지원"
-      ],
-      "importance": 64,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "5bddbe1702be5a61fd8b8349",
-      "title": "박찬우 천안시장 후보, '돈 되는 농업·살고 싶은 농촌' 공약 발표 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE12ZENIVHAwSXJSXzVIZFNqUFZraU5GckhVVklYbUVrNGpBdnhuVGJpQTJSekxOVkg5ZWo5S1I2cUhmUkV0Q1E?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-19T02:45:07+00:00",
-      "collected_at": "2026-05-20T18:02:10.290898+00:00",
-      "summary": "박찬우 천안시장 후보, '돈 되는 농업·살고 싶은 농촌' 공약 발표 v.daum.net",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "충남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "5edb7e3410a372743634949d",
-      "title": "강릉시, 벼 병해충 예찰포에서 모내기 실시 - 프레시안",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sNXV4VjZ2Q0hUMU9xLXZmeHA0eVQ0QnFaemJMRnVnNFpBcUdUT3QwVzQyWTEyRGVsNEY2UVBQS013YVQ4YWJnaVY2OC1TTjhNUGJUSDg2dENyeDRlSjhBcWdzclJaMHIyd2Zn?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-19T02:34:03+00:00",
-      "collected_at": "2026-05-19T10:17:30.197987+00:00",
-      "summary": "강릉시, 벼 병해충 예찰포에서 모내기 실시 프레시안",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "강원",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "2c892164fd3273b81627ef06",
-      "title": "영천시, 2027년도 유기질비료 지원사업 신청 접수 - 데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5USktQSHZ1bU1teWM4TlNuLW5TLWpsNlFEQ2lXeF9XRW9iajJ1bG1leE1lUnI0NDAzUTF6dk5McXhsWWVQc0NHb0FWY291ZkhCcE9QSjN4Z3BXZVNiQ09JNElHOXB2Zw?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-19T02:33:43+00:00",
-      "collected_at": "2026-05-23T23:01:11.046596+00:00",
-      "summary": "영천시, 2027년도 유기질비료 지원사업 신청 접수 데일리대구경북뉴스",
-      "keywords": [
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "대구",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 695,
+    "total": 697,
     "category_counts": {
-      "news": 388,
+      "news": 385,
       "plant_reviews": 28,
-      "support": 279
+      "support": 284
     },
     "top_keywords": [
       {
@@ -13298,19 +13352,19 @@
       },
       {
         "keyword": "지원",
-        "count": 187
+        "count": 191
       },
       {
         "keyword": "농촌",
-        "count": 146
+        "count": 144
       },
       {
         "keyword": "사업",
-        "count": 101
+        "count": 104
       },
       {
         "keyword": "지원사업",
-        "count": 86
+        "count": 88
       },
       {
         "keyword": "스마트팜",
@@ -13318,11 +13372,11 @@
       },
       {
         "keyword": "모집",
-        "count": 73
+        "count": 75
       },
       {
         "keyword": "청년농",
-        "count": 65
+        "count": 69
       },
       {
         "keyword": "신청",
@@ -13338,24 +13392,24 @@
       },
       {
         "keyword": "귀농",
-        "count": 55
+        "count": 56
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 159
+        "count": 156
       },
       {
         "source": "Google News 청년농 귀농",
         "count": 77
       },
       {
-        "source": "Google News 스마트팜",
+        "source": "Google News 병해충 재배",
         "count": 72
       },
       {
-        "source": "Google News 병해충 재배",
+        "source": "Google News 스마트팜",
         "count": 72
       },
       {
@@ -13368,27 +13422,27 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 35
+        "count": 38
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 30
+        "count": 29
       },
       {
         "source": "Google News 농림축산식품부",
-        "count": 30
+        "count": 29
       },
       {
         "source": "Google News 지자체 농업기술센터",
-        "count": 24
+        "count": 28
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 98,
-    "fetched_items": 728,
+    "new_items": 15,
+    "fetched_items": 731,
     "errors": []
   }
 }
