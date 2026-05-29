@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T16:02:33.185751+00:00",
+  "generated_at": "2026-05-29T16:33:02.891421+00:00",
   "items": [
     {
       "id": "a8efb8a6654e226fef2e99a5",
@@ -291,6 +291,24 @@
       "category_label": "지원사업"
     },
     {
+      "id": "470f8cd37a48508f724034c4",
+      "title": "청년과 농촌체험마을이 손잡았다농촌체험의 새로운 모델, 첫걸음을 내딛다! - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZWl5RllZYjctOERGT05LSk9hTzBKeE1zMS1OcFpSaGdHM0RYU3hFZHFBakNNUVVvaHNiUWN4NVRZcUx4eE0xSXVNekZsT3ZIN2VFSmR4TEtBWlBwSU1uVTRn?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "news",
+      "published_at": "2026-05-29T07:01:41+00:00",
+      "collected_at": "2026-05-29T16:32:53.714198+00:00",
+      "summary": "청년과 농촌체험마을이 손잡았다농촌체험의 새로운 모델, 첫걸음을 내딛다! 농림축산식품부",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "1180562d3eceb1c9ff2eb3ae",
       "title": "농림축산식품부의 봄, 미래 농업과 농촌을 위한 새싹 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFAtUGhzblExVTFkcUF2S2xlV2xEeVpKLWRRMDNkR3hRY3VyYVpTdENhYlE1MXVKTFN0dDVrLXUySVZNY2lrYmFXNlJtZzIzWU1nM3pFZFFPVF8yZHplN0tUOFdQTlN4T2JCa2l1WFg2cGc2amc4MkdUU2JfdjJVdkx0anBHdHVrWW1F?oc=5",
@@ -506,6 +524,44 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "6684d85d973a11fcfe86392e",
+      "title": "울산 울주 웅촌농협 ‘깨끗하고 아름다운 농촌마을 가꾸기’ 캠페인 - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54NXVKZXQ2eERlWWtDbEstdU15TmxRNGlIMjc4R05JcXhKTXhuamRhaVZIaHQ4dmVoRVRGdHZLRHdQVGpWc1Z0ck1BbEVVUEdDRFhqdEktUTRmUQ?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-29T04:15:55+00:00",
+      "collected_at": "2026-05-29T16:32:44.729694+00:00",
+      "summary": "울산 울주 웅촌농협 ‘깨끗하고 아름다운 농촌마을 가꾸기’ 캠페인 농민신문",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "울산",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "b75ec97d78f27aa4fb48de07",
+      "title": "2026년 저탄소 농업 프로그램 시범사업(축산) 신청 연장 공고 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmVWZPSkZ6TkdwTGpIN0pTQmtXbzBVZTNTZGllU1N6WGFsbFNDT0FvRVZ6eE9tellHTVgwM0pIZ1o3TEphR1lVT29mNmlnREQ0Q3dyZmRsNVBUNS1UVlNBRnptZThYV0k?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "support",
+      "published_at": "2026-05-29T03:58:07+00:00",
+      "collected_at": "2026-05-29T16:32:53.714198+00:00",
+      "summary": "2026년 저탄소 농업 프로그램 시범사업(축산) 신청 연장 공고 농림축산식품부",
+      "keywords": [
+        "농업",
+        "신청",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "전국",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "4402b2a6b24217505d7eb0c9",
@@ -988,6 +1044,25 @@
       "importance": 76,
       "region": "",
       "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "ff9188b91b1e2c0a61b9e3fd",
+      "title": "고유가 상황 지속에 따라 농·어업 및 임업기계용 면세유 유가연동보조금 지급한도 상향 (면세경유 기준 138원/ℓ → 176원/ℓ) - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wa1ZTdGlUc2FSOUtTQXhKaEZJblF0RUNxYVZwSXFlT3R2NU5mb01CVUdibjEwTmZOQWMxaUd5ekNuN00zMy1YTlg3NzNVRWNXTEVuNHVfcFRsbV80UEhlU0NCLWtsd3BiUWc5MW9TVjlwUjBraGIyUmdIVQ?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "support",
+      "published_at": "2026-05-28T23:00:00+00:00",
+      "collected_at": "2026-05-29T16:32:53.714198+00:00",
+      "summary": "고유가 상황 지속에 따라 농·어업 및 임업기계용 면세유 유가연동보조금 지급한도 상향 (면세경유 기준 138원/ℓ → 176원/ℓ) 농림축산식품부",
+      "keywords": [
+        "보조금",
+        "보조"
+      ],
+      "importance": 64,
+      "region": "전국",
+      "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
     },
@@ -13225,50 +13300,31 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "2d6a500428c0e149c867e88d",
-      "title": "농식품부 '청년 창업농 장학생' 선발...등록금 전액-학업장려금 250만원 지원 - 도농라이프타임즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TQ3Z6bGZUYnlwMVdrZDcxNG1kb1QwWUM0YXF6dUpZci1BcXRzNUtKcGQyWUxVeTNoaXhta18wWjN5N0ZuNW1Hdk5hckdPZjh2MGtZV1B2Wm5IMGlFZUh4cVBJWkw1a0dYYldkaw?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-20T02:00:00+00:00",
-      "collected_at": "2026-05-22T06:12:25.489667+00:00",
-      "summary": "농식품부 '청년 창업농 장학생' 선발...등록금 전액-학업장려금 250만원 지원 도농라이프타임즈",
-      "keywords": [
-        "농식품부",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 690,
+    "total": 693,
     "category_counts": {
-      "news": 371,
+      "news": 373,
       "plant_reviews": 32,
-      "support": 287
+      "support": 288
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 208
+        "count": 209
       },
       {
         "keyword": "지원",
-        "count": 193
+        "count": 192
       },
       {
         "keyword": "농촌",
-        "count": 143
+        "count": 145
       },
       {
         "keyword": "사업",
-        "count": 109
+        "count": 110
       },
       {
         "keyword": "지원사업",
@@ -13288,7 +13344,7 @@
       },
       {
         "keyword": "신청",
-        "count": 64
+        "count": 65
       },
       {
         "keyword": "농산물",
@@ -13306,7 +13362,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 150
+        "count": 151
       },
       {
         "source": "Google News 병해충 재배",
@@ -13330,7 +13386,7 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 39
+        "count": 38
       },
       {
         "source": "Google News 식물 키우기",
@@ -13341,16 +13397,16 @@
         "count": 29
       },
       {
-        "source": "Google News 농업기술센터 모집",
-        "count": 27
+        "source": "Google News 농림축산식품부",
+        "count": 28
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 8,
-    "fetched_items": 706,
+    "new_items": 5,
+    "fetched_items": 716,
     "errors": []
   }
 }
