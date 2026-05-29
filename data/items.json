@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T17:03:34.463662+00:00",
+  "generated_at": "2026-05-29T17:34:14.779909+00:00",
   "items": [
     {
       "id": "f28c15c9851c082d9766a83e",
@@ -246,6 +246,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "268594a157b91bbd2e802546",
+      "title": "장수·순창, 농어촌 기본소득 타고 귀농귀촌 관심 ‘쑥’ - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SWl9LWnRDMDhFaWtibi1IOU43Uy1xbnBHOGpnWHJaNGdpNkd4RTZVNFVMeVAzck1xbi1oR05tWWhlLW5mamZJMVlWUmt1ZEE?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-05-29T08:47:15+00:00",
+      "collected_at": "2026-05-29T17:33:50.900332+00:00",
+      "summary": "장수·순창, 농어촌 기본소득 타고 귀농귀촌 관심 ‘쑥’ v.daum.net",
+      "keywords": [
+        "귀농",
+        "귀농귀촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "4f39c71335179e211eee7df9",
@@ -790,6 +809,22 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "edce11023c602234013b0551",
+      "title": "공지·공고 > 2026년 제3회 반려동물행동지도사 자격시험 시행계획 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PeDFkUkRjSnp6UlNtVFVlcmNfNUVtdWtzYVFiUzhDMWdQQWRhMmswRHNwY1d4Rm52NFpxb3dqQmtkVy1oWno3OEx3elFVT3duOEprVVc3dEdhSTFOWnhBWElsY083Y1RRaG1rYmxjTHhWc3VtWEYwWlN1MA?oc=5",
+      "source": "Google News 농식품부 공고",
+      "category": "support",
+      "published_at": "2026-05-29T03:11:09+00:00",
+      "collected_at": "2026-05-29T17:33:55.317684+00:00",
+      "summary": "공지·공고 > 2026년 제3회 반려동물행동지도사 자격시험 시행계획 농림축산식품부",
+      "keywords": [],
+      "importance": 74,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "9fedcb734cfc9f67ebdf2764",
@@ -1376,6 +1411,44 @@
       "category_label": "지원사업"
     },
     {
+      "id": "cdaddd2bbaf2eeb6676d2b8b",
+      "title": "서산시, ‘준비부터 정착, 창업까지’ 귀농·귀촌 전방위 지원 - 서산시대",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByaTlpTjd3ZnE0b0pWVzhBWXFOM0MzXzBRa2h5VEIwQnVrYkViekNWZm1LSEk3WlVLeEVvbFBPN3EyTERCS2ZNNHpVMzhhNVF4SllrSm1jOV9CYmtsazE1b2VzVk41YmJ6TVHSAWpBVV95cUxQcmk5aU43d2ZxNG9KVlc4QVlxTjNDM18wUWtoeVRCMEJ1a2JFYnpDVmZtS0hJN1pVS3hFb2xQTzdxMkxEQktmTTR6VTM4YTVReEpZa0ptYzlfQmJrbGsxNW9lc1ZONWJiek1R?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "support",
+      "published_at": "2026-05-28T10:47:54+00:00",
+      "collected_at": "2026-05-29T17:33:50.900332+00:00",
+      "summary": "서산시, ‘준비부터 정착, 창업까지’ 귀농·귀촌 전방위 지원 서산시대",
+      "keywords": [
+        "귀농",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "f006cfe355051636c2744ec6",
+      "title": "서산시, 미리 살아보기부터 창업까지 '귀농·귀촌 촘촘한 종합지원' - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGU0QzYTM3eEZaaFhlY2JVRHdtdzhyOXJickVkeFJXcHpwUHdQaWFqd1JIUHBRSmt0THNocjRCRF9Wbm85bEFaMGxiZUZocU0?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "support",
+      "published_at": "2026-05-28T09:47:02+00:00",
+      "collected_at": "2026-05-29T17:33:50.900332+00:00",
+      "summary": "서산시, 미리 살아보기부터 창업까지 '귀농·귀촌 촘촘한 종합지원' v.daum.net",
+      "keywords": [
+        "귀농",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "64942fa232f2fc891b4f8af5",
       "title": "광주시, 지역환경 맞춤형 우리밀 품종·재배기술 실증 - 무등뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yM2ZSVEJWek1FbVJDV2dLcjZIVlhobnd5bVg3Y3lqUW1jOHNNaEJ6R09zQVBZVGFKZFZ2ZENpU3RFRDdPWmpZMHAtdGdYXzNaRV9CT0drSHc4MGRKOGpnUUc3akFMR1k?oc=5",
@@ -1492,25 +1565,6 @@
       ],
       "importance": 70,
       "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "da34cfbe8150c3b47a45c767",
-      "title": "서산시, 미리 살아보기부터 창업까지 ‘귀농·귀촌 촘촘한 종합지원’ - 대전일보",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80ZVAxZFQ4WmxsY25XeDFxYXh2d1ZpLTRkN0NjYm9yOHpRUVJLc1Y5aGFWS2tET09rU1BuLWxCX1FNek1EOFc3amFiNDJBUjV1Wmc0ZFl6Si1tUTk3MXA3aFZ5Rm5WcWwtb05iOUhPNHduaUHSAXNBVV95cUxPNGVQMWRUOFpsbGNuV3gxcWF4dndWaS00ZDdDY2Jvcjh6UVFSS3NWOWhhVktrRE9Pa1NQbi1sQl9RTXpNRDhXN2phYjQyQVI1dVpnNGRZekotbVE5NzFwN2hWeUZuVnFsLW9OYjlITzR3bmlB?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-05-28T08:24:54+00:00",
-      "collected_at": "2026-05-28T13:49:52.250896+00:00",
-      "summary": "서산시, 미리 살아보기부터 창업까지 ‘귀농·귀촌 촘촘한 종합지원’ 대전일보",
-      "keywords": [
-        "귀농",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "대전",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
@@ -13316,65 +13370,27 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f78a9948976ee76573d935e0",
-      "title": "봄철 콩 생육 초기 병해충 주의보 - 농축유통신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUTF2WnAxZVVpYXNsRGpQQms3bS1keXJxV2JVal9rWlJZX0lKLTdfWjQ4c1h6b3luQVllakRJN0tYaWxjSGhlNGpNYjdlMWgxb1dmNi12bVdYRUxCUnhhdmVuRlc1YlZsTUE?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-20T02:28:45+00:00",
-      "collected_at": "2026-05-20T18:02:17.134040+00:00",
-      "summary": "봄철 콩 생육 초기 병해충 주의보 농축유통신문",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "6a686e12c6c4c2f4f7a39ef5",
-      "title": "부여군, 농촌 쉼터 설치 기준 완화… 농업인 편의 높인다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uTkFRQjNsU0NaRGhFRFJtTDFGbk9EcjhiZ1hzWUQ4al9IVE9xY0dmMEcyczlZSFlSOVlfaTh4NktBUmlaeUNmLVR4MzViMEE?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-20T02:18:39+00:00",
-      "collected_at": "2026-05-26T14:59:29.766254+00:00",
-      "summary": "부여군, 농촌 쉼터 설치 기준 완화… 농업인 편의 높인다 v.daum.net",
-      "keywords": [
-        "농업",
-        "농촌",
-        "농업인"
-      ],
-      "importance": 42,
-      "region": "충남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 696,
+    "total": 697,
     "category_counts": {
-      "news": 379,
+      "news": 378,
       "plant_reviews": 32,
-      "support": 285
+      "support": 287
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 208
+        "count": 207
       },
       {
         "keyword": "지원",
-        "count": 194
+        "count": 195
       },
       {
         "keyword": "농촌",
-        "count": 147
+        "count": 146
       },
       {
         "keyword": "사업",
@@ -13406,7 +13422,7 @@
       },
       {
         "keyword": "귀농",
-        "count": 56
+        "count": 58
       },
       {
         "keyword": "접수",
@@ -13416,18 +13432,18 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 152
+        "count": 151
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 74
-      },
-      {
-        "source": "Google News 병해충 재배",
-        "count": 72
+        "count": 76
       },
       {
         "source": "Google News 스마트팜",
+        "count": 71
+      },
+      {
+        "source": "Google News 병해충 재배",
         "count": 71
       },
       {
@@ -13459,8 +13475,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 13,
-    "fetched_items": 680,
+    "new_items": 6,
+    "fetched_items": 617,
     "errors": []
   }
 }
