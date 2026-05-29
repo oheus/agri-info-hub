@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-05-29T19:36:23.162534+00:00",
+  "generated_at": "2026-05-29T20:06:51.606173+00:00",
   "total": 693,
   "category_counts": {
-    "news": 375,
+    "news": 376,
     "plant_reviews": 33,
-    "support": 285
+    "support": 284
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 204
+      "count": 205
     },
     {
       "keyword": "지원",
-      "count": 192
+      "count": 191
     },
     {
       "keyword": "농촌",
-      "count": 147
+      "count": 148
     },
     {
       "keyword": "사업",
-      "count": 109
+      "count": 107
     },
     {
       "keyword": "지원사업",
-      "count": 90
+      "count": 88
     },
     {
       "keyword": "모집",
-      "count": 74
+      "count": 75
     },
     {
       "keyword": "청년농",
-      "count": 73
+      "count": 74
     },
     {
       "keyword": "스마트팜",
-      "count": 72
+      "count": 73
     },
     {
       "keyword": "신청",
-      "count": 64
+      "count": 63
     },
     {
       "keyword": "농산물",
-      "count": 59
+      "count": 57
     },
     {
       "keyword": "귀농",
@@ -53,13 +53,13 @@
     },
     {
       "keyword": "접수",
-      "count": 54
+      "count": 53
     }
   ],
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 149
+      "count": 150
     },
     {
       "source": "Google News 청년농 귀농",
@@ -67,7 +67,7 @@
     },
     {
       "source": "Google News 스마트팜",
-      "count": 70
+      "count": 71
     },
     {
       "source": "Google News 병해충 재배",
@@ -75,15 +75,15 @@
     },
     {
       "source": "Google News 지원사업",
-      "count": 66
+      "count": 64
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 45
+      "count": 44
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 40
+      "count": 41
     },
     {
       "source": "Google News 식물 키우기",
@@ -102,7 +102,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 5,
-    "fetched_items": 717,
+    "fetched_items": 725,
     "errors": []
   }
 }
