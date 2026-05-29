@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T19:05:53.265235+00:00",
+  "generated_at": "2026-05-29T19:36:23.162534+00:00",
   "items": [
     {
       "id": "f28c15c9851c082d9766a83e",
@@ -2873,6 +2873,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "1cf05c2d608378b84406600a",
+      "title": "양양군, ‘2026년 농지전수조사’ 착수… 농지 투기 근절·청년농 지원 강화 - reporternside.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0taC1OanZXZUNzdWczajdxdXlWQVJDeEdCc2RCRE9nSlI3UGhIQWdsY3ZvUDAtRlRKQ1hHckhfQld6RGZkUEhCZ190d3FONUpVQ01RcEVEcC1mUEhXLWk4SGhaZk5OM2t4aFVWRkVlLTladw?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-28T01:29:46+00:00",
+      "collected_at": "2026-05-29T19:36:16.327403+00:00",
+      "summary": "양양군, ‘2026년 농지전수조사’ 착수… 농지 투기 근절·청년농 지원 강화 reporternside.com",
+      "keywords": [
+        "청년농",
+        "지원"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "96b9e8a4d2f3ff6a5aa729b5",
@@ -13259,46 +13278,27 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "2900f13612b9de5695f50308",
-      "title": "농촌진흥청, 농업·농촌 현장문제 해결 공무원 특별성과 포상금 지급 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQU9yT3d5eVQ2S0x6QzdwWXhfMVFGYmVMRW9GZ3hRdjkzVnNrVHdFOGw2ZXg0QTZSN08zeW9VZU5wOTh3MnVzNklRQ3FNNG1NSVVuaDh0R2ZSSnVQTmFJNGZTbTlDeU9EX3NOTWdZbHp3UnlxU21DNDhGSnJ4N0hXU0JSNzRGWnU5ZjNR?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-20T05:02:07+00:00",
-      "collected_at": "2026-05-22T08:14:10.493767+00:00",
-      "summary": "농촌진흥청, 농업·농촌 현장문제 해결 공무원 특별성과 포상금 지급 대한민국 정책브리핑",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
     "total": 693,
     "category_counts": {
-      "news": 376,
+      "news": 375,
       "plant_reviews": 33,
-      "support": 284
+      "support": 285
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 205
+        "count": 204
       },
       {
         "keyword": "지원",
-        "count": 191
+        "count": 192
       },
       {
         "keyword": "농촌",
-        "count": 148
+        "count": 147
       },
       {
         "keyword": "사업",
@@ -13313,11 +13313,11 @@
         "count": 74
       },
       {
-        "keyword": "스마트팜",
-        "count": 72
+        "keyword": "청년농",
+        "count": 73
       },
       {
-        "keyword": "청년농",
+        "keyword": "스마트팜",
         "count": 72
       },
       {
@@ -13340,7 +13340,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 150
+        "count": 149
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13364,7 +13364,7 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 39
+        "count": 40
       },
       {
         "source": "Google News 식물 키우기",
@@ -13384,7 +13384,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 5,
-    "fetched_items": 718,
+    "fetched_items": 717,
     "errors": []
   }
 }
