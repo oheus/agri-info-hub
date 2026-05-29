@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T18:04:46.005746+00:00",
+  "generated_at": "2026-05-29T18:35:25.754828+00:00",
   "items": [
     {
       "id": "f28c15c9851c082d9766a83e",
@@ -49,6 +49,24 @@
       "keywords": [],
       "importance": 48,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "748b60547a2049d159f525e5",
+      "title": "농촌진흥청 행적직 대체인력 경력경쟁채용 공고 - 농촌진흥청",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOVkN2VnVWOWJvVUlueTBEUDEzcVdsdlk5emtTUUlFeHJNZjBadUh6SmpQRWtpZDkxYmxra25odHZmNGN5eHJCMVpjaU9Mc2JKa0FSTjk1SG01SERXQkRNUkx2TmRCU0RQS0pVS2hEMXY1Y3E5VThNeldlZnRsUUZ3OUFCU2RTN1A5U0JWUjlLOFUzd3pocmtCYVFtd0c3V0dZcE5xVWcyR2E2RGJVR1oteUxLaXRIYTNVM1dsdkMxX2cwQ3MwUTVTWmF2Z2k4a1hCV3psR1J2N0ZZSmthd2lOYThxZnBCQXNYV3pBcWpoVGgwMWxWdFF3eVp4c01ZRzRRcUFOVEkzWTZ0bVRBNGlmSk0yRG1WT0ZZd3lFMllIb0x2LVdLbmlHbXA1cXpYT1NLT25wbw?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-29T11:11:42+00:00",
+      "collected_at": "2026-05-29T18:35:16.035669+00:00",
+      "summary": "농촌진흥청 행적직 대체인력 경력경쟁채용 공고 농촌진흥청",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 48,
+      "region": "전국",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -461,6 +479,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "12c08b1692277abad91da303",
+      "title": "보도자료 > 청년과 농촌체험마을이 손잡았다농촌체험의 새로운 모델, 첫걸음을 내딛다! - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jM0FHYUw5T2JQTm5aQXZjT3F3RHgyVlJHaWZFZ1pMOFRGWExFS3VoM1Q0UTVELTlJTjY0SWUtQnlxY0MzUmtQa1p3eTNUM3hoMzZrNUxGLUtXUHVjY1ZRX1Zrc3k4NnAwMW54bGtvSFBhWGlqbUJfTEZNZw?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "news",
+      "published_at": "2026-05-29T07:01:41+00:00",
+      "collected_at": "2026-05-29T18:35:16.996767+00:00",
+      "summary": "보도자료 > 청년과 농촌체험마을이 손잡았다농촌체험의 새로운 모델, 첫걸음을 내딛다! 농림축산식품부",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "ccc8fe4cf642c49a26777b0c",
       "title": "보도자료 - 농림축산식품부",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13Mmh2MGxhUmVvbVUyU0FJZ1NwUVJBTFNkeW45UXpXcHBTajl2Q3hXUjIzS3RfYnJ6bWtselpVQTVxTUUyc1lDb0p3WmlJcEw1VzYwSzVadWtpbnFVYkhWU1RSNWhUYmx6cVhLbk1mZ1ZVR0tEUjJMQ0lnTQ?oc=5",
@@ -494,6 +530,22 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "23b6ed7fb8e90ced0102251e",
+      "title": "공지·공고 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UaXdMYjlKQmZfUHNrcFN5MDJyNTJGWl8xZEEzaHJPNnlCWjNMN09Vbkc3QVRmNm5wSkN4X1VLZlhRYXQxM2dQNTJPWlZ1X2tzRFVvc0ZJUWlEbTdmaWxiYW40RkFCa0hwU2lxNjU3amNobG9RdXcwNnpZUQ?oc=5",
+      "source": "Google News 농식품부 공고",
+      "category": "support",
+      "published_at": "2026-05-29T06:14:28+00:00",
+      "collected_at": "2026-05-29T18:35:15.055363+00:00",
+      "summary": "공지·공고 농림축산식품부",
+      "keywords": [],
+      "importance": 74,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "1ea66cdc5663af4c8467b054",
@@ -877,6 +929,26 @@
       "importance": 74,
       "region": "전국",
       "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "5c58670d21c1109a6e63b8e6",
+      "title": "공지·공고 > 2026년 저탄소 농업 프로그램 시범사업(축산) 신청 연장 공고 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iWkhJZlU5UXBTTVhtX3VKS3lJc0lTQURKQnZDSEZDMGktaDNHc0MtazE3QTduMlJHUGRfdW0tbldpXzE1ZUt2UDF0UFgxVERxYTdicmN5amFZWFZtYVFMeGhKcF9wbTFod3EtU1l2VEYtUzFIMFIwd29QWQ?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "support",
+      "published_at": "2026-05-29T03:11:00+00:00",
+      "collected_at": "2026-05-29T18:35:16.996767+00:00",
+      "summary": "공지·공고 > 2026년 저탄소 농업 프로그램 시범사업(축산) 신청 연장 공고 농림축산식품부",
+      "keywords": [
+        "농업",
+        "신청",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "전국",
+      "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
     },
@@ -13250,122 +13322,23 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "24bf7d2426f855fb5cfac8cd",
-      "title": "청양군, 귀농 정착·재난 대응 강화… “살기 좋은 농촌 기반 다진다” - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iS2Y2anZMZFZ1dnJ3VnBoc05VVzhUSWNiQXZrZEJPdXpnVjJNZkstSXVxQ3Q5UEx6NzZ0YVFka0xJV1lNM3EtS1NNTWRzOThLb2Q0ck5XVnNPbFR0cnczR0pscjIwZjlLTUxhbw?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-20T04:35:48+00:00",
-      "collected_at": "2026-05-20T18:02:15.272637+00:00",
-      "summary": "청양군, 귀농 정착·재난 대응 강화… “살기 좋은 농촌 기반 다진다” 농수축산신문",
-      "keywords": [
-        "농촌",
-        "귀농"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "0ec64aa124c4be0cdc81f980",
-      "title": "강원농축협발전협의회·강원농협, 도지사 후보에 농업·농촌 정책제안 전달 - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03cDZ2a25hb1ZoUTBjUjN3dUh3WDJoa1VLZTJqTzA3WDFKZGJWai1KLWJSOHlXVXp0NktYbWpTWHVmd0V2MEdGd3Myc1FHWTBoU1RlZ1dleUl6UG9RWTRiM2RSakdJcjJ1ejdjQg?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-20T04:35:21+00:00",
-      "collected_at": "2026-05-20T18:02:10.290898+00:00",
-      "summary": "강원농축협발전협의회·강원농협, 도지사 후보에 농업·농촌 정책제안 전달 농수축산신문",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "강원",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "b4a3fd013fade84e4711826b",
-      "title": "보령시, 고향사랑기부 이벤트 진행 및 유기질비료 지원사업 신청 접수 - Queen 이코노미퀸",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nanhEQ1JteEdlT3YtM0pYNkprU3BEaTY4cUhJVHBmMEtfemctQW9KcW9PY3FxWVBpVkRrXy1fLTlyTzYwRjR6MXFZcVJWdGNCaEpuQlFiMWdqU01RMmhfbTRDZVk?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-20T04:26:44+00:00",
-      "collected_at": "2026-05-20T18:02:11.703342+00:00",
-      "summary": "보령시, 고향사랑기부 이벤트 진행 및 유기질비료 지원사업 신청 접수 Queen 이코노미퀸",
-      "keywords": [
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "f17bfc6e75a06dded267d399",
-      "title": "연천군, ‘2026 신규 농업인 기초 영농기술’ 교육생 모집 - 경기일보",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJM0o3bTd6VmN1eFdzWEZWb0hReTdQODFjQk4wNGxXNnBma2ZnLUN4YzdUQVVIUG54Y09relp6cnAtNXVHRE5zZHNYRFl4R01uMEV3NFcyQXJmMEE?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-05-20T04:14:00+00:00",
-      "collected_at": "2026-05-20T18:02:31.248618+00:00",
-      "summary": "연천군, ‘2026 신규 농업인 기초 영농기술’ 교육생 모집 경기일보",
-      "keywords": [
-        "농업",
-        "농업인",
-        "모집"
-      ],
-      "importance": 74,
-      "region": "경기",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "3c5209b3b54c132172286ff7",
-      "title": "알림소식 > 보도자료 > 밀가루 담합 업체 7개사 대상 정부정책자금 지원 중단 및 관리감독 강화 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fMmFoUlpJTnYtUXNOLWt5RVl2ZmJFcHBiZlN1X19MY0ViazVQOUloQXZ6RXNyTGZLZEVoZWJic2hsU1Bxa1J6LVpNTlZHVnM4aHoxTjVQek8tQ1ViVkVVaUpDTlJUVVVDWXgxWk8wbFBhNmNfRmlFTG1fSQ?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-05-20T04:09:47+00:00",
-      "collected_at": "2026-05-21T14:06:33.430205+00:00",
-      "summary": "알림소식 > 보도자료 > 밀가루 담합 업체 7개사 대상 정부정책자금 지원 중단 및 관리감독 강화 농림축산식품부",
-      "keywords": [
-        "정책자금",
-        "지원"
-      ],
-      "importance": 74,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 696,
+    "total": 695,
     "category_counts": {
       "news": 377,
       "plant_reviews": 33,
-      "support": 286
+      "support": 285
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 206
+        "count": 205
       },
       {
         "keyword": "지원",
-        "count": 194
+        "count": 192
       },
       {
         "keyword": "농촌",
@@ -13377,11 +13350,11 @@
       },
       {
         "keyword": "지원사업",
-        "count": 92
+        "count": 91
       },
       {
         "keyword": "모집",
-        "count": 75
+        "count": 74
       },
       {
         "keyword": "청년농",
@@ -13401,21 +13374,21 @@
       },
       {
         "keyword": "귀농",
-        "count": 57
+        "count": 56
       },
       {
         "keyword": "접수",
-        "count": 56
+        "count": 55
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 151
+        "count": 150
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 75
+        "count": 74
       },
       {
         "source": "Google News 병해충 재배",
@@ -13427,7 +13400,7 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 67
+        "count": 66
       },
       {
         "source": "Google News 농산물 가격",
@@ -13442,12 +13415,12 @@
         "count": 33
       },
       {
-        "source": "Google News 지자체 농업기술센터",
-        "count": 27
+        "source": "Google News 농림축산식품부",
+        "count": 28
       },
       {
-        "source": "Google News 농업기술센터 모집",
-        "count": 26
+        "source": "Google News 지자체 농업기술센터",
+        "count": 27
       }
     ]
   },
@@ -13455,7 +13428,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 8,
-    "fetched_items": 718,
+    "fetched_items": 725,
     "errors": []
   }
 }
