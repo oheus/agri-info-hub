@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T19:36:23.162534+00:00",
+  "generated_at": "2026-05-29T20:06:51.606173+00:00",
   "items": [
     {
       "id": "f28c15c9851c082d9766a83e",
@@ -36,6 +36,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
+    },
+    {
+      "id": "b2103cca8b6cb0a5aa6bf1a7",
+      "title": "“데이터가 농업 경쟁력 바꾼다”… 스마트팜센터, AI 플랫폼 ‘토지프로’ 공개 - 한국영농신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZ2Z4SzNvQ0RDVGlUQ3U1cF9ncXVkdjlnQUhaSmFrV1FfdHgwSHdqdFRoZmdaZU52X0t6ejF1ZmdPZERJaGUtR2lMYS1VclROV3dWS3BqVmpfMWNiNXJ2Rnc5Y0hKR0k2amNzYtIBbkFVX3lxTE1ucFI4ajZ5eGZzSEhYRXl3WU5FVjNCR015REh2MnZLVHQzbHNYaEttLTNLOGl5WUJnYUhJamJObHN2YWtEbTV1R051YWVqNmdVNUFGMEpZbXJKXzMtamR5M2U5aHdSMlg1MDhwbER3?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-05-29T13:59:04+00:00",
+      "collected_at": "2026-05-29T20:06:35.981377+00:00",
+      "summary": "“데이터가 농업 경쟁력 바꾼다”… 스마트팜센터, AI 플랫폼 ‘토지프로’ 공개 한국영농신문",
+      "keywords": [
+        "농업",
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "c03acc3c23b21d89eaadc491",
@@ -305,6 +324,44 @@
       "category_label": "지원사업"
     },
     {
+      "id": "9eb0a548a5433fc09407116a",
+      "title": "당진시, 청년농 영농정착 2차 모집... '최대 3,600만 원' 지원 - 뉴스워커",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91ZWw5Z0M1eGxHeDRJS1BfT2FJajRmSGRSdDFFS3Y1WVZ0QVB0SGlsdzB4WlFwTUtKRTZNT1NSbFpuSWNya0FxZnVROFNTbVYtODRYeXZZblk1NERLNUZmT1V0NGF2ZTJGekdKUGowaHDSAXNBVV95cUxOSVgyWEdNY2ZoU0lSaDNlMW5RTHF0OU84dlhfNkVFc200Z0tGelpMNllscFB4eGJwUElXOEkzaG5KaW94RGl2MF9xTV9lbjlrWTFoVXNMd3RMYkp4bThSZXJDU0M3RzFEekJabUxVQlFUeE4w?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-29T09:00:00+00:00",
+      "collected_at": "2026-05-29T20:06:44.782470+00:00",
+      "summary": "당진시, 청년농 영농정착 2차 모집... '최대 3,600만 원' 지원 뉴스워커",
+      "keywords": [
+        "청년농",
+        "모집",
+        "지원"
+      ],
+      "importance": 76,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "68bcf199ba302c9c43728dbc",
+      "title": "주한 외교사절과 농촌 현장행...강호동 회장, 韓 농협 모델 알렸다 - fnnews1.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNc2hxck1qd045WDFJMWk5ZG9qZjE1cWNOZUdUVXgyYkJoeExieV8zcUQzNDNGWUV5Q0ExNDBZbUl4NUdBMmFISy1BUlBRUTBGcms1bXJRMWlaX1dMb2toVWg5dzRIT0lMcXVtdGdn0gFuQVVfeXFMUE1zaHFyTWp3TjlYMUkxaTlkb2pmMTVxY05lR1RVeDJiQmh4TGJ5XzNxRDM0M0ZZRXlDQTE0MFltSXg1R0EyYUhLLUFSUFFRMEZyazVtclExaVpfV0xva2hVaDl3NEhPSUxxdW10Z2c?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-29T08:51:57+00:00",
+      "collected_at": "2026-05-29T20:06:33.924684+00:00",
+      "summary": "주한 외교사절과 농촌 현장행...강호동 회장, 韓 농협 모델 알렸다 fnnews1.com",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "e81f08cc5f6a871182278811",
       "title": "김해시, 청년농 영농정착 지원 확대…최대 월 110만원 지원 - 중도일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02WEFEeEdhMXpyLXMzUFZ4RkVZVnpNc3pDQnZxRk5reldxMnlzeTZ0MUVkLXVxX0p4ODdKODZHWmMwd0cxVDRtUk85NTJBQU50Tl9YalI2QkFwUFNhTk9hOGNCT1I?oc=5",
@@ -566,6 +623,29 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "87b387b2f01ba029c114e440",
+      "title": "당진시, 청년농업인 영농 정착 지원 대상 모집 - 엔디엔뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wYXRRSWlxc01KcmVRa0VTZGk2dTFZYWZWSV9yTkdCY01sOEJRWHB2UDA0aDlpTHpDS2ZwRmVNRlp2aEw5dHhmbmhmUUY4R2NxRXItVUdzNm5jS1AwV2E0bEdGYmNWS0tRTWZ3eU1n0gFyQVVfeXFMTjVOWVRSbVhUQlRiLWxIR09VY09Jb3ViYmFXZXNpMzhEVXNYX0tiVl9lcGozSGJUckRvMkJTUmNlZXNmb1JuaGRsZ3dOU25rUml0RXhMLTdLUldxRVB2ZG01U0NnbFNhOHBoNDE2aTlxMm93?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-29T06:25:48+00:00",
+      "collected_at": "2026-05-29T20:06:44.782470+00:00",
+      "summary": "당진시, 청년농업인 영농 정착 지원 대상 모집 엔디엔뉴스",
+      "keywords": [
+        "농업",
+        "청년농",
+        "농업인",
+        "모집",
+        "청년농업인",
+        "지원"
+      ],
+      "importance": 76,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "23b6ed7fb8e90ced0102251e",
@@ -1407,29 +1487,6 @@
       ],
       "importance": 70,
       "region": "울산",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "d4b327951119db6a8d0d569e",
-      "title": "당진시, 청년농업인 영농 정착 지원 대상 모집 - fnewstv.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43Nk16S3ZQOUtfUG1YLXVpNXFETXhkbzJzZTdyVGhwcTRaMkpOLW9iUTJjTURNdEhtZTlPaDFISDUtNUhFdlUxSE0wY3BBVXh2bUs3eDBoTl9fODRFTkZNbWJIUmlXekNTU3FQeEE2YXU?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-28T23:10:31+00:00",
-      "collected_at": "2026-05-29T00:30:37.040963+00:00",
-      "summary": "당진시, 청년농업인 영농 정착 지원 대상 모집 fnewstv.com",
-      "keywords": [
-        "농업",
-        "청년농",
-        "농업인",
-        "모집",
-        "청년농업인",
-        "지원"
-      ],
-      "importance": 76,
-      "region": "",
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
@@ -13216,117 +13273,55 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "c8c4b5df52735dc21255e662",
-      "title": "여주시, 친환경 등 우수농산물 학교급식 지원사업 추진 순항 - 여주신문",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sNVlPWUFqc3hTNmI2cVZiVGRLdVJlOG1SbTFOeVhZQnRuRlFHVnh0cDZ5ckFzMExmOTBCM3ZqQUZ0a0xSLUlNTThZMExmdm9QWGNQNnNpUkJNbERtTmlXTm51cDlid2ROX3I1UWNB?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-20T05:20:00+00:00",
-      "collected_at": "2026-05-20T18:02:11.703342+00:00",
-      "summary": "여주시, 친환경 등 우수농산물 학교급식 지원사업 추진 순항 여주신문",
-      "keywords": [
-        "농산물",
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "03c0168d5ca2add4aae527f0",
-      "title": "오늘 농산물 가격(5월 20일): 일부 품목은 가격이 좋습니다. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWHV4OTFpZnJ0ZU9qM0tZR2RaakZYUTlZdndMVENBUmRpVW45Q0N6X1F0OG9MV21oTExBM044Ny0wdWt3c18zaWQ4dDlYZHVncy1lUnRyVTkxTEU1OFlMYVJmV0J5U2doaHdlQkkzc0ZOblRyclBrUFNCd2dvSjIyM3Y0cTBNM3lPSU9R?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-05-20T05:19:07+00:00",
-      "collected_at": "2026-05-24T08:38:16.137506+00:00",
-      "summary": "오늘 농산물 가격(5월 20일): 일부 품목은 가격이 좋습니다. Vietnam.vn",
-      "keywords": [
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f4d9ba27a48837616c8773f5",
-      "title": "유기질비료 지원사업 6월부터 신청 접수 - 새거제신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NcG9vZkR6T1J2aUprX3R2ZFZ6bFBZUmZ3NUt4M2ZONGZzYjhlcHBsMGxNOFN2OElCTDZVWUpxcmMtTmd5aHhVQnhEaThJVkZoSDVnelFTSFF5cXI0M3hjWnBjN01MSW1SOWtn?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-20T05:06:25+00:00",
-      "collected_at": "2026-05-23T23:01:11.046596+00:00",
-      "summary": "유기질비료 지원사업 6월부터 신청 접수 새거제신문",
-      "keywords": [
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
     "total": 693,
     "category_counts": {
-      "news": 375,
+      "news": 376,
       "plant_reviews": 33,
-      "support": 285
+      "support": 284
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 204
+        "count": 205
       },
       {
         "keyword": "지원",
-        "count": 192
+        "count": 191
       },
       {
         "keyword": "농촌",
-        "count": 147
+        "count": 148
       },
       {
         "keyword": "사업",
-        "count": 109
+        "count": 107
       },
       {
         "keyword": "지원사업",
-        "count": 90
+        "count": 88
       },
       {
         "keyword": "모집",
-        "count": 74
+        "count": 75
       },
       {
         "keyword": "청년농",
-        "count": 73
+        "count": 74
       },
       {
         "keyword": "스마트팜",
-        "count": 72
+        "count": 73
       },
       {
         "keyword": "신청",
-        "count": 64
+        "count": 63
       },
       {
         "keyword": "농산물",
-        "count": 59
+        "count": 57
       },
       {
         "keyword": "귀농",
@@ -13334,13 +13329,13 @@
       },
       {
         "keyword": "접수",
-        "count": 54
+        "count": 53
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 149
+        "count": 150
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13348,7 +13343,7 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 70
+        "count": 71
       },
       {
         "source": "Google News 병해충 재배",
@@ -13356,15 +13351,15 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 66
+        "count": 64
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 45
+        "count": 44
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 40
+        "count": 41
       },
       {
         "source": "Google News 식물 키우기",
@@ -13384,7 +13379,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 5,
-    "fetched_items": 717,
+    "fetched_items": 725,
     "errors": []
   }
 }
