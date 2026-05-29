@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T18:35:25.754828+00:00",
+  "generated_at": "2026-05-29T19:05:53.265235+00:00",
   "items": [
     {
       "id": "f28c15c9851c082d9766a83e",
@@ -54,6 +54,46 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "d6b6572265d713e198eeeea5",
+      "title": "남양주시, ‘2027년 유기질비료 지원사업’ 신청 접수 개시 - 팩트저널",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40Ui04c0hGSVFvTlExbml4eUJET2NkZThRWnF5YVNmMU9GeVZhbXVDSWNfSFBrVmdCMGVPVVJfYnkyZ0dFS1JkQndFQkNQYkE2M3hoSUlhRDF0MU5hM2ZNR1R3?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-05-29T12:42:09+00:00",
+      "collected_at": "2026-05-29T19:05:37.865263+00:00",
+      "summary": "남양주시, ‘2027년 유기질비료 지원사업’ 신청 접수 개시 팩트저널",
+      "keywords": [
+        "지원사업",
+        "신청",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "경기",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "8b8acc1ed75876750cf53e98",
+      "title": "임실군, 2026년 벼ㆍ논콩 병해충 공동방제 본격 추진 - 전북엔비전",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KdncwS1NDV2xYQ21rdGJoX29qNFVBWEhvcXpuSkxQQ2wzelZpYmFqa05OMW0tay1pRXg2cDA2ckRnT0VDbmlpOUZscTAtUU1UNnNUODhFTlJ1cUdCTURndWxILVVVQQ?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-29T11:45:47+00:00",
+      "collected_at": "2026-05-29T19:05:41.171100+00:00",
+      "summary": "임실군, 2026년 벼ㆍ논콩 병해충 공동방제 본격 추진 전북엔비전",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "전북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "748b60547a2049d159f525e5",
       "title": "농촌진흥청 행적직 대체인력 경력경쟁채용 공고 - 농촌진흥청",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOVkN2VnVWOWJvVUlueTBEUDEzcVdsdlk5emtTUUlFeHJNZjBadUh6SmpQRWtpZDkxYmxra25odHZmNGN5eHJCMVpjaU9Mc2JKa0FSTjk1SG01SERXQkRNUkx2TmRCU0RQS0pVS2hEMXY1Y3E5VThNeldlZnRsUUZ3OUFCU2RTN1A5U0JWUjlLOFUzd3pocmtCYVFtd0c3V0dZcE5xVWcyR2E2RGJVR1oteUxLaXRIYTNVM1dsdkMxX2cwQ3MwUTVTWmF2Z2k4a1hCV3psR1J2N0ZZSmthd2lOYThxZnBCQXNYV3pBcWpoVGgwMWxWdFF3eVp4c01ZRzRRcUFOVEkzWTZ0bVRBNGlmSk0yRG1WT0ZZd3lFMllIb0x2LVdLbmlHbXA1cXpYT1NLT25wbw?oc=5",
@@ -62,6 +102,24 @@
       "published_at": "2026-05-29T11:11:42+00:00",
       "collected_at": "2026-05-29T18:35:16.035669+00:00",
       "summary": "농촌진흥청 행적직 대체인력 경력경쟁채용 공고 농촌진흥청",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 48,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "553d323f594862de04be375e",
+      "title": "채용공고 - 농촌진흥청",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOcW5MV25DRDJaX1l2cG1LT00wU0RIeUV3Q0R1QXVRcUdscEd4Zng4TjdOdE1BNlcxekpYQWRSd1gzZmo1SW5hbG15V2pmZWc5YjNTNkpUR2ZYZC1MY0xqSEZmbVVnV1hiQ0xSQjY0V2g0TnVCU1hoTDI5R2R6LWhjRGh5RUtSaWFmQTVvNWdJelE0UlFDNTBRekdJRkdxYVVEMGNfSGxzSmpNWElWTG5nYUVYazNfNUJjNnY1UHFydFZiMVFHWGhDMnZjeUJuSGFqNjhHMnVpR2IweG1DVWJMeHN2ejViLXlCalM4SWFtZjNLNF9malVSeUVxREtYRHRjMTdrOEllbzJnU25iUTY1SkhDS3lOV0JfM1VkamJ3?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-29T11:00:02+00:00",
+      "collected_at": "2026-05-29T19:05:44.369180+00:00",
+      "summary": "채용공고 농촌진흥청",
       "keywords": [
         "농촌"
       ],
@@ -202,28 +260,6 @@
       ],
       "importance": 70,
       "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "d47c0867e0e2b2cb3d596e29",
-      "title": "남양주시, ‘2027년 유기질비료 지원사업’ 신청 접수 개시 - 일간투데이",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80YmtjblgxT2ppMm9FVkRSb0VWUjk3MXpRZ3VzVDIzdjhhVGk2dkFjdmdyeHZCdFJhYVY2S1NJZmZyRkgzWDRoMGhwX2EyVjJtVUNqUkZTbVJuTWEwMXVpRWhDMzlNeDI5aVU0?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-29T09:16:11+00:00",
-      "collected_at": "2026-05-29T15:31:45.331268+00:00",
-      "summary": "남양주시, ‘2027년 유기질비료 지원사업’ 신청 접수 개시 일간투데이",
-      "keywords": [
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "경기",
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
@@ -13242,94 +13278,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "caab5ad9e7bc925e74a947ad",
-      "title": "스마트축산 멘토단 115명으로 확대…청년농 현장 멘토링 400회 돌파 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94M0tzbm1HQXJRWmtYdXlvZ0p4czFja1dkSU9aTmdKY3dpMWFmN19QYlc1Q1czTWlWTUhQX0F3alZRenBtTmlJWk9MZjJyUHM4UGJNZ2tMRlBQenpST0JPblBhazhlZENIbm9KNmxVeVpFSTY4SV9OS9IBeEFVX3lxTE94M0tzbm1HQXJRWmtYdXlvZ0p4czFja1dkSU9aTmdKY3dpMWFmN19QYlc1Q1czTWlWTUhQX0F3alZRenBtTmlJWk9MZjJyUHM4UGJNZ2tMRlBQenpST0JPblBhazhlZENIbm9KNmxVeVpFSTY4SV9OSw?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-20T05:00:00+00:00",
-      "collected_at": "2026-05-21T14:06:29.859360+00:00",
-      "summary": "스마트축산 멘토단 115명으로 확대…청년농 현장 멘토링 400회 돌파 뉴시스",
-      "keywords": [
-        "청년농"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "7bfec3109809406d12207646",
-      "title": "'덥고 습해진 5월'…서천군, 원예작물 병해충 관리 당부 - nocutnews.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oVloyNDFoN09vM1FxNDdJQXp2Q09CalNnRkpEUzhCclRXOXVLc3BPU1l6bGNPTW9tVTNQUk9oZnNqNHNyTTREMUxlTy1YaGFSQWc?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-20T04:58:00+00:00",
-      "collected_at": "2026-05-27T21:23:38.559618+00:00",
-      "summary": "'덥고 습해진 5월'…서천군, 원예작물 병해충 관리 당부 nocutnews.co.kr",
-      "keywords": [
-        "작물",
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "8a130a447bdb51cc9407552f",
-      "title": "무주군, ‘2026 농산물 가격안정 지원사업’ 신청 접수 - 전라일보",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05Uy1HbFFoRGxfUUQybTFIQ3BmUXBqVDRXR18zTGNhR1VZemV2X2ZOZGhmTGRJcHlCd0ZsaFpMaXdWelNTUFk1Y3paX3hoaFFiVjJTRVJxM3hXTXlQSUMtMndLc0pKNTNQRmRwbEpB0gFwQVVfeXFMUEdZQ0htbkhyVUV4QzJSdnhmZEJURnBQcFBlREF5LXM5SDFLRmVPMTJ3U2lkUDExNG5LelQ3ZWVNQ2NPV3ZiODlocjVQYncyRE9tdk1Jb0c0UW5ySTg4Sks3SHZMMkJLV016OFFpY1FqNg?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "support",
-      "published_at": "2026-05-20T04:41:55+00:00",
-      "collected_at": "2026-05-20T18:02:19.005810+00:00",
-      "summary": "무주군, ‘2026 농산물 가격안정 지원사업’ 신청 접수 전라일보",
-      "keywords": [
-        "농산물",
-        "농산물 가격",
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 76,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "8cdbaab5bfd1d331665461eb",
-      "title": "서천군 농기센터, 원예작물 병해충 철저 관리 당부 - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iMk5yaTVkbnktQm96SnF6bXpQSDdVVEVtWkRGWUtBUlh5dmlVeTNtZm5hWTFNOTFaSGNFNW5NaWlyN1RPUllFM0ZNUVhNX1daTXJpRVcwZWVvdXd2OFJPX0k4UWRhQzhUeUR3dw?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-20T04:37:16+00:00",
-      "collected_at": "2026-05-20T18:02:17.134040+00:00",
-      "summary": "서천군 농기센터, 원예작물 병해충 철저 관리 당부 농수축산신문",
-      "keywords": [
-        "작물",
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 695,
+    "total": 693,
     "category_counts": {
-      "news": 377,
+      "news": 376,
       "plant_reviews": 33,
-      "support": 285
+      "support": 284
     },
     "top_keywords": [
       {
@@ -13338,39 +13294,39 @@
       },
       {
         "keyword": "지원",
-        "count": 192
+        "count": 191
       },
       {
         "keyword": "농촌",
-        "count": 147
+        "count": 148
       },
       {
         "keyword": "사업",
-        "count": 110
+        "count": 109
       },
       {
         "keyword": "지원사업",
-        "count": 91
+        "count": 90
       },
       {
         "keyword": "모집",
         "count": 74
       },
       {
-        "keyword": "청년농",
-        "count": 73
-      },
-      {
         "keyword": "스마트팜",
         "count": 72
       },
       {
+        "keyword": "청년농",
+        "count": 72
+      },
+      {
         "keyword": "신청",
-        "count": 65
+        "count": 64
       },
       {
         "keyword": "농산물",
-        "count": 60
+        "count": 59
       },
       {
         "keyword": "귀농",
@@ -13378,7 +13334,7 @@
       },
       {
         "keyword": "접수",
-        "count": 55
+        "count": 54
       }
     ],
     "top_sources": [
@@ -13388,14 +13344,14 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 74
-      },
-      {
-        "source": "Google News 병해충 재배",
-        "count": 71
+        "count": 73
       },
       {
         "source": "Google News 스마트팜",
+        "count": 70
+      },
+      {
+        "source": "Google News 병해충 재배",
         "count": 70
       },
       {
@@ -13404,7 +13360,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 46
+        "count": 45
       },
       {
         "source": "Google News 청년농 지원",
@@ -13427,8 +13383,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 8,
-    "fetched_items": 725,
+    "new_items": 5,
+    "fetched_items": 718,
     "errors": []
   }
 }
