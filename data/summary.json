@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-29T00:30:42.746795+00:00",
-  "total": 695,
+  "generated_at": "2026-05-29T01:01:10.279922+00:00",
+  "total": 696,
   "category_counts": {
-    "news": 383,
+    "news": 384,
     "plant_reviews": 28,
     "support": 284
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 213
+      "count": 214
     },
     {
       "keyword": "지원",
@@ -29,7 +29,7 @@
     },
     {
       "keyword": "스마트팜",
-      "count": 78
+      "count": 80
     },
     {
       "keyword": "모집",
@@ -63,7 +63,7 @@
     },
     {
       "source": "Google News 스마트팜",
-      "count": 75
+      "count": 77
     },
     {
       "source": "Google News 청년농 귀농",
@@ -95,14 +95,14 @@
     },
     {
       "source": "Google News 지자체 농업기술센터",
-      "count": 28
+      "count": 27
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 8,
-    "fetched_items": 733,
+    "new_items": 9,
+    "fetched_items": 737,
     "errors": []
   }
 }
