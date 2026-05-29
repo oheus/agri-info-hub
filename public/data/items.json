@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T15:32:02.204761+00:00",
+  "generated_at": "2026-05-29T16:02:33.185751+00:00",
   "items": [
     {
       "id": "a8efb8a6654e226fef2e99a5",
@@ -564,6 +564,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "9fedcb734cfc9f67ebdf2764",
+      "title": "드론 띄우고 광역방제 확대… 임실군 식량작물 병해충 선제 대응 나선다 - 시사의창",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Bd2NDM2dZQ01Xanp3MGRYYzczbE5xTzdCSHVpRUwtaTl5WWtTdWhTZFlwQjE1QldXVWU3eUlXdWFMNW5ScEdiTDBVN0ZrUlhnY1hqbA?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-29T02:24:56+00:00",
+      "collected_at": "2026-05-29T16:02:19.766035+00:00",
+      "summary": "드론 띄우고 광역방제 확대… 임실군 식량작물 병해충 선제 대응 나선다 시사의창",
+      "keywords": [
+        "작물",
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "0f3dd5d26cd3594cbe2c90a0",
       "title": "시흥시, ‘토종작물 공동체 학교’ 교육생 20명 모집 - 시흥저널",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnalpDZUh2UU1XUDFUblNIeFYzNGFTZHBONmhxaGRlaVFFeTVyaVhveDBQSUZoVloybTFOaE0tUjRRRFRpcXJZUVNvRXc4OFJsTGxncmJuc1VGZ0VOWkNDZHJSaUViZm8?oc=5",
@@ -639,6 +658,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "889a6e53826ecd0a877e8bac",
+      "title": "임실군, 벼·논콩 병해충 공동방제 본격 추진 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pSTJYcVZQWGtnMHBOTm9lM29rUTJaSkFldGx0SlFUSU9ZMmJwdnNubk5Xa3BMaG9yaURlVEFTS2tzUXZidjNNZFZjbXI3TFowOUpBWFpnTnhubWFv?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-29T01:58:00+00:00",
+      "collected_at": "2026-05-29T16:02:19.766035+00:00",
+      "summary": "임실군, 벼·논콩 병해충 공동방제 본격 추진 뉴스핌",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "d38dfc01aca5d31bdc4a17f0",
       "title": "[익산시] 미래농업 이끌 청년농업인 영농정착 지원 확대 - 투데이안",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQVVV1ZkVzV1RDeTFiY2F5VWlwaXFyT1hUWk5ER3ZvLUh4a1Fua0RYWndndXFfbWlTU0RyZnhrWDdrRHBpMnJ4aGRoM1E1d2tqbS1FajlzQmdDaXNLVkY2TF9ubmhOb0lS?oc=5",
@@ -659,6 +696,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "70d7c8c2bfa0cd152aee9ff1",
+      "title": "임실군, 2026년 벼·논콩 병해충 공동방제 본격 추진 - 퍼블릭뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iSHpLdHVCLTBIV3VEcnRHTTJycG4tQnVKdl9GcGIxNW1vQXZ3S2xWWUNNd1htb1BlaGpzeFdGSmRSRlY5XzJ2eEpNcXNWZldDMGlablgtVm9jcTFwYkpZNHFVekNWNE1fSjhn?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-29T01:53:55+00:00",
+      "collected_at": "2026-05-29T16:02:19.766035+00:00",
+      "summary": "임실군, 2026년 벼·논콩 병해충 공동방제 본격 추진 퍼블릭뉴스통신",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "9c852239d630c58b185d1438",
@@ -798,19 +853,21 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "6d2495589e3af160bf9973ff",
-      "title": "임실군, 2026년 벼·논콩 병해충 공동방제 본격 추진 - 전북제일신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vVGljWXdGN3AyZGlZUjNXVzlOVVZqQUtXQkxTcThQX1QxTi1FZVNMRFY4Mno0ZzBzckxOdWF1TTFMdnB6ckt2aDg2VEtrcE9tSzBLNmdmUGhGWlIybjN6b1I5dE50bG9jdUE?oc=5",
-      "source": "Google News 병해충 재배",
+      "id": "ec686d9c9d3e73923a94056a",
+      "title": "생명을 살리는 흙, 마음을 깨우는 농촌 : 재생유기농업과 치유농업의 ‘슬기로운 만남’ - 농업인신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TQThaa091N2lsZmd5YUxHaTI5akgxZnBnWWNubkJBZ096QjlQeEhDWUxtZ2xac05pQ3dtTDhSTTQ2cDllWXlWTXR5ZGZkUExGSVdJNGo3TFlFcGhablQ3NUI1ZlRORDN2TW51RE1n?oc=5",
+      "source": "Google News 농업",
       "category": "news",
-      "published_at": "2026-05-29T01:17:02+00:00",
-      "collected_at": "2026-05-29T01:56:41.162750+00:00",
-      "summary": "임실군, 2026년 벼·논콩 병해충 공동방제 본격 추진 전북제일신문",
+      "published_at": "2026-05-29T00:50:04+00:00",
+      "collected_at": "2026-05-29T16:02:15.261488+00:00",
+      "summary": "생명을 살리는 흙, 마음을 깨우는 농촌 : 재생유기농업과 치유농업의 ‘슬기로운 만남’ 농업인신문",
       "keywords": [
-        "병해충"
+        "농업",
+        "농촌",
+        "농업인"
       ],
-      "importance": 48,
-      "region": "전북",
+      "importance": 42,
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -13187,78 +13244,35 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "8d285c005a3633b81e01defc",
-      "title": "무주군, '농산물 가격안정 수매 1형' 29일 마감 - 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQbmp4RFEzUlQ4ZW5wcDdFdXlqbXhPZ2RaY0ZtQmw4LXN3cVdFblR0eEZULVUxNWVfc2kySHpOeWp6ODliZkZMTS1uaTJNb3pHSGRxVVNFcVZTaXhYcEHSAV5BVV95cUxQUG5qeERRM1JUOGVucHA3RXV5am14T2dkWmNGbUJsOC1zd3FXRW5UdHhGVC1VMTVlX3NpMkh6Tnlqejg5YmZGTE0tbmkyTW96R0hkcVVTRXFWU2l4WHBB?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-05-20T01:51:05+00:00",
-      "collected_at": "2026-05-20T18:02:19.005810+00:00",
-      "summary": "무주군, '농산물 가격안정 수매 1형' 29일 마감 파이낸셜뉴스",
-      "keywords": [
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 54,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "5f491a0ad2950e86df3455e0",
-      "title": "[무주군] 농산물 가격안정 지원사업 수매 1형 신청 접수 - 투데이안",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jaW9qby1TQXpISjgtYXJycjRGMFJOMDdSSzdhOVdnR3lrODFxNmV6eFBabFozWUdkNzd1a0tuVjRpdmFOOVdaLVotMFJYQ2laTVlkLTd2UkRhQVowb0k1aEhJU09YUFNzSEE?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "support",
-      "published_at": "2026-05-20T01:49:35+00:00",
-      "collected_at": "2026-05-20T18:02:19.005810+00:00",
-      "summary": "[무주군] 농산물 가격안정 지원사업 수매 1형 신청 접수 투데이안",
-      "keywords": [
-        "농산물",
-        "농산물 가격",
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 76,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 689,
+    "total": 690,
     "category_counts": {
-      "news": 369,
+      "news": 371,
       "plant_reviews": 32,
-      "support": 288
+      "support": 287
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 207
+        "count": 208
       },
       {
         "keyword": "지원",
-        "count": 194
+        "count": 193
       },
       {
         "keyword": "농촌",
-        "count": 142
+        "count": 143
       },
       {
         "keyword": "사업",
-        "count": 110
+        "count": 109
       },
       {
         "keyword": "지원사업",
-        "count": 93
+        "count": 92
       },
       {
         "keyword": "모집",
@@ -13274,15 +13288,15 @@
       },
       {
         "keyword": "신청",
-        "count": 65
+        "count": 64
       },
       {
         "keyword": "농산물",
-        "count": 60
+        "count": 58
       },
       {
         "keyword": "접수",
-        "count": 56
+        "count": 55
       },
       {
         "keyword": "귀농",
@@ -13292,15 +13306,15 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 149
+        "count": 150
+      },
+      {
+        "source": "Google News 병해충 재배",
+        "count": 73
       },
       {
         "source": "Google News 청년농 귀농",
         "count": 73
-      },
-      {
-        "source": "Google News 병해충 재배",
-        "count": 71
       },
       {
         "source": "Google News 스마트팜",
@@ -13312,7 +13326,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 47
+        "count": 45
       },
       {
         "source": "Google News 청년농 지원",
@@ -13335,8 +13349,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 12,
-    "fetched_items": 712,
+    "new_items": 8,
+    "fetched_items": 706,
     "errors": []
   }
 }
