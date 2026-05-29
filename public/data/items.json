@@ -1,20 +1,80 @@
 {
-  "generated_at": "2026-05-29T01:56:52.838669+00:00",
+  "generated_at": "2026-05-29T02:27:18.841542+00:00",
   "items": [
     {
-      "id": "7756d99e0a3c432e25d9e250",
-      "title": "양배추·브로콜리 병해충 해결 방법? 매뉴얼 마련 - 제주의소리",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxLWIySHIwTnFXUmg1UU9XY0ZsdGJqekdRU2hPSy05QlRTNXQ2c2gwR0FRV2haLXA2T0E0MG9XOUt3MkZBWERUaWdoZmhBWWFIQXlnSFctU2l5V2FHTENHVVlaN01XOEtXd2Fv?oc=5",
+      "id": "21b16b20efeff14873be698f",
+      "title": "애월농협, ‘고품질 제주콩’ 생산 재배기술 교육 - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qOFhNY0otd2MwdkFhMzZIa2hFS2tkSmI0MlRMcFE3b1dYNXdVNG1ybUFpQlp4dTQxVF9sc0xITTNDVkplOXlBaG1lTEZSU09IQkJxWllxX3NUZw?oc=5",
       "source": "Google News 병해충 재배",
       "category": "news",
-      "published_at": "2026-05-29T01:50:13+00:00",
-      "collected_at": "2026-05-29T01:56:41.162750+00:00",
-      "summary": "양배추·브로콜리 병해충 해결 방법? 매뉴얼 마련 제주의소리",
+      "published_at": "2026-05-29T02:20:29+00:00",
+      "collected_at": "2026-05-29T02:27:07.176611+00:00",
+      "summary": "애월농협, ‘고품질 제주콩’ 생산 재배기술 교육 농민신문",
+      "keywords": [
+        "재배"
+      ],
+      "importance": 42,
+      "region": "제주",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "f0550b7a9a31218267c216f9",
+      "title": "병해충 저항성 높고, 기계 수확에 유리한 참깨 - 농업인신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rcE52Y1dUYWEtR0wwcjRrV0lPU3hMY2wzNXdxVlEtY2hHVXdUbFFGcjZlS000SDJXY3ZUYW5GVGdIOWprcGtNYk44QXAzN2VaUTVKcU56eXQ3SHk2dVN2X3FVbHVhT1k4NVk2MA?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-29T02:06:32+00:00",
+      "collected_at": "2026-05-29T02:27:07.176611+00:00",
+      "summary": "병해충 저항성 높고, 기계 수확에 유리한 참깨 농업인신문",
+      "keywords": [
+        "농업",
+        "병해충",
+        "농업인"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "d38dfc01aca5d31bdc4a17f0",
+      "title": "[익산시] 미래농업 이끌 청년농업인 영농정착 지원 확대 - 투데이안",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQVVV1ZkVzV1RDeTFiY2F5VWlwaXFyT1hUWk5ER3ZvLUh4a1Fua0RYWndndXFfbWlTU0RyZnhrWDdrRHBpMnJ4aGRoM1E1d2tqbS1FajlzQmdDaXNLVkY2TF9ubmhOb0lS?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-05-29T01:54:26+00:00",
+      "collected_at": "2026-05-29T02:27:13.206958+00:00",
+      "summary": "[익산시] 미래농업 이끌 청년농업인 영농정착 지원 확대 투데이안",
+      "keywords": [
+        "농업",
+        "청년농",
+        "농업인",
+        "청년농업인",
+        "지원"
+      ],
+      "importance": 70,
+      "region": "전북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "9c852239d630c58b185d1438",
+      "title": "양배추·브로콜리 병해충 해결 방법? 매뉴얼 마련 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmVk9BQ19Tek5hci1hTURnVzNzelJSTTRGTGthTEwwUWFjS1B0dC0tOFVFb0lZdThKWDR4TVl1N0dqdVROQW0wTFRMZ1FTOTQ?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-29T01:50:14+00:00",
+      "collected_at": "2026-05-29T02:27:07.176611+00:00",
+      "summary": "양배추·브로콜리 병해충 해결 방법? 매뉴얼 마련 v.daum.net",
       "keywords": [
         "병해충"
       ],
       "importance": 48,
-      "region": "제주",
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -3780,6 +3840,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "7531be697f7ecf21002ca0f1",
+      "title": "순천시, 치유농업 기반 농촌돌봄서비스 확대 추진 - 농수축산신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14eFlVUG5iLVNBRFVURmdTZnpsQ2d2NGRNc29kNmgySVFXdmdWV3lSYWwtNjM4SzhTczY2ZEd1RXVIOG9TYlhES0dPQ0N6c0l1Q2dYZHN1VFl4NDN1RzZ3eW1FSmNxaGxnRlZNMw?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-05-26T23:59:26+00:00",
+      "collected_at": "2026-05-29T02:27:03.357967+00:00",
+      "summary": "순천시, 치유농업 기반 농촌돌봄서비스 확대 추진 농수축산신문",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "89dcdeab434b265d7d2b9f8b",
       "title": "양주시, ‘2026년 치유농업시설 품질인증 지원사업’ 운영 - 이뉴스투데이",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KZEt0MlRjSndsQWdGM2V2QmlyYVhsTW5wUFVKZUczb0ZzekpoWkc1SWJfM1I1MWJPUHRZU2d6QVJPZUotc0U4WUh3SDZVcE55bHRIRDNwcGhubHk2TGFjd3Z5LTB5TjF0LXd6bl83cmhPOGQz0gF0QVVfeXFMTUpkS3QyVGNKd2xBZ0YzZXZCaXJhWGxNbnBQVUplRzNvRnN6SmhaRzVJYl8zUjUxYk9QdFlTZ3pBUk9lSi1zRThZSHdINlVwTnlsdEhEM3BwaG5seTZMYWN3dnktMHlOMXQtd3puXzdyaE84ZDM?oc=5",
@@ -3927,25 +4006,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "fb807f80b206684b2036239b",
-      "title": "순천시, 치유농업 기반 농촌돌봄서비스 확대 추진 !! - ngtv.tv",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tT3otY0NFRUFQRy1uTXpVRzBwYTFmZ3ByMXZpZ0ZBa2ZmOXpicFJhQm5MWEZZcTJ0SURsSElTcUdGakQyT2s1SVViOEphenRBWHI0Ym9wV3ZaYkNQbWM3Uw?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-26T17:52:02+00:00",
-      "collected_at": "2026-05-27T14:16:47.570186+00:00",
-      "summary": "순천시, 치유농업 기반 농촌돌봄서비스 확대 추진 !! ngtv.tv",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "전남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     },
     {
       "id": "b92ee880f959848bf3a69ab6",
@@ -13274,103 +13334,12 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "3335a03a642dcebb26e7d093",
-      "title": "무주군, ‘직장인 든든한 점심밥’ 사업 추진 - 무진장뉴스i",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FYUhMTVhWS3BZalRCZkNmdnRjUlpZXzJzZ1ZTSEhYOTZBRUF2aGlQNFY3dEUta1FxXzJHQzZISWR1amNjTzVmZXIwUl9kSHBqaEJNY3U5bklNQQ?oc=5",
-      "source": "Google News 지자체 농업기술센터",
-      "category": "support",
-      "published_at": "2026-05-19T07:00:11+00:00",
-      "collected_at": "2026-05-19T07:09:17.669106+00:00",
-      "summary": "무주군, ‘직장인 든든한 점심밥’ 사업 추진 무진장뉴스i",
-      "keywords": [
-        "사업"
-      ],
-      "importance": 68,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "2ff42ee449f064624ef79941",
-      "title": "알림소식 > 보도자료 > 농업의 미래를 바꾸는 K-농기계의 힘, 현장의 숨은 영웅을 찾습니다! - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbUIwMFB1Vk1zQTZSNGJiYkxkSFFuU1p6aVpvNVBiZnFLczZjSGJPYTNybjMyUkVIZVN3TUkzalVNamZlMnhGU2loaGp2TjdaT1RzWHJ4RmZvZnlrYjMzUy1CTk43QkFxNjdJSnhuMS1OSkl4aDEzZll4RQ?oc=5",
-      "source": "Google News 농림축산식품부",
-      "category": "news",
-      "published_at": "2026-05-19T07:00:00+00:00",
-      "collected_at": "2026-05-19T22:23:39.752430+00:00",
-      "summary": "알림소식 > 보도자료 > 농업의 미래를 바꾸는 K-농기계의 힘, 현장의 숨은 영웅을 찾습니다! 농림축산식품부",
-      "keywords": [
-        "농업",
-        "농기계"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "65ca8bb8ab2e1a3116c52ed5",
-      "title": "농업의 미래를 바꾸는 K-농기계의 힘, 현장의 숨은 영웅을 찾습니다! - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tVTZYaTBCU0hTaTMwZ3dFRzBVWjY3R3NISmh0SkxFNHl1WHVKYUJMSkxiU0thS2FXLVhlYk5Sc2pXRGQzNHFyQ1VFODJSVTdhWk1GdWYwdTRTeFYzWU1YUTdjVTlEb2M?oc=5",
-      "source": "Google News 농림축산식품부",
-      "category": "news",
-      "published_at": "2026-05-19T07:00:00+00:00",
-      "collected_at": "2026-05-20T18:02:23.200987+00:00",
-      "summary": "농업의 미래를 바꾸는 K-농기계의 힘, 현장의 숨은 영웅을 찾습니다! 농림축산식품부",
-      "keywords": [
-        "농업",
-        "농기계"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "0144e9f48c465bb7d27a3fae",
-      "title": "고창군, 귀농귀촌 1번지 위상 지속 - 전국매일신문",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jSUc2NGlkbXBHTjRSUFdaY0ltY3VBU0t1c05IMVgwejRfRG5ZeUpsN1RBU1pneDZ5OERuLTYzc08wbDE1SjlnUjF6U3ZrM2FoSHBnS1Nmb1ZoLW1Ib05pVVZXbWhSVEVTcXFTZlhn?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-19T07:00:00+00:00",
-      "collected_at": "2026-05-21T14:06:29.859360+00:00",
-      "summary": "고창군, 귀농귀촌 1번지 위상 지속 전국매일신문",
-      "keywords": [
-        "귀농",
-        "귀농귀촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "d71717437a9a3c8512f113f7",
-      "title": "알림소식 > 보도자료 > 송미령 장관, 현장성 높은 영농형 태양광 제도 마련에 박차 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83M1ZDQmEtemtuYWRBc1dPaVRYdWkzREJNMVBWSHN1R3pILWs2SUt6SWlSR0dpXzd6UV9wUF9RSFpHLThUcFN0ay1DRFl6UEJKUmhncTluM0VJV3o2ZE4wVmdVOXZ6bWE3UzBMaEVGYjNtWFpsSXZDXzFENA?oc=5",
-      "source": "Google News 농림축산식품부",
-      "category": "news",
-      "published_at": "2026-05-19T07:00:00+00:00",
-      "collected_at": "2026-05-24T07:37:26.841220+00:00",
-      "summary": "알림소식 > 보도자료 > 송미령 장관, 현장성 높은 영농형 태양광 제도 마련에 박차 농림축산식품부",
-      "keywords": [],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 698,
+    "total": 696,
     "category_counts": {
-      "news": 385,
+      "news": 383,
       "plant_reviews": 28,
       "support": 285
     },
@@ -13381,7 +13350,7 @@
       },
       {
         "keyword": "지원",
-        "count": 191
+        "count": 192
       },
       {
         "keyword": "농촌",
@@ -13389,7 +13358,7 @@
       },
       {
         "keyword": "사업",
-        "count": 105
+        "count": 104
       },
       {
         "keyword": "지원사업",
@@ -13405,7 +13374,7 @@
       },
       {
         "keyword": "청년농",
-        "count": 65
+        "count": 66
       },
       {
         "keyword": "신청",
@@ -13421,7 +13390,7 @@
       },
       {
         "keyword": "귀농",
-        "count": 55
+        "count": 54
       }
     ],
     "top_sources": [
@@ -13434,12 +13403,12 @@
         "count": 77
       },
       {
-        "source": "Google News 청년농 귀농",
-        "count": 73
+        "source": "Google News 병해충 재배",
+        "count": 72
       },
       {
-        "source": "Google News 병해충 재배",
-        "count": 70
+        "source": "Google News 청년농 귀농",
+        "count": 72
       },
       {
         "source": "Google News 지원사업",
@@ -13451,27 +13420,27 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 36
+        "count": 37
       },
       {
         "source": "Google News 식물 키우기",
         "count": 29
       },
       {
-        "source": "Google News 농림축산식품부",
-        "count": 29
+        "source": "Google News 지자체 농업기술센터",
+        "count": 26
       },
       {
-        "source": "Google News 지자체 농업기술센터",
-        "count": 27
+        "source": "Google News 농림축산식품부",
+        "count": 26
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 11,
-    "fetched_items": 731,
+    "new_items": 7,
+    "fetched_items": 723,
     "errors": []
   }
 }
