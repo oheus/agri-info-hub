@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-06-02T06:09:10.178202+00:00",
+  "generated_at": "2026-06-02T06:39:39.096792+00:00",
   "items": [
+    {
+      "id": "7a5bea906fef3b4807d4835c",
+      "title": "벼농사도 이젠 자동화시대…이천시, 재배기술 시연회 열어 - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wTlRCaU1KejFjd0VneU1heVF3U1Jic09URU1CTWVJcjU2OVgtdDZRa1A1b09uOF95SHlKUzQzazA4VWNnRjkyMEdvSWJLbGI2?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-06-02T06:29:53+00:00",
+      "collected_at": "2026-06-02T06:39:25.789918+00:00",
+      "summary": "벼농사도 이젠 자동화시대…이천시, 재배기술 시연회 열어 문화일보",
+      "keywords": [
+        "재배"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "2c6593445ea64cd230cdd88e",
+      "title": "충남적십자사, 간편 식세트·반려식물 키트 지원 - 홍성신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GT0dQQktOa1hHeWZuZFBiLVJGc05MbkMybFh3NE5OZFJ2bFRkdFlSZm91QU1PTzZwR2lYMDRPZWNzZWU5R1ozYmlqczZOWmFzQmsxV3dFenJLbjVyejd0RjdQN2lzb3lPcnVr?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "support",
+      "published_at": "2026-06-02T06:24:08+00:00",
+      "collected_at": "2026-06-02T06:39:34.407085+00:00",
+      "summary": "충남적십자사, 간편 식세트·반려식물 키트 지원 홍성신문",
+      "keywords": [
+        "반려식물",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "충남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "5aaa8cd5bd9b762b313f26cf",
+      "title": "부산 생태귀농학교 교육생들 하동 찾았다 - 경남도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfcHRZTjBjNFJENGJScWVrQ3VrdTJEVjRRNUcxdFNaSHdtMW8yeEJjTE1Xd1RJamtpbGk3TEpJalNLX3FkM1JETS1vRlg1dnVxYXJ1NEt0RGRnQ3BMMmxQX25lQUFvNmU0cVE?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-06-02T06:22:18+00:00",
+      "collected_at": "2026-06-02T06:39:24.509972+00:00",
+      "summary": "부산 생태귀농학교 교육생들 하동 찾았다 경남도민일보",
+      "keywords": [
+        "귀농"
+      ],
+      "importance": 42,
+      "region": "부산",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "1f93abbfc4b4481df4a35472",
+      "title": "의성군, 유기질비료 지원사업 조기 접수…7월 10일까지 신청 - hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakVtOG00SWxIang4OHQ4eDFZX2YwM3QwUDA1aEZSaGwzV3BqNjZZNWR1eHJFaHh6Rkx2bjl1a0FlcEdqZklkVVF0Nkd2bkRGVTNESEJFUG55bzJaeDVOeVphWEc4YWQycWc?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-06-02T06:07:00+00:00",
+      "collected_at": "2026-06-02T06:39:22.489965+00:00",
+      "summary": "의성군, 유기질비료 지원사업 조기 접수…7월 10일까지 신청 hidomin.com",
+      "keywords": [
+        "지원사업",
+        "신청",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "7월 10일 마감",
+      "deadline_date": "2026-07-10",
+      "category_label": "지원사업"
+    },
     {
       "id": "e7c95f2678c80b0aa9113eea",
       "title": "농정 대전환 발맞춘 농협…스마트팜·계절근로·왕진버스로 '농촌 활력↑' - v.daum.net",
@@ -101,6 +178,25 @@
       "category_label": "식물 리뷰"
     },
     {
+      "id": "922c1d32697b1f57f2b87756",
+      "title": "당진시, 하반기 귀농 창업·주택 구입 자금 지원 - LG헬로비전",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqbWh1Nm01R0pTS2xZN2NvTEpSQ2wxaUxFWDE4Tk9rY2hiNnJVYzZLa0pITkQ3RzlCaDYyUDZTZEgyRTZ4LUJsVEZ6emJmY1dCSGlrQUxCYzI0aFBWdlMwSGN2b2NxYW5Bc1YyZWZXT2VjTkktQXfSAXZBVV95cUxQam1odTZtNUdKU0tsWTdjb0xKUkNsMWlMRVgxOE5Pa2NoYjZyVWM2S2tKSE5EN0c5Qmg2MlA2U2RIMkU2eC1CbFRGenpiZmNXQkhpa0FMQmMyNGhQVnZTMEhjdm9jcWFuQXNWMmVmV09lY05JLUF3?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "support",
+      "published_at": "2026-06-02T04:32:36+00:00",
+      "collected_at": "2026-06-02T06:39:24.509972+00:00",
+      "summary": "당진시, 하반기 귀농 창업·주택 구입 자금 지원 LG헬로비전",
+      "keywords": [
+        "귀농",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "94d4e5195812171481211040",
       "title": "5월 농축산물 물가 1.8% 상승…축산물 가격 강세 지속 - 기호일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBneGhnNnliYndOeFJVTFMyRGRmZkFNVmZfYVUwVGVnaVVlZlF5aHBfYng1NDVSZVdkSy1TMjJVb1pYSURUcVRsQ3lhenBWY0FndVh6amtXa0N5RVo5N3BDSVpXenI2Zkd2S3dTQ09SQQ?oc=5",
@@ -180,14 +276,14 @@
       "category_label": "지원사업"
     },
     {
-      "id": "7185122f9380810b46623716",
-      "title": "천안시, 청년농업인 영농정착지원 희망자 추가 모집…내달 10일까지 - 충남일보",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54TnZYaUpMZDFUai15am9Kb0JxdWM1Ul9BQTZtNWZzWDhwY3c5dlpwRFJkaWtiVDhfcW41RHlUN1RjUURqaHNIY3p0c3JsdnR5M2JVZDdQTEpWbUlnZ3VYMlFGeUFSOTVqanhHdlBHM2djdlU?oc=5",
+      "id": "b75c90ee9e652646eed1be9b",
+      "title": "천안시, 청년농업인 영농정착지원 희망자 추가 모집… 내달 10일까지 - 엠뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyQ3k2ejJiTmhrdXZuNzBCVTZBeVFpTXFLb3R1TUdVcmIxZDd5TTZ0MzBpRUZpQ01XUHlwTy05ZVhVVTZkY09YU0p0U0Y3WmhkUzdiVXVsMlBLMFFhNUlZd0k4bVdIUQ?oc=5",
       "source": "Google News 청년농 지원",
       "category": "support",
-      "published_at": "2026-06-02T03:53:52+00:00",
-      "collected_at": "2026-06-02T06:09:03.983086+00:00",
-      "summary": "천안시, 청년농업인 영농정착지원 희망자 추가 모집…내달 10일까지 충남일보",
+      "published_at": "2026-06-02T03:54:04+00:00",
+      "collected_at": "2026-06-02T06:39:32.677877+00:00",
+      "summary": "천안시, 청년농업인 영농정착지원 희망자 추가 모집… 내달 10일까지 엠뉴스",
       "keywords": [
         "농업",
         "청년농",
@@ -275,6 +371,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "a616984256d0f2a78da3170e",
+      "title": "김천 미래농업 발전 전략 및 중장기 정책 발굴 용역 착수보고회 - 데일리김천TV",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SR2wxeks0Qzd0dmoxdUkzMHFDelI2MURZNkhMS1AzSjVWMEZ3STJRbkpJOHlWTWg4RlJuZFg3T1hhZGI2ZlZCMVVveFNMdnRaX2I5c0tweXhEZw?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-06-02T02:50:00+00:00",
+      "collected_at": "2026-06-02T06:39:21.579679+00:00",
+      "summary": "김천 미래농업 발전 전략 및 중장기 정책 발굴 용역 착수보고회 데일리김천TV",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "d7daab821d9031fa6c99b1df",
       "title": "당진시, 귀농 농업창업·주택 구입 지원사업 신청자 모집 - 네이트",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qNEJENFdLVFpZa1ZBNGFXRktrZjExV2o4ZzVvdU8xVGsway1CSjZOZklYaXlRLU1ueHpRXzBfVzlacXdjUjd0QThkbk1fdDJfNUY2MDJlQ0p3VWVGTUQtNWhxZUxPTjBGb2U2VGxVbEFaY01mNzh2Tg?oc=5",
@@ -314,6 +428,30 @@
       "importance": 64,
       "region": "경북",
       "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "7b5d8dcf8821473887947940",
+      "title": "당진시, 귀농 농업창업·주택 구입 지원사업 신청자 모집 - 보도자료 | 기사 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uS1lUYWJTeVNFRHZ2d2ZUbGoyR2JVU2U0czhnaTNBUnJtR3dpaHY4RURnWmMxd3FVMWE5LWhBWHBPTXJMMlFBczFsbkFZZllva3JCTExkV0FIQzZBQ1NF?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-06-02T02:36:18+00:00",
+      "collected_at": "2026-06-02T06:39:37.734332+00:00",
+      "summary": "당진시, 귀농 농업창업·주택 구입 지원사업 신청자 모집 - 보도자료 | 기사 더팩트",
+      "keywords": [
+        "농업",
+        "귀농",
+        "지원사업",
+        "신청",
+        "모집",
+        "지원",
+        "사업"
+      ],
+      "importance": 86,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
     },
@@ -503,6 +641,24 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "cf3e55e3a1e7d1cabc46f442",
+      "title": "귀농‧귀촌인 주머니 사정도 챙기는 청양군 - 충청뉴스라인",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCSnZtSE0wc1dERWdQSTdILU5JUlU3RF91MExwVWpUei1MTnFOZUxDU1VGcmpYbGlFeEFjMlJLV1NiZUZKdU5xMWVmdEJVMTl5d183dTIzYlh5a2pZUExOWDU1Wk5zQjFoQ3EtdlE3bkE3QkXSAXNBVV95cUxQQkp2bUhNMHNXREVnUEk3SC1OSVJVN0RfdTBMcFVqVHotTE5xTmVMQ1NVRnJqWGxpRXhBYzJSS1dTYmVGSnVOcTFlZnRCVTE5eXdfN3UyM2JYeWtqWVBMTlg1NVpOc0IxaENxLXZRN25BN0JF?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-06-02T02:16:51+00:00",
+      "collected_at": "2026-06-02T06:39:24.509972+00:00",
+      "summary": "귀농‧귀촌인 주머니 사정도 챙기는 청양군 충청뉴스라인",
+      "keywords": [
+        "귀농"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "a58203d8fd48a28616a56733",
@@ -704,6 +860,25 @@
       "category_label": "지원사업"
     },
     {
+      "id": "b75be8e1ec5753cf249b7564",
+      "title": "당진시, 연 2% 저금리 귀농 정착자금 지원 - 당진시대",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtb3JUZlhhbzBQLVRUQ2xlQXJaWXAtamhwbWFKZWhKMHVHb1JScm5qeGM1TGFCMVR3Q200dzY5YzQ3QnV2RTBBSUY4ck1Ld0JsMXdBLUQ1aVFlZ1daeC05SVh2aDE2UmhHMGE1QklTb9IBb0FVX3lxTFAtb3JUZlhhbzBQLVRUQ2xlQXJaWXAtamhwbWFKZWhKMHVHb1JScm5qeGM1TGFCMVR3Q200dzY5YzQ3QnV2RTBBSUY4ck1Ld0JsMXdBLUQ1aVFlZ1daeC05SVh2aDE2UmhHMGE1QklTbw?oc=5",
+      "source": "Google News 농업 지원금",
+      "category": "support",
+      "published_at": "2026-06-02T01:27:02+00:00",
+      "collected_at": "2026-06-02T06:39:31.386623+00:00",
+      "summary": "당진시, 연 2% 저금리 귀농 정착자금 지원 당진시대",
+      "keywords": [
+        "귀농",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "370c8c6639d9a5f374dc4180",
       "title": "농협, '스마트농업·농촌복지·청년농업인 육성'…\"본연의 역할에 박차\" - 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfb1VlZnMyR213MEpBemI2VS1VSXUtMlJTdks1LU1KS184RlUtaTg2dFhnWXI1VmxTNE9XRndOeVZyVktHVG9neFNfckNfVEpHNzBKVnUyNFZzME53LWYwX2pBczFrTWhKOGtUeXVLRmx5ckk1ZzAw?oc=5",
@@ -881,25 +1056,6 @@
       "summary": "LG전자 ‘틔운’ 활용해 초등학교 교실 스마트팜 교육 지원 에너지경제신문",
       "keywords": [
         "스마트팜",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "4bce50c5c6e0c582d34ddb5c",
-      "title": "당진시, 연 2% 저금리 귀농 정착자금 지원 - 당진시대",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sMWRxNDRfczQ5TllFd2JjQ0otaGtzOHNvZVFBc05kNlk2TnlMRkJnNDlWTEJOV2l2VUFibkt5OEhHWVg4M1RBc3NFXzcxdk1oT3p0U0JldTJiN0xJWUxBZEdfa0o0NVJOcDJrZdIBb0FVX3lxTFAtb3JUZlhhbzBQLVRUQ2xlQXJaWXAtamhwbWFKZWhKMHVHb1JScm5qeGM1TGFCMVR3Q200dzY5YzQ3QnV2RTBBSUY4ck1Ld0JsMXdBLUQ1aVFlZ1daeC05SVh2aDE2UmhHMGE1QklTbw?oc=5",
-      "source": "Google News 농업 지원금",
-      "category": "support",
-      "published_at": "2026-06-02T00:56:09+00:00",
-      "collected_at": "2026-06-02T06:09:02.933390+00:00",
-      "summary": "당진시, 연 2% 저금리 귀농 정착자금 지원 당진시대",
-      "keywords": [
-        "귀농",
         "지원"
       ],
       "importance": 64,
@@ -1380,6 +1536,24 @@
       "category_label": "지원사업"
     },
     {
+      "id": "bb7d9b78f443c274feca9f49",
+      "title": "부산귀농운동본부 생태귀농학교 교육생, 하동 매력에 빠졌다 - 진주인터넷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zNHlfSEVLRzRiY3Vtd0h6X0gzNDctRmJwX0pCN0hqaWdoZDVZMnBzUXhGeHVhUjd3NllqZUF0X2tsaDVkOFBvTk5zUTFWdzdmLXh2QUNJYkwtM3dWU3hoLVlGWEJFUy1IMFMwT243aWhFMmVsZFE?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-06-01T12:00:05+00:00",
+      "collected_at": "2026-06-02T06:39:24.509972+00:00",
+      "summary": "부산귀농운동본부 생태귀농학교 교육생, 하동 매력에 빠졌다 진주인터넷뉴스",
+      "keywords": [
+        "귀농"
+      ],
+      "importance": 42,
+      "region": "부산",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "0b10e2c0757233ec58509ea7",
       "title": "파주시, 2027년 유기질비료 지원사업 신청 - 엔디엔뉴스",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HY3pzaENFUHlOUDRjQkEtZGhXWkZFelRhVTJ6QUJUR0lYR0JuQ1d1aUdwNDRfQjZQS3BPVV8tQWtrekNtWVpickFuUlBuS3k3MmtWN2pUUW1ob05XTVZzell2cGZ0d2VWWERicGVYeTRBd9IBckFVX3lxTE9HY3pzaENFUHlOUDRjQkEtZGhXWkZFelRhVTJ6QUJUR0lYR0JuQ1d1aUdwNDRfQjZQS3BPVV8tQWtrekNtWVpickFuUlBuS3k3MmtWN2pUUW1ob05XTVZzell2cGZ0d2VWWERicGVYeTRBdw?oc=5",
@@ -1434,6 +1608,25 @@
       ],
       "importance": 42,
       "region": "서울",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "b7ca9b88aef6a32390c13a6c",
+      "title": "2026년 국립식량과학원 간척지농업연구센터 공무직근로자 채용 공고 - 농촌진흥청",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPUkdOUGk0bnRSM2lKRU0weG8zbWZDQUVXT3Jpd0g3QzVpd1NZQWkyV2RGLVdsWU1QMTRCMzNmMFVxb0xTSWt6U1lMakNhOHMtY3o2U1dvd0plQldSTGRfXzFqOFU1R1hmVnphRFBrVlpodG5PNzFnZGQ4TllZdWFCcDlobkNRQndIeFlMd2JPUjRuMndJaExCa044TEVGd3VQSUViN2Y3VTYtbEdJR3hyS2o3dGNFQUlaN1FSbUg2dFliY3d3dnFVTHpnckhkVDg4MUhxLTNzbnVjWUZuMVVLZUxfOVl3X2hqTHRNSE00Z0puenVDaGx4cGt5TVJaZk80VnZwZVVVVjVuaUZvbGhObGhkdG0wMXlLOW83OHhYSmtQQmRyZUp4OHdPLXZQbXBwaFVSdGpPNWF4UjQ?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-06-01T09:59:57+00:00",
+      "collected_at": "2026-06-02T06:39:29.294361+00:00",
+      "summary": "2026년 국립식량과학원 간척지농업연구센터 공무직근로자 채용 공고 농촌진흥청",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 48,
+      "region": "전국",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -2780,25 +2973,6 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "8b6a47117295818b00cb5762",
-      "title": "2026년 국립식량과학원 간척지농업연구센터 공무직근로자 채용 공고 - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRm9BVkN1a3dOR1hhV0VIWS1XUFFvMGVpTmpTOWRiWGpnX1VXZktfVFh5YWctbEtnY01lQlhpa3hiOXdZQUdzYnVjVWVBbV9VdERjaWFyMHR0N0VWdVJ0bkxsOHdqSUs0ZDhWSGUwUUlFZTNsVzJvRmQ2djJDUUFBZjFoS2xOT2N5WE5GeWxDWVlDejND?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-06-01T05:18:44+00:00",
-      "collected_at": "2026-06-01T07:20:28.581533+00:00",
-      "summary": "2026년 국립식량과학원 간척지농업연구센터 공무직근로자 채용 공고 농촌진흥청",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 48,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     },
     {
       "id": "4879adedeb1ec606137089f3",
@@ -12796,290 +12970,39 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "e9f1872c3c1304e8ab9056b1",
-      "title": "김제시, 2026년 청년농 및 후계농 선정자 역량강화 교육 실시 - 아시아뉴스전북",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxTUFyM0xlMmp5NEtWVC01T3pxYURYNW1jZnVuQmJBc1l2V3Z1c3lDOWQ0Ql9nMlpHazY0SXVxUlVubW0xRVc3dkZ1QlFaZ3hxbGhVOEpNLWx6and5R19ya0lBcjNlWXhpSDlJaTZ30gFuQVVfeXFMUDFNQXIzTGUyank0S1ZULTVPenFhRFg1bWNmdW5CYkFzWXZXdnVzeUM5ZDRCX2cyWkdrNjRJdXFSVW5tbTFFVzd2RnVCUVpneHFsaFU4Sk0tbHpqd3lHX3JrSUFyM2VZeGlIOUlpNnc?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-26T05:01:04+00:00",
-      "collected_at": "2026-05-26T07:34:14.291471+00:00",
-      "summary": "김제시, 2026년 청년농 및 후계농 선정자 역량강화 교육 실시 아시아뉴스전북",
-      "keywords": [
-        "청년농",
-        "후계농"
-      ],
-      "importance": 48,
-      "region": "전북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f419e029a6127d9d5c03efba",
-      "title": "영주시, 미래 농업 이끌 '젊은 농부' 늘린다… 정착 지원금 추가 접수 - 대경일보",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IYnltRFlERmZsUWZOUG1zZEtVMVFiUDRxYWlLMy1wckVqMGxOUjR4c2VvblBfN2hxS0JxX3hmT1lRbW1TZXFhVUh3dFVPZXZLdEM3VFNwb1Z2ZmtveGphXzhMU0tTa2hy?oc=5",
-      "source": "Google News 농업 지원금",
-      "category": "support",
-      "published_at": "2026-05-26T04:49:56+00:00",
-      "collected_at": "2026-05-26T06:02:45.658726+00:00",
-      "summary": "영주시, 미래 농업 이끌 '젊은 농부' 늘린다… 정착 지원금 추가 접수 대경일보",
-      "keywords": [
-        "농업",
-        "지원",
-        "접수"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "833476c335ae76d65b60b118",
-      "title": "코트라, 동유럽서 K-스마트팜 수출 드라이브… 254만유로 MOU 체결 - S저널",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xWndYd3lDbW9oNENjZkdUNThGekZEV3BHTHBIbGEtcHRFODRoRjFzSHF6Rlg3d3ZxMWpRUWNKX2wtN1RsajU5T25qS2NDTk4xdldRSGE5YU9kYmFlWWxmM3dKLV9uTDZJUnVQa0d3?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-05-26T04:48:59+00:00",
-      "collected_at": "2026-05-30T15:15:29.545566+00:00",
-      "summary": "코트라, 동유럽서 K-스마트팜 수출 드라이브… 254만유로 MOU 체결 S저널",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "94b4ab9b804779ab6320b7b1",
-      "title": "경북도농업기술원, 지하 4ｍ에 스마트팜 추진···딸기·버섯 재배 연구 - 대구MBC",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PU0taWXhzVG50QTdzQ2lDbWc3QlhhbnNkeEdPSzFDR2ZHdEI1UFkxSnVzRUFBMktRTWFfeFVwWDE0WkR6U3UzTDFiX1Q?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-05-26T04:43:03+00:00",
-      "collected_at": "2026-05-26T07:34:13.153629+00:00",
-      "summary": "경북도농업기술원, 지하 4ｍ에 스마트팜 추진···딸기·버섯 재배 연구 대구MBC",
-      "keywords": [
-        "농업",
-        "스마트팜",
-        "재배"
-      ],
-      "importance": 42,
-      "region": "대구",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "d37d9f78978107f9362b78de",
-      "title": "양주시, 친환경 농업 선도할 ‘2027년도 유기질비료 지원사업’ 접수 시작 > 뉴스 - 더코리아",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0VXRWSFdFdWFJOWEyTmxHMF8tYXhJRHI1bkg2V1MwSDU0a1ZIYVhLT3VnUmo0QVVXQzh0RlluakhmZUNzdVl6Mnd2MHFhbS0tWHpjNzRpYVJUWnV3b3FOTHQwQUdmU09DYktJRWU4ODA?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-26T04:41:00+00:00",
-      "collected_at": "2026-05-26T06:02:35.107253+00:00",
-      "summary": "양주시, 친환경 농업 선도할 ‘2027년도 유기질비료 지원사업’ 접수 시작 > 뉴스 더코리아",
-      "keywords": [
-        "농업",
-        "지원사업",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "경기",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "0fb4d6d0f1e811b45b70220e",
-      "title": "예산 청년농 영농정착지원 2차 모집 시작 - 충남내포뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXTFdlbkhoWG9lR3FpMFZqYTVnTmRqYmxtWF9aMm9jbHh4WEtMUV90QnhReldrSUxIOGRNay1qODBWYXJuRmJjOXFyRi1EdHpvVjhhWWFkMEs5UnFOQy01VjBJVnpscjA4c29vX21n?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-26T04:38:47+00:00",
-      "collected_at": "2026-05-26T06:02:46.864784+00:00",
-      "summary": "예산 청년농 영농정착지원 2차 모집 시작 충남내포뉴스",
-      "keywords": [
-        "청년농",
-        "모집",
-        "지원"
-      ],
-      "importance": 76,
-      "region": "충남",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "69bd2df86fc560fbbcf2f9ae",
-      "title": "고려아연, 전국 2만1490가구에 구호물품 지원 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvQ1htOXBVZ0Nvc241eEpFVmhpRi1tNWVUYnJaWFhudVVhQjMwS3FZc3Bfd0hfY0ZTaWhibjZKVDRSOFhRcmh6dmxXdFYtYU5Ta3pZ?oc=5",
-      "source": "Google News 식물 리뷰",
-      "category": "support",
-      "published_at": "2026-05-26T04:30:00+00:00",
-      "collected_at": "2026-05-26T06:02:47.632341+00:00",
-      "summary": "고려아연, 전국 2만1490가구에 구호물품 지원 네이트",
-      "keywords": [
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "79c93032cad2ff7266e7a14f",
-      "title": "영월군 귀농귀촌 체험학교 참가자 전원 수료 - 이로운넷",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkM3NONlA4MWpwSFBKY1YyZFA1cExJaGJDTWhJMzBuR192aGJQVURPNkVYTGRrc3pXOTkzaDNNZGc4WkZCYl85a01iYUhiZlhWc0VmVllJN1Z2a2RNOHlNMmdRT3FSZw?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-26T04:11:47+00:00",
-      "collected_at": "2026-05-26T06:02:37.621781+00:00",
-      "summary": "영월군 귀농귀촌 체험학교 참가자 전원 수료 이로운넷",
-      "keywords": [
-        "귀농",
-        "귀농귀촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "e565010f45a765fb7e604a60",
-      "title": "농업인 대상 공익직불금 신청 마감일 코앞 ... \"신청하세요!\" - 미디어제주",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BdFBURC1fZUdEVUZoREY0X2sxNG9COVFyUWlZYzZTWTc1SFdxakhuc1BlaFBjZXQ4WUZIMWVBTmljc00tVUd5QTc4aXRMUEI0UmxLUUpwVllPQ20xcjAzZzVuckhza3REVWExNVZtUmjSAXBBVV95cUxNQXRQVEQtX2VHRFVGaERGNF9rMTRvQjlRclFpWWM2U1k3NUhXcWpIbnNQZWhQY2V0OFlGSDFlQU5pY3NNLVVHeUE3OGl0TFBCNFJsS1FKcFZZT0NtMXIwM2c1bnJIc2t0RFVhMTVWbVJo?oc=5",
-      "source": "Google News 농업",
-      "category": "support",
-      "published_at": "2026-05-26T04:09:56+00:00",
-      "collected_at": "2026-05-26T08:04:41.448643+00:00",
-      "summary": "농업인 대상 공익직불금 신청 마감일 코앞 ... \"신청하세요!\" 미디어제주",
-      "keywords": [
-        "농업",
-        "농업인",
-        "신청"
-      ],
-      "importance": 70,
-      "region": "제주",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "b57c22fb5854b0d7c55fa272",
-      "title": "순천시, 치유농업 기반 농촌돌봄서비스 확대 시행 - 호남타임즈",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrRWp2b2F5Y1NoT2lvZDRBZUkxSUZVdFBZMHBoTmp0bTJaYjUzMUhoVGZzaGN5XzAzWkVteXFaTGMwckg4R3BOeEV4Q2daVzFfeXktbWU2Q0o1VVp0YTRPU0libFZ6SmJPT2hGcG53?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-26T04:07:10+00:00",
-      "collected_at": "2026-05-26T07:03:37.159388+00:00",
-      "summary": "순천시, 치유농업 기반 농촌돌봄서비스 확대 시행 호남타임즈",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "전남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "3f9d6f4b0dc03dbfadf8bd19",
-      "title": "고려아연, 전국 취약계층 물품 지원 '희망풍차' 15년째 후원 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ndjM1M2NyQjNEZFNhbGlFMmwxV01tYWI3THV5eFR5TDk4ellBYi15WGNkT3VzTlVaX2ZNU2ZiR1k2d1JoV3BCcmNqSDBDaGlaQVFPUQ?oc=5",
-      "source": "Google News 식물 리뷰",
-      "category": "support",
-      "published_at": "2026-05-26T03:59:38+00:00",
-      "collected_at": "2026-05-27T09:04:09.385123+00:00",
-      "summary": "고려아연, 전국 취약계층 물품 지원 '희망풍차' 15년째 후원 v.daum.net",
-      "keywords": [
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "09d49a7a666616d6ca625f1d",
-      "title": "중문농협, 제7기 농업대학 개강…감귤 재배기술 등 교육 - 헤드라인제주",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EWm8tZW1TM3h5dHFRZlM5bWNNeHRUWkR4NnVmNmN0SjV2dDRkTHBzUXhFcFVVTmc3M2FjVlJEQWRmV2tGczVuazNSNzRHVlZvbGxlcFBZSEFvWU5Pd29FZEMwaGI1X0VDYmVpSHhJbWd5NUk?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-26T03:43:00+00:00",
-      "collected_at": "2026-05-26T06:33:14.450017+00:00",
-      "summary": "중문농협, 제7기 농업대학 개강…감귤 재배기술 등 교육 헤드라인제주",
-      "keywords": [
-        "농업",
-        "재배"
-      ],
-      "importance": 42,
-      "region": "제주",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "5b2762f6c550e91aedb9ac05",
-      "title": "[경북] 땅속으로 들어간 미래농업, 경북 ‘지하 스마트팜’ 실증 나선다 - 월간친환경",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iLXN5Q3NxT05KN0ZIQ3Vzam5YU3U2MzQtU0xiM0gtQzR1MnpYSUNoQUtHQnltamJxWkYtTFM3S3lLUlpMc2RQVDlTWVFWcGZMM1RRY3pRaWIzcW9kbUZrT2ZMZDlZRGJwckRfMGxlQjVtUQ?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-05-26T03:14:32+00:00",
-      "collected_at": "2026-05-26T06:33:11.555840+00:00",
-      "summary": "[경북] 땅속으로 들어간 미래농업, 경북 ‘지하 스마트팜’ 실증 나선다 월간친환경",
-      "keywords": [
-        "농업",
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "경북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 671,
+    "total": 667,
     "category_counts": {
-      "news": 350,
+      "news": 348,
       "plant_reviews": 39,
-      "support": 282
+      "support": 280
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 234
+        "count": 229
       },
       {
         "keyword": "지원",
-        "count": 216
+        "count": 215
       },
       {
         "keyword": "농촌",
-        "count": 145
+        "count": 144
       },
       {
         "keyword": "사업",
-        "count": 130
-      },
-      {
-        "keyword": "청년농",
-        "count": 112
+        "count": 131
       },
       {
         "keyword": "지원사업",
-        "count": 112
+        "count": 113
+      },
+      {
+        "keyword": "청년농",
+        "count": 110
       },
       {
         "keyword": "모집",
@@ -13087,7 +13010,7 @@
       },
       {
         "keyword": "농업인",
-        "count": 86
+        "count": 85
       },
       {
         "keyword": "청년농업인",
@@ -13095,21 +13018,21 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 59
-      },
-      {
-        "keyword": "신청",
-        "count": 49
+        "count": 56
       },
       {
         "keyword": "귀농",
-        "count": 49
+        "count": 53
+      },
+      {
+        "keyword": "신청",
+        "count": 50
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 120
+        "count": 119
       },
       {
         "source": "Google News 지원사업",
@@ -13117,7 +13040,7 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 69
+        "count": 68
       },
       {
         "source": "Google News 병해충 재배",
@@ -13125,11 +13048,11 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 56
+        "count": 58
       },
       {
         "source": "Google News 스마트팜",
-        "count": 54
+        "count": 51
       },
       {
         "source": "Google News 농촌진흥청",
@@ -13137,7 +13060,7 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 40
+        "count": 41
       },
       {
         "source": "Google News 농산물 가격",
@@ -13152,8 +13075,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 83,
-    "fetched_items": 819,
+    "new_items": 19,
+    "fetched_items": 809,
     "errors": []
   }
 }
