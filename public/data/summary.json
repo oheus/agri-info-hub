@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-06-02T06:09:10.178202+00:00",
-  "total": 671,
+  "generated_at": "2026-06-02T06:39:39.096792+00:00",
+  "total": 667,
   "category_counts": {
-    "news": 350,
+    "news": 348,
     "plant_reviews": 39,
-    "support": 282
+    "support": 280
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 234
+      "count": 229
     },
     {
       "keyword": "지원",
-      "count": 216
+      "count": 215
     },
     {
       "keyword": "농촌",
-      "count": 145
+      "count": 144
     },
     {
       "keyword": "사업",
-      "count": 130
-    },
-    {
-      "keyword": "청년농",
-      "count": 112
+      "count": 131
     },
     {
       "keyword": "지원사업",
-      "count": 112
+      "count": 113
+    },
+    {
+      "keyword": "청년농",
+      "count": 110
     },
     {
       "keyword": "모집",
@@ -37,7 +37,7 @@
     },
     {
       "keyword": "농업인",
-      "count": 86
+      "count": 85
     },
     {
       "keyword": "청년농업인",
@@ -45,21 +45,21 @@
     },
     {
       "keyword": "스마트팜",
-      "count": 59
-    },
-    {
-      "keyword": "신청",
-      "count": 49
+      "count": 56
     },
     {
       "keyword": "귀농",
-      "count": 49
+      "count": 53
+    },
+    {
+      "keyword": "신청",
+      "count": 50
     }
   ],
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 120
+      "count": 119
     },
     {
       "source": "Google News 지원사업",
@@ -67,7 +67,7 @@
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 69
+      "count": 68
     },
     {
       "source": "Google News 병해충 재배",
@@ -75,11 +75,11 @@
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 56
+      "count": 58
     },
     {
       "source": "Google News 스마트팜",
-      "count": 54
+      "count": 51
     },
     {
       "source": "Google News 농촌진흥청",
@@ -87,7 +87,7 @@
     },
     {
       "source": "Google News 식물 키우기",
-      "count": 40
+      "count": 41
     },
     {
       "source": "Google News 농산물 가격",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 83,
-    "fetched_items": 819,
+    "new_items": 19,
+    "fetched_items": 809,
     "errors": []
   }
 }
