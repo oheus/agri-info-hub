@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T20:39:01.009527+00:00",
+  "generated_at": "2026-06-04T21:09:28.257716+00:00",
   "items": [
     {
       "id": "40e1dbedc362ec946f9dcd3c",
@@ -1497,6 +1497,25 @@
       "category_label": "지원사업"
     },
     {
+      "id": "cf5607925acb7d6e81c98e1e",
+      "title": "1 농작물재해보험 사업시행지침 Ⅰ 사업 개요 Ⅱ 주요 내용 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZLWprTzJmMWVQWWtnN0UtMk9hY25TTEdHWlZJUGRGNXY2ZWxjR1pYR25UVjRaVlBsbTRrbWt1LTRLeDZwel96eWRBVVIzLVUycmpUTXcwSU4tZzM5S0ZQWk9BbS1EZw?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "support",
+      "published_at": "2026-06-04T02:02:21+00:00",
+      "collected_at": "2026-06-04T21:09:20.307594+00:00",
+      "summary": "1 농작물재해보험 사업시행지침 Ⅰ 사업 개요 Ⅱ 주요 내용 농림축산식품부",
+      "keywords": [
+        "작물",
+        "사업"
+      ],
+      "importance": 64,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "64ae25dbdfdcab5ba9e081f4",
       "title": "‘여름휴가, 농촌에서 특별하게’ 6월에도 농촌관광 가는 주간이 찾아 옵니다! - 농림축산식품부",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nS3ZGUzc2TkczeVlWbFRuSGI3N2NQd1ZscFlhWXZqZ1JuUEZNbFZpREdJNjRFWEltOUlSSThjS2tXTnlWLUx4MlFzbjQxN2hTaWFma3Y3TS1LU3NEeVlSZFVLVXlEZ2lRcEJTVlBCREQwQ1JjM3M1VjdVYw?oc=5",
@@ -1523,6 +1542,24 @@
       "published_at": "2026-06-04T02:00:00+00:00",
       "collected_at": "2026-06-04T15:35:02.119488+00:00",
       "summary": "알림소식 > 보도자료 > 유기농업자재 ‘시험성적서’ 인정범위 확대 농림축산식품부",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "a2e0678b255fe8c0863f8a07",
+      "title": "유기농업자재 ‘시험성적서’ 인정범위 확대 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aM1hYR2M5d01FaFVaTlJZcC1qaHRPS09rNEtXbVZjS0liYl82MW40emRNTS1jWTFsXzd1NF9FbHAza0M2bmVzSXlDSEdqcGFEMjJlemNYek9XWDl6X0hfOWN5Ry1wZw?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "news",
+      "published_at": "2026-06-04T02:00:00+00:00",
+      "collected_at": "2026-06-04T21:09:20.307594+00:00",
+      "summary": "유기농업자재 ‘시험성적서’ 인정범위 확대 농림축산식품부",
       "keywords": [
         "농업"
       ],
@@ -9503,6 +9540,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "0f40132ed969c0a71ce83e69",
+      "title": "진안군,‘기후변화 대응’ 돌발병해충 공동방제 약제 공급 - 위즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50RUVKRkhHWmFra2NKZ1FxMHhIckgwTUJscE1NNVdoTzhLTE8zSzlLZW1zM2NxRDBKbFdxYVRsSWJCNUZ2QTgtTE50dVZPZEtFcm5sdncxUGZ2a2N0NkxBcXJnM1E4WVM2SjVDYw?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-05-31T08:07:55+00:00",
+      "collected_at": "2026-06-04T21:09:15.755366+00:00",
+      "summary": "진안군,‘기후변화 대응’ 돌발병해충 공동방제 약제 공급 위즈뉴스",
+      "keywords": [
+        "병해충",
+        "기후"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "9e589f03f14f895086c7b6d2",
       "title": "고기철 \"청년농 정착 돕겠다\"… 농지·판로·금융 지원 약속 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yNUwxbDRaZG9GWXJ1OVlseWpISE9xZy1jMXBlX1RvWjBHLTlFS3JPTXhRWXlKekVHeERJX2RwRVluazJtelNITEVEOVB5Z3c?oc=5",
@@ -10925,25 +10981,6 @@
       "category_label": "지원사업"
     },
     {
-      "id": "f2bf0e14798c51cfefbd0166",
-      "title": "진안군, ‘기후변화 대응’ 돌발병해충 공동방제 약제 공급 - 전북엔비전",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40WkNiUDZzYk1NNlFMRFFYUE9PVG54NDR6VWxtd21ZQ0FzX2RxRFQzZzNGREhadFdPZDBZTHFqQlRvSTZqdnRhTDdNSnpkVkUwdnBJa2ZWQkI0V2J4WHFxZUxrUzhqdw?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-29T09:06:28+00:00",
-      "collected_at": "2026-05-29T17:03:20.609769+00:00",
-      "summary": "진안군, ‘기후변화 대응’ 돌발병해충 공동방제 약제 공급 전북엔비전",
-      "keywords": [
-        "병해충",
-        "기후"
-      ],
-      "importance": 48,
-      "region": "전북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
       "id": "a35f2ac8be3ad82d6ed552ff",
       "title": "철원군 농업기술센터, ‘농촌여성 역량강화’ 생활개선회 6~7월 과제교육 수강생 모집 - fnewstv.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SNWxqOGtiUnAtb01tZ0lMcnBrcE5IRk5IVmpDZ3JmWk1xendaOWFGSklHWWJvYnFkVXo5aVFVdHVxVWs1QnVYbVgySXNjWThXWEtSRTBUVmZHenVteGpYTXhrX0FHX2txOEFnYklINUo?oc=5",
@@ -11433,6 +11470,25 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "4ae1edf9025678164a52a819",
+      "title": "[보도자료]논 농업 '네 마리 토끼 잡는다', 스마트 이앙기 개발 - 농촌진흥청",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeUNlZGdqZmhzUjFCaWlmOVZiMWlrdzE2SmViODVPXzlfRE1wbWlEVmRmc2ZURU50cnZXVnAxWVVhb2tJMFBBM01OTTNGQmxtMGs1ZFA0ZUtQQzNDR0w5M3FhdnRYTWljOHBSVGtyamIxeEJnVk9TdlJUWjZQWDJwdEtJc1FzRTUyaVdkcWNjdGZXMjVmOGRJOGQxd2pKeWdaRGJpR0pGY0w2WEdQcy1NZXFTUFBKOEk5SU4taHVncUxNUUVDMDRfLS1ZekhsWGFyNVEwWVRLcVg?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "collected_at": "2026-06-04T21:09:19.092901+00:00",
+      "summary": "[보도자료]논 농업 '네 마리 토끼 잡는다', 스마트 이앙기 개발 농촌진흥청",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "ed402cdbd9c418ca0a77996a",
@@ -13188,73 +13244,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "04637bec84a2dc87175982b0",
-      "title": "“농촌의 삶이란”…선배 ‘시골언니’들이 한수 알려 준다 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JLTlObzY3X2pfZXptWUYxZTlETklraTR0SHM3dDliWC1zSlNWQ2N1aHlPM2JIeWctX0pkWWJ3N1p1VDRfU01PMFQwVk9lYlBnV3lPcjRyY2NGdw?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-28T07:09:00+00:00",
-      "collected_at": "2026-05-28T13:49:48.104409+00:00",
-      "summary": "“농촌의 삶이란”…선배 ‘시골언니’들이 한수 알려 준다 농민신문",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "1f41904b8a49c866683602a3",
-      "title": "[훈령 제595호] 농업생산기반시설 관리규정 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0WlI2QmJoSXZ1YVRzUHREM2ZfZVl4d3k0dlpkNzcxSElsbFNSTG5UdkFVRW8xSEJsd2g3eXRuRl9nVF9lRGdRNWt6MXBBV3RKQjBOejNhNWg1bl9VNFc4eGMtNGV5SmM?oc=5",
-      "source": "Google News 농림축산식품부",
-      "category": "news",
-      "published_at": "2026-05-28T07:00:00+00:00",
-      "collected_at": "2026-06-04T15:35:02.119488+00:00",
-      "summary": "[훈령 제595호] 농업생산기반시설 관리규정 농림축산식품부",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "9847384cd684f4994c44ad05",
-      "title": "생태·치유·귀농 한 번에…영양군 ‘살아보기’ 체험하세요 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40dkFtZWZaR25lSEh1a0prVWxxYUdlVVdyTVRCM3BRS014WkdfVTgwejJpNlpTb01DOVd3eUNsTjUzelR5Y1MxWHBWYTFBM0NuejlCZw?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-05-28T06:59:03+00:00",
-      "collected_at": "2026-05-29T15:01:18.176147+00:00",
-      "summary": "생태·치유·귀농 한 번에…영양군 ‘살아보기’ 체험하세요 v.daum.net",
-      "keywords": [
-        "귀농"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
     "total": 678,
     "category_counts": {
-      "news": 355,
+      "news": 354,
       "plant_reviews": 29,
-      "support": 294
+      "support": 295
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 240
+        "count": 241
       },
       {
         "keyword": "지원",
@@ -13266,7 +13268,7 @@
       },
       {
         "keyword": "사업",
-        "count": 127
+        "count": 128
       },
       {
         "keyword": "모집",
@@ -13293,18 +13295,18 @@
         "count": 68
       },
       {
-        "keyword": "귀농",
-        "count": 60
+        "keyword": "신청",
+        "count": 59
       },
       {
-        "keyword": "신청",
+        "keyword": "귀농",
         "count": 59
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 99
+        "count": 98
       },
       {
         "source": "Google News 병해충 재배",
@@ -13320,7 +13322,7 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 62
+        "count": 61
       },
       {
         "source": "Google News 스마트팜",
@@ -13332,7 +13334,7 @@
       },
       {
         "source": "Google News 농촌진흥청",
-        "count": 47
+        "count": 48
       },
       {
         "source": "Google News 식물 키우기",
@@ -13340,15 +13342,15 @@
       },
       {
         "source": "Google News 농림축산식품부",
-        "count": 21
+        "count": 22
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 10,
-    "fetched_items": 823,
+    "new_items": 8,
+    "fetched_items": 809,
     "errors": []
   }
 }
