@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T23:13:35.911911+00:00",
+  "generated_at": "2026-06-04T23:44:02.886530+00:00",
   "items": [
     {
       "id": "21e548b5022ce0debf257598",
@@ -36,6 +36,25 @@
       ],
       "importance": 48,
       "region": "제주",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "cb8b955451bf21593b070c16",
+      "title": "알림소식 > 보도자료 > 농업인 안전재해 최소화를 위한 ‘농림분야 안전관리 종합대책’ 발표 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sMnNaTXVkMjB3U2xYRGpORmwzTXdVSms5TVpUZWRldG1ZclB2cDl0MG9uNHVrSjZhVHhWTVdUVXZhN01nN2VUZm9lYWRUTmx2ekdrMWlPaWdPMFJKdWxIeWFqRUdneDVIalgtWHFOVnl3VWlnSlo4RF9mWQ?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "news",
+      "published_at": "2026-06-04T21:18:35+00:00",
+      "collected_at": "2026-06-04T23:43:55.105543+00:00",
+      "summary": "알림소식 > 보도자료 > 농업인 안전재해 최소화를 위한 ‘농림분야 안전관리 종합대책’ 발표 농림축산식품부",
+      "keywords": [
+        "농업",
+        "농업인"
+      ],
+      "importance": 48,
+      "region": "전국",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -727,14 +746,14 @@
       "category_label": "지원사업"
     },
     {
-      "id": "37d58b08127cc88c7785dcb8",
-      "title": "수도권 가까운 충북…귀농·귀촌 정착지로 각광 - 국민일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wemIzcVk2SXBfRnVNLXE5czkyT29lbFRoUm9KdzZoZHlyZVRtUlRKWVlwcTJ2M012OFpZWnlVTHNZSzJuMXhoa3Jmb2x5b3ItR1NiSlVsbGRSemItSVMzQmZrV1lKcW51Vl9BQtIBbEFVX3lxTE0wemIzcVk2SXBfRnVNLXE5czkyT29lbFRoUm9KdzZoZHlyZVRtUlRKWVlwcTJ2M012OFpZWnlVTHNZSzJuMXhoa3Jmb2x5b3ItR1NiSlVsbGRSemItSVMzQmZrV1lKcW51Vl9BQg?oc=5",
+      "id": "32232c14462cd4029cfbda8e",
+      "title": "수도권 가까운 충북…귀농·귀촌 정착지로 각광 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpOXA2RDAzaWRZVndBbGZmY0lEOFZxODFYRWc2NmtnY3hraGZCS3NLNFg5cXdoNldWZTZVMXpnWWhvZGxZMXF1MHF3S2hTaWVaVmIxRQ?oc=5",
       "source": "Google News 청년농 귀농",
       "category": "news",
-      "published_at": "2026-06-04T06:46:00+00:00",
-      "collected_at": "2026-06-04T15:34:56.812085+00:00",
-      "summary": "수도권 가까운 충북…귀농·귀촌 정착지로 각광 국민일보",
+      "published_at": "2026-06-04T06:47:15+00:00",
+      "collected_at": "2026-06-04T23:43:49.509693+00:00",
+      "summary": "수도권 가까운 충북…귀농·귀촌 정착지로 각광 v.daum.net",
       "keywords": [
         "귀농"
       ],
@@ -13115,131 +13134,43 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "526b80fa8442b5694a0ee92a",
-      "title": "대구 군위군, 2027년 유기질 비료 지원사업 신청 접수 - kyongbuk.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVRllRdkZPOWp5R2FiS25CaWRaYmoxQkZ3bXZUY1h5R2tCLXRUdFBscEpQRVR1WjNtMTFubU5obUNkNWVLM1ZySEI0MjdwQ3lqeWtKeDhHRmtkZ0NEWkFTY3kxRDJmUWVGRVVCQVdWOA?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-28T08:55:06+00:00",
-      "collected_at": "2026-05-28T13:49:49.210351+00:00",
-      "summary": "대구 군위군, 2027년 유기질 비료 지원사업 신청 접수 kyongbuk.co.kr",
-      "keywords": [
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "대구",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "988532474fdd4b5011bfde8e",
-      "title": "농업·농촌의 삶이 궁금한 도시 청년여성...'시골언니 프로젝트’ 참가자 모집 - 도농라이프타임즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CTkpndW1nd19xN2RHSjJEYUJEQzlsYmhDN0oxRHVra1p2MUk3TVc5SC12WV9RSU9KTjdUMTI1YTR6WDVzS0Eza1lCcEpwdzFNWV9XVnBDSHdzTWlnekRQeG9MbTR5RlhHQVhZcw?oc=5",
-      "source": "Google News 농업",
-      "category": "support",
-      "published_at": "2026-05-28T08:49:02+00:00",
-      "collected_at": "2026-05-28T13:49:48.104409+00:00",
-      "summary": "농업·농촌의 삶이 궁금한 도시 청년여성...'시골언니 프로젝트’ 참가자 모집 도농라이프타임즈",
-      "keywords": [
-        "농업",
-        "농촌",
-        "모집"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "a1ccf457ffff84d361f380bb",
-      "title": "영광군, ‘청년농업인 영농정착 지원사업(2차)’대상자 지원하세요! - 데일리스포츠한국",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zdlZaZ3FwdkNMdk9fbWtMcEZ3WFpaLVgxRGRpeG5JU0hkeVJpSFNXbi1GQXZ3RGduZTdlMWk0WWlEeHJFbmlmNEdOUTA5UFgwX1JWRnZ0UlBIRjBHWDIycTBrZTVObHRJTmJRWmVUTjFBWnNvYXh1eDF2d9IBf0FVX3lxTFA1YUVJeDlaNVY5NFhGVU05dUkxTm16UDY1dFVRMlhfT202RmdIUnVINC05bnd1bmRvZFJJY1BPWS00QkxvejdjVjhNSzAtR2VmT3E0bGlyNnZadUlQY3ZUNXRQZWd6QXp1Q0RvVTRMdFZ3WlNnb3lIY3FDYVNEcUU?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-28T08:34:11+00:00",
-      "collected_at": "2026-05-29T15:01:25.746506+00:00",
-      "summary": "영광군, ‘청년농업인 영농정착 지원사업(2차)’대상자 지원하세요! 데일리스포츠한국",
-      "keywords": [
-        "농업",
-        "청년농",
-        "농업인",
-        "지원사업",
-        "청년농업인",
-        "지원",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "298b5473c4404dc644a53c87",
-      "title": "강릉시, 2027년 유기질비료 지원사업 신청 접수 시작 - 강릉넷TV",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4QTlfTVRzT3JuakNtMVpuV3NhSzZoc0VjdzI1NzNmbzZ0NzcxNjdfTERsdW0wZldSNTVuZkRqMHhpNUJ6SGtnd3EzczB3WkJJaEZTUW5wZnNKWDFIaElwWjVDZzRIMkRfWWc?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-05-28T08:15:30+00:00",
-      "collected_at": "2026-05-28T13:49:49.210351+00:00",
-      "summary": "강릉시, 2027년 유기질비료 지원사업 신청 접수 시작 강릉넷TV",
-      "keywords": [
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "강원",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 676,
+    "total": 673,
     "category_counts": {
-      "news": 353,
+      "news": 354,
       "plant_reviews": 30,
-      "support": 293
+      "support": 289
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 239
+        "count": 238
       },
       {
         "keyword": "지원",
-        "count": 214
+        "count": 211
       },
       {
         "keyword": "농촌",
-        "count": 128
-      },
-      {
-        "keyword": "사업",
         "count": 127
       },
       {
+        "keyword": "사업",
+        "count": 124
+      },
+      {
         "keyword": "모집",
-        "count": 120
+        "count": 119
       },
       {
         "keyword": "청년농",
-        "count": 117
+        "count": 116
       },
       {
         "keyword": "지원사업",
-        "count": 109
+        "count": 106
       },
       {
         "keyword": "농업인",
@@ -13247,19 +13178,19 @@
       },
       {
         "keyword": "청년농업인",
-        "count": 80
+        "count": 79
       },
       {
         "keyword": "스마트팜",
         "count": 68
       },
       {
-        "keyword": "신청",
+        "keyword": "귀농",
         "count": 60
       },
       {
-        "keyword": "귀농",
-        "count": 60
+        "keyword": "신청",
+        "count": 58
       }
     ],
     "top_sources": [
@@ -13269,15 +13200,15 @@
       },
       {
         "source": "Google News 농업",
-        "count": 94
+        "count": 93
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 71
+        "count": 70
       },
       {
         "source": "Google News 지원사업",
-        "count": 69
+        "count": 67
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13301,15 +13232,15 @@
       },
       {
         "source": "Google News 농림축산식품부",
-        "count": 22
+        "count": 23
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 9,
-    "fetched_items": 809,
+    "new_items": 5,
+    "fetched_items": 810,
     "errors": []
   }
 }
