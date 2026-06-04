@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-06-04T16:05:40.901489+00:00",
-  "total": 689,
+  "generated_at": "2026-06-04T19:04:02.955996+00:00",
+  "total": 678,
   "category_counts": {
-    "news": 365,
+    "news": 356,
     "plant_reviews": 28,
-    "support": 296
+    "support": 294
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 241
+      "count": 239
     },
     {
       "keyword": "지원",
-      "count": 219
+      "count": 217
     },
     {
       "keyword": "농촌",
-      "count": 136
+      "count": 130
     },
     {
       "keyword": "사업",
-      "count": 128
+      "count": 126
     },
     {
       "keyword": "모집",
-      "count": 120
+      "count": 119
     },
     {
       "keyword": "청년농",
-      "count": 120
+      "count": 118
     },
     {
       "keyword": "지원사업",
-      "count": 111
+      "count": 109
     },
     {
       "keyword": "농업인",
-      "count": 102
+      "count": 101
     },
     {
       "keyword": "청년농업인",
-      "count": 80
+      "count": 79
     },
     {
       "keyword": "스마트팜",
-      "count": 69
+      "count": 67
     },
     {
       "keyword": "귀농",
-      "count": 64
+      "count": 62
     },
     {
       "keyword": "신청",
-      "count": 60
+      "count": 59
     }
   ],
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 106
+      "count": 99
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 95
+      "count": 96
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 73
+      "count": 72
     },
     {
       "source": "Google News 지원사업",
-      "count": 71
+      "count": 70
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 65
+      "count": 63
     },
     {
       "source": "Google News 스마트팜",
-      "count": 60
+      "count": 58
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 53
+      "count": 55
     },
     {
       "source": "Google News 농촌진흥청",
-      "count": 48
+      "count": 47
     },
     {
       "source": "Google News 식물 키우기",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 19,
-    "fetched_items": 816,
+    "new_items": 20,
+    "fetched_items": 817,
     "errors": []
   }
 }
