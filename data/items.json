@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-06-04T21:57:38.649649+00:00",
+  "generated_at": "2026-06-04T22:28:06.144144+00:00",
   "items": [
+    {
+      "id": "21e548b5022ce0debf257598",
+      "title": "경북도 '전략작물직불 신청기간' 연장…6월 30일까지 - mstoday.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVTTRUdDZnQ1BuVzJLVGNyRXVaR2V2ZTVxeDBkZy02QjltMXkxRGRIWENuNGlDeUktTUl1V2FoV0NtSUw1RnNOTFRhVHllTUUwZUFFOVhFa2JpVWkwU3o3QlNuVG1pUE0?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "support",
+      "published_at": "2026-06-04T22:20:36+00:00",
+      "collected_at": "2026-06-04T22:27:53.596669+00:00",
+      "summary": "경북도 '전략작물직불 신청기간' 연장…6월 30일까지 mstoday.co.kr",
+      "keywords": [
+        "작물",
+        "신청"
+      ],
+      "importance": 64,
+      "region": "경북",
+      "deadline_text": "6월 30일 마감",
+      "deadline_date": "2026-06-30",
+      "category_label": "지원사업"
+    },
     {
       "id": "40e1dbedc362ec946f9dcd3c",
       "title": "반려식물 나눔으로 이웃과 함께하는 회화면 자원봉사캠프 - 고성미래신문",
@@ -97,6 +116,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "dfeee04de7572af768179205",
+      "title": "[기업탐방] 에코테크글로벌 작물파쇄기 - “농업 부산물을 자원으로 바꾸다” - 한국도시환경헤럴드",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YRE9qWXNBeEdIWmJPWkNUdUh0amlMZUZENXF3OWFnZ1VVcG9wOFM0eDZpLWktU0t3MnBxdjJqUHJISzN3emxHVmg3bE5FX3NrNmtqWV9qMXJUV1pFZVhRN0dLNWxFMnZfSGhLVNIBcEFVX3lxTE1Od3pIbThPeERIbWZlaVNkSkFuTnJWM0xrbWN6WVlmV0ZGM2JhdlMxNWg4OUNOa0NXbVBjaWI5ZHoxcmFTSl9iLUx3b3Nlc3BtVExiMDNfXzl4OG1GV29sN2xMRkJlbW9GSXlja3plYlQ?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-06-04T12:53:05+00:00",
+      "collected_at": "2026-06-04T22:27:53.596669+00:00",
+      "summary": "[기업탐방] 에코테크글로벌 작물파쇄기 - “농업 부산물을 자원으로 바꾸다” 한국도시환경헤럴드",
+      "keywords": [
+        "농업",
+        "작물"
+      ],
+      "importance": 42,
+      "region": "부산",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "21a712894fe4efafc18419fd",
@@ -2243,6 +2281,24 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "cbf528fe1e9a6d3f8cf258e8",
+      "title": "충남도 농업기술원 생활원예관서 ‘2억 년 전 고대 식물’ 특별 개화 - 뉴스밴드",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FTi1ZRU9YbWQtY21SZjhadEVnTjZZekdSMTJMcEllNDQ2bjkwOGQtc0g0dTVJU1pXbmxiSmVkMUg2UjBDak54dmlQeFRlOUEyUUR2TV9QQl82WnBmMTJkXzc4cWlueWV5MHc?oc=5",
+      "source": "Google News 식물 리뷰",
+      "category": "plant_reviews",
+      "published_at": "2026-06-03T07:33:29+00:00",
+      "collected_at": "2026-06-04T22:28:00.996177+00:00",
+      "summary": "충남도 농업기술원 생활원예관서 ‘2억 년 전 고대 식물’ 특별 개화 뉴스밴드",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "region": "충남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
     },
     {
       "id": "b3b79d2c96a303c7fd444cd2",
@@ -13184,74 +13240,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "995ec5c916cd7e4afe74e5aa",
-      "title": "영광군, 청년농업인 육성 영농정착 지원 - 중도일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VZFdVcHpkMWVBcXFFRkNLTmxIMGVWQ0Y5c2pPYl9tYktycTJRVlUxenlVQ3VYUXlzR2t2TTNfcFFkM1pac2xfY1RoVHZGQ1BEV1g1SkhBc3J2dEJmS2otcGtjX2U?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-28T07:35:33+00:00",
-      "collected_at": "2026-05-28T14:39:46.218543+00:00",
-      "summary": "영광군, 청년농업인 육성 영농정착 지원 중도일보",
-      "keywords": [
-        "농업",
-        "청년농",
-        "농업인",
-        "청년농업인",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "ad68b37b28a1654056572339",
-      "title": "농협, 한국농수산대와 청년농 성장 지원 협력 - 뉴스후플러스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ndHNybXZXQWtrRDJSaDM1aGdOTy04UUF2S3MwZUtZYzFVVHVoSmlQSTg3Q2JWdnhrajdDa3FNSHkwMUZPaVJDNFFXMmhlTEJpZUZoTG1DM0ZfSkJTX2RKek9HMDU1MEc2YVpOVXVn?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-05-28T07:31:30+00:00",
-      "collected_at": "2026-05-28T13:49:59.898237+00:00",
-      "summary": "농협, 한국농수산대와 청년농 성장 지원 협력 뉴스후플러스",
-      "keywords": [
-        "청년농",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "41b0987c2ac73f89d6f7a7fc",
-      "title": "농촌진흥청, ‘스마트농업 AI 워킹그룹(AIRISE)’ 출범 - 전북도민일보",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZlZnbzdMSnR0dVUtNmNua1JlOE53SEpDclVBVzEyNEhBemRGQzVPNE1nbUtkWWJMZ19OZ016Uk5WT3Z1ZnVrcWlmallzczh1cHM0RUF2NGpIRHNadDVWNDNzOVJOZm5Wd3VHekRNVU5tSGRxai1hYThkVWxfUUFCcnY3VTZvbmc?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-05-28T07:23:12+00:00",
-      "collected_at": "2026-05-28T13:49:48.104409+00:00",
-      "summary": "농촌진흥청, ‘스마트농업 AI 워킹그룹(AIRISE)’ 출범 전북도민일보",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "전북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
     "total": 678,
     "category_counts": {
       "news": 354,
-      "plant_reviews": 29,
-      "support": 295
+      "plant_reviews": 30,
+      "support": 294
     },
     "top_keywords": [
       {
@@ -13260,11 +13256,11 @@
       },
       {
         "keyword": "지원",
-        "count": 217
+        "count": 215
       },
       {
         "keyword": "농촌",
-        "count": 130
+        "count": 129
       },
       {
         "keyword": "사업",
@@ -13276,7 +13272,7 @@
       },
       {
         "keyword": "청년농",
-        "count": 120
+        "count": 118
       },
       {
         "keyword": "지원사업",
@@ -13284,11 +13280,11 @@
       },
       {
         "keyword": "농업인",
-        "count": 103
+        "count": 102
       },
       {
         "keyword": "청년농업인",
-        "count": 81
+        "count": 80
       },
       {
         "keyword": "스마트팜",
@@ -13296,7 +13292,7 @@
       },
       {
         "keyword": "신청",
-        "count": 59
+        "count": 60
       },
       {
         "keyword": "귀농",
@@ -13305,16 +13301,16 @@
     ],
     "top_sources": [
       {
-        "source": "Google News 농업",
+        "source": "Google News 병해충 재배",
         "count": 98
       },
       {
-        "source": "Google News 병해충 재배",
-        "count": 96
+        "source": "Google News 농업",
+        "count": 97
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 73
+        "count": 71
       },
       {
         "source": "Google News 지원사업",
@@ -13349,8 +13345,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 2,
-    "fetched_items": 812,
+    "new_items": 4,
+    "fetched_items": 814,
     "errors": []
   }
 }
