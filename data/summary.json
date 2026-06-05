@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-06-05T15:23:03.789475+00:00",
-  "total": 679,
+  "generated_at": "2026-06-05T21:23:45.000054+00:00",
+  "total": 674,
   "category_counts": {
-    "news": 347,
+    "news": 341,
     "plant_reviews": 29,
-    "support": 303
+    "support": 304
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 247
+      "count": 250
     },
     {
       "keyword": "지원",
-      "count": 217
+      "count": 218
     },
     {
       "keyword": "사업",
-      "count": 133
+      "count": 136
     },
     {
       "keyword": "모집",
-      "count": 121
+      "count": 122
+    },
+    {
+      "keyword": "지원사업",
+      "count": 118
     },
     {
       "keyword": "청년농",
       "count": 118
     },
     {
-      "keyword": "지원사업",
-      "count": 114
-    },
-    {
       "keyword": "농촌",
-      "count": 114
+      "count": 110
     },
     {
       "keyword": "농업인",
-      "count": 100
+      "count": 103
     },
     {
       "keyword": "청년농업인",
-      "count": 77
+      "count": 79
     },
     {
       "keyword": "귀농",
-      "count": 75
+      "count": 74
     },
     {
       "keyword": "신청",
-      "count": 68
+      "count": 70
     },
     {
       "keyword": "스마트팜",
@@ -59,27 +59,27 @@
   "top_sources": [
     {
       "source": "Google News 병해충 재배",
-      "count": 94
+      "count": 95
     },
     {
       "source": "Google News 농업",
-      "count": 88
+      "count": 84
     },
     {
       "source": "Google News 지원사업",
-      "count": 73
+      "count": 77
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 70
+      "count": 69
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 67
+      "count": 64
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 62
+      "count": 61
     },
     {
       "source": "Google News 스마트팜",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 812,
+    "new_items": 24,
+    "fetched_items": 811,
     "errors": []
   }
 }
