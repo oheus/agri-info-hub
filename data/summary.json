@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-05T14:52:36.360351+00:00",
-  "total": 678,
+  "generated_at": "2026-06-05T15:23:03.789475+00:00",
+  "total": 679,
   "category_counts": {
-    "news": 346,
+    "news": 347,
     "plant_reviews": 29,
     "support": 303
   },
@@ -59,7 +59,7 @@
   "top_sources": [
     {
       "source": "Google News 병해충 재배",
-      "count": 93
+      "count": 94
     },
     {
       "source": "Google News 농업",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 112,
-    "fetched_items": 818,
+    "new_items": 4,
+    "fetched_items": 812,
     "errors": []
   }
 }
