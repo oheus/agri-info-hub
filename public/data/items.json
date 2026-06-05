@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-04T23:44:02.886530+00:00",
+  "generated_at": "2026-06-05T00:14:29.796732+00:00",
   "items": [
+    {
+      "id": "639e257813095699ded0b4db",
+      "title": "「탄소중립에 따른 한우산업 전환 및 지원에 관한 법률」 시행령 제정안 입법예고 중 정정 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GektxSXFuVms1ai1nTTh5YjF4b3BWWHFINkNweUdOdnRYd3cyc09rSG1CQkdLRlF5WlhTMHJmdnBmOWpyZ3VrNUxzQkprSVU3QU9JbFJ4dWJlb1lMMklpTUhoUUNZRVVWQlAzaGtyQ1hoaUcxZGI1NWdXNA?oc=5",
+      "source": "Google News 농식품부 공고",
+      "category": "support",
+      "published_at": "2026-06-04T23:52:47+00:00",
+      "collected_at": "2026-06-05T00:14:19.753661+00:00",
+      "summary": "「탄소중립에 따른 한우산업 전환 및 지원에 관한 법률」 시행령 제정안 입법예고 중 정정 농림축산식품부",
+      "keywords": [
+        "지원"
+      ],
+      "importance": 74,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
     {
       "id": "21e548b5022ce0debf257598",
       "title": "경북도 '전략작물직불 신청기간' 연장…6월 30일까지 - mstoday.co.kr",
@@ -13079,82 +13097,27 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "64942fa232f2fc891b4f8af5",
-      "title": "광주시, 지역환경 맞춤형 우리밀 품종·재배기술 실증 - 무등뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yM2ZSVEJWek1FbVJDV2dLcjZIVlhobnd5bVg3Y3lqUW1jOHNNaEJ6R09zQVBZVGFKZFZ2ZENpU3RFRDdPWmpZMHAtdGdYXzNaRV9CT0drSHc4MGRKOGpnUUc3akFMR1k?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-05-28T09:19:43+00:00",
-      "collected_at": "2026-05-28T14:39:38.649467+00:00",
-      "summary": "광주시, 지역환경 맞춤형 우리밀 품종·재배기술 실증 무등뉴스",
-      "keywords": [
-        "재배"
-      ],
-      "importance": 42,
-      "region": "광주",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "ff2cde7854aebfb05268b2e3",
-      "title": "초등 교실에 소형 스마트팜 보급…농심천심·학농상생 캠페인 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BUThtODNhd2s1b0ZDOVY1M0VGVS1PVWZxMG50Yi1JenpoWWdBdW9sNWVabTNqbTFpX0dHYVY2WGt2czliNC1QRzhCWFQ2TVV0TUw4bG1xQ295QQ?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-05-28T09:04:00+00:00",
-      "collected_at": "2026-05-28T13:49:50.625468+00:00",
-      "summary": "초등 교실에 소형 스마트팜 보급…농심천심·학농상생 캠페인 농민신문",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "4e729fa817f7403cf63fba0f",
-      "title": "2026년 제1회 농업유전자원센터 공무직근로자 채용 공고 - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONVZNQUNwNkt0V2Z4SHF4c2hoQkt5cGVQLVFoSVNSczN3RDlLa1lVM1UzUEdhQUF0MjlMa25NYUwzTGxSSWNWRTVLN2ZmeTRlbjhUdnBRdmFNWHRUN3picHJlXzdMcURQWTB4U0QzUk0xNkdoUUY0NlcwdDREdjRsWUozeFJ6R19HR0ZKdFpPaEhMUnQx?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-05-28T08:57:53+00:00",
-      "collected_at": "2026-05-28T15:40:46.450720+00:00",
-      "summary": "2026년 제1회 농업유전자원센터 공무직근로자 채용 공고 농촌진흥청",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 48,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 673,
+    "total": 671,
     "category_counts": {
-      "news": 354,
+      "news": 351,
       "plant_reviews": 30,
-      "support": 289
+      "support": 290
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 238
+        "count": 237
       },
       {
         "keyword": "지원",
-        "count": 211
+        "count": 212
       },
       {
         "keyword": "농촌",
-        "count": 127
+        "count": 126
       },
       {
         "keyword": "사업",
@@ -13182,7 +13145,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 68
+        "count": 67
       },
       {
         "keyword": "귀농",
@@ -13196,7 +13159,7 @@
     "top_sources": [
       {
         "source": "Google News 병해충 재배",
-        "count": 98
+        "count": 97
       },
       {
         "source": "Google News 농업",
@@ -13216,7 +13179,7 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 59
+        "count": 58
       },
       {
         "source": "Google News 농산물 가격",
@@ -13224,7 +13187,7 @@
       },
       {
         "source": "Google News 농촌진흥청",
-        "count": 48
+        "count": 47
       },
       {
         "source": "Google News 식물 키우기",
@@ -13239,8 +13202,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 5,
-    "fetched_items": 810,
+    "new_items": 6,
+    "fetched_items": 806,
     "errors": []
   }
 }
