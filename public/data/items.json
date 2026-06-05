@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T14:52:36.360351+00:00",
+  "generated_at": "2026-06-05T15:23:03.789475+00:00",
   "items": [
     {
       "id": "4afda125d7ee240ac0336d3e",
@@ -262,14 +262,14 @@
       "category_label": "지원사업"
     },
     {
-      "id": "a2460d0c263fad2e7c7e94ad",
-      "title": "2026년 5월 농산물 시장 변동성 대응: 곡물 가격 전망 개선과 운송 비용 상승, 6차산업의 전략적 선택 - 브랜드경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4WXcwdjg5ek5UbGIxdi1xamdYV2R3aTVCY1ZMQ012YllVNDNPNmhXbHdYOE1WcjduWHVnYVExVkRzWWpndWlSVDZ0dXM?oc=5",
+      "id": "392d53642e15d72f92c514d6",
+      "title": "2026년 5월 농산물 시장 변동성 대응: 곡물 가격 전망 개선과 운송 비용 상승, 6차산업의 전략적 선택 - newsyonhap.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VSl83X1cxaTVQR2ZGQ2ZoUHl1WGV5T2U4NlFlNDdzdTM2UkI0MkVfT0Y4VXd2ZE1DQ2xyeWFlNVluYXJ3QU9OVklR?oc=5",
       "source": "Google News 농산물 가격",
       "category": "news",
-      "published_at": "2026-06-05T08:59:35+00:00",
-      "collected_at": "2026-06-05T14:52:24.592742+00:00",
-      "summary": "2026년 5월 농산물 시장 변동성 대응: 곡물 가격 전망 개선과 운송 비용 상승, 6차산업의 전략적 선택 브랜드경제신문",
+      "published_at": "2026-06-05T09:06:39+00:00",
+      "collected_at": "2026-06-05T15:22:52.822322+00:00",
+      "summary": "2026년 5월 농산물 시장 변동성 대응: 곡물 가격 전망 개선과 운송 비용 상승, 6차산업의 전략적 선택 newsyonhap.com",
       "keywords": [
         "농산물"
       ],
@@ -5502,6 +5502,24 @@
         "귀농"
       ],
       "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "37162349f673f3563074e63b",
+      "title": "서부지방산림청, 여름철 산림병해충 대응 대책본부 운영 - 산림신문",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pMy1sWXU3Qldja0hGQVhENm1mVUt0UXB4eVd5ek5jSFF0RmI3dXF4LU1RZFdZVW5rTmlROG90eEowOUtFVnNydmNDaGJicFhV?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-06-02T06:42:00+00:00",
+      "collected_at": "2026-06-05T15:22:51.722251+00:00",
+      "summary": "서부지방산림청, 여름철 산림병해충 대응 대책본부 운영 산림신문",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
       "region": "",
       "deadline_text": "",
       "deadline_date": "",
@@ -13277,9 +13295,9 @@
     }
   ],
   "stats": {
-    "total": 678,
+    "total": 679,
     "category_counts": {
-      "news": 346,
+      "news": 347,
       "plant_reviews": 29,
       "support": 303
     },
@@ -13336,7 +13354,7 @@
     "top_sources": [
       {
         "source": "Google News 병해충 재배",
-        "count": 93
+        "count": 94
       },
       {
         "source": "Google News 농업",
@@ -13379,8 +13397,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 112,
-    "fetched_items": 818,
+    "new_items": 4,
+    "fetched_items": 812,
     "errors": []
   }
 }
