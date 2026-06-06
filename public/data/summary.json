@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-05T21:23:45.000054+00:00",
-  "total": 674,
+  "generated_at": "2026-06-06T11:56:14.686594+00:00",
+  "total": 660,
   "category_counts": {
-    "news": 341,
-    "plant_reviews": 29,
+    "news": 328,
+    "plant_reviews": 28,
     "support": 304
   },
   "top_keywords": [
@@ -13,35 +13,35 @@
     },
     {
       "keyword": "지원",
-      "count": 218
+      "count": 216
     },
     {
       "keyword": "사업",
-      "count": 136
+      "count": 135
     },
     {
       "keyword": "모집",
-      "count": 122
-    },
-    {
-      "keyword": "지원사업",
-      "count": 118
+      "count": 125
     },
     {
       "keyword": "청년농",
       "count": 118
     },
     {
-      "keyword": "농촌",
-      "count": 110
+      "keyword": "지원사업",
+      "count": 118
     },
     {
       "keyword": "농업인",
-      "count": 103
+      "count": 104
+    },
+    {
+      "keyword": "농촌",
+      "count": 102
     },
     {
       "keyword": "청년농업인",
-      "count": 79
+      "count": 80
     },
     {
       "keyword": "귀농",
@@ -49,29 +49,29 @@
     },
     {
       "keyword": "신청",
-      "count": 70
+      "count": 72
     },
     {
       "keyword": "스마트팜",
-      "count": 67
+      "count": 65
     }
   ],
   "top_sources": [
     {
       "source": "Google News 병해충 재배",
-      "count": 95
+      "count": 91
     },
     {
       "source": "Google News 농업",
-      "count": 84
+      "count": 81
     },
     {
       "source": "Google News 지원사업",
-      "count": 77
+      "count": 79
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 69
+      "count": 67
     },
     {
       "source": "Google News 청년농 귀농",
@@ -83,15 +83,15 @@
     },
     {
       "source": "Google News 스마트팜",
-      "count": 57
+      "count": 54
     },
     {
       "source": "Google News 농촌진흥청",
-      "count": 44
+      "count": 40
     },
     {
       "source": "Google News 식물 키우기",
-      "count": 34
+      "count": 33
     },
     {
       "source": "Google News 농업 지원금",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 24,
-    "fetched_items": 811,
+    "new_items": 43,
+    "fetched_items": 804,
     "errors": []
   }
 }
