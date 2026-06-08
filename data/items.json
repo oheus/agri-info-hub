@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T15:37:45.780398+00:00",
+  "generated_at": "2026-06-08T16:26:32.361989+00:00",
   "items": [
     {
       "id": "19f0d82ee2e6a28533cb047d",
@@ -526,6 +526,25 @@
       "region": "",
       "deadline_text": "",
       "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "e75680ac58d05f5dbc18e3e8",
+      "title": "경북도, 전략작물직불 신청기간 연장…6월 30일까지 신청하세요 - 영남매일",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KR0VHMTNrV2Q3Y21USlhmeGd5cU5QS0tJSWQwZDVKVS1IcU5NandrNWJhbGJXa0xkR1VRd0NaN244Ry1Gdk0tOHpkMG0wNDhleEFUbnU4b3FQT1k2a185ZXh1MGVtVm8?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "support",
+      "published_at": "2026-06-08T08:20:52+00:00",
+      "collected_at": "2026-06-08T16:26:18.775831+00:00",
+      "summary": "경북도, 전략작물직불 신청기간 연장…6월 30일까지 신청하세요 영남매일",
+      "keywords": [
+        "작물",
+        "신청"
+      ],
+      "importance": 64,
+      "region": "경북",
+      "deadline_text": "6월 30일 마감",
+      "deadline_date": "2026-06-30",
       "category_label": "지원사업"
     },
     {
@@ -1943,6 +1962,25 @@
       "keywords": [
         "반려식물",
         "모집"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "d42d70d78522e1ef87f43ae2",
+      "title": "영천시, 전략작물직불금 신청 이달 말까지 연장 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnVmOTU2OERsYmpBaUdsdHFtd1FUWWt6ZnJobVdnSWJJYzg4UmxBVmxmQnM1eWRCeEdodERTMHV1ZnY2T3NiNGhsYTBldW5pQXFWalh3Mk5waTJhWnZxd3pvX0JBYVJQRzFwLUsxSkg?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "support",
+      "published_at": "2026-06-07T05:42:58+00:00",
+      "collected_at": "2026-06-08T16:26:18.775831+00:00",
+      "summary": "영천시, 전략작물직불금 신청 이달 말까지 연장 신아일보",
+      "keywords": [
+        "작물",
+        "신청"
       ],
       "importance": 64,
       "region": "",
@@ -13384,106 +13422,43 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "5c25ee9eb3c3af1b7dcc3918",
-      "title": "수원시 팔달구, 산림 병해충 방제 대책본부 운영...\"건강한 숲\" 만들기 - 경기경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VbFRyTEVtTmlPRTdfNUlCLXNvNW5Bem5RdXV1eUFHSjhoVkNRTDRWNTJ2QUs0Z1JqM3lwRDFkYmpROGhnTHZBb0ZjT2hfVUtDQzg4ZmhWNkd0MGxtLXlDMg?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-01T03:47:43+00:00",
-      "collected_at": "2026-06-01T22:32:39.441319+00:00",
-      "summary": "수원시 팔달구, 산림 병해충 방제 대책본부 운영...\"건강한 숲\" 만들기 경기경제신문",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "경기",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "d968bad0cafb657798202d81",
-      "title": "광주시, 2027년 유기질비료 지원사업 신청 접수 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pUk5FX2EtUHdwcGJCTVNIdk1FeWhDb2M0YXprcjhKQzVsTlRSRWt3SElJa1N3N3JXSnFSWXVoVGZMamtNdW1yWmZpMlZ6T19hbkVsYkR1dUZLU0d3TWVjZURHbFdZZXhqWEYzQWNYQXE?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-06-01T03:47:32+00:00",
-      "collected_at": "2026-06-01T07:20:20.359618+00:00",
-      "summary": "광주시, 2027년 유기질비료 지원사업 신청 접수 신아일보",
-      "keywords": [
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "광주",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "72edef518480ae227266a26d",
-      "title": "제주시, 청년농업인 영농정착 지원 확대…7월 10일까지 2차 모집 - 제주뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01RDRHaFcta0I2cHlPOFpYcTVXZjk1c0REdDNPR29SY2NBcUZMZFVjUmZqNmZiVTI5cTBFV3BJODNEb1JnOWlXVWFwVlpXdXkwbjVZMGExWTI1RG1yRmMwQ3FjRkZEYVlTWmY3TDNR0gFuQVVfeXFMTTVENEdoVy1rQjZweU84WlhxNVdmOTVzRER0M09Hb1JjY0FxRkxkVWNSZmo2ZmJVMjlxMEVXcEk4M0RvUmc5aVdVYXBWWld1eTBuNVkwYTFZMjVEbXJGYzBDcWNGRkRhWVNaZjdMM1E?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-06-01T03:34:29+00:00",
-      "collected_at": "2026-06-01T07:20:31.937194+00:00",
-      "summary": "제주시, 청년농업인 영농정착 지원 확대…7월 10일까지 2차 모집 제주뉴스",
-      "keywords": [
-        "농업",
-        "청년농",
-        "농업인",
-        "모집",
-        "청년농업인",
-        "지원"
-      ],
-      "importance": 76,
-      "region": "제주",
-      "deadline_text": "7월 10일 마감",
-      "deadline_date": "2026-07-10",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 686,
+    "total": 685,
     "category_counts": {
-      "news": 330,
+      "news": 329,
       "plant_reviews": 44,
       "support": 312
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 257
+        "count": 256
       },
       {
         "keyword": "지원",
-        "count": 219
+        "count": 217
       },
       {
         "keyword": "사업",
-        "count": 143
+        "count": 142
       },
       {
         "keyword": "지원사업",
-        "count": 118
+        "count": 117
       },
       {
         "keyword": "청년농",
-        "count": 111
+        "count": 110
       },
       {
         "keyword": "모집",
-        "count": 111
+        "count": 110
       },
       {
         "keyword": "농업인",
-        "count": 106
+        "count": 105
       },
       {
         "keyword": "농촌",
@@ -13495,11 +13470,11 @@
       },
       {
         "keyword": "청년농업인",
-        "count": 79
+        "count": 78
       },
       {
         "keyword": "신청",
-        "count": 77
+        "count": 78
       },
       {
         "keyword": "스마트팜",
@@ -13509,7 +13484,7 @@
     "top_sources": [
       {
         "source": "Google News 병해충 재배",
-        "count": 94
+        "count": 95
       },
       {
         "source": "Google News 농업",
@@ -13517,7 +13492,7 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 78
+        "count": 77
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13525,7 +13500,7 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 62
+        "count": 61
       },
       {
         "source": "Google News 스마트팜",
@@ -13552,8 +13527,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 793,
+    "new_items": 5,
+    "fetched_items": 789,
     "errors": []
   }
 }
