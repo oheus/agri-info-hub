@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T16:26:32.361989+00:00",
+  "generated_at": "2026-06-08T18:29:32.369344+00:00",
   "items": [
     {
       "id": "19f0d82ee2e6a28533cb047d",
@@ -838,6 +838,24 @@
         "지원"
       ],
       "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "017a0cb42d006f75e5e0853d",
+      "title": "농어촌공사함안지사, 선임대후매도사업 확대 추진 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13NW9KcUhVTGt6UU5qTkMyN19xSHFaQ3IxaHgtLVJMRXNhWDIyWU5kN1NiaWV3b3p2U05mejhtVjJPZWFKNVpDZTBmWTNNUkU?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-06-08T06:34:37+00:00",
+      "collected_at": "2026-06-08T18:29:24.572462+00:00",
+      "summary": "농어촌공사함안지사, 선임대후매도사업 확대 추진 v.daum.net",
+      "keywords": [
+        "사업"
+      ],
+      "importance": 58,
       "region": "",
       "deadline_text": "",
       "deadline_date": "",
@@ -13403,33 +13421,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "5059b2f75d6924789bc39041",
-      "title": "곡성군, 곡성세계장미축제에서 \"귀농귀촌 홍보부스\" 운영 | - 전라일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCTzVHaXlJbGs3VkFYMlNGNU5ZT2FIRU1hd3p1dDFpOWJneHBJdTdoTVBvSFJROVFmS2pyZFRTVGtrR2s1M1lqdTJxc2MtQ3prWHN6YW1Cc1FmLUdLb1V0Ymw1QkhJZnpBUmtNdVJTYUQ?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-06-01T03:53:55+00:00",
-      "collected_at": "2026-06-01T07:20:23.234225+00:00",
-      "summary": "곡성군, 곡성세계장미축제에서 \"귀농귀촌 홍보부스\" 운영 | 전라일보",
-      "keywords": [
-        "귀농",
-        "귀농귀촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
     "total": 685,
     "category_counts": {
-      "news": 329,
+      "news": 328,
       "plant_reviews": 44,
-      "support": 312
+      "support": 313
     },
     "top_keywords": [
       {
@@ -13442,7 +13441,7 @@
       },
       {
         "keyword": "사업",
-        "count": 142
+        "count": 143
       },
       {
         "keyword": "지원사업",
@@ -13466,7 +13465,7 @@
       },
       {
         "keyword": "귀농",
-        "count": 82
+        "count": 81
       },
       {
         "keyword": "청년농업인",
@@ -13496,11 +13495,11 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 64
+        "count": 63
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 61
+        "count": 62
       },
       {
         "source": "Google News 스마트팜",
