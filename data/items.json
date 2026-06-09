@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T06:15:57.827973+00:00",
+  "generated_at": "2026-06-09T06:46:26.866532+00:00",
   "items": [
     {
       "id": "c52f4b4f84e196d3b523cd67",
@@ -206,6 +206,22 @@
       "category_label": "지원사업"
     },
     {
+      "id": "ac5996fffaf37ec3571a18da",
+      "title": "국산 양파 612원·수입산 1450원… 6개월째 이어진 가격 역전, 농가 비상 - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KdG9BZFNkQ3Vwcl9YU081RzJxdFNZenVUTmFwdFFVTHZUZHhzS3dlbVFyVHNlZHRmWF9CeVZ1eEJBNEdYT29lcTlaNzFJaHk3dldDWFZfay1oSDBWQ0pDMVFRRVowcjRRMUE?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-06-09T05:00:12+00:00",
+      "collected_at": "2026-06-09T06:46:15.110443+00:00",
+      "summary": "국산 양파 612원·수입산 1450원… 6개월째 이어진 가격 역전, 농가 비상 천지일보",
+      "keywords": [],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "78e4e69ae7ddf826816c6090",
       "title": "오늘(6월 9일) 농산물 가격: 태국산 두리안 가격이 여전히 높은 수준을 유지하고 있습니다. - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtbW9YUDB5dXo3OUFZVHhyVjQxUHZ1ZWlDWWc3SW5FVFlzYWRiZVFzSmtQVjJEM0t3RGVBZEMwTEV0WDk5UXJHT2ttSDFNTnZSTDBtUWlYSGQ2UDZXZkRBVV9ZelMwbWNIeFc5bUlqQVV3UnhrdHMzOTE5RVo0eDA?oc=5",
@@ -279,6 +295,25 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "3172182f2c0049c207ab3f72",
+      "title": "농업+관광+교육…제주에 '스마트팜 테마파크' 조성된다 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DVWlTWTNXMldlNU1IaXFDM3VoTmNIdHJ0NXZxT2FLQi1BblRIZDlrMlRlQTlVWFlSMm5qUnZtSW1IWC1fLThIX0N2SXU0eldPaUZKM0Fqa2lHRDlXVUpkVmZSRHZ2Rk5oVzFFRmhzRFRETm1rVjRKUdIBeEFVX3lxTE1DVWlTWTNXMldlNU1IaXFDM3VoTmNIdHJ0NXZxT2FLQi1BblRIZDlrMlRlQTlVWFlSMm5qUnZtSW1IWC1fLThIX0N2SXU0eldPaUZKM0Fqa2lHRDlXVUpkVmZSRHZ2Rk5oVzFFRmhzRFRETm1rVjRKUQ?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-06-09T04:50:50+00:00",
+      "collected_at": "2026-06-09T06:46:11.368747+00:00",
+      "summary": "농업+관광+교육…제주에 '스마트팜 테마파크' 조성된다 뉴시스",
+      "keywords": [
+        "농업",
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "제주",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "36cdcf731c80a6b5a65dda4b",
@@ -662,6 +697,24 @@
       "category_label": "식물 리뷰"
     },
     {
+      "id": "2654208264caac732e27d07a",
+      "title": "이안느루, 귀농·귀촌 체험교육 공간으로 주목 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UMTZ2VVFHSEx1MjlmVk0yUVh1MDZRUzV3MENvdWc0ZlRrYXg4ek14NFB2RVhQMlFqYUw4cTU5eE55Wmgtbi1SbHg2TnBwRUdqUVZaMHpCTjDSAVhBVV95cUxPVDE2dlVRR0hMdTI5ZlZNMlFYdTA2UVM1dzBDb3VnNGZUa2F4OHpNeDRQdkVYUDJRamFMOHE1OXhOeVpoLW4tUmx4Nk5wcEVHalFWWjB6Qk4w?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-06-09T02:02:53+00:00",
+      "collected_at": "2026-06-09T06:46:12.561400+00:00",
+      "summary": "이안느루, 귀농·귀촌 체험교육 공간으로 주목 아주경제",
+      "keywords": [
+        "귀농"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "68b1ec010836a7088845feaa",
       "title": "알림소식 > 보도자료 > 직불금 지키는 첫걸음, 교육 이수로 시작! - 농림축산식품부",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOb3BhTVp5QTItMjZRbnd3dmJubmFNX2VYQi0tLWktY1pmbGg5VnRtQm9QdUVodVJHRXpkYWJUa2Z1aV9odkJfSGdYVGZ2aFlLV2FxMTE1R1RlN3cyb2x5VjZHU0FuOHhvN1UxbFNHVjFFa3loMnpqSjNGQQ?oc=5",
@@ -959,6 +1012,25 @@
       ],
       "importance": 48,
       "region": "서울",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "00761a19ce131fe708b04d9d",
+      "title": "농협, 농정대전환 현장 실행 본격화… 스마트농업·청년농 육성 속도 - 한국영농신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCYW42SDNrakZWbHpteU9kb0YzNVF2c0NZMkVxS0VyamxuUXRrUlBjS0RjSjdsU0ZfVk90WUdTampoZzh3U3NyRUxkWVBuQm1DRGZHUXp1aklNVFB0MHh3RmJYVktUQkVscG92RtIBbkFVX3lxTE9Cd185aWVqa01MaldwbE1pMDhYXzI5WVNndUF1SmYxb2tjZ3M2LUV4T1pETmU4Y0dvRHd2a2tnUno2RnpQczdGcW13UjVEVVdra3FNODhHd29iRWRzYzY5S2RRQ0tjQXBMSm1IR2hB?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-06-08T14:12:03+00:00",
+      "collected_at": "2026-06-09T06:46:09.485424+00:00",
+      "summary": "농협, 농정대전환 현장 실행 본격화… 스마트농업·청년농 육성 속도 한국영농신문",
+      "keywords": [
+        "농업",
+        "청년농"
+      ],
+      "importance": 48,
+      "region": "대전",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -4287,6 +4359,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "15bd89d054bdfc532ed00002",
+      "title": "「탄소중립에 따른 한우산업 전환 및 지원에 관한 법률」 시행규칙 제정안 입법예고 중 정정 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjMTVwWnlQMm5hdmN6ZFZYNzVMUWtPenJIOE9PdDVoM1NNdVMwdF9wWWhlaTF4bTFzZzYxcy1YRVZJSjRiX0QzRC1Cc0tMajRJV2w2dmZLWFA4aC1xbU15Y1hyeUt3ZFNCcUR6TlRBc1hiclhCNlE?oc=5",
+      "source": "Google News 농식품부 공고",
+      "category": "support",
+      "published_at": "2026-06-05T07:00:00+00:00",
+      "collected_at": "2026-06-09T06:46:16.164450+00:00",
+      "summary": "「탄소중립에 따른 한우산업 전환 및 지원에 관한 법률」 시행규칙 제정안 입법예고 중 정정 농림축산식품부",
+      "keywords": [
+        "지원"
+      ],
+      "importance": 74,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "975909e487ed8a7f655d3bc3",
       "title": "[모집]진안군, 마음을 가꾸는 ‘반려식물 만들기’ 체험 교육 참가자 모집 - 무진장인터넷뉴스",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oNEpFZkFFcnRSMGtuZk1TbjFPV2dTX1hLRnluTUVXRENsZWRfY3ZWWXo0RGxPMkMtOXRQVkZMNENjdWhtdmlUeWJ6OUZ4cFc1N191MkIxbmhyZw?oc=5",
@@ -5451,24 +5541,6 @@
       "importance": 76,
       "region": "경기",
       "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "ec5d6855831c649fbe4dad8e",
-      "title": "「탄소중립에 따른 한우산업 전환 및 지원에 관한 법률」 시행규칙 제정안 입법예고 중 정정 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NVkRJZ2xMODJqNHYxeVBMalhDWU9ENGE0TFBzbGk4ekY4TWxLY3Jsa2VJNl9VQjhsRVp2ZzhpYUNYWkFCcmwtOVk2Z2haejRyWWlLQTBYNlpmZmtlbFB4V0JnMjBxMTRWeE1paVpOT29DU212cVd2S0Q4QQ?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-06-04T23:53:04+00:00",
-      "collected_at": "2026-06-05T14:52:25.529213+00:00",
-      "summary": "「탄소중립에 따른 한우산업 전환 및 지원에 관한 법률」 시행규칙 제정안 입법예고 중 정정 농림축산식품부",
-      "keywords": [
-        "지원"
-      ],
-      "importance": 74,
-      "region": "전국",
-      "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
     },
@@ -13491,112 +13563,19 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "5245c0106d9f35748f34cdc5",
-      "title": "[청년 D집다] 농업농촌의 가치를 지키는 연대 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53SnVKQ1lQamN2a0cwQW1UbDBDOEtvSk9RaHIzeWJ5cFd3LXQ3UkVKeWtoV1RIRFd1T0R6Q1F0TzIxcFRyOWJKMFJxT29PQXZrV2NqcjlSNGFvUQ?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-01T07:00:00+00:00",
-      "collected_at": "2026-06-04T15:34:53.415657+00:00",
-      "summary": "[청년 D집다] 농업농촌의 가치를 지키는 연대 농민신문",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "7662094b7d0cd2df8b0eb18a",
-      "title": "‘희망농촌 정비사업’ 주민 호평 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15XzFqVXFFcUlNOFFndElYNEN1alBEYWltamRBYmZnSjZ0RXNVaFpWc3YwSTB5dDFNS2NJSHZVVzR1bGQwVTBscDd6RlVvTkdCR0NYNm1xZzRZdw?oc=5",
-      "source": "Google News 농업",
-      "category": "support",
-      "published_at": "2026-06-01T07:00:00+00:00",
-      "collected_at": "2026-06-04T15:34:53.415657+00:00",
-      "summary": "‘희망농촌 정비사업’ 주민 호평 농민신문",
-      "keywords": [
-        "농촌",
-        "사업"
-      ],
-      "importance": 58,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "7b08bf90e73d2a4a67801e73",
-      "title": "[이재명정부 1년] 미래전략산업으로 격상한 농업…가격정책 정교화는 미완 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibERaeWxvWl9mdEYtNDlTc0VQRnFXRDZKMDRsMzFJVVh2YnhDMV8tQy1XbEtMVUktS2VIVHpYeWdxNU1oOTBzX2JQX0wyRDdQYkdaZjlGN0ROUQ?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-01T07:00:00+00:00",
-      "collected_at": "2026-06-04T15:34:58.939104+00:00",
-      "summary": "[이재명정부 1년] 미래전략산업으로 격상한 농업…가격정책 정교화는 미완 농민신문",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "201d5ffba9e3fe3849af0bba",
-      "title": "이달의 농업기술이란? - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fSENhM1o1bm1rU0pYdTFQaTRXZVNFTVNKQXMwTEtSY3AwSjB5cHVvd0xtR3pPNW9KZFFLenZQb0V0SmJMYlpSYjdSdG5FS1hJTWoxLVNPY2ItMEtEcXBSOURQMW5obnJLME9SMllXeDJrOUwycjNRajlB?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-06-01T07:00:00+00:00",
-      "collected_at": "2026-06-04T15:35:01.174870+00:00",
-      "summary": "이달의 농업기술이란? 농촌진흥청",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "8c2f7783cd2364f668b9db47",
-      "title": "서울 가락시장 동화청과에 청년농이 북적인 이유는 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QYUpfZDNrVE5kRXNSZVA1Tm5NS01UVEliNkRFZDEydjhjaGkxdXh5NUJ1RjVIQzN6amRWcmM3OUF1Nml2TzZaTHJLMDJwUkU4aXNxY3Z2YUkzdw?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-06-01T07:00:00+00:00",
-      "collected_at": "2026-06-05T01:48:55.819366+00:00",
-      "summary": "서울 가락시장 동화청과에 청년농이 북적인 이유는 농민신문",
-      "keywords": [
-        "청년농"
-      ],
-      "importance": 48,
-      "region": "서울",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 697,
+    "total": 696,
     "category_counts": {
       "news": 342,
       "plant_reviews": 50,
-      "support": 305
+      "support": 304
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 250
+        "count": 249
       },
       {
         "keyword": "지원",
@@ -13604,7 +13583,7 @@
       },
       {
         "keyword": "사업",
-        "count": 143
+        "count": 142
       },
       {
         "keyword": "지원사업",
@@ -13624,11 +13603,11 @@
       },
       {
         "keyword": "농촌",
-        "count": 95
+        "count": 92
       },
       {
         "keyword": "귀농",
-        "count": 85
+        "count": 86
       },
       {
         "keyword": "신청",
@@ -13636,7 +13615,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 72
+        "count": 73
       },
       {
         "keyword": "청년농업인",
@@ -13650,7 +13629,7 @@
       },
       {
         "source": "Google News 농업",
-        "count": 94
+        "count": 93
       },
       {
         "source": "Google News 지원사업",
@@ -13662,7 +13641,7 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 64
+        "count": 65
       },
       {
         "source": "Google News 농산물 가격",
@@ -13678,7 +13657,7 @@
       },
       {
         "source": "Google News 농촌진흥청",
-        "count": 26
+        "count": 25
       },
       {
         "source": "Google News 농림축산식품부",
@@ -13689,8 +13668,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 97,
-    "fetched_items": 789,
+    "new_items": 6,
+    "fetched_items": 796,
     "errors": []
   }
 }
