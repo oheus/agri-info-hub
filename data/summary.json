@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-08T18:29:32.369344+00:00",
-  "total": 685,
+  "generated_at": "2026-06-09T06:15:57.827973+00:00",
+  "total": 697,
   "category_counts": {
-    "news": 328,
-    "plant_reviews": 44,
-    "support": 313
+    "news": 342,
+    "plant_reviews": 50,
+    "support": 305
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 256
+      "count": 250
     },
     {
       "keyword": "지원",
-      "count": 217
+      "count": 207
     },
     {
       "keyword": "사업",
@@ -21,38 +21,38 @@
     },
     {
       "keyword": "지원사업",
-      "count": 117
+      "count": 113
     },
     {
       "keyword": "청년농",
-      "count": 110
+      "count": 101
     },
     {
       "keyword": "모집",
-      "count": 110
+      "count": 100
     },
     {
       "keyword": "농업인",
-      "count": 105
+      "count": 98
     },
     {
       "keyword": "농촌",
-      "count": 97
+      "count": 95
     },
     {
       "keyword": "귀농",
-      "count": 81
-    },
-    {
-      "keyword": "청년농업인",
-      "count": 78
+      "count": 85
     },
     {
       "keyword": "신청",
-      "count": 78
+      "count": 77
     },
     {
       "keyword": "스마트팜",
+      "count": 72
+    },
+    {
+      "keyword": "청년농업인",
       "count": 70
     }
   ],
@@ -63,45 +63,45 @@
     },
     {
       "source": "Google News 농업",
-      "count": 89
+      "count": 94
     },
     {
       "source": "Google News 지원사업",
-      "count": 77
+      "count": 74
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 63
-    },
-    {
-      "source": "Google News 청년농 지원",
-      "count": 62
+      "count": 68
     },
     {
       "source": "Google News 스마트팜",
-      "count": 60
+      "count": 64
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 56
+      "count": 57
     },
     {
       "source": "Google News 식물 키우기",
-      "count": 53
+      "count": 57
+    },
+    {
+      "source": "Google News 청년농 지원",
+      "count": 57
     },
     {
       "source": "Google News 농촌진흥청",
-      "count": 30
+      "count": 26
     },
     {
-      "source": "Google News 농업 지원금",
-      "count": 23
+      "source": "Google News 농림축산식품부",
+      "count": 24
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 5,
+    "new_items": 97,
     "fetched_items": 789,
     "errors": []
   }
