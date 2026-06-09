@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-09T07:16:56.620990+00:00",
+  "generated_at": "2026-06-09T07:47:30.410931+00:00",
   "total": 695,
   "category_counts": {
-    "news": 342,
-    "plant_reviews": 50,
-    "support": 303
+    "news": 339,
+    "plant_reviews": 52,
+    "support": 304
   },
   "top_keywords": [
     {
@@ -25,27 +25,27 @@
     },
     {
       "keyword": "모집",
-      "count": 99
-    },
-    {
-      "keyword": "청년농",
-      "count": 99
-    },
-    {
-      "keyword": "농업인",
       "count": 98
     },
     {
+      "keyword": "청년농",
+      "count": 98
+    },
+    {
+      "keyword": "농업인",
+      "count": 96
+    },
+    {
       "keyword": "농촌",
-      "count": 92
+      "count": 91
     },
     {
       "keyword": "귀농",
-      "count": 86
+      "count": 84
     },
     {
       "keyword": "신청",
-      "count": 76
+      "count": 77
     },
     {
       "keyword": "스마트팜",
@@ -53,13 +53,13 @@
     },
     {
       "keyword": "청년농업인",
-      "count": 69
+      "count": 68
     }
   ],
   "top_sources": [
     {
       "source": "Google News 병해충 재배",
-      "count": 95
+      "count": 94
     },
     {
       "source": "Google News 농업",
@@ -70,39 +70,39 @@
       "count": 73
     },
     {
-      "source": "Google News 청년농 귀농",
-      "count": 68
-    },
-    {
       "source": "Google News 스마트팜",
       "count": 67
     },
     {
-      "source": "Google News 식물 키우기",
-      "count": 57
+      "source": "Google News 청년농 귀농",
+      "count": 66
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 57
+      "count": 59
+    },
+    {
+      "source": "Google News 식물 키우기",
+      "count": 58
     },
     {
       "source": "Google News 청년농 지원",
       "count": 56
     },
     {
-      "source": "Google News 농촌진흥청",
-      "count": 25
+      "source": "Google News 농림축산식품부",
+      "count": 26
     },
     {
-      "source": "Google News 농림축산식품부",
+      "source": "Google News 농촌진흥청",
       "count": 24
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 11,
-    "fetched_items": 794,
+    "new_items": 26,
+    "fetched_items": 793,
     "errors": []
   }
 }
