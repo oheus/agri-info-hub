@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-09T14:55:17.736030+00:00",
-  "total": 704,
+  "generated_at": "2026-06-10T06:05:03.814768+00:00",
+  "total": 720,
   "category_counts": {
-    "news": 353,
-    "plant_reviews": 55,
-    "support": 296
+    "news": 358,
+    "plant_reviews": 70,
+    "support": 292
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 254
+      "count": 250
     },
     {
       "keyword": "지원",
-      "count": 200
+      "count": 192
     },
     {
       "keyword": "사업",
@@ -24,74 +24,74 @@
       "count": 106
     },
     {
-      "keyword": "농업인",
-      "count": 92
-    },
-    {
-      "keyword": "청년농",
-      "count": 92
-    },
-    {
       "keyword": "농촌",
-      "count": 91
+      "count": 92
     },
     {
-      "keyword": "모집",
+      "keyword": "농업인",
       "count": 86
     },
     {
       "keyword": "귀농",
-      "count": 84
+      "count": 85
     },
     {
-      "keyword": "스마트팜",
-      "count": 82
+      "keyword": "청년농",
+      "count": 83
     },
     {
       "keyword": "신청",
-      "count": 76
+      "count": 80
+    },
+    {
+      "keyword": "모집",
+      "count": 78
     },
     {
       "keyword": "반려식물",
-      "count": 61
+      "count": 76
+    },
+    {
+      "keyword": "스마트팜",
+      "count": 68
     }
   ],
   "top_sources": [
     {
-      "source": "Google News 농업",
-      "count": 101
-    },
-    {
       "source": "Google News 병해충 재배",
-      "count": 94
+      "count": 107
     },
     {
-      "source": "Google News 스마트팜",
-      "count": 75
-    },
-    {
-      "source": "Google News 지원사업",
-      "count": 70
+      "source": "Google News 농업",
+      "count": 102
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 69
+      "count": 71
     },
     {
-      "source": "Google News 농산물 가격",
-      "count": 63
+      "source": "Google News 지원사업",
+      "count": 71
     },
     {
       "source": "Google News 식물 키우기",
-      "count": 59
+      "count": 69
+    },
+    {
+      "source": "Google News 스마트팜",
+      "count": 65
+    },
+    {
+      "source": "Google News 농산물 가격",
+      "count": 61
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 53
+      "count": 46
     },
     {
       "source": "Google News 농림축산식품부",
-      "count": 26
+      "count": 28
     },
     {
       "source": "Google News 농촌진흥청",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 34,
-    "fetched_items": 789,
+    "new_items": 123,
+    "fetched_items": 794,
     "errors": []
   }
 }
