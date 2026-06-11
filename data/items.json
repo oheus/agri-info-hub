@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T20:58:56.089316+00:00",
+  "generated_at": "2026-06-11T21:45:52.690841+00:00",
   "items": [
     {
       "id": "9f245582d16a78f5921a88b0",
@@ -226,6 +226,25 @@
       "importance": 64,
       "region": "경북",
       "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "ee884746e865d1084cf7893d",
+      "title": "첨단 농업 기술에 대한 자금 지원을 확대할 수 있는 해결책을 모색합니다. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHBpcUtkSGx6MEZzYW5nYXJLZ2NsN3VEekRaT1VoUTQwbzRNNlptSmtsRmNqMlQ2ZHczZVg3ZEVLMTRuME5TWHpZZUppSmlaZUpKLWxVTmF5LW5hYk4zSmZBQnFveHgzWndyVHFOSG14b2pJRUFCYllvaF9YdFI4UDFYR2wyR2hzYjgxZGNZSGU0Z3NhYWVj?oc=5",
+      "source": "Google News 농업 지원금",
+      "category": "support",
+      "published_at": "2026-06-11T09:15:52+00:00",
+      "collected_at": "2026-06-11T21:45:45.684483+00:00",
+      "summary": "첨단 농업 기술에 대한 자금 지원을 확대할 수 있는 해결책을 모색합니다. Vietnam.vn",
+      "keywords": [
+        "농업",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
     },
@@ -13346,20 +13365,20 @@
     }
   ],
   "stats": {
-    "total": 690,
+    "total": 691,
     "category_counts": {
       "news": 340,
       "plant_reviews": 82,
-      "support": 268
+      "support": 269
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 241
+        "count": 242
       },
       {
         "keyword": "지원",
-        "count": 181
+        "count": 182
       },
       {
         "keyword": "사업",
@@ -13441,7 +13460,7 @@
       },
       {
         "source": "Google News 농업 지원금",
-        "count": 19
+        "count": 20
       }
     ]
   },
@@ -13449,7 +13468,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 2,
-    "fetched_items": 775,
+    "fetched_items": 780,
     "errors": []
   }
 }
