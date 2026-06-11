@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T22:16:21.180276+00:00",
+  "generated_at": "2026-06-11T23:02:35.739620+00:00",
   "items": [
     {
       "id": "26d6d9940eb0dd723b9299a0",
@@ -13323,93 +13323,35 @@
       "deadline_text": "7월 10일 마감",
       "deadline_date": "2026-07-10",
       "category_label": "지원사업"
-    },
-    {
-      "id": "3caf713c1d433e0b62bee084",
-      "title": "농촌진흥청, 중국 연변대학교와 농업기술 협력 업무협약 - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnU4N0J6NmVHRFo3eWV5elFhV1NROW8tMVhIZlU0cUlNTXRfQ1FNa1JMWWFCS1pZbU03N1lJclV2OWpMSDZrdVB6ekhlMlh6T2NVaTUwbFRMeENBRFRObzBKLUhOUllnRnZOUi13QkFzNnJxeHd4eWd1QmVWS2pyVEpRaWVKaHhBMU43REQwTncyaTZBenNZSGYwdWw1OFhXMG1fZ1pwakZpSWY3dmJKbFp3?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-06-04T07:00:00+00:00",
-      "collected_at": "2026-06-05T14:52:26.934932+00:00",
-      "summary": "농촌진흥청, 중국 연변대학교와 농업기술 협력 업무협약 농촌진흥청",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "d1af282c268d94c1924b2ff4",
-      "title": "옹진군, 2027년도 농업지원사업 수요조사 실시… 28개 사업 대상 - 여성종합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSTk2NWhJaFdiZDNPMVEwRHVyejRjc1F2a0FXYWF0ZktkSk5tUWU0RXRQeTlrUEdqRXR5NHowYWVqTmRCNjNlNjRIbTdHWG84aUt6QTQ3LW8wMlhmOVNFZGxJa20tck44V0VEQ1lhZw?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-06-04T06:53:24+00:00",
-      "collected_at": "2026-06-04T15:34:54.358006+00:00",
-      "summary": "옹진군, 2027년도 농업지원사업 수요조사 실시… 28개 사업 대상 여성종합뉴스",
-      "keywords": [
-        "농업",
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "32232c14462cd4029cfbda8e",
-      "title": "수도권 가까운 충북…귀농·귀촌 정착지로 각광 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpOXA2RDAzaWRZVndBbGZmY0lEOFZxODFYRWc2NmtnY3hraGZCS3NLNFg5cXdoNldWZTZVMXpnWWhvZGxZMXF1MHF3S2hTaWVaVmIxRQ?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-06-04T06:47:15+00:00",
-      "collected_at": "2026-06-04T23:43:49.509693+00:00",
-      "summary": "수도권 가까운 충북…귀농·귀촌 정착지로 각광 v.daum.net",
-      "keywords": [
-        "귀농"
-      ],
-      "importance": 42,
-      "region": "충북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 692,
+    "total": 689,
     "category_counts": {
-      "news": 341,
+      "news": 339,
       "plant_reviews": 82,
-      "support": 269
+      "support": 268
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 240
+        "count": 238
       },
       {
         "keyword": "지원",
-        "count": 182
+        "count": 181
       },
       {
         "keyword": "사업",
-        "count": 132
+        "count": 131
       },
       {
         "keyword": "지원사업",
-        "count": 109
+        "count": 108
       },
       {
         "keyword": "귀농",
-        "count": 102
+        "count": 101
       },
       {
         "keyword": "반려식물",
@@ -13421,7 +13363,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 87
+        "count": 86
       },
       {
         "keyword": "농업인",
@@ -13455,11 +13397,11 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 77
+        "count": 76
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 70
+        "count": 69
       },
       {
         "source": "Google News 스마트팜",
@@ -13486,8 +13428,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 8,
-    "fetched_items": 777,
+    "new_items": 6,
+    "fetched_items": 776,
     "errors": []
   }
 }
