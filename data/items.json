@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T19:58:00.105081+00:00",
+  "generated_at": "2026-06-11T20:28:27.954967+00:00",
   "items": [
     {
       "id": "9f245582d16a78f5921a88b0",
@@ -6413,14 +6413,14 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "8890db41ac95fea43ee2151a",
-      "title": "제주도-셀에너지, 친환경 '스마트팜 테마파크' 조성 추진 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBySThNcnU0cGc5eG5KRjB4OVFJd2FrT282TUhBNlliOG1JSnZhQ1lSLU9RZ25wWjU1UllKM09TT0doQ1hrenNSSHF4SlhKWFRTOFRwM084ai1PZUnSAWBBVV95cUxOaEZvMVBtSjVCWm1OTlFsa3pZT3JVQkVnaVZaV2lrZ2ViZ3VpcEJfNlU3UDlhbVZGYzVXc0l4alRrRXJyMEhFR0pzSWNDRXVHYk1na1RHUzJpTlpBUmFVVm0?oc=5",
+      "id": "120e5dbdb1767c301f4b1e37",
+      "title": "제주도-셀에너지, 친환경 '스마트팜 테마파크' 조성 추진 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtTUdkRDZQdFRwZGtCdzROSENhQ01GUXJRWm1ZZkd0YlJzQkxqT2JEcjlYM0h0TUZ5NW9NQi1YcmozUUtYOU0zRWdMaDZQOWs?oc=5",
       "source": "Google News 스마트팜",
       "category": "news",
-      "published_at": "2026-06-09T04:52:39+00:00",
-      "collected_at": "2026-06-09T06:15:41.255067+00:00",
-      "summary": "제주도-셀에너지, 친환경 '스마트팜 테마파크' 조성 추진 연합뉴스",
+      "published_at": "2026-06-09T04:53:50+00:00",
+      "collected_at": "2026-06-11T20:28:13.503601+00:00",
+      "summary": "제주도-셀에너지, 친환경 '스마트팜 테마파크' 조성 추진 v.daum.net",
       "keywords": [
         "스마트팜"
       ],
@@ -13387,55 +13387,31 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "c4df3073e0478ad770819a80",
-      "title": "영천시, 청년농업인 영농정착 지원사업 추진 - 전국도민일보",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kd25yT3g0NlItQ1RHODdnVGxrV2Vrb1h2S2tEeWRVdmEzUnFjTHZKRHFuVW1pU2hjQ2FkXzRhVXZpNWkya1BmWGU1WUdUd3A5X1B2RTI3N0V6NGRfWXlnakFCV3htMGPSAWtBVV95cUxPM0NIWXBUVlloVEUyN3dJdHIyUHdGQmxWUlhJTVA5ZDl3dW1Bbl9uVGlSNzh0cURLRThWQ2g5RFpTRzB2ZXVoRklwaDhrTWxMRWJMWVpFOGdza3h4TnlDa0V1Z3dWWnBQQkVfdw?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-06-04T06:25:40+00:00",
-      "collected_at": "2026-06-04T16:05:34.858941+00:00",
-      "summary": "영천시, 청년농업인 영농정착 지원사업 추진 전국도민일보",
-      "keywords": [
-        "농업",
-        "청년농",
-        "농업인",
-        "지원사업",
-        "청년농업인",
-        "지원",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 693,
+    "total": 692,
     "category_counts": {
       "news": 340,
       "plant_reviews": 82,
-      "support": 271
+      "support": 270
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 243
+        "count": 242
       },
       {
         "keyword": "지원",
-        "count": 183
+        "count": 182
       },
       {
         "keyword": "사업",
-        "count": 134
+        "count": 133
       },
       {
         "keyword": "지원사업",
-        "count": 111
+        "count": 110
       },
       {
         "keyword": "귀농",
@@ -13455,7 +13431,7 @@
       },
       {
         "keyword": "농업인",
-        "count": 71
+        "count": 70
       },
       {
         "keyword": "모집",
@@ -13467,7 +13443,7 @@
       },
       {
         "keyword": "청년농",
-        "count": 61
+        "count": 60
       }
     ],
     "top_sources": [
@@ -13501,7 +13477,7 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 36
+        "count": 35
       },
       {
         "source": "Google News 농림축산식품부",
@@ -13516,8 +13492,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 8,
-    "fetched_items": 780,
+    "new_items": 2,
+    "fetched_items": 774,
     "errors": []
   }
 }
