@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-11T20:58:56.089316+00:00",
-  "total": 690,
+  "generated_at": "2026-06-11T21:45:52.690841+00:00",
+  "total": 691,
   "category_counts": {
     "news": 340,
     "plant_reviews": 82,
-    "support": 268
+    "support": 269
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 241
+      "count": 242
     },
     {
       "keyword": "지원",
-      "count": 181
+      "count": 182
     },
     {
       "keyword": "사업",
@@ -95,14 +95,14 @@
     },
     {
       "source": "Google News 농업 지원금",
-      "count": 19
+      "count": 20
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
     "new_items": 2,
-    "fetched_items": 775,
+    "fetched_items": 780,
     "errors": []
   }
 }
