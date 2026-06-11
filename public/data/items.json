@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T16:42:40.150420+00:00",
+  "generated_at": "2026-06-11T17:13:11.912327+00:00",
   "items": [
     {
       "id": "1d91295e348a3b6dbfce9c15",
@@ -68,6 +68,25 @@
       "keywords": [],
       "importance": 42,
       "region": "부산",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
+    },
+    {
+      "id": "0590a41714e369b5e89266bd",
+      "title": "경산, 반려식물 활용 치유농업 프로그램 교육 - 대구신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tc0pEbmtEemxFaHZsSnd2QnhNLUs0ZW9ZaEY0NmtkT0U4dENRZVlPbGkxMDB0S0NsUEk2TWVDTmQzSFgwOUpOZk80UG1ja2xOa3ZkQmpYZHJMdHJtWWE1OTF4ZXpOdXdDM1FB?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-06-11T11:49:07+00:00",
+      "collected_at": "2026-06-11T17:13:07.195548+00:00",
+      "summary": "경산, 반려식물 활용 치유농업 프로그램 교육 대구신문",
+      "keywords": [
+        "농업",
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "대구",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
@@ -1374,6 +1393,25 @@
       "category_label": "지원사업"
     },
     {
+      "id": "7cf680873dd82c987ba31231",
+      "title": "“일손 채우고 봉화 살리고” 농업근로자 기숙사 완공…만성적 농촌 인력난 해소 - 경상매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qVDUxV2w0NXRocnBDNk9yMDc2eWJGZ29GZlU2LW01WldKWHNtcmxYWThyMXc0S2tEYnBOMGEwZlpnQzBpUVYwSmJWMk1xaDcxWVJLWW85ZVU1TzQtVWpJ?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-06-11T02:11:59+00:00",
+      "collected_at": "2026-06-11T17:12:52.954652+00:00",
+      "summary": "“일손 채우고 봉화 살리고” 농업근로자 기숙사 완공…만성적 농촌 인력난 해소 경상매일신문",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "e60ed9c60cbb540de1e89f9b",
       "title": "귀농 정착 돕는다… 남해군, 창업·주택구입 자금 융자 지원 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDOEFPQ2JqN3Z6Y0pMY2t5eEVUSHNWd0xYaXlKQUZCZVJuRXN0dWQ5N184WlNqOTBDMG5ZS2RUVXdYMmtkQWc?oc=5",
@@ -1452,6 +1490,25 @@
       "region": "",
       "deadline_text": "7월 3일 마감",
       "deadline_date": "2026-07-03",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "7f03c1cb427d4b88e9e01112",
+      "title": "[남해군 소식] 수산인의 날 기념행사-귀농인 창업·주택구입 지원 - KPI뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44Wkkwei15LUNPMUNjbktaSmhVZC00ZUNrTkZOT3JWaXlIVVpZYUtfMWlJRzRwdWVCQXpnWGtGU0trQWVzM1ItVU1YeWFlZjdTSW9v0gFTQVVfeXFMTjhaSTB6LXktQ08xQ2NuS1pKaFVkLTRlQ2tORk5PclZpeUhVWllhS18xaUlHNHB1ZUJBemdYa0ZTS2tBZXMzUi1VTVh5YWVmN1NJb28?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "support",
+      "published_at": "2026-06-11T01:49:57+00:00",
+      "collected_at": "2026-06-11T17:12:56.431713+00:00",
+      "summary": "[남해군 소식] 수산인의 날 기념행사-귀농인 창업·주택구입 지원 KPI뉴스",
+      "keywords": [
+        "귀농",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
       "category_label": "지원사업"
     },
     {
@@ -1828,6 +1885,22 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "773ffc40c96ef56cdb07f675",
+      "title": "평창유산재단, ‘이동형 반려 식물 클리닉’ 운영 - reporternside.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0RExVRXVXWmozRl9QRmtuZHlGREo4NEJGbkJPVkE0QjB4QVpURXp2MGU1VHpQdS0zNklxVWdwOTlpdGlGblNuTmJfT0w0ZGhlOTRXNnhNNl9UUi04cE10MHBSSjJSaWNiekhHWDZiODBEZw?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-06-11T00:38:13+00:00",
+      "collected_at": "2026-06-11T17:13:07.195548+00:00",
+      "summary": "평창유산재단, ‘이동형 반려 식물 클리닉’ 운영 reporternside.com",
+      "keywords": [],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
     },
     {
       "id": "2a6c8403ff79f51b451ae6f2",
@@ -2312,6 +2385,24 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "eb84c1e493f7c55bee0f4fec",
+      "title": "양주시, 공동주택 찾아가는 반려식물 상담서비스 성료…ESG 나눔 캠페인도 호응 - 내외뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zRXl1di1zR0hQTjJZZVJxRnZsMER4WjdhbkxyVldPbldNVnpuWXNjczBtd2hHd0hrQnhJSlVmMUl6aldERXFCMmtKVUhWMFI4dm1HREpFR3hiaFlQUWY1d0pYY0p2bHdoTXdrONIBcEFVX3lxTE1hWFV5SlczYjZLNGRqU0pReFZwUld5N0NzRWZFblVHRGV1QXdfcXFmcWZIbk9pVE1UN3Qtb3FoRmtrTWdvN3NMdHVUS19pZDRFSmExWXpvUk5adTdpeVhfOUFtdGxxY29EVnJXX2ozUGw?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-06-10T10:15:02+00:00",
+      "collected_at": "2026-06-11T17:13:07.195548+00:00",
+      "summary": "양주시, 공동주택 찾아가는 반려식물 상담서비스 성료…ESG 나눔 캠페인도 호응 내외뉴스통신",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "경기",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
     },
     {
       "id": "439c14f6a84ddd26ca5d2ea2",
@@ -3545,6 +3636,24 @@
       "category_label": "지원사업"
     },
     {
+      "id": "dcd820e641049bad3ccc8f66",
+      "title": "아픈 반려식물, 전문가가 찾아가 고쳐드려요...강서구, 찾아가는 반려식물 클리닉 첫 운영 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43eXR4bUJMbVEtaDdGY0d1T294NnFUT0V6NzU4dmd2N3dwazZxc0RtZC1lVHdhc0s0dHQwN0hJVmNuRnhncXRyMUNUamlDYkRCeFB4MVRGQ2xBMWlzNjJnaXNlQnNZV2VFSGJFSzhVWjE0Zw?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-06-10T03:43:26+00:00",
+      "collected_at": "2026-06-11T17:13:07.195548+00:00",
+      "summary": "아픈 반려식물, 전문가가 찾아가 고쳐드려요...강서구, 찾아가는 반려식물 클리닉 첫 운영 웹이코노미",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
+    },
+    {
       "id": "3fd1befbbc6dbbc626a13db3",
       "title": "NH농협 영천시지부, 임고초에 ‘교실 속 스마트팜’ 교육기자재 지원 - 경북신문",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zbkxWTkZSdWRzRmdTd0ItYi0wcm5SVzFxYTg2MVJ4Z0RiUzhycnUwVDE3bG83Q3lrcTZRU2ppaGRFeFlWcWpqNFF4eXVqYUdPOUVVaGstamU?oc=5",
@@ -3651,6 +3760,24 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
+    },
+    {
+      "id": "25c3a8e8822d3463bafb15b5",
+      "title": "양주시, 공동주택 4곳서 반려식물 상담서비스 운영 - 뉴스티앤티",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KTjJhdVlDTWJIVlNlbnJwMHdxbkE5MUVXWV9hSldoNk5IT3ZrTkt5R1JTaTc1c2k4c1ZSZk1XN0tPSkJqNlg4bFFzal83RmpsUXZhWmJHbHhHc3Q4Q0dsUE1kQU5NQmc4cVE?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-06-10T02:57:34+00:00",
+      "collected_at": "2026-06-11T17:13:07.195548+00:00",
+      "summary": "양주시, 공동주택 4곳서 반려식물 상담서비스 운영 뉴스티앤티",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "경기",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
@@ -3865,6 +3992,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "a428fd37b4534fcc6792dfef",
+      "title": "강서구, 찾아가는 반려식물 클리닉 총 10곳 선정 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uQ1RTNmJKd0ZhZFhKQnBndEJ5TFlRQWpQUFRMYmVnTnVzbTVPYmNSc1JJQWtiU3hLTXp1Q0NrS0dTQzBNYzd4U0lCcmZ4dmxGeUR3?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-06-10T01:58:00+00:00",
+      "collected_at": "2026-06-11T17:13:07.195548+00:00",
+      "summary": "강서구, 찾아가는 반려식물 클리닉 총 10곳 선정 네이트",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
+    },
+    {
       "id": "28057b057b66774885cdb62d",
       "title": "경산시, 반려식물 활용 치유농업 전문인력 양성 나서 - 경북신문",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvOVpIcXp6RXVYQTE0ekVWdFBOVmtPVWZDR3AwTHI4Q3YxQWVQMW1UbzV5WURCMTJxWFQ3NUk3d0xidll5YzliajV0OGdKNm5aaG5HeVBaeFM?oc=5",
@@ -3879,24 +4024,6 @@
       ],
       "importance": 42,
       "region": "경북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "281ed9a0df825555a3218024",
-      "title": "강서구, 찾아가는 반려식물 클리닉 총 10곳 선정 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE41NWhxMGFGNVpEYWlqTExub2d6WXNMRWtWNkIyYl9JUDFRdmV0UDdjemxfcmh1S21VNkVnNGEtRnUyc2M1NkE?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-06-10T01:56:48+00:00",
-      "collected_at": "2026-06-11T15:19:29.097644+00:00",
-      "summary": "강서구, 찾아가는 반려식물 클리닉 총 10곳 선정 v.daum.net",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
@@ -3918,6 +4045,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "98619a9b67d3ca69a61b5e3d",
+      "title": "서초구, 반려식물 1:1 상담·찾아가는 클리닉 운영 - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tUzFMY0RJWUxyZGViaFRHVnR1NHl2c2JFeDViSWl0SG5DUUhqYmx6NEZtUm96RE9TTUNFeG5DajZ3LU9LOFJqeDZ5VFF4S28zeGM3cGxFY2hCemRtZXhSTV9WM0laM3JrdjJoaGpn?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-06-10T01:51:18+00:00",
+      "collected_at": "2026-06-11T17:13:07.195548+00:00",
+      "summary": "서초구, 반려식물 1:1 상담·찾아가는 클리닉 운영 gukjenews.com",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
     },
     {
       "id": "2fd68e141bc47a561c2dcd50",
@@ -4116,6 +4261,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "98ec2bfc785afe082c3cc5e3",
+      "title": "서초구, 진단부터 치료까지…반려식물 클리닉 사업 본격 운영 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZMjl3dl9qd3JORm9kalcwTGJZQlNtb0hyTUhJRzZva3FWLUN4NXVmbndabC1mcGk3dVNEZF9zOEVUYzJOdVdRYm0yMFBBMHM2V25n?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "support",
+      "published_at": "2026-06-10T01:12:00+00:00",
+      "collected_at": "2026-06-11T17:13:07.195548+00:00",
+      "summary": "서초구, 진단부터 치료까지…반려식물 클리닉 사업 본격 운영 네이트",
+      "keywords": [
+        "반려식물",
+        "사업"
+      ],
+      "importance": 58,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "ea084c0318d4def2c889779f",
       "title": "강서구, 전문가가 직접 찾아가는 반려식물 클리닉 도입… 무료 진단·분갈이 지원 > 뉴스 - 더코리아",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IUl9faUptOWV1Ny1zRE4xai1BOGMtRlN0My03UWRFWThLaE5Qb0hVR3VuQXBDeFFVRHBxSF93c1pNWHFQdTltU1hocDJfM1pfbmRkYzZWR2o1ZkZob2dFdDBhQTMtbGUzMjUzMlhHRlE?oc=5",
@@ -4271,14 +4435,14 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "1c2e57688c2399b32d7b79c3",
-      "title": "양주시, 반려식물 상담서비스로 도시농업 문화 확산 - 브릿지경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43aWYwc3FfSzI3ZHVPN3dmVGt0RzZIWEczc3kzS1JPeGxEWE5jdVlJRmxoSVBfR3NLS1VZVEhUYVFDTUlZZmtVLUdsbDhPeWtyYnpXcVliTnlkdw?oc=5",
+      "id": "f5f022d54a24f340f82ec3ff",
+      "title": "양주시, 반려식물 상담서비스로 도시농업 문화 확산 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jVGQyQUpBVG5PRFp5Ui05R0dCYmhFOE9Sb0N2RXU4WkYtLUpaY3NvMFNSeXJXeE5pc2JkVUhYS1VlWlI5NVpwMWlNdk9DcTlrMlBv?oc=5",
       "source": "Google News 식물 키우기",
       "category": "plant_reviews",
-      "published_at": "2026-06-10T00:39:00+00:00",
-      "collected_at": "2026-06-11T02:56:18.591516+00:00",
-      "summary": "양주시, 반려식물 상담서비스로 도시농업 문화 확산 브릿지경제",
+      "published_at": "2026-06-10T00:40:00+00:00",
+      "collected_at": "2026-06-11T17:13:07.195548+00:00",
+      "summary": "양주시, 반려식물 상담서비스로 도시농업 문화 확산 네이트",
       "keywords": [
         "농업",
         "반려식물"
@@ -4309,6 +4473,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "69005684bca04a11646ca834",
+      "title": "샘표-국립식량과학원, 가루쌀·논콩 등 국산 전략작물 연구 강화 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tQjhya05jT0FVQ2NteF9mNHNhS0xjOVFxU1JTSXZ6b3k4Vkl4NWFEZWZEZUVvTW1VQ29YTDk5VldEbUo0X2xEUzVnYw?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-06-10T00:26:52+00:00",
+      "collected_at": "2026-06-11T17:12:57.590178+00:00",
+      "summary": "샘표-국립식량과학원, 가루쌀·논콩 등 국산 전략작물 연구 강화 v.daum.net",
+      "keywords": [
+        "작물"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "4b30b43f8739788743775265",
       "title": "청양군, 귀농 농업창업·주택구입 지원...7월 10일까지 신청 접수 - 뉴스타운",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56VjBNeHlOUWhqcVJTOWtqZ00xTXFiRjdfVFltdW9ZWmVwMUc5OEFZNlBhQnB2RTFXcWh5WUlzNnhURDg5RE81cnV2Snhwa20wZ3d6ODNRazI3NEJ1VlhTUFo0VG9wVXA3aVRiTklR?oc=5",
@@ -4329,24 +4511,6 @@
       "deadline_text": "7월 10일 마감",
       "deadline_date": "2026-07-10",
       "category_label": "지원사업"
-    },
-    {
-      "id": "176fd4240e3a545c6ea769e1",
-      "title": "샘표-국립식량과학원, 가루쌀·논콩 등 국산 전략작물 연구 강화 - 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54NGNJTEtGSGFsMTZWaXhHc0EzVlZhYU95Z3ZINlJqX0Vyb0xMOWFuanZiSjRucXVVeHhjZXRTUTdtMGwzQXdhYzEwZzYxMmxQdUVCRXdzNXVIQUNtSUHSAV5BVV95cUxOeDRjSUxLRkhhbDE2Vml4R3NBM1ZWYWFPeWd2SDZSal9Fcm9MTDlhbmp2Yko0bnF1VXh4Y2V0U1E3bTBsM0F3YWMxMGc2MTJsUHVFQkV3czV1SEFDbUlB?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-10T00:25:27+00:00",
-      "collected_at": "2026-06-11T15:19:17.213886+00:00",
-      "summary": "샘표-국립식량과학원, 가루쌀·논콩 등 국산 전략작물 연구 강화 파이낸셜뉴스",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     },
     {
       "id": "e4b45475a80b2e40052bbc7c",
@@ -4723,25 +4887,6 @@
       ],
       "importance": 58,
       "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "9c05a89218fce7e3416a0bf1",
-      "title": "서초구, 진단부터 치료까지... 반려식물 클리닉 사업 본격 운영! - 서울포커스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ka28zRF9BU1gyRVhWQTZOb1N6Wi0zcnBtSVBYUWlSSmlpcmh2MEppTHp2SUo3Z0ZicFRMc2VtSUhZY2tRZlN0OWJKS1YyUHFJSko1bGdmUUxBN0pGY1VWbjNHRF9MNGZMRFZOYQ?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "support",
-      "published_at": "2026-06-09T21:16:00+00:00",
-      "collected_at": "2026-06-10T11:57:07.810405+00:00",
-      "summary": "서초구, 진단부터 치료까지... 반려식물 클리닉 사업 본격 운영! 서울포커스",
-      "keywords": [
-        "반려식물",
-        "사업"
-      ],
-      "importance": 58,
-      "region": "서울",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
@@ -13338,373 +13483,81 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "57670224d30afcf4f08c4c8e",
-      "title": "2026년 국립농업과학원 공무직근로자 수시채용(7차) 공고 - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQSElEQ0xack9XSmJYTTBjbkJaZXlXUE8tdk9ubWNqb0wzd3F0SHJ5T0d4dW9EVVZhTW13aU1wNXhPVElMNFkzUDByRFZzbVB3MVk5VDFKSEdZb0hsU1RhZEk0T2p5c0djOWpDYnRyTjRVTTBuRTBDLW1MSXRHZWFJNjNtRGdzMDZLQWRvRDV3SnI0SVkyTVdoakZ0YmhaNlZTVlpWek4yY0tLdzdKWlE4c3FLdk90ZmR4MDhrWWtIUVo2OXVreU13b0R0SjVVUTN6SXJoU1hyak9FVHR5UXNtRnVnRVdkMENWNGJsTTVhcURSUUVBQ0psUnRDTlZMQlA1WmZPbGlzTzdtbzRYOTVBdmU1RmFyNEhlcjBCcF8yVnU1RGZwNkstcjduUmRNOGJ4U3BVcg?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-06-04T05:33:33+00:00",
-      "collected_at": "2026-06-04T15:35:01.174870+00:00",
-      "summary": "2026년 국립농업과학원 공무직근로자 수시채용(7차) 공고 농촌진흥청",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 48,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "d8b7b2a40cc16a2cbc7a0bec",
-      "title": "\"농지 편법·농협 개혁 손본다\"…농업·농촌 '정상화 과제' 30건 선정 - 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55amFRcGpyTUNuOHpOSEY4eVFwUjhRaUJ2RGR4R0Q4UXozZExTald5ZnpEYmhEbS1sSGRKYjcxMnJpTW54eDdpWnhtMmROa3FodVVybkxPaF9PZ9IBXkFVX3lxTE9SaThkWExfWGdDeW1KOGN1dXRNWVdUb1k0YUlaYi1UamhERXlzNHRZcVJub2tPcVRRbm1sWHJmWFZDV3R4RTg5cU9ERkJnVWZFVWNQQVJ1QWhYV3d5Znc?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-04T05:32:54+00:00",
-      "collected_at": "2026-06-09T11:14:16.303171+00:00",
-      "summary": "\"농지 편법·농협 개혁 손본다\"…농업·농촌 '정상화 과제' 30건 선정 파이낸셜뉴스",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "a7f4842056c7b79e7187b7ea",
-      "title": "가평군, 미래 농업 이끌 '청년농업인' 모신다… 월 최대 110만 원 지원 - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8ydENlUllMeGZVNEFWQlJYSW5SeEhrNWcxTF9Fc2JQMWVaZV9Ta1dVY2o5UzR6TnJZUWt1QVFwM3BRTnZ3VzZSYw?oc=5",
-      "source": "Google News 농업 지원금",
-      "category": "support",
-      "published_at": "2026-06-04T05:13:00+00:00",
-      "collected_at": "2026-06-04T15:35:03.250338+00:00",
-      "summary": "가평군, 미래 농업 이끌 '청년농업인' 모신다… 월 최대 110만 원 지원 브레이크뉴스",
-      "keywords": [
-        "농업",
-        "청년농",
-        "농업인",
-        "청년농업인",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "f7476a806c1f0b7df6fbe57d",
-      "title": "경상북도, 전략작물직불 신청기간 연장 `말일까지 신청하세요` - CBN뉴스",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON2RveVUxb09QVG90NU5zeWVPOV85a3JMdjB2ZlJJcHpOT3pOZkQybFc3ZEhPNEltM08zWEtBZ1Y2RFVQdlZreGZ1OFlNS3VEMEl3UExQdVVKZlNvWWZWdU84Q3VETXRYVTFVeXNEQUhYMC1KcXY0NzB6MGx3TkU1QQ?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "support",
-      "published_at": "2026-06-04T05:06:22+00:00",
-      "collected_at": "2026-06-04T15:34:57.824493+00:00",
-      "summary": "경상북도, 전략작물직불 신청기간 연장 `말일까지 신청하세요` CBN뉴스",
-      "keywords": [
-        "작물",
-        "신청"
-      ],
-      "importance": 64,
-      "region": "경북",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "fd2ddea55b21e17ca37cff3a",
-      "title": "[뉴스 초점] 농사가 사람을 치유할 수 있을까…대구 군위, 치유농업에서 미래 농업의 답 찾는다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mVXJhLV9vX3RIcHAxT1dsTVRTR3RjeEEwV0RNbENUd3IxdzVibXY2RGk3VUhQYXZsOW00SEJtNVRUWFQ4a0E?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-04T05:00:09+00:00",
-      "collected_at": "2026-06-09T11:14:16.303171+00:00",
-      "summary": "[뉴스 초점] 농사가 사람을 치유할 수 있을까…대구 군위, 치유농업에서 미래 농업의 답 찾는다 v.daum.net",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "region": "대구",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "25597196df4c9fa6bfc0d94d",
-      "title": "물품구매 전자입찰 공고(농업생명공학연구원 공고 제 2004-10호) - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV3A0LXZqT1duWllwUzVDWkZlSDNiSXZoanEtd0w3cmFWaktGNncyZWR5RDJtRFJmTjFhdkg0cDAyeFFWQ0FhVkFWUEx3Mzh2SzMtOFA4SDdXdV84ODZUV2Jrdmd3Vlo2YTFhR0ZuMkJsNUFoS19EUUI4NEpSYW02TDRCUUpEOVVqdmZFcTJXQ1RrZVNjTmg1X09uQUhqU25TdEE3ZmZwdFFYZVVWZFpmWk1zN0JyV3BlWmVfNy1WZ1VJb0h5UmVOSWMzNDFWTE9ORXJCajk2T0hsNHN2SE1ER3JLVnVxbEpRUlg2R1ZR?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-06-04T04:56:54+00:00",
-      "collected_at": "2026-06-04T15:35:01.174870+00:00",
-      "summary": "물품구매 전자입찰 공고(농업생명공학연구원 공고 제 2004-10호) 농촌진흥청",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 48,
-      "region": "전국",
-      "deadline_text": "4월 10일 마감",
-      "deadline_date": "2026-04-10",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "e576c14de459e4fa7c099967",
-      "title": "상동나무 최적 재배기술 공유, 현장형 재배기술 교육 확대 - 유망 산림약용자원 상동나무 안정적 재배 확대 기반 마련 위한 현장설명회 개최 - - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVTRMbkpFZDYtbHcweEgtWVFCOWIxcHlBYndZSjRYS1VFVmlZWjJiOUg3NlMyYUxjVUZoREgyaUxGSS1HOXdLSzlibTUxaEFCV3VwZVhnbGgxQzU4d1duRlpQTUNCRWctZlZFTV9KNTgyZjZLYkxtQS1ZYTZ0VE52NG0xOTJ6dzk2YzZ4NjVWWmlpUQ?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-04T04:55:59+00:00",
-      "collected_at": "2026-06-04T15:34:57.824493+00:00",
-      "summary": "상동나무 최적 재배기술 공유, 현장형 재배기술 교육 확대 - 유망 산림약용자원 상동나무 안정적 재배 확대 기반 마련 위한 현장설명회 개최 - 대한민국 정책브리핑",
-      "keywords": [
-        "재배"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "c6bd8e075c91decb7028d068",
-      "title": "2007 농업경영정보관실 박사후연수과정 연구원 모집 - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPd2NvcW10dVJJRkR6dHk0NVFvQlpkMDAtZWlLeldRNjJ5N0FzN2swNVZjRFoxOVV1V1VHM3h1Q0JVV29MRHdpdWhBV2c5Mjl5aVZoemZXcGxvdzdsSnNVRHNqTmxaS0J3QWRDREl2Uy1rdElDRUoxcW5LVnN4UFdoUkpaenRXUHZOOWdVMGMweDNMUWh3Q2NPQ3kyYXZrYmdpY0R0YWo4TkJsSm9xV0M5blZnbWFwMGpHV3lUR3YtckZqWUtESld1NzR0X1pjUEZOU0pFeTJoM1JmOWkyWjlrM1AtWG4ySUFBcjVCREpqNEtLVDZONTlIdlRrVGQ3YlRNb1RSZVBPWE5FY0Z1dkwzbHBtZmtxdmhza1pRUzRlbWlGZERDN08tUUtNdmFLWDdyOTNWX3dmMm0?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "support",
-      "published_at": "2026-06-04T04:54:13+00:00",
-      "collected_at": "2026-06-10T06:04:54.411792+00:00",
-      "summary": "2007 농업경영정보관실 박사후연수과정 연구원 모집 농촌진흥청",
-      "keywords": [
-        "농업",
-        "농촌",
-        "모집"
-      ],
-      "importance": 64,
-      "region": "전국",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "f7396443325854a1d0be4cdd",
-      "title": "농협 대규모 자금 투입을 통한 양파 수급 안정화 및 유통 구조 개편...농협 882억원 투입해 양파 농가 지원 총력 - 창업일보",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BQ1NfRGdjTUQ2RVYyM3JMYmY3eXRUZXRfZ3dQNnBOZGUyU0FKX0IwbU9DV0ZFLTFVUFlMazVYbExZYldrUjJjdDRWbnk1OUE5SUhBZElvSUQzLVdCUmxWaEZORFc1YUE1?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "support",
-      "published_at": "2026-06-04T04:36:28+00:00",
-      "collected_at": "2026-06-05T01:18:30.989742+00:00",
-      "summary": "농협 대규모 자금 투입을 통한 양파 수급 안정화 및 유통 구조 개편...농협 882억원 투입해 양파 농가 지원 총력 창업일보",
-      "keywords": [
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "4d2e85ec7ad7e05085ab2d14",
-      "title": "영양군,농업경영체 농업인 대상 2027년 유기질비료 지원사업 신청·접수 - 씨원뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45aTVyaWwzYWM2WTBpSU1fMFVWWWRKRGlNVlprX1dBTExJY0Vld3JBTDNOMm00QUsyZ2ZWSzJVOFNnQUZZZGh6S0FRUHdUMlU0eW1DY0dwWTJSQTZ5RE54al8xSnIwcFV0VEHSAWpBVV95cUxOOWk1cmlsM2FjNlkwaUlNXzBVVllkSkRpTVZaa19XQUxMSWNFZXdyQUwzTjJtNEFLMmdmVksyVThTZ0FGWWRoektBUVB3VDJVNHltQ2NHcFkyUkE2eUROeGpfMUpyMHBVdFRB?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-06-04T04:25:28+00:00",
-      "collected_at": "2026-06-04T15:34:54.358006+00:00",
-      "summary": "영양군,농업경영체 농업인 대상 2027년 유기질비료 지원사업 신청·접수 씨원뉴스",
-      "keywords": [
-        "농업",
-        "농업인",
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "255877da46f71428118f1750",
-      "title": "[안성소식] 시, '저탄소 축산 시범사업' 신청 연장 등 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOSmRFUTZIbVpfZ0U3bVhCQ1RGVE54Z2NTTTlpTERwcE1IXzhRVmY5LUtiMGNtSENBLVEtaTJhck54bWRLZTdRcG5QSU9FX2wzX3pJZXNUZ010MTJOR2pLa9IBeEFVX3lxTE1qeS1IVGNSTnpzVG1KODkwR3VvbHlNV0UzblFOY0doclhwazBsX056NkwtZ001TUJDM0tzcGp2Z040bjBlWThlZ0xPVjk3NjlHMUdmYWtVdHl0Y0VIZjlDWTBwVEFOOUpQam1jTHNsNk5lOWRZUjZybA?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-06-04T04:25:20+00:00",
-      "collected_at": "2026-06-08T07:25:25.510656+00:00",
-      "summary": "[안성소식] 시, '저탄소 축산 시범사업' 신청 연장 등 뉴시스",
-      "keywords": [
-        "신청",
-        "사업"
-      ],
-      "importance": 74,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "075e1510b82c2a2aef236950",
-      "title": "안성시농업기술센터, 농산물 활용 창업 멘토링 교육생 모집 > 뉴스 - 더코리아",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxNmNQMm5NSnk5OEZkamNoRGF3NE1fVlNLaGRFdHd3c1dyVjUwQmNzRmh5bDlMcWRyZXdqeWJZQU5QQVJrd3BZNGZ4MUV4THJJWDRTOUEza2VwS2RhVGc2bEdOTE91NUR3RHJBaHg3VVg?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-06-04T04:21:00+00:00",
-      "collected_at": "2026-06-04T15:35:09.576560+00:00",
-      "summary": "안성시농업기술센터, 농산물 활용 창업 멘토링 교육생 모집 > 뉴스 더코리아",
-      "keywords": [
-        "농업",
-        "농산물",
-        "모집",
-        "농업기술센터"
-      ],
-      "importance": 74,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "f8ac61b49882972634610d5e",
-      "title": "2026년 6월 4일 오늘 농산물 가격: 커피 가격은 공급 과잉으로 하락 압력을 받고 있으며, 후추 가격은 안정세를 유지하고 있습니다. EU는 미국의 새로운 관세 계획에 강력하게 반응했습니다. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY0ZOcjJPZWd4dFlFU1kxZWdnNi1oMTdWN1JxYmdCOVFsVjBVNzdkdEJkd2tuTUNmWmlNNVRENzhCeS1iMV9wVmZWS2Y4MWJrUnpRNXhCeTdTNUZ1Y2Nicm1Pc3I5WWlKdzZPSlZTd0Fubi1FNnBsazlWV1V4bUtrTHVnSmQ4SnF1UmhwdmMzMUJXc0ZueHBaUXc0WXNXZS1MakUxRXZqN2hDZ0hTODFoQ3F2WmdIUUZkRXo2UTk1M205MUo5OE9jeDVabmNkTHEwVjFRMVZuRDc3Y3VrekdLdlJpNS1LUjlHd3p6MkZqTQ?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-04T04:19:53+00:00",
-      "collected_at": "2026-06-04T15:34:58.939104+00:00",
-      "summary": "2026년 6월 4일 오늘 농산물 가격: 커피 가격은 공급 과잉으로 하락 압력을 받고 있으며, 후추 가격은 안정세를 유지하고 있습니다. EU는 미국의 새로운 관세 계획에 강력하게 반응했습니다. Vietnam.vn",
-      "keywords": [
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "bf10c0c6af0079ff8801a430",
-      "title": "고흥군, 장마철 과수 병해충 사전방제 당부 - 중도일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uU3VjUzhLcFNwdW1YeXNoMEpyejBkMWl6bk9UeW1DVWtqc2l0S3F1UTFlaVVtUkI0RllNcnVrY2FWUFRCdl9vQThIdkpMT0hwVGJ4Vkhpa29lVnZrbGlxdm9GZHZwUm4xZ20tTw?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-04T04:08:58+00:00",
-      "collected_at": "2026-06-04T15:34:57.824493+00:00",
-      "summary": "고흥군, 장마철 과수 병해충 사전방제 당부 중도일보",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "efeef6beb9af29c304319207",
-      "title": "온라인도매시장, 청년농 판로 실험장 확장 - 한국농업신문",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85ZV9NTTJYLUM4T05CM19mVkRXUXltRkRNajY5Q3F6NU1sZ3N1cTBrZjlNSV9jUmp5VjVxUlc4bllOeGVtc3dPOTQ4czlmTi1TTXBuN1B2YkZUMjViZmFWUXRyd2Ribk1jeVZlR0dn0gFwQVVfeXFMUGVONUJKV2lvX2NGVWVXR3R5NTIteDg5dmpMaGNScTNWUldGVkQxLTV6d2txRUlJejhYbEZNLXowblhTX0R3WXZqWFN3Tkl2LS1JSjU2R0FtdXVnMzNWaXQtZmhBVTRlMkQwY3BSd3BpQw?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-06-04T04:02:31+00:00",
-      "collected_at": "2026-06-04T15:34:56.812085+00:00",
-      "summary": "온라인도매시장, 청년농 판로 실험장 확장 한국농업신문",
-      "keywords": [
-        "농업",
-        "청년농"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 704,
+    "total": 697,
     "category_counts": {
-      "news": 348,
-      "plant_reviews": 74,
-      "support": 282
+      "news": 341,
+      "plant_reviews": 80,
+      "support": 276
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 249
+        "count": 242
       },
       {
         "keyword": "지원",
-        "count": 186
+        "count": 184
       },
       {
         "keyword": "사업",
-        "count": 137
+        "count": 135
       },
       {
         "keyword": "지원사업",
-        "count": 112
+        "count": 111
       },
       {
         "keyword": "귀농",
-        "count": 102
+        "count": 103
       },
       {
         "keyword": "신청",
-        "count": 96
-      },
-      {
-        "keyword": "농촌",
-        "count": 90
+        "count": 93
       },
       {
         "keyword": "반려식물",
-        "count": 85
+        "count": 90
+      },
+      {
+        "keyword": "농촌",
+        "count": 87
       },
       {
         "keyword": "농업인",
-        "count": 73
+        "count": 71
       },
       {
         "keyword": "모집",
-        "count": 65
-      },
-      {
-        "keyword": "작물",
         "count": 63
       },
       {
         "keyword": "스마트팜",
+        "count": 62
+      },
+      {
+        "keyword": "작물",
         "count": 62
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 108
+        "count": 107
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 108
+        "count": 105
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 80
+        "count": 86
       },
       {
         "source": "Google News 지원사업",
-        "count": 79
+        "count": 78
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13716,7 +13569,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 45
+        "count": 43
       },
       {
         "source": "Google News 청년농 지원",
@@ -13724,7 +13577,7 @@
       },
       {
         "source": "Google News 농업 지원금",
-        "count": 21
+        "count": 20
       },
       {
         "source": "Google News 농림축산식품부",
@@ -13735,8 +13588,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 11,
-    "fetched_items": 777,
+    "new_items": 22,
+    "fetched_items": 775,
     "errors": []
   }
 }
