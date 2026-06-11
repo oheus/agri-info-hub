@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T19:10:49.262160+00:00",
+  "generated_at": "2026-06-11T19:58:00.105081+00:00",
   "items": [
     {
       "id": "9f245582d16a78f5921a88b0",
@@ -10741,6 +10741,24 @@
       "category_label": "지원사업"
     },
     {
+      "id": "bf9880070b50dc9359774e9f",
+      "title": "김포에서 누리는 ‘모바일 이용권으로 즐기는 특별한 농촌여행’ - 미래신문",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yY2xKMERGM2kxS0o4YktVM2w3NjR4c0I1b3AxRlhCb29jZGlnRkFETWhESEpqNUtmeGJINmNDOGg2eGY5WnFhOFhlMXRiWnJDZG5OMDNWX1JpYzc3WEhFcWZYRQ?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-06-05T10:13:49+00:00",
+      "collected_at": "2026-06-11T19:57:40.054659+00:00",
+      "summary": "김포에서 누리는 ‘모바일 이용권으로 즐기는 특별한 농촌여행’ 미래신문",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "75fd7665d52015efb1f3fd63",
       "title": "“농업 현장 수요·로봇 기술 결합” 농업로봇 실용화 속도 내 - 농촌진흥청",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOVDdrc2hxX2FrZTdfQTdXUUlvLThSOTBXV01SS1FIMnNnUGlBcVFRTFk2SUV0TFRyZC1ZWS01NGJjNG5kbWdENjkyMi1iek1BYWpjcXRfbGVudHRVWmh4MEFfSy05QVJNM01oOFo0NTZYZW8wQ1g4TUN6S1Q2dVF0SU5UTTU4X2kxOExQUUtTQlNWVzJaeEZYck90enpqc3VyQjJYaGZsemV5am56cjZIX1huMGFVNWZqV29rVHVqd0xBbWd4YnA5ek9nUDg2ekNaZ2NEZ2swUlo1NnZkd21ObDFJRmZMeXhVbU5idFpaMlRJbEttX1E3R3NJTUFJYjBGUEswX3B6a3JScmlKV2pNQTFENVk0LWx2OFZhMW9DSG5DNTZTX091dWRZZTRtcHlJYmhKUDd0VVR2b002eXc3MlNYaUxkTUt5?oc=5",
@@ -12603,24 +12621,6 @@
       "category_label": "식물 리뷰"
     },
     {
-      "id": "80765b8836c43f942e1c3202",
-      "title": "김포에서 누리는 ‘모바일 이용권으로 즐기는 특별한 농촌여행’ - 김포데일리",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85WnZfQkNId2tMNlZPMG9XTTNkd21faS1OYjZtaWpTYmxsdVdZeUtzcmFNTUVXREd5ZjNXYnpJeEFBZnQzbDBxNEVDWTdUOXZkbmNuSjVRMFFvQWctQ2NjaTJ3WFlzNjVwX2hN?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-04T14:46:57+00:00",
-      "collected_at": "2026-06-09T07:47:13.193319+00:00",
-      "summary": "김포에서 누리는 ‘모바일 이용권으로 즐기는 특별한 농촌여행’ 김포데일리",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
       "id": "b65fc520072beebc224908ad",
       "title": "[기업탐방] 에코테크글로벌 작물파쇄기 - “농업 부산물을 자원으로 바꾸다” - kueherald.co.kr",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Od3pIbThPeERIbWZlaVNkSkFuTnJWM0xrbWN6WVlmV0ZGM2JhdlMxNWg4OUNOa0NXbVBjaWI5ZHoxcmFTSl9iLUx3b3Nlc3BtVExiMDNfXzl4OG1GV29sN2xMRkJlbW9GSXlja3plYlTSAXBBVV95cUxNTnd6SG04T3hESG1mZWlTZEpBbk5yVjNMa21jellZZldGRjNiYXZTMTVoODlDTmtDV21QY2liOWR6MXJhU0pfYi1Md29zZXNwbVRMYjAzX185eDhtRldvbDdsTEZCZW1vRkl5Y2t6ZWJU?oc=5",
@@ -13411,79 +13411,35 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "c52ba271aa1b7fd2a31d30d8",
-      "title": "양주, 청년농업인 영농정착지원사업 2차 대상자 모집 - 서울일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUWt5TEIyNnZPQlFQd3BJek40X2xzQlhTUDYyRWxhVGZtVHRHYjBxb3BVYTFUdjlrUC10SWtKcW4xcUsyTjdkbDFkREthLWxteV8waWdCY29TRWNTQkV0M2JzSDFESTc4VG1HVtIBb0FVX3lxTE5TeFZmX3hQeDFqd0ZEVTNWeEQzTTV3bXlhbklkN1hWUURUUUx0clFncFlXSUctQTJkSl9FS01fa1JkcnRfYVVBSmw1RUh4el9RcXRGMkktLXBGU0J6YXpoS2I2T2FqSk9sX3YybnR2UQ?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-06-04T06:22:40+00:00",
-      "collected_at": "2026-06-04T15:35:04.229699+00:00",
-      "summary": "양주, 청년농업인 영농정착지원사업 2차 대상자 모집 서울일보",
-      "keywords": [
-        "농업",
-        "청년농",
-        "농업인",
-        "지원사업",
-        "모집",
-        "청년농업인",
-        "지원",
-        "사업"
-      ],
-      "importance": 76,
-      "region": "서울",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "3c5a185802282fa34494d6ee",
-      "title": "[봉화 24시] 봉화군, 귀농·귀촌 희망자 대상 ‘전원생활체험’ 운영…참가비 지원 - 시사저널",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DRnhLa2tBdFFDeXVtdlBhRDlxUFBQeEFEbVpsOHlGTjgwakZ4ZlQ0SERhRm5kRzNtQVR6bG5PaHkxaGVRZDQxQVZKXzJOY3NBMUpTcmFpcDFIZUdGbTRfSlFtbS1IM1hncHRRTUE2bWMzNnPSAXNBVV95cUxPQ0Z4S2trQXRRQ3l1bXZQYUQ5cVBQUHhBRG1abDh5Rk44MGpGeGZUNEhEYUZuZEczbUFUemxuT2h5MWhlUWQ0MUFWSl8yTmNzQTFKU3JhaXAxSGVHRm00X0pRbW0tSDNYZ3B0UU1BNm1jMzZz?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-06-04T06:12:17+00:00",
-      "collected_at": "2026-06-04T15:34:56.812085+00:00",
-      "summary": "[봉화 24시] 봉화군, 귀농·귀촌 희망자 대상 ‘전원생활체험’ 운영…참가비 지원 시사저널",
-      "keywords": [
-        "귀농",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 695,
+    "total": 693,
     "category_counts": {
       "news": 340,
       "plant_reviews": 82,
-      "support": 273
+      "support": 271
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 244
+        "count": 243
       },
       {
         "keyword": "지원",
-        "count": 185
+        "count": 183
       },
       {
         "keyword": "사업",
-        "count": 135
+        "count": 134
       },
       {
         "keyword": "지원사업",
-        "count": 112
+        "count": 111
       },
       {
         "keyword": "귀농",
-        "count": 103
+        "count": 102
       },
       {
         "keyword": "반려식물",
@@ -13499,18 +13455,18 @@
       },
       {
         "keyword": "농업인",
-        "count": 72
+        "count": 71
       },
       {
         "keyword": "모집",
-        "count": 63
-      },
-      {
-        "keyword": "청년농",
         "count": 62
       },
       {
         "keyword": "스마트팜",
+        "count": 61
+      },
+      {
+        "keyword": "청년농",
         "count": 61
       }
     ],
@@ -13533,7 +13489,7 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 71
+        "count": 70
       },
       {
         "source": "Google News 스마트팜",
@@ -13545,7 +13501,7 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 37
+        "count": 36
       },
       {
         "source": "Google News 농림축산식품부",
@@ -13560,8 +13516,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 779,
+    "new_items": 8,
+    "fetched_items": 780,
     "errors": []
   }
 }
