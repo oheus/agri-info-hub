@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T18:40:20.847999+00:00",
+  "generated_at": "2026-06-11T19:10:49.262160+00:00",
   "items": [
     {
       "id": "9f245582d16a78f5921a88b0",
@@ -126,6 +126,31 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "babcfc1a83084571a09c63f0",
+      "title": "장수군 2026년 청년농업인 영농정착지원사업 2차 신청·접수 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ScmNiX0xkc0hEZnlydUR2M3hVazRjbWpiWGNKN3VzdTV6bS1GbnpqWUxXNk40VjY1bTlVaGNSVWk0dEhYRUlUX3ZuRTZwbWp4MnVNLTlPbmc1Z1ViRXJoSmxrLXJDOEE0d21mMTZOY2s?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-06-11T10:33:00+00:00",
+      "collected_at": "2026-06-11T19:10:42.682041+00:00",
+      "summary": "장수군 2026년 청년농업인 영농정착지원사업 2차 신청·접수 > 뉴스 더코리아",
+      "keywords": [
+        "농업",
+        "청년농",
+        "농업인",
+        "지원사업",
+        "신청",
+        "청년농업인",
+        "지원",
+        "접수"
+      ],
+      "importance": 76,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "e63dd2f999250a879f5f795e",
@@ -1975,6 +2000,30 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
+    },
+    {
+      "id": "4e0bd0def90f0e23660a047c",
+      "title": "평창군, 하반기 귀농 농업창업·주택구입 지원사업 신청 접수 - reporternside.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EcGQ2aUptZ0gzTzltQTNyZHNWQ1YyN0ktNUNNcExPRmhDaTRETElZTnNXcFhXNEx3WS1qenZPeW9uQm9EVHFTUW9SdWtTRDJsNHFsV0lJWXk2ZXljeTRIU3h6ZnBtSDZzTHFUTjVhVXBQQQ?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-06-11T00:32:54+00:00",
+      "collected_at": "2026-06-11T19:10:32.919881+00:00",
+      "summary": "평창군, 하반기 귀농 농업창업·주택구입 지원사업 신청 접수 reporternside.com",
+      "keywords": [
+        "농업",
+        "귀농",
+        "지원사업",
+        "신청",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "2a6c8403ff79f51b451ae6f2",
@@ -13406,101 +13455,23 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "67424b564cf4342e36a6a47b",
-      "title": "상주 논 덮친 벼 물바구미…이상저온에 병해충 비상 - kyongbuk.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCbjZrZ0J0YXk2eTlTYWRnVlpMUURBTXlCdGZaWG01YWxhVEp2ZTVhYWRpZGJrSXVGNTdqRHJJNXhuNnhSUVJqSUIzYWlXblJIaE1YMVd0Z0NETkZNWGFhNTNtaHFhQ1NFY1FMRi1kVQ?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-04T06:11:20+00:00",
-      "collected_at": "2026-06-04T15:34:57.824493+00:00",
-      "summary": "상주 논 덮친 벼 물바구미…이상저온에 병해충 비상 kyongbuk.co.kr",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "경북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "7289ab423df15a6b8fbaa896",
-      "title": "봉화군, 도시민 전원생활체험 참가자 모집…귀농·귀촌 미리 체험 - kyongbuk.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yelJONnpaaTJZdE9GazRIQzczMzc3RXd5RUVkbVRvT0MwZVBHa2g3MkNldTB6S3N4LXdUSllmeHAxMnVybzNhUGpDbF9sa2ZOSGdVZVpWd0RtVDNmVGJVTGszNDZVVDduODZOQWl2Yw?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-06-04T06:11:19+00:00",
-      "collected_at": "2026-06-04T15:34:56.812085+00:00",
-      "summary": "봉화군, 도시민 전원생활체험 참가자 모집…귀농·귀촌 미리 체험 kyongbuk.co.kr",
-      "keywords": [
-        "귀농",
-        "모집"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "965f26158069aaa768901feb",
-      "title": "경북도, 전략작물직불 신청기간 30일 까지 연장 - 세명일보",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NVVdLQ0ZfNXYwLWN1dW9CcHNjZFp2YzFvZHh0R2M1SUlZR3FrQlJVQThfTjJkQUdBQTlkTHJYcjV0Z0ZEMHJ3TWlRcFRhZWVOaGFJbw?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "support",
-      "published_at": "2026-06-04T06:06:00+00:00",
-      "collected_at": "2026-06-04T15:34:57.824493+00:00",
-      "summary": "경북도, 전략작물직불 신청기간 30일 까지 연장 세명일보",
-      "keywords": [
-        "작물",
-        "신청"
-      ],
-      "importance": 64,
-      "region": "경북",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "fbd139f8973caa8821ef2309",
-      "title": "옹진군, 2027년 농업지원사업 수요조사 실시…농업인 의견 반영 - 뉴스타운",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1taTZNYW1fVUotWW8tbGM2WEphMjlZTE9RQWMzYXRmekY2S01IU2hEMVV2VFpHbk94UmVoZ2dWSXdwb3pDamM3SEtLODUzTzJKUU1NWktRQWxFTUpwWFlSdVRjUnFoUXczV0VINGpn?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-06-04T06:05:43+00:00",
-      "collected_at": "2026-06-04T15:34:54.358006+00:00",
-      "summary": "옹진군, 2027년 농업지원사업 수요조사 실시…농업인 의견 반영 뉴스타운",
-      "keywords": [
-        "농업",
-        "농업인",
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 697,
+    "total": 695,
     "category_counts": {
-      "news": 341,
+      "news": 340,
       "plant_reviews": 82,
-      "support": 274
+      "support": 273
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 243
+        "count": 244
       },
       {
         "keyword": "지원",
-        "count": 184
+        "count": 185
       },
       {
         "keyword": "사업",
@@ -13508,7 +13479,7 @@
       },
       {
         "keyword": "지원사업",
-        "count": 111
+        "count": 112
       },
       {
         "keyword": "귀농",
@@ -13520,7 +13491,7 @@
       },
       {
         "keyword": "신청",
-        "count": 90
+        "count": 91
       },
       {
         "keyword": "농촌",
@@ -13532,14 +13503,14 @@
       },
       {
         "keyword": "모집",
-        "count": 64
-      },
-      {
-        "keyword": "스마트팜",
-        "count": 61
+        "count": 63
       },
       {
         "keyword": "청년농",
+        "count": 62
+      },
+      {
+        "keyword": "스마트팜",
         "count": 61
       }
     ],
@@ -13550,7 +13521,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 102
+        "count": 100
       },
       {
         "source": "Google News 식물 키우기",
@@ -13562,7 +13533,7 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 72
+        "count": 71
       },
       {
         "source": "Google News 스마트팜",
@@ -13574,7 +13545,7 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 36
+        "count": 37
       },
       {
         "source": "Google News 농림축산식품부",
@@ -13589,8 +13560,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 12,
-    "fetched_items": 775,
+    "new_items": 4,
+    "fetched_items": 779,
     "errors": []
   }
 }
