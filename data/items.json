@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T20:28:27.954967+00:00",
+  "generated_at": "2026-06-11T20:58:56.089316+00:00",
   "items": [
     {
       "id": "9f245582d16a78f5921a88b0",
@@ -592,14 +592,14 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "575aa23f866d7a29fbb0b9bc",
-      "title": "장수군, 청년 농업인 지원한다…월 최대 110만원 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WejZFUm9pVTBVMklQSlRJT3VQZ200cUpLMGZkWTdRbXdGNWJscUZzZ2hySU10aU9aeVgwRmZHQWJDbWgzaUJ1eHlHQkNob29oWEg2NA?oc=5",
+      "id": "8396e9b50de815bdcc1e9a36",
+      "title": "장수군, 청년 농업인 지원한다…월 최대 110만원 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pTU1UeGhmYnk4c2VKSWdSTEZoanpBZlNXUGZmTzVhT1c5WllmT1hqOWpDbXZ0bW1XdEFBNVhrZFVIWUNzNXZqbFpfdEVyQW8?oc=5",
       "source": "Google News 청년농 지원",
       "category": "support",
-      "published_at": "2026-06-11T06:42:35+00:00",
-      "collected_at": "2026-06-11T15:19:26.715185+00:00",
-      "summary": "장수군, 청년 농업인 지원한다…월 최대 110만원 뉴스1",
+      "published_at": "2026-06-11T06:43:51+00:00",
+      "collected_at": "2026-06-11T20:58:50.003590+00:00",
+      "summary": "장수군, 청년 농업인 지원한다…월 최대 110만원 v.daum.net",
       "keywords": [
         "농업",
         "농업인",
@@ -13343,75 +13343,31 @@
       "deadline_text": "7월 10일 마감",
       "deadline_date": "2026-07-10",
       "category_label": "지원사업"
-    },
-    {
-      "id": "7cd2751a695d774f21f49d40",
-      "title": "세종시, 전략작물직불제 신청 한 달 연장…수급조절용 벼 확대 '총력' - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oMVRRQ3cySHg4OEhpSUh3ZXJ3enhJb0EwTWhfdk92a3U1M1I1bVRrWklFWlFrc2gzcG1kV1JnbVVkU2NFNkRxMXFJREZiU2pJdXk4VVBZd2NxVjVLdFNiM2o1MUEycThzaDViaQ?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "support",
-      "published_at": "2026-06-04T06:34:07+00:00",
-      "collected_at": "2026-06-04T15:34:57.824493+00:00",
-      "summary": "세종시, 전략작물직불제 신청 한 달 연장…수급조절용 벼 확대 '총력' 농수축산신문",
-      "keywords": [
-        "작물",
-        "신청"
-      ],
-      "importance": 64,
-      "region": "세종",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "460cc8e510a2f71f64bb6c64",
-      "title": "◆ 2026년 청년농업인 영농정착지원사업(2차 선발) 대상자 모집 - 제주도민일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qUU9RaXpjbnY4cWpKUzhuZWVqZFRhYURxdDhZQUdEamJ5a2pTRWdHOWZtMm5weWZVSHUyVjdIR3JId296ZkQ3Q3laYWJra2JZVDd0dEhPVVI3UDVKeGtCenkyeHRtSDNNa2lNclpOdw?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-06-04T06:30:50+00:00",
-      "collected_at": "2026-06-05T21:23:38.994248+00:00",
-      "summary": "◆ 2026년 청년농업인 영농정착지원사업(2차 선발) 대상자 모집 제주도민일보",
-      "keywords": [
-        "농업",
-        "청년농",
-        "농업인",
-        "지원사업",
-        "모집",
-        "청년농업인",
-        "지원",
-        "사업"
-      ],
-      "importance": 76,
-      "region": "제주",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 692,
+    "total": 690,
     "category_counts": {
       "news": 340,
       "plant_reviews": 82,
-      "support": 270
+      "support": 268
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 242
+        "count": 241
       },
       {
         "keyword": "지원",
-        "count": 182
+        "count": 181
       },
       {
         "keyword": "사업",
-        "count": 133
+        "count": 132
       },
       {
         "keyword": "지원사업",
-        "count": 110
+        "count": 109
       },
       {
         "keyword": "귀농",
@@ -13423,7 +13379,7 @@
       },
       {
         "keyword": "신청",
-        "count": 91
+        "count": 90
       },
       {
         "keyword": "농촌",
@@ -13431,19 +13387,19 @@
       },
       {
         "keyword": "농업인",
-        "count": 70
-      },
-      {
-        "keyword": "모집",
-        "count": 62
+        "count": 69
       },
       {
         "keyword": "스마트팜",
         "count": 61
       },
       {
+        "keyword": "모집",
+        "count": 61
+      },
+      {
         "keyword": "청년농",
-        "count": 60
+        "count": 59
       }
     ],
     "top_sources": [
@@ -13453,7 +13409,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 100
+        "count": 99
       },
       {
         "source": "Google News 식물 키우기",
@@ -13477,7 +13433,7 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 35
+        "count": 34
       },
       {
         "source": "Google News 농림축산식품부",
@@ -13493,7 +13449,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 2,
-    "fetched_items": 774,
+    "fetched_items": 775,
     "errors": []
   }
 }
