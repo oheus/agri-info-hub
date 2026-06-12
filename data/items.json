@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-06-11T23:33:04.060548+00:00",
+  "generated_at": "2026-06-12T00:08:31.201498+00:00",
   "items": [
+    {
+      "id": "87286c8f2a124c5452593e43",
+      "title": "제주 밭작물 재배면적 조절 강화...지원 늘리고 패널티 도입 - 헤드라인제주",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xVkUtamdMSGtoOUJyQVA5bXE0c1hLcW5VMHkyZzViazBnTzVMaHowRE5JcVpRaEE2MVF5T0tja09mMV9mN3R4UVdpa1dsTHZ2YnpKZnVHZ1k1MkJHQk0ySDNJWHNhVEl0Z2w4UzBlRFg5MWc?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "support",
+      "published_at": "2026-06-12T00:00:00+00:00",
+      "collected_at": "2026-06-12T00:08:19.380797+00:00",
+      "summary": "제주 밭작물 재배면적 조절 강화...지원 늘리고 패널티 도입 헤드라인제주",
+      "keywords": [
+        "작물",
+        "재배",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "제주",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "897cdd11f6600afc0d9c2dd9",
+      "title": "군산시, 청년농업인 영농정착 지원사업 2차 모집 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zUUxfcGtwVUxQNUtmX202VTJERnBLZ05tVzBTRVFpQ1paR19ETVVUVUFnTU9wUXprbEFvbkhDUHRmLXdTUlI4TThwLWhncmFyNlRsb2dEbE03YVhR?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-06-11T23:45:00+00:00",
+      "collected_at": "2026-06-12T00:08:24.621218+00:00",
+      "summary": "군산시, 청년농업인 영농정착 지원사업 2차 모집 뉴스핌",
+      "keywords": [
+        "농업",
+        "청년농",
+        "농업인",
+        "지원사업",
+        "모집",
+        "청년농업인",
+        "지원",
+        "사업"
+      ],
+      "importance": 76,
+      "region": "전북",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "2a21828552cadc40fc31410c",
+      "title": "군산시, 청년농업인 영농정착지원사업 2차 대상자 모집 - 전북제일신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhSVN3VDJvcWlQdFBHSTZJbUFfOXZ5XzJ2TmUxWXd1b3o0cS1hdjhtbmcxbWYwZ0g1RU5zYW01VF9lNjBCNTY0WVJfWHVjSnR5d1paanI3OHBXam1NcmhhbGZNRkVub19aY1E?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-06-11T23:35:22+00:00",
+      "collected_at": "2026-06-12T00:08:24.621218+00:00",
+      "summary": "군산시, 청년농업인 영농정착지원사업 2차 대상자 모집 전북제일신문",
+      "keywords": [
+        "농업",
+        "청년농",
+        "농업인",
+        "지원사업",
+        "모집",
+        "청년농업인",
+        "지원",
+        "사업"
+      ],
+      "importance": 76,
+      "region": "전북",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
     {
       "id": "6d9930dca4d6b4b16bc7c4fe",
       "title": "나눌수록 커지는 건국대의 선진 농업 과학 기술 국제 협력 - kmsnews.co.kr",
@@ -1141,6 +1211,30 @@
       "category_label": "지원사업"
     },
     {
+      "id": "e0f75d4255a93f07561b9c1c",
+      "title": "의령군, 하반기 귀농 농업창업·주택구입 지원사업 신청 접수 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wNFJ2allJT0RseXlkZVhNSWZTbm83U2ZRT2g4VVgxSGRIRzk0UjZCWG1hR0dYeW85V1ktV2wxOTE0SC1Xc3AzTDhoT3JfV0JtOWV1Yg?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-06-11T04:42:48+00:00",
+      "collected_at": "2026-06-12T00:08:14.654950+00:00",
+      "summary": "의령군, 하반기 귀농 농업창업·주택구입 지원사업 신청 접수 v.daum.net",
+      "keywords": [
+        "농업",
+        "귀농",
+        "지원사업",
+        "신청",
+        "지원",
+        "접수",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "16e4cdc1a57bfae6212925e7",
       "title": "양주시 \"이동형 반려식물 서비스 운영…ESG 나눔도 확산” - ilyoseoul.co.kr",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5la0JZNE5JUk9lODJWM25DLXNoZWN1Ri1fLW5ZLUMtVjN1Zzk0NmZXb3NEbkFwWXYwamNabkYtYzh2cVhtOUd0dk9NZlRNV041TURJejB4WTRLc2dVaGs1em5Mc01Gcm5mNHh3MWl3?oc=5",
@@ -1157,30 +1251,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
-    },
-    {
-      "id": "b7babbf13b1d4005346cfbb4",
-      "title": "의령군, 하반기 귀농 농업창업·주택구입 지원사업 신청 접수 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93c0VESkZOcjlTWlVFczRZTVVveU1oZ3FnWk1oMFY2NGU5cXdOODVRQ1JOOEQ1QWlRZk9hYjFyeUxObl9XZFFURkNrVVVaS1JnS3Jz?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-06-11T04:41:00+00:00",
-      "collected_at": "2026-06-11T15:19:12.539686+00:00",
-      "summary": "의령군, 하반기 귀농 농업창업·주택구입 지원사업 신청 접수 네이트",
-      "keywords": [
-        "농업",
-        "귀농",
-        "지원사업",
-        "신청",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     },
     {
       "id": "f048ecfef9a2d7acdc747419",
@@ -1627,6 +1697,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "02d5f32d4737daa3079a36db",
+      "title": "서석면, 기본형 공익직불사업 심사 - 더뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zem1WeDFHZDBvU0p3QkN6cmxOaWRrQXQ5NW12S0RydXM2X29OcEpZY3JzRkRwY1BjR0lvNmdjd014YlQydlYyMkRaeFg2dDRWc2NYRnV4X3hkZ3NwVm9yRFI2Z0pDWllQSkJHTEtn0gFyQVVfeXFMTzBtT3lhMFpDM2ZCa0NuTEEtSmZIejZRT0JOMnY0X0FsZnlXdzhua2Z3Z2tob0d1ZlhSTGQ5Y1RnR0p6OHlSX1hETTZYcEw2U19XMkU3VDVNb1hSd0t4amF2bFpSU0dpQ1N4TVYwR3dqTkNB?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-06-11T01:59:52+00:00",
+      "collected_at": "2026-06-12T00:08:28.270122+00:00",
+      "summary": "서석면, 기본형 공익직불사업 심사 더뉴스24",
+      "keywords": [
+        "사업"
+      ],
+      "importance": 68,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "5d940ad44d6ad308e6d3ffdc",
@@ -9858,6 +9946,22 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "020744ef7a7cad79fb1fc1d0",
+      "title": "쌀 수출량은 증가했지만, 가격은 하락 압력을 받고 있다. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFItWmRpYmpsM0ZiNTNHUVNoaTFKNEVXTWprelVnaWdkdVBNZHpNRTlaTm0zbTdmYnpBYy1FdUVzMW1CNkQ0a3VMZ1U3RW12M09OSzNHMHFTanpoajBndVJkX3JCdFBuNDRsRmNXTkgyU3N4QmVGQy1kU29kY2YwZA?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-06-07T09:21:42+00:00",
+      "collected_at": "2026-06-12T00:08:19.380797+00:00",
+      "summary": "쌀 수출량은 증가했지만, 가격은 하락 압력을 받고 있다. Vietnam.vn",
+      "keywords": [],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "a95a7d0f766c9330ca2b3640",
       "title": "[농민칼럼] 농촌 일손 부족, 어떻게 할까 - 한국농정신문",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52NkdKZ0FNM0gtVUYtQ1NfRWVWOHotTkNuZHdJTVFYNFhDcXdabWctVXdNbXZ6a2ExaUFCZno0emZ2Ylk4YnJCQlgxb2ZRVzN0b1BIZFlpMFlGM3lrRS1vVEdieVNnWEE?oc=5",
@@ -11579,6 +11683,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "03e253f3bf277c502f22cde3",
+      "title": "가락시장 농산물 가격-2026년 6월5일 - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tN0VoM3hyUVJjV29LbGt1bUtzOUtJdjBiV1BIUUNsX21ZM3NjV2dpeHoyYS15cTVFSF92Yy14T2Q3ZGVUSHpvQnV5Vkg3dU1rTEdlVU8zb0ZwZw?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-06-05T05:42:00+00:00",
+      "collected_at": "2026-06-12T00:08:19.380797+00:00",
+      "summary": "가락시장 농산물 가격-2026년 6월5일 농민신문",
+      "keywords": [
+        "농산물",
+        "농산물 가격"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "127ab9d6600f9324b8c4a991",
       "title": "‘곡성군, 귀농귀촌인의 새로운 출발에 든든한 지원’ - 전남인터넷신문",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLalp4eUpxUHhtQjFyVHFfY2VYcDZGb3FSdTJjT2V2TG9GUUtXVl82TmhJXzlwX2ZCa1dDUUhIOGdvTjhiMV8yWlVsaDBzZ2I3SzVDZjgwbmY?oc=5",
@@ -13117,185 +13240,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "a91e2bf51c3a230ab99f19dd",
-      "title": "김해시, ‘찾아가는 반려식물 방문케어’ 운영…분갈이·병해충 관리 무료 지원 - 코리아이글뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnM1I5TmdsX2RJeklBUDlXNXBESU5nUGVoeXFHSktLb1AtV1BwVjdBb2l6Tk1hTjlxU1ZQRXBWT1RkcGF6aDNnd1Ywblc2UURtVnBZOEJEcE8tcDlGVGhmZkliV2dBRFdPT2h2UV83RHRnNE0?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "support",
-      "published_at": "2026-06-04T08:05:00+00:00",
-      "collected_at": "2026-06-04T15:34:57.824493+00:00",
-      "summary": "김해시, ‘찾아가는 반려식물 방문케어’ 운영…분갈이·병해충 관리 무료 지원 코리아이글뉴스",
-      "keywords": [
-        "병해충",
-        "반려식물",
-        "분갈이",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "경남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "ad2078d53d784dbc766c9b6c",
-      "title": "세계가 반한 춘천 솔바우마을…태양광으로 피워낸 농촌 공동체 활력 - 프레시안",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1URDBKQ0x3cDJJWHFhdkI0WmdUMTMtTnUzc2c4X3JfQ0o1NWZjd0UydENtT3pFOWpuRjczcXRLOVBuUUhMelB5X1BRREZ3WXBIVWRTZ09vaVo2MkpMVW5pV1pYUjd3cTR6UXVF?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-04T07:50:38+00:00",
-      "collected_at": "2026-06-04T15:34:53.415657+00:00",
-      "summary": "세계가 반한 춘천 솔바우마을…태양광으로 피워낸 농촌 공동체 활력 프레시안",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "강원",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "460e549ec97a766355642bcd",
-      "title": "‘청년농업인 영농정착지원’ 2차 모집 - 농축유통신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HZVBBeXN6YzF0QTg4TWgzVVQ0QVZaeC1Yb0NpOVdIYjlxYjlTM2NXQjJSNzJXd0JpenFuLWQzQU55aXJBTjBsQlJBcExJd2UzOXVBLWZUTkFHa1l1d1pzSVBzRjk3enU0?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-06-04T07:50:23+00:00",
-      "collected_at": "2026-06-04T15:35:04.229699+00:00",
-      "summary": "‘청년농업인 영농정착지원’ 2차 모집 농축유통신문",
-      "keywords": [
-        "농업",
-        "청년농",
-        "농업인",
-        "모집",
-        "청년농업인",
-        "지원"
-      ],
-      "importance": 76,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "372f0b7fe1ee6d4546fd6988",
-      "title": "‘농업·농촌 대변인' 김규성 완주군의원, 재선 당선 - 서울경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4ybndEcTY0VHZ4eUtnZzd1dk1MaXBmWEVPemFORUNCN3BFZFNuTFdMTFZWWWdKbzFacUVsakJnX0gtbmJmZV9Sc0kycUQxNUI2UWlLc3Z0QldqcVJLM09pRFlMdDk?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-04T07:45:44+00:00",
-      "collected_at": "2026-06-04T15:34:53.415657+00:00",
-      "summary": "‘농업·농촌 대변인' 김규성 완주군의원, 재선 당선 서울경제TV",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "서울",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "736fa14130ca7bd8743717a8",
-      "title": "강진 아트팜, 미래형 인공지능 스마트팜 실증사업 참여 - 장흥신문",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvYVBhWDYtaVlaNWFIcXFDWU9oVWZMQUFqY1kza1h5Y0R2Z3BhM0lXZzVZbTdUbE5rUGdpeEt5ZFM0a3BtRE5fOVNENFBKaG9jS2RjOUk5Q01lcklUMW01dXFaNXlmaG1YVDVsSHVn0gFuQVVfeXFMUG9hUGFYNi1pWVo1YUhxcUNZT2hVZkxBQWpjWTNrWHljRHZncGEzSVdnNVltN1RsTmtQZ2l4S3lkUzRrcG1ETl85U0Q0UEpob2NLZGM5STlDTWVySVQxbTV1cVo1eWZobVhUNWxIdWc?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "support",
-      "published_at": "2026-06-04T07:37:07+00:00",
-      "collected_at": "2026-06-04T15:34:55.577458+00:00",
-      "summary": "강진 아트팜, 미래형 인공지능 스마트팜 실증사업 참여 장흥신문",
-      "keywords": [
-        "스마트팜",
-        "사업"
-      ],
-      "importance": 58,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "3246de149eb387726e6e1474",
-      "title": "경북도, '특화 작물' 첨단 바이오·푸드테크 원료로 탈바꿈시킨다 - 이로운넷",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAySXlWekI2ZExXRlI2LU1FLUlRYW5YV245R3dEazJIeFAyZXZONFlxR3M2T051SjZZOW9sZmF3OHd6M09uZXJmZEpkamU0Y3EwM0p0Z0tmVUt0SW5tWk1mX0dUc3lZQQ?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-04T07:34:41+00:00",
-      "collected_at": "2026-06-04T15:34:57.824493+00:00",
-      "summary": "경북도, '특화 작물' 첨단 바이오·푸드테크 원료로 탈바꿈시킨다 이로운넷",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "경북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "51b389907af4a8e18bbfb22f",
-      "title": "고물가 속 빛난 토마토…제철 농산물에 쏠리는 소비자들 - 녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Bd184Tk5TRnpTZm9RSF9CY3JPZDkwLWUtUDFqNVNUWkZlMjByY3pZbEpSWDE4ZDNfMm9ERER4WjQtYV8xWFZoVVJVakVHaFJ0T0YteDNhODN4N3FSQjZRWkdUbDBSN3hv?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-04T07:28:28+00:00",
-      "collected_at": "2026-06-04T15:34:58.939104+00:00",
-      "summary": "고물가 속 빛난 토마토…제철 농산물에 쏠리는 소비자들 녹색경제신문",
-      "keywords": [
-        "농산물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "c2c190a019664abf9fcca0b9",
-      "title": "[보도자료]여름철 ‘장미’ 품질, 수확량 지키는 환경·재배 관리 기술 제시 - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZDVQanZXME1UUlp6cF9TblM3cTdlanF2RWR1aUZhZmZEQ0piQk5jelc2M3NiZklYN285bVpfX3dxUEphUFlUU2ZkdXVucmc2LWhpRDhGa2E5RmFNOTJudlZILTZKQlRWcDZ5cndUY0hjR21RQXQwTm1UTkxTZTRicFBCTEhRS0FWT3VqMnlXczNwYzZ2OXEtaVpwbVprTzdRMTRhM2NLVEZ0RWNhRmkxSGlKdE5OcDVvMmZWejdxYkZobWJNdEFvRnlQUC1taEVMU3lBdXd5V2JrNGx1c0VsaGRBSDgxbU1aamppQUg4ZGxXMHhNUTJsREU1Z1RSYmNNZjdubEJqWnhaYlFqdHV1ZlBjZDZna1BpR01aaV8wVXBRZlFsX3NzQnY2eWU2WXNoLUtBWEc2Mlk3OVk?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-06-04T07:20:49+00:00",
-      "collected_at": "2026-06-04T19:03:53.087458+00:00",
-      "summary": "[보도자료]여름철 ‘장미’ 품질, 수확량 지키는 환경·재배 관리 기술 제시 농촌진흥청",
-      "keywords": [
-        "농촌",
-        "재배"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "acad751aba005028f737ccf7",
-      "title": "정부, 중만생종 양파 2만t 수매·비축… 가격 안정 나선다 - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QS0IzMFM2cVJDcWpoYWltZUkxY1RlVlZnZjV2NHdSSkhCQzdNQXBSMi1PVlU4eWNqcEdyWXdEMFNyaXkwVnlGS3JJY0cyc1l3Sl9oMFRqejRfa0hsNUh0cGVBbXV6WXNpTlE?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-04T07:12:32+00:00",
-      "collected_at": "2026-06-04T15:34:58.939104+00:00",
-      "summary": "정부, 중만생종 양파 2만t 수매·비축… 가격 안정 나선다 천지일보",
-      "keywords": [],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 687,
+    "total": 684,
     "category_counts": {
-      "news": 337,
+      "news": 333,
       "plant_reviews": 82,
-      "support": 268
+      "support": 269
     },
     "top_keywords": [
       {
@@ -13304,15 +13256,15 @@
       },
       {
         "keyword": "지원",
-        "count": 181
+        "count": 182
       },
       {
         "keyword": "사업",
-        "count": 130
+        "count": 132
       },
       {
         "keyword": "지원사업",
-        "count": 108
+        "count": 110
       },
       {
         "keyword": "귀농",
@@ -13320,7 +13272,7 @@
       },
       {
         "keyword": "반려식물",
-        "count": 92
+        "count": 91
       },
       {
         "keyword": "신청",
@@ -13328,33 +13280,33 @@
       },
       {
         "keyword": "농촌",
-        "count": 85
+        "count": 82
       },
       {
         "keyword": "농업인",
-        "count": 69
+        "count": 70
       },
       {
         "keyword": "모집",
-        "count": 62
+        "count": 63
       },
       {
         "keyword": "청년농",
-        "count": 60
+        "count": 61
       },
       {
         "keyword": "스마트팜",
-        "count": 60
+        "count": 59
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 107
+        "count": 105
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 101
+        "count": 99
       },
       {
         "source": "Google News 식물 키우기",
@@ -13370,15 +13322,15 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 60
+        "count": 59
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 45
+        "count": 46
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 34
+        "count": 35
       },
       {
         "source": "Google News 농업 지원금",
@@ -13393,8 +13345,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 3,
-    "fetched_items": 780,
+    "new_items": 12,
+    "fetched_items": 769,
     "errors": []
   }
 }
