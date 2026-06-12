@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-06-12T01:50:54.222951+00:00",
+  "generated_at": "2026-06-12T02:21:22.663735+00:00",
   "items": [
+    {
+      "id": "3e53c811fe80dc8522aca705",
+      "title": "평창군, 귀농 농업창업·주택구입 지원사업 - G1방송",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0S1I0eEYzLTBlVE05ckxxNzNNMHVIZmVsMUFBUW1lSDZab052QWt0UC1DVklTamlSNjlxRHRsQmxHVnEtd2ZKNWV5bVZnczc3V3VnVktOWWFJakl3bm1SeXR6MExaa1N2Q0Q2SThmVS1OSTBFdmVkWTJB?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-06-12T02:04:12+00:00",
+      "collected_at": "2026-06-12T02:21:05.744335+00:00",
+      "summary": "평창군, 귀농 농업창업·주택구입 지원사업 G1방송",
+      "keywords": [
+        "농업",
+        "귀농",
+        "지원사업",
+        "지원",
+        "사업"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "274ac0e55eef3e9ca1baf6ea",
+      "title": "이재명 정부 ‘책임농정 1년’을 진단한다 - 농업재해보험 - 농업인신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5RkhnY3B5bThZZU5wbERLSFd3ZXcwUDN5N1V4WFpibVBfRnpuNDR4WldNMnFla3RhUnZ6SUFjUngtam83a1VOcmFCdHYtbnlYU0NSeHhQZXBqQlJhVFZKOW9aenFCN1lOYkZZNw?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-06-12T02:03:57+00:00",
+      "collected_at": "2026-06-12T02:21:10.376017+00:00",
+      "summary": "이재명 정부 ‘책임농정 1년’을 진단한다 - 농업재해보험 농업인신문",
+      "keywords": [
+        "농업",
+        "농업인"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "43692e7d51842d29d0389972",
+      "title": "군산시, 청년농 정착 돕는다…최대 3년간 월 110만원 지원 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQdVN2bnM1NldtMFIya3VOdnVrcVVLc1ZUZGRxZUNhUGlFSFZZOEVJWGkzb0JleFEtOG0xd1BROVZZQlNHOFlTM0phdUZXTmU2NjYtZg?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-06-12T01:57:44+00:00",
+      "collected_at": "2026-06-12T02:21:15.630516+00:00",
+      "summary": "군산시, 청년농 정착 돕는다…최대 3년간 월 110만원 지원 뉴스1",
+      "keywords": [
+        "청년농",
+        "지원"
+      ],
+      "importance": 70,
+      "region": "전북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
     {
       "id": "4ce3d07d4226652222998573",
       "title": "[익산시] 고품질 쌀 생산 지원… 벼 병해충 방제약제 7억6천만 원 투입 - 투데이안",
@@ -75,6 +135,30 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "232f7c8f9ad2a15f36b8e7dd",
+      "title": "의령군, 귀농 농업창업·주택구입 지원사업 신청자 모집 - 메트로신문",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91cDF5WVV3elZIVFRVRmFITUZIRzBjUmdPck1aMlV4eWJmempvak51azVWYzVtSlpwNUhWTkVpaTlMenZSM1pTSWxjN2hKc0tUQ3pXTVZnMUUxX2RYMjBtMQ?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-06-12T01:27:17+00:00",
+      "collected_at": "2026-06-12T02:21:05.744335+00:00",
+      "summary": "의령군, 귀농 농업창업·주택구입 지원사업 신청자 모집 메트로신문",
+      "keywords": [
+        "농업",
+        "귀농",
+        "지원사업",
+        "신청",
+        "모집",
+        "지원",
+        "사업"
+      ],
+      "importance": 76,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "ffd728f0e2bb75387c15e088",
@@ -1741,30 +1825,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "0c2576e5b8c7f41f261b4a2d",
-      "title": "의령군, 귀농 농업창업·주택구입 지원사업 신청자 모집 - 진주신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzMnBvRjZhQjhwOW5TRHlKYnJzLVVnSjlSbzJWZHVLd3BfQWp4dFpnZXdIdGZhQ0l2TUlCSFFnbThPOE5YdjFQUmpXby1vSzFSQjFUTnhpSFpscWRLc2RQWkVUeWdPbGwyTWV1RtIBbEFVX3lxTFBzMnBvRjZhQjhwOW5TRHlKYnJzLVVnSjlSbzJWZHVLd3BfQWp4dFpnZXdIdGZhQ0l2TUlCSFFnbThPOE5YdjFQUmpXby1vSzFSQjFUTnhpSFpscWRLc2RQWkVUeWdPbGwyTWV1Rg?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-06-11T03:22:52+00:00",
-      "collected_at": "2026-06-11T15:19:33.507018+00:00",
-      "summary": "의령군, 귀농 농업창업·주택구입 지원사업 신청자 모집 진주신문",
-      "keywords": [
-        "농업",
-        "귀농",
-        "지원사업",
-        "신청",
-        "모집",
-        "지원",
-        "사업"
-      ],
-      "importance": 86,
-      "region": "경남",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     },
     {
       "id": "76f3de9859c30216572d1403",
@@ -13122,54 +13182,35 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "660dcd0157b40c60c3961fcd",
-      "title": "농업인 안전재해 최소화를 위한 ‘농림분야 안전관리 종합대책’ 발표 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VQndLMy1DanhPYUZVZWpmcFV6QkRTVXFYV3pyWGlYekNLWUtoWW5NRzVabXY2VC1xMVNNdXNFTGVXejNhR0NIVk9hRktQaFZmT0g5cGhFN053MTdQYWRPdlh2Zk9qMVU?oc=5",
-      "source": "Google News 농림축산식품부",
-      "category": "news",
-      "published_at": "2026-06-04T23:00:00+00:00",
-      "collected_at": "2026-06-05T14:52:27.898047+00:00",
-      "summary": "농업인 안전재해 최소화를 위한 ‘농림분야 안전관리 종합대책’ 발표 농림축산식품부",
-      "keywords": [
-        "농업",
-        "농업인"
-      ],
-      "importance": 48,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 680,
+    "total": 682,
     "category_counts": {
       "news": 340,
       "plant_reviews": 79,
-      "support": 261
+      "support": 263
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 239
+        "count": 240
       },
       {
         "keyword": "지원",
-        "count": 176
+        "count": 178
       },
       {
         "keyword": "사업",
-        "count": 128
+        "count": 129
       },
       {
         "keyword": "지원사업",
-        "count": 103
+        "count": 104
       },
       {
         "keyword": "귀농",
-        "count": 99
+        "count": 100
       },
       {
         "keyword": "농촌",
@@ -13193,7 +13234,7 @@
       },
       {
         "keyword": "청년농",
-        "count": 61
+        "count": 62
       },
       {
         "keyword": "스마트팜",
@@ -13215,7 +13256,7 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 68
+        "count": 70
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13227,11 +13268,11 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 51
+        "count": 52
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 36
+        "count": 37
       },
       {
         "source": "Google News 농업 지원금",
@@ -13239,15 +13280,15 @@
       },
       {
         "source": "Google News 농림축산식품부",
-        "count": 19
+        "count": 18
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 24,
-    "fetched_items": 774,
+    "new_items": 4,
+    "fetched_items": 780,
     "errors": []
   }
 }
