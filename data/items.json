@@ -1,6 +1,49 @@
 {
-  "generated_at": "2026-06-12T00:38:59.476565+00:00",
+  "generated_at": "2026-06-12T01:20:27.733062+00:00",
   "items": [
+    {
+      "id": "ffd728f0e2bb75387c15e088",
+      "title": "[군산시] 청년농업인 영농정착지원사업 2차 대상자 모집 - 투데이안",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UeElBbTBuLWxyVkhyNTd4VXBZRURHMXE4U3BKWjh5MXlicUdZdkhxQkN1MDU0eThFXzhiaE1SMVhtVlk4a0JjbFBhb3hJaVZnVVNBbGItcjFlRnhQUUR4bk9RdXI2aVQy?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-06-12T01:03:35+00:00",
+      "collected_at": "2026-06-12T01:20:21.266371+00:00",
+      "summary": "[군산시] 청년농업인 영농정착지원사업 2차 대상자 모집 투데이안",
+      "keywords": [
+        "농업",
+        "청년농",
+        "농업인",
+        "지원사업",
+        "모집",
+        "청년농업인",
+        "지원",
+        "사업"
+      ],
+      "importance": 76,
+      "region": "전북",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "23eaf8a680fb4505a9822996",
+      "title": "농협-CJ대한통운, 사회공헌 협력체계 구축 및 합동 농촌봉사활동 실시 - mstoday.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jR1Uybi1FSzVqa0hsZ0tyRUotZjFjeUgzTFExRnVJazk4c3BBZ3hmMDQtU29HaVR0TVFDRGw1dGpZT0NuX2VKYXlyZ3hBUW13dEVyeld0LUNoRXN1R0dfM01pbFd5N0U?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-06-12T00:41:37+00:00",
+      "collected_at": "2026-06-12T01:20:10.818826+00:00",
+      "summary": "농협-CJ대한통운, 사회공헌 협력체계 구축 및 합동 농촌봉사활동 실시 mstoday.co.kr",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "ad305720cad44cce39b7d69a",
       "title": "군산시, 청년 농업인 영농 정착지원사업 대상자 모집 - 연합뉴스",
@@ -62,31 +105,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "ea70602a90cb3d647d1ef302",
-      "title": "군산시, 청년농업인 영농정착지원사업 2차 대상자 모집 - 경남도민뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EY2tQdHdGRFNpZUZkQXZxU1hhcXpDODIxVEdRdk4zaDFoQkthTkZoMVAxS1pjTzhmeENWX1NQQThMMkpTVXhReXczRGFyN1c5MGFHVUFzUHp2Z1NteS1KUGJ3RQ?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-06-12T00:10:24+00:00",
-      "collected_at": "2026-06-12T00:38:53.120769+00:00",
-      "summary": "군산시, 청년농업인 영농정착지원사업 2차 대상자 모집 경남도민뉴스",
-      "keywords": [
-        "농업",
-        "청년농",
-        "농업인",
-        "지원사업",
-        "모집",
-        "청년농업인",
-        "지원",
-        "사업"
-      ],
-      "importance": 76,
-      "region": "전북",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     },
     {
       "id": "301bedce379bf944de4415e7",
@@ -938,6 +956,22 @@
         "병해충",
         "농업인"
       ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "05904a5f056bd02420e3d61f",
+      "title": "메콩델타 지역 두리안 가격 하락: 공급과 수요 역학 외에 주요 병목 현상은 무엇일까요? - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1Z4dEhia2Npcmw3TTJydUhQcXJfRUNNcWgtZmtEQ2JWTWxrcUpwMEhKWjAtNEdzUE1HZEVfRzdiUzNCU3h4OXpoRHVfOW1hOGU2VlhuanVSTFBnS29YOGYxU2JOVmV5N3FPQUZYdFpmc3AtRjduTGVsSVhNbGZXTTFNMkpCR0oxelMxMnZQYzh4TFhqOE5Kem1KdDFyY05oeDRSUVE2YlRkS2Jxa1BN?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-06-11T06:28:50+00:00",
+      "collected_at": "2026-06-12T01:20:16.345136+00:00",
+      "summary": "메콩델타 지역 두리안 가격 하락: 공급과 수요 역학 외에 주요 병목 현상은 무엇일까요? Vietnam.vn",
+      "keywords": [],
       "importance": 48,
       "region": "",
       "deadline_text": "",
@@ -6912,14 +6946,14 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "91fcd1d006cc442fdaa0cdca",
-      "title": "제주 한림에 스마트팜 테마파크 조성…농업·관광·교육 융합 거점 기대 - 제주일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WdlBTMmdsVHFYSHlIcE02aDFkLUY5bkw4SDdYTGE3UWZmdEpLcFZmUXBNRFUyZ0gxR3dTTnpDSlRGc1RRa2Rid3N4dEZqd2VqNXFJdEZRTU1lRGZVaDVTd2pyeDZyai1TY0RLNA?oc=5",
+      "id": "0394fb98f2403d02738e54b0",
+      "title": "제주 한림에 스마트팜 테마파크 조성…농업·관광·교육 융합 거점 기대 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41WC1Qa1Y0bjFNdzFtZGxoRHJFVVRxZDVGQ0lOM1QzWnYzbU1aV3V4QmJ5R3oxYXA3TDRsWWZOUkdYYlFfSDY3VVB0WQ?oc=5",
       "source": "Google News 스마트팜",
       "category": "news",
-      "published_at": "2026-06-09T03:45:00+00:00",
-      "collected_at": "2026-06-09T06:15:41.255067+00:00",
-      "summary": "제주 한림에 스마트팜 테마파크 조성…농업·관광·교육 융합 거점 기대 제주일보",
+      "published_at": "2026-06-09T03:46:05+00:00",
+      "collected_at": "2026-06-12T01:20:12.988358+00:00",
+      "summary": "제주 한림에 스마트팜 테마파크 조성…농업·관광·교육 융합 거점 기대 v.daum.net",
       "keywords": [
         "농업",
         "스마트팜"
@@ -13145,106 +13179,31 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "5b8e0ec765c82b74ed96859b",
-      "title": "옹진군, 2027년도 농업지원사업 수요조사 실시 > 뉴스 - 더코리아",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBleEhBdllfR1d5MFJtcE9lWkRmNS0ybXhCdUprRWpTZ3duUW42UndPWVo0aHpCV29KSHgzQXR2c1VTT3BJUVRkZTZZaTk4c3E5S2NKZ09kNzA1TGZIQTRLdnlOYmViMVZnTHZVanV3S2g?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-06-04T10:41:00+00:00",
-      "collected_at": "2026-06-04T15:34:54.358006+00:00",
-      "summary": "옹진군, 2027년도 농업지원사업 수요조사 실시 > 뉴스 더코리아",
-      "keywords": [
-        "농업",
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "8900425caee0d00436695f69",
-      "title": "산림청 무주국유림관리소, 지역산림병해충 예찰 방제 대책본부 운영 - 대한민국 정책브리핑",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCaXo4WUxpb1Z4Z016eDkxUEtYSTJweFl4TlFqQ3FTMG9kVTBaUmkzVHotODVpbFozUnpEeTlBRnZZRXM0WnNackJvQjlMNnlrNXdKb2prUGhxdjN0MGptbXdsVDQzTS04WkFNdVRDYmVXeTVv?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-04T10:35:26+00:00",
-      "collected_at": "2026-06-07T12:13:54.555846+00:00",
-      "summary": "산림청 무주국유림관리소, 지역산림병해충 예찰 방제 대책본부 운영 대한민국 정책브리핑",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "29367f92c6cec03837dd1b6b",
-      "title": "토마토로 맺은 따뜻한 동행…스마트팜에서 열린 특별한 하루 - 전남매거진",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ib2FHM19KaUNUcUZJcTYtMTJTQ3A4V2d3a2g5VmRsb1loZWNBcEVVODF3aEllQ2M1VmpBSng5bjVyWWZyOHFHTzFoR0I1ckpOeVA1UUVSUXdfYk1HNVZBc3RXZGpYQdIBZkFVX3lxTE9ib2FHM19KaUNUcUZJcTYtMTJTQ3A4V2d3a2g5VmRsb1loZWNBcEVVODF3aEllQ2M1VmpBSng5bjVyWWZyOHFHTzFoR0I1ckpOeVA1UUVSUXdfYk1HNVZBc3RXZGpYQQ?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-04T09:54:45+00:00",
-      "collected_at": "2026-06-04T15:34:55.577458+00:00",
-      "summary": "토마토로 맺은 따뜻한 동행…스마트팜에서 열린 특별한 하루 전남매거진",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "전남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "e370460ab7f5fb46b23a2d6b",
-      "title": "고흥군, 유자 응애류 등 장마철 과수 병해충 사전방제 당부 - 무등뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNODlzYzJfdER0bHFSSlNPNFZLY3E1eGI1TE8wNWxSSmpwUVJPck5SR3lXX2pUUUdlTHVONF9EbGxMWGxVc3dGMTB6REdzMmVpbDhZcHZnWXVjM0xjRHQ5Zk1EQWMwT1U?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-04T09:38:49+00:00",
-      "collected_at": "2026-06-08T15:06:29.768488+00:00",
-      "summary": "고흥군, 유자 응애류 등 장마철 과수 병해충 사전방제 당부 무등뉴스",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 683,
+    "total": 681,
     "category_counts": {
-      "news": 334,
+      "news": 333,
       "plant_reviews": 82,
-      "support": 267
+      "support": 266
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 239
+        "count": 238
       },
       {
         "keyword": "지원",
-        "count": 180
+        "count": 179
       },
       {
         "keyword": "사업",
-        "count": 132
+        "count": 131
       },
       {
         "keyword": "지원사업",
-        "count": 109
+        "count": 108
       },
       {
         "keyword": "귀농",
@@ -13260,7 +13219,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 82
+        "count": 83
       },
       {
         "keyword": "농업인",
@@ -13275,18 +13234,18 @@
         "count": 61
       },
       {
-        "keyword": "스마트팜",
-        "count": 59
+        "keyword": "접수",
+        "count": 58
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 104
+        "count": 105
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 99
+        "count": 97
       },
       {
         "source": "Google News 식물 키우기",
@@ -13294,7 +13253,7 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 74
+        "count": 73
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13302,11 +13261,11 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 59
+        "count": 58
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 48
+        "count": 49
       },
       {
         "source": "Google News 청년농 지원",
@@ -13326,7 +13285,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 6,
-    "fetched_items": 776,
+    "fetched_items": 774,
     "errors": []
   }
 }
