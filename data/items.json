@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-06-15T12:38:34.894338+00:00",
+  "generated_at": "2026-06-15T13:09:06.231750+00:00",
   "items": [
+    {
+      "id": "5331010e7d73b2bda056fd1e",
+      "title": "'초콜릿·커피' 생산량 늘어도 가격 내려가지 않는 이유 - 단비뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlWDNwakZOdklRQnoyTk56M1lweTdLYzUtcXFVcEQ2WUwyLU5SNFVoZ29fRGJUREk1S2p3MExicUtDNk5QTHFqYnl1Y0lUQUx3WUNWVFdmQzN0U0dLZ0oySEpuQ0RFaGo5bF9v?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-06-15T12:47:15+00:00",
+      "collected_at": "2026-06-15T13:08:53.654365+00:00",
+      "summary": "'초콜릿·커피' 생산량 늘어도 가격 내려가지 않는 이유 단비뉴스",
+      "keywords": [],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "8391746925bb7640aadd72db",
       "title": "김해시, '찾아가는 반려식물 방문케어' 운영 개시 - 김해뉴스",
@@ -247,6 +263,25 @@
       "region": "경남",
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "def72fdef8025da1e4cd40f6",
+      "title": "이천시, 2026년 전략작물직불금(하계작물) 신청 6월 30일까지 연장 - 서울뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42cWdFVEpVcHJneHFLSHpYbEU2cWdTTkdkc20tR3ZFMlB0TmhBZHBEXzg2cWJqTkFXczhvR1NFYlpqZWw3cHJMcHRZc0dtM1NieU55Wlg2RklnSVFXM1laQ2ZZUHJpdGlkLVZz?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "support",
+      "published_at": "2026-06-15T08:50:00+00:00",
+      "collected_at": "2026-06-15T13:08:52.341808+00:00",
+      "summary": "이천시, 2026년 전략작물직불금(하계작물) 신청 6월 30일까지 연장 서울뉴스통신",
+      "keywords": [
+        "작물",
+        "신청"
+      ],
+      "importance": 64,
+      "region": "서울",
+      "deadline_text": "6월 30일 마감",
+      "deadline_date": "2026-06-30",
       "category_label": "지원사업"
     },
     {
@@ -602,6 +637,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "37604042eb0aea0fa9912e9f",
+      "title": "[김해 소식] 찾아가는 반려식물 방문케어 첫선 등 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZcmpEekJBMlVobVpUckhXTTY0ZnJ3VGw2UVJuVVFQZUlyc2tDT2xpcmhTZkQ0V1JyUUdybncxeFU1ODZTaThqTTRwcmY5b3Rhel8w?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-06-15T06:27:00+00:00",
+      "collected_at": "2026-06-15T13:09:01.100986+00:00",
+      "summary": "[김해 소식] 찾아가는 반려식물 방문케어 첫선 등 네이트",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "경남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
     },
     {
       "id": "b0197a2151df1a29a733a84e",
@@ -3154,14 +3207,14 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "1f331245cb3e10904d64495f",
-      "title": "2026년 화훼 시장 판도 바꾸는 '반려 식물' 트렌드…20대 65% '식물 집사' 자처 - 브랜드경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43WVRWcHNreHVDNWU0RWFBcDNoZ01XTERxVm1rRFF3X2Z2dGRvZmQtR1ZkaFhIX1EzZnljcnBUUW93aW9ZNHNuWlE2V2k?oc=5",
+      "id": "7765e39f5a3d5edf5edccf13",
+      "title": "2026년 화훼 시장 판도 바꾸는 '반려 식물' 트렌드…20대 65% '식물 집사' 자처 - 뉴스N연합",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2RTFKV2RfODd2M1RPaGdrb3dxOE9xX3pZOXZUNV9kdHJFaWZzdFZSckFYVGN0eE1tVVhrUGR3X1JqWUNnc2paZVNR?oc=5",
       "source": "Google News 식물 키우기",
       "category": "plant_reviews",
-      "published_at": "2026-06-12T19:14:44+00:00",
-      "collected_at": "2026-06-15T05:53:51.178546+00:00",
-      "summary": "2026년 화훼 시장 판도 바꾸는 '반려 식물' 트렌드…20대 65% '식물 집사' 자처 브랜드경제신문",
+      "published_at": "2026-06-12T19:17:19+00:00",
+      "collected_at": "2026-06-15T13:09:01.100986+00:00",
+      "summary": "2026년 화훼 시장 판도 바꾸는 '반려 식물' 트렌드…20대 65% '식물 집사' 자처 뉴스N연합",
       "keywords": [],
       "importance": 42,
       "region": "",
@@ -13195,73 +13248,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
-    },
-    {
-      "id": "e2f1d0140a9c141744f9160a",
-      "title": "음성 농협 조합장협우회 개최…농업 발전 방안 모색 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92LUNXZ2pNMm95TlJzSHdxMjhHVUt6QzQ1Nmp4dXF4N3Byc0dBRUFnMVZRbFhkZkFpUVF3OV9fUjdUUGJvVUVaemdJRGd5N1dBZ1dLUlBwd29jdw?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-08T09:17:00+00:00",
-      "collected_at": "2026-06-08T15:06:25.761283+00:00",
-      "summary": "음성 농협 조합장협우회 개최…농업 발전 방안 모색 농민신문",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "2221b905903e4219fe573b66",
-      "title": "[클릭! 자치뉴스] 서울 용산구, 장애인?어르신 330명에 반려식물 보급 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54YjdqdnVTSkJCZlFqM1gta3ZCZzUxcXpMd1BEYzJVS3hpUkZjaU9JbzJyek15eWdDOEJscUNDeElvUzdHeVhqaGpDMEZUcnpHNlI2NjkyVU8yV09iSnJwdFdTUGtmdkxTRC13UjFOMkZHMG5MWGJVaw?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-06-08T09:01:00+00:00",
-      "collected_at": "2026-06-08T12:37:50.951131+00:00",
-      "summary": "[클릭! 자치뉴스] 서울 용산구, 장애인?어르신 330명에 반려식물 보급 네이트",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "region": "서울",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "c87ada5dfa86e19f7b30f3e1",
-      "title": "[클릭! 자치뉴스] 서울 용산구, 장애인‧어르신 330명에 반려식물 보급 - 한국일보",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85LURjeXhFNlE3U3FZRXU2RXI4RzNMa2ZMUk1NaW9ibUF6b3diYTRtX3hpWFp3U3djX1U5N21sZldIVVRqZ2N6aFBhZmJwVDhTVHdKRDRUZ3BaWllDdWxjTFVYVVZkVjlKSUR6VkVB0gFzQVVfeXFMT1RqN2JjRFJJa0FJQjhaUldEVjVRQmlVZDdZRzB3Y3NYUlZBWmxlR3RSeW81VXF2Q2tsLTZscmNzeGtrNk14QTM3aWRmdEpFa0NKNXZ5aXZ0MU9tNkZBTTBMM0o3enJKUXZDdGg4RDJOY1p1dw?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-06-08T09:00:00+00:00",
-      "collected_at": "2026-06-08T12:37:50.951131+00:00",
-      "summary": "[클릭! 자치뉴스] 서울 용산구, 장애인‧어르신 330명에 반려식물 보급 한국일보",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "region": "서울",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "식물 리뷰"
     }
   ],
   "stats": {
     "total": 688,
     "category_counts": {
       "news": 357,
-      "plant_reviews": 75,
-      "support": 256
+      "plant_reviews": 74,
+      "support": 257
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 259
+        "count": 258
       },
       {
         "keyword": "지원",
@@ -13285,11 +13284,11 @@
       },
       {
         "keyword": "신청",
-        "count": 75
+        "count": 76
       },
       {
         "keyword": "반려식물",
-        "count": 69
+        "count": 68
       },
       {
         "keyword": "농업인",
@@ -13311,11 +13310,11 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 124
+        "count": 123
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 104
+        "count": 105
       },
       {
         "source": "Google News 청년농 귀농",
@@ -13323,7 +13322,7 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 66
+        "count": 65
       },
       {
         "source": "Google News 지원사업",
@@ -13335,7 +13334,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 56
+        "count": 57
       },
       {
         "source": "Google News 청년농 지원",
@@ -13354,8 +13353,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 6,
-    "fetched_items": 824,
+    "new_items": 5,
+    "fetched_items": 785,
     "errors": []
   }
 }
