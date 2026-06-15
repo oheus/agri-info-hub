@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T12:08:04.826137+00:00",
+  "generated_at": "2026-06-15T12:38:34.894338+00:00",
   "items": [
     {
       "id": "8391746925bb7640aadd72db",
@@ -41,6 +41,24 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "53d563bdc3f74da9a9fb42f3",
+      "title": "김해시, 찾아가는 반려식물 방문케어 첫 운영 - 경남뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkN0ttU0hQemJJMWNpdENXVFlXb3FUOVRaMFBjQTRwRzhFYTRKaGJPMGhwaTFjbktBSXdnZG5fN1hoSjg1Tl9BN2dsV19UYzhoTmZhQWF5LWZUc0FRQWM2dFFpLTdhcUM30gFoQVVfeXFMUGQ3S21TSFB6YkkxY2l0Q1dUWVdvcVQ5VFowUGNBNHBHOEVhNEpoYk8waHBpMWNuS0FJd2dkbl83WGhKODVOX0E3Z2xXX1RjOGhOZmFBYXktZlRzQVFBYzZ0UWktN2FxQzc?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-06-15T11:03:40+00:00",
+      "collected_at": "2026-06-15T12:38:30.258623+00:00",
+      "summary": "김해시, 찾아가는 반려식물 방문케어 첫 운영 경남뉴스통신",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "경남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
     },
     {
       "id": "a1f5c7fcb74e146ec4da37af",
@@ -1180,6 +1198,26 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "336a5ec6744dd13475aa72af",
+      "title": "양구군, 귀농 농업창업ㆍ주택구입 지원 - 참뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tVW1ZREZVd0lLNEJWOFpzNmtVXzM0R1FPNkNmVlZCRFp6Qk0tbGxScmc4T3c2UEthZ0V5NDJZVlhnTDQ2MUJkR0paMVk2dE5Tal95WnQ2N1NOcG14SVlrX1U3M0cwRkp2TGxV?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-06-15T04:37:15+00:00",
+      "collected_at": "2026-06-15T12:38:17.620972+00:00",
+      "summary": "양구군, 귀농 농업창업ㆍ주택구입 지원 참뉴스",
+      "keywords": [
+        "농업",
+        "귀농",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "0d92a380497323bac962aae4",
@@ -13211,159 +13249,51 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
-    },
-    {
-      "id": "6d6e90e6289c701d75240a1d",
-      "title": "청년농업인 월 최대 110만 원 지원...논산시 신청자 모집 - 디트NEWS24",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qQjNEQm9EdFhMN2JVQ21ZOVBmNVVSR3JjbmpfbGhCRXhySkt5aGRtWE5pTW5fYk9nUXlQUjdfcWFfY2d5dG96Mi1pTUVUV1lXcFU5X3Y1UHROeTRkVHE1S1JRbENsMnBITVhz?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-06-08T08:55:05+00:00",
-      "collected_at": "2026-06-08T12:37:48.473635+00:00",
-      "summary": "청년농업인 월 최대 110만 원 지원...논산시 신청자 모집 디트NEWS24",
-      "keywords": [
-        "농업",
-        "청년농",
-        "농업인",
-        "신청",
-        "모집",
-        "청년농업인",
-        "지원"
-      ],
-      "importance": 82,
-      "region": "충남",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "d9c1ff3662ecdc396051ab1b",
-      "title": "베트남 농업·농촌·농민 발전 계획 발표…‘협동조합 강화’ - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UUmZCWlE2SGJGaEFFSHYxV0tURm5ONjhPWVBFMVU2d1l5VTdENC1ST1A3SkRxdTRZT3hqTXY0YVROemhsazJFM2wzVVJxOWxadXRiWmZDNV9pdw?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-08T08:54:00+00:00",
-      "collected_at": "2026-06-08T15:06:25.761283+00:00",
-      "summary": "베트남 농업·농촌·농민 발전 계획 발표…‘협동조합 강화’ 농민신문",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "5ba33a1c6e98614df16969b9",
-      "title": "도시 농축협, 무이자자금 3771억원 농촌 농축협에 지원 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLaGJrWi1wWW9Ja1VMODM3OEl3b3pfUWxKR050SXp6b3lHd2s2YUZaMmgwZWp4RjhXUlhnTEhia2JzaDMyVXZBVEZGSDE4MU9tRlRBRF9hSWFfUQ?oc=5",
-      "source": "Google News 농업",
-      "category": "support",
-      "published_at": "2026-06-08T08:54:00+00:00",
-      "collected_at": "2026-06-08T15:06:25.761283+00:00",
-      "summary": "도시 농축협, 무이자자금 3771억원 농촌 농축협에 지원 농민신문",
-      "keywords": [
-        "농촌",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "bc0a6456fab57d17e9dd3f06",
-      "title": "농진원 ‘저탄소 농산물 인증 지원사업’ 농업인 모집…120개 농가 선정 - 부산일보",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WaEx4eGhvbEJSLXFfUE5Oak9LbGg1cVRYQ2t6aUZWdThhRDZiUlowNEJ2UUpTVjNWeU03eTd4TU9SWGQtOElvdlRJNlVQZ1lsTi1FTTE1YmhNaFhpdTZ1aHBmQXdKUjh3bzg5dmxNeHM4cmRH?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-06-08T08:52:49+00:00",
-      "collected_at": "2026-06-08T15:06:26.691670+00:00",
-      "summary": "농진원 ‘저탄소 농산물 인증 지원사업’ 농업인 모집…120개 농가 선정 부산일보",
-      "keywords": [
-        "농업",
-        "농산물",
-        "농업인",
-        "지원사업",
-        "모집",
-        "지원",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "부산",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "3d3636bfa48d0836fceb99b1",
-      "title": "광주시, 사회연대경제 살린다... '청년 일경험' 기업 모집 - 뉴스워커",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93WnpBQnY0T2Qtcnp6UE5VX09aWndNemlYelkyQjkyaXZKaXJJanRtcTVCT0VsV25LM0RvYlJJeXphNklRMFVBZEhmNjdYMlZXWXJqbzhWdmtiR0JZcHpFR2QtNnNPRDBrbkRjZGpGeDDSAXNBVV95cUxOZExyMXBQc194S0lDVXpQOVRfVkVVOUJqekJmQkZHQ2p5dk9yOTY3NE1hWWRKeDA4X1lkd0NnamVOTWNKNnduMHI5MWtFUDFreE1Zc3BUazBjaUpuaFliWERSYmtRUWVNdTZ1OHVJLUxzZEgw?oc=5",
-      "source": "Google News 지자체 농업기술센터",
-      "category": "support",
-      "published_at": "2026-06-08T08:50:00+00:00",
-      "collected_at": "2026-06-08T12:37:53.013023+00:00",
-      "summary": "광주시, 사회연대경제 살린다... '청년 일경험' 기업 모집 뉴스워커",
-      "keywords": [
-        "모집"
-      ],
-      "importance": 74,
-      "region": "광주",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 691,
+    "total": 688,
     "category_counts": {
-      "news": 358,
-      "plant_reviews": 74,
-      "support": 259
+      "news": 357,
+      "plant_reviews": 75,
+      "support": 256
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 261
+        "count": 259
       },
       {
         "keyword": "지원",
-        "count": 180
+        "count": 178
       },
       {
         "keyword": "사업",
-        "count": 122
+        "count": 121
       },
       {
         "keyword": "귀농",
-        "count": 114
+        "count": 115
       },
       {
         "keyword": "농촌",
-        "count": 98
+        "count": 96
       },
       {
         "keyword": "지원사업",
-        "count": 95
+        "count": 94
       },
       {
         "keyword": "신청",
-        "count": 76
+        "count": 75
       },
       {
         "keyword": "반려식물",
-        "count": 68
+        "count": 69
       },
       {
         "keyword": "농업인",
-        "count": 67
-      },
-      {
-        "keyword": "모집",
-        "count": 62
+        "count": 65
       },
       {
         "keyword": "스마트팜",
@@ -13372,12 +13302,16 @@
       {
         "keyword": "접수",
         "count": 61
+      },
+      {
+        "keyword": "모집",
+        "count": 59
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 126
+        "count": 124
       },
       {
         "source": "Google News 병해충 재배",
@@ -13389,7 +13323,7 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 65
+        "count": 66
       },
       {
         "source": "Google News 지원사업",
@@ -13405,11 +13339,11 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 31
+        "count": 30
       },
       {
         "source": "Google News 지자체 농업기술센터",
-        "count": 26
+        "count": 25
       },
       {
         "source": "Google News 농업 지원금",
@@ -13420,8 +13354,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 9,
-    "fetched_items": 827,
+    "new_items": 6,
+    "fetched_items": 824,
     "errors": []
   }
 }
