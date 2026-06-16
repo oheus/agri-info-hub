@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-16T12:29:40.971534+00:00",
-  "total": 695,
+  "generated_at": "2026-06-16T13:00:11.925168+00:00",
+  "total": 692,
   "category_counts": {
-    "news": 337,
-    "plant_reviews": 61,
-    "support": 297
+    "news": 336,
+    "plant_reviews": 60,
+    "support": 296
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 257
+      "count": 252
     },
     {
       "keyword": "지원",
-      "count": 214
+      "count": 215
     },
     {
       "keyword": "귀농",
@@ -21,15 +21,15 @@
     },
     {
       "keyword": "사업",
-      "count": 127
-    },
-    {
-      "keyword": "농촌",
-      "count": 103
+      "count": 125
     },
     {
       "keyword": "지원사업",
-      "count": 103
+      "count": 102
+    },
+    {
+      "keyword": "농촌",
+      "count": 100
     },
     {
       "keyword": "신청",
@@ -45,37 +45,33 @@
     },
     {
       "keyword": "작물",
-      "count": 65
-    },
-    {
-      "keyword": "농업인",
-      "count": 59
+      "count": 67
     },
     {
       "keyword": "반려식물",
       "count": 58
+    },
+    {
+      "keyword": "농업인",
+      "count": 57
     }
   ],
   "top_sources": [
     {
       "source": "Google News 병해충 재배",
-      "count": 117
+      "count": 123
     },
     {
       "source": "Google News 농업",
-      "count": 117
+      "count": 114
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 78
+      "count": 77
     },
     {
       "source": "Google News 지원사업",
       "count": 71
-    },
-    {
-      "source": "Google News 스마트팜",
-      "count": 54
     },
     {
       "source": "Google News 식물 키우기",
@@ -86,23 +82,27 @@
       "count": 53
     },
     {
+      "source": "Google News 스마트팜",
+      "count": 51
+    },
+    {
       "source": "Google News 청년농 지원",
       "count": 35
     },
     {
-      "source": "Google News 지자체 농업기술센터",
+      "source": "Google News 농업기술센터 모집",
       "count": 24
     },
     {
-      "source": "Google News 농업기술센터 모집",
-      "count": 23
+      "source": "Google News 농업 지원금",
+      "count": 22
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 42,
-    "fetched_items": 839,
+    "new_items": 18,
+    "fetched_items": 833,
     "errors": []
   }
 }
