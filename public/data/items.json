@@ -1,6 +1,121 @@
 {
-  "generated_at": "2026-06-17T00:12:18.374161+00:00",
+  "generated_at": "2026-06-17T00:42:49.298571+00:00",
   "items": [
+    {
+      "id": "b0954cb859ddebe258d06e44",
+      "title": "김제시, 귀농·귀촌 정착지원 강화…농촌활력 회복 '견인' - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jOVhwZXhrTTJ6U0hHVzV5WXp3ZEF3cjZvdXZ2N0VOQ0x3WUI1X1VpX3pmSXRjdFoyT2dJQlB4OXlfYnJTUVo2WkRpWjlVMmdybG9YdU9lWHNBUzZi?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "support",
+      "published_at": "2026-06-17T00:37:00+00:00",
+      "collected_at": "2026-06-17T00:42:33.523360+00:00",
+      "summary": "김제시, 귀농·귀촌 정착지원 강화…농촌활력 회복 '견인' 뉴스핌",
+      "keywords": [
+        "농촌",
+        "귀농",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "05d5d366a54f7707c5eec357",
+      "title": "농촌진흥청, 2026년 ‘대한민국 최고농업기술명인’ 선발 - knongnews.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCRTFCTU5jWnJmWnBMWVM0MUFIa2JuRkFlS1Q4ZDNDMmxidlFaQVNmZXdJR1JWckVfQ0N6R0tNWUYycnZqYmRsNmxGbXg2MEMxMHJla2tZSWdZeWR1Qjl1ZHZDbVdWd3lyLVNz?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-06-17T00:35:20+00:00",
+      "collected_at": "2026-06-17T00:42:30.278805+00:00",
+      "summary": "농촌진흥청, 2026년 ‘대한민국 최고농업기술명인’ 선발 knongnews.com",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "7d5d5663a36ecc9a7bc0c1e1",
+      "title": "예산군, 청년농업인 농지 임차료 최대 300만 원 지원 - 농수축산신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zempzenRWSjljOXphSFBHekIxTFUwcC1hblplbnYySDhpZ3ItemVCMU81TjJoemdWYzJqS0dhYmNXWWFVRG0wUWF2YVZSS1VHa01mZk1tRm1CYVhyMTRRd0o5RG1vN01lclpvbw?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-06-17T00:30:40+00:00",
+      "collected_at": "2026-06-17T00:42:42.122818+00:00",
+      "summary": "예산군, 청년농업인 농지 임차료 최대 300만 원 지원 농수축산신문",
+      "keywords": [
+        "농업",
+        "청년농",
+        "농업인",
+        "청년농업인",
+        "지원"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
+      "id": "021b1edc5df89348dd09af4d",
+      "title": "상주시, 청년과 농촌을 잇는 교류의 장 마련 - 신경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51VGNNVlNVaENZRU5FeXUxTGRqdGRDRlRFZThtanpibzhkblNkcUluai1kQkh1Vkp5MWxNbzRpTC1sSWZSTllSRWtPZS0yQTdINnRJRkNrY3Y?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-06-17T00:30:24+00:00",
+      "collected_at": "2026-06-17T00:42:30.278805+00:00",
+      "summary": "상주시, 청년과 농촌을 잇는 교류의 장 마련 신경북뉴스",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "경북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "ebf5425df23a485e5db3b595",
+      "title": "상주시, ‘청년과 농촌을 잇다’...정착과 유입 기대 - 경북문화신문",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EVk00eThoLUJfNzVIalJBUmViWVBnVlp6d2VfR3JsQWNSTUdZdnEzTDN5SUVZMUhqeExhNktTc1NMdkJ1QU9SMjQxSWtKOEVob3BQRmxhakRkcGpmUGNEM051UUFfOXQwd2t1N0VLd3BTeXE1MmZNRTdBUQ?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-06-17T00:24:54+00:00",
+      "collected_at": "2026-06-17T00:42:30.278805+00:00",
+      "summary": "상주시, ‘청년과 농촌을 잇다’...정착과 유입 기대 경북문화신문",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "경북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "12fcb0d302cdb78ff46aa322",
+      "title": "\"농심(農心)에 진심 담아 전북 농업소득 3000만원 시대 열겠다\" - 전민일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0M05aZkd5SVhZRUhOWDExRlFDTzFhY2kwckZZS09xdGZMTG82QXVXaTdmV3FKQ2FYQXhnSXhrVXN2ek5yci1oVFV0bk9odXdzWDFuT2hnUjdjcmJOSkgyZGd6aU1TVVJYMkh3?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-06-16T23:00:00+00:00",
+      "collected_at": "2026-06-17T00:42:30.278805+00:00",
+      "summary": "\"농심(農心)에 진심 담아 전북 농업소득 3000만원 시대 열겠다\" 전민일보",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "region": "전북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "cdb170a3e088a04b34054f6c",
       "title": "(사)제주농산물수급관리연합회 '26년 토양생태환경보전사업 2차 신청 접수 - 뉴스라인제주",
@@ -2572,25 +2687,6 @@
       "deadline_text": "상시 접수",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "3ba467b034f73ed1fb8274f7",
-      "title": "농촌진흥청, 2026년 ‘대한민국 최고농업기술명인’ 선발 - KBS 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XbFhNcVZwMjBMQjVNVmhvVUlLMXVZTzJEdUdZRmwtWXRRcXVWb1hlRkJEbkdjeDlwdkxqVVZlSGVOajdQRnUzdkxpY3NFdlhEZWpqOWdmdkVQUUk?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-15T22:46:00+00:00",
-      "collected_at": "2026-06-16T04:28:37.336681+00:00",
-      "summary": "농촌진흥청, 2026년 ‘대한민국 최고농업기술명인’ 선발 KBS 뉴스",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     },
     {
       "id": "d6a01535660727ab2a377aa9",
@@ -13333,141 +13429,23 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "512c3dfe03e2c29324830db8",
-      "title": "의성군, 전략작물직불제·논타작물지원,..30일까지 신청기간 연장 - 웹플러스뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MMmllb3o3TXIwbnRhXzBsUDhKTHdVd1RrRDlMZWctcm53V293dHVBd3ZHdlVUYUx3alAtU081WjdxWlpsTkVNdmlCUnNaNzJVSzJkN1JOVTFadUUtNEVDc1pGNFRmVXpGR3ZR?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "support",
-      "published_at": "2026-06-10T01:27:02+00:00",
-      "collected_at": "2026-06-10T11:56:45.614461+00:00",
-      "summary": "의성군, 전략작물직불제·논타작물지원,..30일까지 신청기간 연장 웹플러스뉴스",
-      "keywords": [
-        "작물",
-        "신청",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "6월 30일 마감",
-      "deadline_date": "2026-06-30",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "93bb7402c2a4ee64390c6695",
-      "title": "샘표, 국립식량과학원과 맞손…식량작물 활용 연구 확대 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BYkIzQ3pQOGdRc2NoQ1NlMkw5MFJHcWNDcFFRMHdtWmhFelJGcHlEOXNZbjRDT2lLb09PVjgxZEt5MHRYLWl6dTZuUkltQQ?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-10T01:24:02+00:00",
-      "collected_at": "2026-06-10T06:04:50.137803+00:00",
-      "summary": "샘표, 국립식량과학원과 맞손…식량작물 활용 연구 확대 전자신문",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f24986874ecfc7a9aaeb1498",
-      "title": "샘표, 식량과학원과 손잡고 가루쌀·논콩 등 전략작물 연구 확대 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXWE5NMW1mS05VUVJISkJ1WW40LW1tU3Bva2FjaTJOUzh5Z3hTT3VnTThEeWNQelJVcktGcDNlQUZBMmRGang0UUg4LUpPUUluODVoSGI3QjhJeGdsR1JWMDl4aXN1dzFWdW5pLTRyTnJQalN4MEJaYtIBeEFVX3lxTFBXWE5NMW1mS05VUVJISkJ1WW40LW1tU3Bva2FjaTJOUzh5Z3hTT3VnTThEeWNQelJVcktGcDNlQUZBMmRGang0UUg4LUpPUUluODVoSGI3QjhJeGdsR1JWMDl4aXN1dzFWdW5pLTRyTnJQalN4MEJaYg?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-10T01:12:05+00:00",
-      "collected_at": "2026-06-10T06:04:50.137803+00:00",
-      "summary": "샘표, 식량과학원과 손잡고 가루쌀·논콩 등 전략작물 연구 확대 뉴시스",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "98ec2bfc785afe082c3cc5e3",
-      "title": "서초구, 진단부터 치료까지…반려식물 클리닉 사업 본격 운영 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZMjl3dl9qd3JORm9kalcwTGJZQlNtb0hyTUhJRzZva3FWLUN4NXVmbndabC1mcGk3dVNEZF9zOEVUYzJOdVdRYm0yMFBBMHM2V25n?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "support",
-      "published_at": "2026-06-10T01:12:00+00:00",
-      "collected_at": "2026-06-11T17:13:07.195548+00:00",
-      "summary": "서초구, 진단부터 치료까지…반려식물 클리닉 사업 본격 운영 네이트",
-      "keywords": [
-        "반려식물",
-        "사업"
-      ],
-      "importance": 58,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "ea084c0318d4def2c889779f",
-      "title": "강서구, 전문가가 직접 찾아가는 반려식물 클리닉 도입… 무료 진단·분갈이 지원 > 뉴스 - 더코리아",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IUl9faUptOWV1Ny1zRE4xai1BOGMtRlN0My03UWRFWThLaE5Qb0hVR3VuQXBDeFFVRHBxSF93c1pNWHFQdTltU1hocDJfM1pfbmRkYzZWR2o1ZkZob2dFdDBhQTMtbGUzMjUzMlhHRlE?oc=5",
-      "source": "Google News 식물 관리",
-      "category": "support",
-      "published_at": "2026-06-10T01:11:00+00:00",
-      "collected_at": "2026-06-10T06:05:00.791260+00:00",
-      "summary": "강서구, 전문가가 직접 찾아가는 반려식물 클리닉 도입… 무료 진단·분갈이 지원 > 뉴스 더코리아",
-      "keywords": [
-        "반려식물",
-        "분갈이",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "7412edeebd18676d42027af7",
-      "title": "농촌 정착의 첫걸음 돕는다… 순천시 귀농 지원사업 접수 - 전남매거진",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zOXRxUUc4N0llRS1uazl4SFdUMTVtMGhCODJ6RktKcUVoRVVtV2pneUdkTGlRVTVOWkw4N2ZjVElMcWdyUUg1aUpEdk02NlVjNmQ0M09rTWYwUGlCUFlxVlNoQdIBZkFVX3lxTE85alJJLV92ekloQzJhWFI3SVJFUW5SdGlHZ3JpR05fRVRUTHFnSTU1Vm9tQk4tUEpvSzNhM3h1UjJxN1FGVGlyMVNDZnlaZ05KTGtQa2RsTDRjWWc4QmFMYVdvb0JPUQ?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-06-10T01:05:12+00:00",
-      "collected_at": "2026-06-10T06:04:46.372402+00:00",
-      "summary": "농촌 정착의 첫걸음 돕는다… 순천시 귀농 지원사업 접수 전남매거진",
-      "keywords": [
-        "농촌",
-        "귀농",
-        "지원사업",
-        "지원",
-        "접수",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "전남",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 694,
+    "total": 693,
     "category_counts": {
-      "news": 345,
+      "news": 346,
       "plant_reviews": 55,
-      "support": 294
+      "support": 292
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 254
+        "count": 256
       },
       {
         "keyword": "지원",
-        "count": 213
+        "count": 212
       },
       {
         "keyword": "귀농",
@@ -13475,23 +13453,23 @@
       },
       {
         "keyword": "사업",
-        "count": 122
+        "count": 120
       },
       {
         "keyword": "농촌",
-        "count": 113
+        "count": 115
       },
       {
         "keyword": "지원사업",
-        "count": 100
+        "count": 99
       },
       {
         "keyword": "신청",
-        "count": 91
+        "count": 90
       },
       {
         "keyword": "접수",
-        "count": 72
+        "count": 71
       },
       {
         "keyword": "모집",
@@ -13499,11 +13477,11 @@
       },
       {
         "keyword": "작물",
-        "count": 61
+        "count": 58
       },
       {
         "keyword": "농업인",
-        "count": 52
+        "count": 53
       },
       {
         "keyword": "스마트팜",
@@ -13513,19 +13491,19 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 120
+        "count": 123
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 115
+        "count": 112
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 82
+        "count": 83
       },
       {
         "source": "Google News 지원사업",
-        "count": 70
+        "count": 69
       },
       {
         "source": "Google News 농산물 가격",
@@ -13537,11 +13515,11 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 51
+        "count": 50
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 35
+        "count": 36
       },
       {
         "source": "Google News 농촌진흥청",
@@ -13556,8 +13534,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 40,
-    "fetched_items": 839,
+    "new_items": 9,
+    "fetched_items": 827,
     "errors": []
   }
 }
