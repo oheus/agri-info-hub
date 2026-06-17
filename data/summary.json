@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-17T00:12:18.374161+00:00",
-  "total": 694,
+  "generated_at": "2026-06-17T00:42:49.298571+00:00",
+  "total": 693,
   "category_counts": {
-    "news": 345,
+    "news": 346,
     "plant_reviews": 55,
-    "support": 294
+    "support": 292
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 254
+      "count": 256
     },
     {
       "keyword": "지원",
-      "count": 213
+      "count": 212
     },
     {
       "keyword": "귀농",
@@ -21,23 +21,23 @@
     },
     {
       "keyword": "사업",
-      "count": 122
+      "count": 120
     },
     {
       "keyword": "농촌",
-      "count": 113
+      "count": 115
     },
     {
       "keyword": "지원사업",
-      "count": 100
+      "count": 99
     },
     {
       "keyword": "신청",
-      "count": 91
+      "count": 90
     },
     {
       "keyword": "접수",
-      "count": 72
+      "count": 71
     },
     {
       "keyword": "모집",
@@ -45,11 +45,11 @@
     },
     {
       "keyword": "작물",
-      "count": 61
+      "count": 58
     },
     {
       "keyword": "농업인",
-      "count": 52
+      "count": 53
     },
     {
       "keyword": "스마트팜",
@@ -59,19 +59,19 @@
   "top_sources": [
     {
       "source": "Google News 농업",
-      "count": 120
+      "count": 123
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 115
+      "count": 112
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 82
+      "count": 83
     },
     {
       "source": "Google News 지원사업",
-      "count": 70
+      "count": 69
     },
     {
       "source": "Google News 농산물 가격",
@@ -83,11 +83,11 @@
     },
     {
       "source": "Google News 식물 키우기",
-      "count": 51
+      "count": 50
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 35
+      "count": 36
     },
     {
       "source": "Google News 농촌진흥청",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 40,
-    "fetched_items": 839,
+    "new_items": 9,
+    "fetched_items": 827,
     "errors": []
   }
 }
