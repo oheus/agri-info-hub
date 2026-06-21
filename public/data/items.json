@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T14:03:29.204139+00:00",
+  "generated_at": "2026-06-21T14:33:57.956039+00:00",
   "items": [
     {
       "id": "30760f0fc35048068a61c2bf",
@@ -377,6 +377,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "f66200895ee8eae110620128",
+      "title": "농협 경남본부, 전국 최다 스마트팜 확산 추진 중 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DWmJwSWdhM1VTZkpVRG5pZzFCeVlmeVkxdWd0cDIxeGVZeU1GRDdqcXFqVFZKWWNHdnVCRzhpQXIyQ1JmN3dTWmQ1eEZMMW8?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-06-21T07:15:11+00:00",
+      "collected_at": "2026-06-21T14:33:43.075269+00:00",
+      "summary": "농협 경남본부, 전국 최다 스마트팜 확산 추진 중 v.daum.net",
+      "keywords": [
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "경남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "a9888829903cf9eab8b64f9c",
@@ -2092,24 +2110,6 @@
       ],
       "importance": 42,
       "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "67fa50d0d78234dd279be24b",
-      "title": "농협 경남본부, 전국 최다 스마트팜 확산 추진 중 - 경남도민일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHYThzbV9jS1YyQmZTa0wzaVd6RlpSVmM4LUxQcTFMX0diWTBxLTgwZGV1R1F5Vy1YTGI0clVrSWFhVVA5SzExdjk2YkFYSExfc2VYbFJNbzJ1bUFMVmJlN29jVWh4NEJFanc?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-19T07:00:00+00:00",
-      "collected_at": "2026-06-21T13:32:44.114331+00:00",
-      "summary": "농협 경남본부, 전국 최다 스마트팜 확산 추진 중 경남도민일보",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "경남",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -13770,88 +13770,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "eb698dbdc48819f7768c25e1",
-      "title": "귀농 지원 확대 나선 양구군…창업·주거 자금 융자로 인구 유입 기대 - MTN 머니투데이방송",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qWmlxTEVzTFFuQTNkZ2tMczV1dUdVQkVYckgtbTJnUHQ2VmNJcnFWN1JBTUdlNTFrSE80SUxmVVNaRkNZLVlWMk5VZmVjZ0xaZ0xocTRrWF9rc2FUYUxaZTk3dFU?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-06-15T01:26:29+00:00",
-      "collected_at": "2026-06-15T11:37:18.908262+00:00",
-      "summary": "귀농 지원 확대 나선 양구군…창업·주거 자금 융자로 인구 유입 기대 MTN 머니투데이방송",
-      "keywords": [
-        "귀농",
-        "융자",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "56c8e4bee98dc99f8c8132ec",
-      "title": "[ESG경영]강원농협·한국전기안전공사 강원본부, 지속가능한 농촌 구현 위해 맞손 - 미디어인뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mNWxuNVJUY1NWNXJkR3VBVXE4YjJsaUdXWUhHLTJxcWhVY01wby02RE4xcEgtaVduTkg2eW83QlVZN1lzd0dsZmFpeGc4U0JYQUxmcFI3VV9EbW5pcWZ0SDlVbFdidnBUNERHSjhR?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-15T01:22:25+00:00",
-      "collected_at": "2026-06-16T14:00:54.925865+00:00",
-      "summary": "[ESG경영]강원농협·한국전기안전공사 강원본부, 지속가능한 농촌 구현 위해 맞손 미디어인뉴스",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "강원",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "5f48603296eeb74651149aba",
-      "title": "“추석 대목 선점한다” 정읍시, 애호박연구회 대상 여름철 고온기 재배기술 교육 - 이로운넷",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95c0dPbEIzaVlFU2xfVnYxTGRKSDJSdjYzOS1zcGRuQ2pqLTB1ajVyWnJxMzY1OUl6cVlHWHlqLTJQT1VEY1BfZnVESkE5S2xDc3c5VXpjQm5lX2pnWWtwR1ZSX1VFZw?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-15T01:21:59+00:00",
-      "collected_at": "2026-06-15T05:53:40.286362+00:00",
-      "summary": "“추석 대목 선점한다” 정읍시, 애호박연구회 대상 여름철 고온기 재배기술 교육 이로운넷",
-      "keywords": [
-        "재배"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "3d7e4b933457cf38c51502e7",
-      "title": "\"도농 교류 활성화\"…강원농협-전기안전공사, 농촌 이음 협약 체결 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qVURnY3E4QUtrM3k2MFRDOTJDaVBlSzh0OTBnSC1TUFg3UnhIdHcyOHJyS1NMWjBCTEVHSk9ScnZMV2RqVVhqd0IzTnpQSkphSF9GWQ?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-15T01:14:26+00:00",
-      "collected_at": "2026-06-16T14:00:54.925865+00:00",
-      "summary": "\"도농 교류 활성화\"…강원농협-전기안전공사, 농촌 이음 협약 체결 뉴스1",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "강원",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 721,
+    "total": 717,
     "category_counts": {
-      "news": 408,
+      "news": 405,
       "plant_reviews": 43,
-      "support": 270
+      "support": 269
     },
     "top_keywords": [
       {
@@ -13860,15 +13786,15 @@
       },
       {
         "keyword": "지원",
-        "count": 203
+        "count": 202
       },
       {
         "keyword": "귀농",
-        "count": 179
+        "count": 178
       },
       {
         "keyword": "농촌",
-        "count": 105
+        "count": 103
       },
       {
         "keyword": "사업",
@@ -13906,19 +13832,19 @@
     "top_sources": [
       {
         "source": "Google News 청년농 귀농",
-        "count": 140
-      },
-      {
-        "source": "Google News 농업",
-        "count": 96
+        "count": 139
       },
       {
         "source": "Google News 농산물 가격",
         "count": 96
       },
       {
-        "source": "Google News 병해충 재배",
+        "source": "Google News 농업",
         "count": 94
+      },
+      {
+        "source": "Google News 병해충 재배",
+        "count": 93
       },
       {
         "source": "Google News 스마트팜",
@@ -13949,8 +13875,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 8,
-    "fetched_items": 854,
+    "new_items": 7,
+    "fetched_items": 849,
     "errors": []
   }
 }
