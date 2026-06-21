@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-21T15:04:26.958587+00:00",
+  "generated_at": "2026-06-21T15:34:54.032422+00:00",
   "total": 717,
   "category_counts": {
-    "news": 405,
+    "news": 406,
     "plant_reviews": 43,
-    "support": 269
+    "support": 268
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 236
+      "count": 235
     },
     {
       "keyword": "지원",
-      "count": 202
+      "count": 200
     },
     {
       "keyword": "귀농",
-      "count": 178
+      "count": 177
     },
     {
       "keyword": "농촌",
@@ -37,33 +37,33 @@
     },
     {
       "keyword": "신청",
-      "count": 63
-    },
-    {
-      "keyword": "모집",
-      "count": 57
+      "count": 64
     },
     {
       "keyword": "작물",
       "count": 57
     },
     {
-      "keyword": "농산물",
-      "count": 54
+      "keyword": "모집",
+      "count": 56
     },
     {
-      "keyword": "청년농",
-      "count": 49
+      "keyword": "농산물",
+      "count": 56
+    },
+    {
+      "keyword": "접수",
+      "count": 50
     }
   ],
   "top_sources": [
     {
       "source": "Google News 청년농 귀농",
-      "count": 139
+      "count": 138
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 97
+      "count": 98
     },
     {
       "source": "Google News 농업",
@@ -87,22 +87,22 @@
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 29
+      "count": 28
+    },
+    {
+      "source": "Google News 농업기술센터 모집",
+      "count": 20
     },
     {
       "source": "Google News 농촌진흥청",
       "count": 20
-    },
-    {
-      "source": "Google News 농업기술센터 모집",
-      "count": 19
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 3,
-    "fetched_items": 848,
+    "new_items": 6,
+    "fetched_items": 751,
     "errors": []
   }
 }
