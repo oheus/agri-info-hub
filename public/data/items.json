@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T14:33:57.956039+00:00",
+  "generated_at": "2026-06-21T15:04:26.958587+00:00",
   "items": [
     {
       "id": "30760f0fc35048068a61c2bf",
@@ -248,6 +248,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "a7701d23be1711f4ffddcdfc",
+      "title": "송옥주 의원 \"농산물 가격안정제 성공 열쇠는 데이터와 거버넌스\" - 서울일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kQzV1dW1IWTBTT1BNOEdaaFRmTFdUMk81Q25saTNIckNWckJRY0pvNmRkMWpNMHNhZ2VHWEZDdk1VYzItRXlFZ3hKVHZmcXd5c0VRWHFQelZxRDZDZUR0bzlFN21QaF9ZR0lKcg?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-06-21T08:35:12+00:00",
+      "collected_at": "2026-06-21T15:04:14.430649+00:00",
+      "summary": "송옥주 의원 \"농산물 가격안정제 성공 열쇠는 데이터와 거버넌스\" 서울일보",
+      "keywords": [
+        "농산물",
+        "농산물 가격"
+      ],
+      "importance": 48,
+      "region": "서울",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "1c972e575346fcf65d8dcaeb",
@@ -13752,24 +13771,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "555e85a0e558807252da388d",
-      "title": "[정읍시] 추석 대목 겨냥 애호박 재배기술 교육 실시…농가 경쟁력 강화 - 투데이안",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sTnNCTFpKSEVvR0JrM1BmQjlpS1ZBRk5xVFJpXzFsbHAxeE0xMkEyUUZOR0ZqR0RrVFprVk5KWkV6MGg4SWg5QXYtWDhhT1I2dWtiSkQ1amF6Sl9JS3VJRVB2SXg1QkNT?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-15T01:30:32+00:00",
-      "collected_at": "2026-06-16T04:28:42.109309+00:00",
-      "summary": "[정읍시] 추석 대목 겨냥 애호박 재배기술 교육 실시…농가 경쟁력 강화 투데이안",
-      "keywords": [
-        "재배"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
@@ -13822,7 +13823,7 @@
       },
       {
         "keyword": "농산물",
-        "count": 53
+        "count": 54
       },
       {
         "keyword": "청년농",
@@ -13836,7 +13837,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 96
+        "count": 97
       },
       {
         "source": "Google News 농업",
@@ -13844,7 +13845,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 93
+        "count": 92
       },
       {
         "source": "Google News 스마트팜",
@@ -13875,8 +13876,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 7,
-    "fetched_items": 849,
+    "new_items": 3,
+    "fetched_items": 848,
     "errors": []
   }
 }
