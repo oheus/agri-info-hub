@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-21T16:05:21.683647+00:00",
+  "generated_at": "2026-06-21T16:35:51.734480+00:00",
   "items": [
+    {
+      "id": "75f105059241cb49748fe64f",
+      "title": "‘성공 귀농·행복 귀촌’ 길잡이… 국민팜엑스포에 참여 인파 ‘북적’ - 국민일보",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORFdEN2xSN2NwYWdSYTVITFBoYUI0Q2N6T0lsRUpCQVdyLTZDM24xVEhaTnVsTjdmcU1EelUtSEV5bkpPTTJvOGJvLXhKT0NoNE9iTDN0U3ktd2tPY3JIXzBJVjFGVTVjbzcyWFVVU3h4bnlRb3lLdHp2cHFkdkdGNkpXc1JNR05DeVl1bHB6ckZBNmZpckHSAWxBVV95cUxORmQyaVB1Z2EtSEIyUDNXVjljdG40RUh5R3NkbGliWGlnYXVxNUhSN1RGTF9kSFVqX0kzQTBfQi1tY3drOU1vWVY0OEpuWWI0Y3QySnRiQm1qZUVRczNlYk1XM0hBMUl4eGhmb2Y?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-06-21T16:22:00+00:00",
+      "collected_at": "2026-06-21T16:35:36.862929+00:00",
+      "summary": "‘성공 귀농·행복 귀촌’ 길잡이… 국민팜엑스포에 참여 인파 ‘북적’ 국민일보",
+      "keywords": [
+        "귀농"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "4f268c092354afa79b4f75c9",
       "title": "음성군, 농기계분야 지원사업 추가 신청·접수 - 음성타임즈",
@@ -13731,60 +13749,23 @@
       "deadline_text": "7월 6일 마감",
       "deadline_date": "2026-07-06",
       "category_label": "지원사업"
-    },
-    {
-      "id": "a75c068e41602b06003a5ece",
-      "title": "익산시, 귀농인 창업 및 주택자금 대출 지원 - 익산신문",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT2VtbW8tcHMyc09lWUUzakZZV0FKX3hMM3I5Rko3eDZqdk0zZk9QTDhOdk8wYS1fM1l2WTRmYWw5akktVVRxM2syS3c5LThlU0F1aHNVajduNU9FSzNkcDJLS0F4SHM1N3FFNWNWVkNWdWpEdWV0OEluSkVZRXNybg?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-06-15T01:46:00+00:00",
-      "collected_at": "2026-06-15T05:53:38.828601+00:00",
-      "summary": "익산시, 귀농인 창업 및 주택자금 대출 지원 익산신문",
-      "keywords": [
-        "귀농",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "전북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "36628132ce39574bc24aa637",
-      "title": "AI가 이끄는 농업의 미래…‘2026 농업기술박람회’ 18일 개막 - livesnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LVzAwc2ZpSHdxanVGU1F4eDBLV0JWczZrVDlmS2Nrd3oydmxGOHlKcUdMR2JIeEZkUUV2UC1RVk1kRk43Yzl2d1k5OVVucmRWbUZobU9lVEtqYUpU?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-15T01:44:58+00:00",
-      "collected_at": "2026-06-16T14:00:54.925865+00:00",
-      "summary": "AI가 이끄는 농업의 미래…‘2026 농업기술박람회’ 18일 개막 livesnews.com",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 717,
+    "total": 716,
     "category_counts": {
       "news": 407,
       "plant_reviews": 43,
-      "support": 267
+      "support": 266
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 235
+        "count": 234
       },
       {
         "keyword": "지원",
-        "count": 200
+        "count": 199
       },
       {
         "keyword": "귀농",
@@ -13838,7 +13819,7 @@
       },
       {
         "source": "Google News 농업",
-        "count": 95
+        "count": 94
       },
       {
         "source": "Google News 병해충 재배",
@@ -13873,8 +13854,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 3,
-    "fetched_items": 845,
+    "new_items": 2,
+    "fetched_items": 844,
     "errors": []
   }
 }
