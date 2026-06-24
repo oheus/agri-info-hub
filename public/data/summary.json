@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-24T07:17:01.606450+00:00",
-  "total": 767,
+  "generated_at": "2026-06-24T09:45:34.846874+00:00",
+  "total": 771,
   "category_counts": {
-    "news": 501,
-    "plant_reviews": 47,
-    "support": 219
+    "news": 511,
+    "plant_reviews": 46,
+    "support": 214
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 237
+      "count": 238
     },
     {
       "keyword": "귀농",
-      "count": 183
+      "count": 179
     },
     {
       "keyword": "지원",
@@ -21,7 +21,7 @@
     },
     {
       "keyword": "농촌",
-      "count": 121
+      "count": 122
     },
     {
       "keyword": "스마트팜",
@@ -29,45 +29,45 @@
     },
     {
       "keyword": "사업",
-      "count": 86
+      "count": 87
     },
     {
       "keyword": "지원사업",
-      "count": 63
+      "count": 66
     },
     {
       "keyword": "농산물",
-      "count": 54
+      "count": 59
     },
     {
-      "keyword": "귀농귀촌",
-      "count": 51
+      "keyword": "작물",
+      "count": 48
     },
     {
       "keyword": "신청",
-      "count": 49
+      "count": 48
+    },
+    {
+      "keyword": "귀농귀촌",
+      "count": 48
     },
     {
       "keyword": "청년농",
       "count": 47
-    },
-    {
-      "keyword": "작물",
-      "count": 46
     }
   ],
   "top_sources": [
     {
       "source": "Google News 청년농 귀농",
-      "count": 168
+      "count": 165
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 109
+      "count": 116
     },
     {
       "source": "Google News 농업",
-      "count": 106
+      "count": 108
     },
     {
       "source": "Google News 스마트팜",
@@ -75,15 +75,15 @@
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 86
+      "count": 85
     },
     {
       "source": "Google News 지원사업",
-      "count": 49
+      "count": 52
     },
     {
       "source": "Google News 식물 키우기",
-      "count": 47
+      "count": 46
     },
     {
       "source": "Google News 청년농 지원",
@@ -95,14 +95,14 @@
     },
     {
       "source": "Google News 농업기술센터 모집",
-      "count": 22
+      "count": 21
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 194,
-    "fetched_items": 842,
+    "new_items": 38,
+    "fetched_items": 837,
     "errors": []
   }
 }
