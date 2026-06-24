@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T14:51:17.049225+00:00",
+  "generated_at": "2026-06-24T15:21:53.138996+00:00",
   "items": [
     {
       "id": "ef27609f81d78e9a24efbde8",
@@ -5295,6 +5295,25 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "2ad4f226427b2b520d9a6f50",
+      "title": "고흥군 반려식물 치유농업 큰 호응 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qYXVLdS02OFBmQVAweFYyN1hsYXFrLVlKOUh2eGRYb3VELXJYU2k5WTFQbWttSWtZVFZndlM3NHJWYW4yZHlDbzNjZjBabWhTMnNNUnh3QnE0X0E1UzJKUzJFY2gwZjZxWHU3aHhzTkI?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-06-22T02:09:00+00:00",
+      "collected_at": "2026-06-24T15:21:47.326961+00:00",
+      "summary": "고흥군 반려식물 치유농업 큰 호응 > 뉴스 더코리아",
+      "keywords": [
+        "농업",
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
     },
     {
       "id": "006161d9e4008572801cd829",
@@ -14484,52 +14503,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "76b1234be74af8eb6f7884bc",
-      "title": "농협 고령군지부, 고령·쌍림초에 교실 속 스마트팜 스마트재배기 ‘LG 틔운’ 지원 - 경상투데이",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PdUEtNk1wWDF6TFo5bW9vZTRBYXlrMVZpQWJ4UnlpS1d1WW1MbzdRb01GVTNiejFKZFVmdzd1U0ZxRFBkZVJTVks2ODRwU1M4S3hVV0Q3anQ5UE9OYjlCNDFBWHk3aUE?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "support",
-      "published_at": "2026-06-17T01:32:59+00:00",
-      "collected_at": "2026-06-18T11:15:02.265145+00:00",
-      "summary": "농협 고령군지부, 고령·쌍림초에 교실 속 스마트팜 스마트재배기 ‘LG 틔운’ 지원 경상투데이",
-      "keywords": [
-        "스마트팜",
-        "재배",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "0713674e36ed9951f5bcbaba",
-      "title": "'2026 치유농업박람회' 19~20일 논산 에파코팜서 개최 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5obG5LWWxFMHhTUEFzYTYzdVNnaVMyeEJ6QUFkUWY5LVR3UVJUa0J2OFRIY2FZeVJiVDEzS3dGcHBWTXNIOUE?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-17T01:31:51+00:00",
-      "collected_at": "2026-06-17T09:57:33.339178+00:00",
-      "summary": "'2026 치유농업박람회' 19~20일 논산 에파코팜서 개최 v.daum.net",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "region": "충남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 766,
+    "total": 765,
     "category_counts": {
-      "news": 512,
-      "plant_reviews": 48,
-      "support": 206
+      "news": 511,
+      "plant_reviews": 49,
+      "support": 205
     },
     "top_keywords": [
       {
@@ -14542,7 +14523,7 @@
       },
       {
         "keyword": "지원",
-        "count": 148
+        "count": 147
       },
       {
         "keyword": "농촌",
@@ -14550,7 +14531,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 99
+        "count": 98
       },
       {
         "keyword": "사업",
@@ -14592,11 +14573,11 @@
       },
       {
         "source": "Google News 농업",
-        "count": 105
+        "count": 104
       },
       {
         "source": "Google News 스마트팜",
-        "count": 96
+        "count": 95
       },
       {
         "source": "Google News 병해충 재배",
@@ -14608,7 +14589,7 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 47
+        "count": 48
       },
       {
         "source": "Google News 농촌진흥청",
@@ -14627,8 +14608,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 57,
-    "fetched_items": 809,
+    "new_items": 4,
+    "fetched_items": 840,
     "errors": []
   }
 }
