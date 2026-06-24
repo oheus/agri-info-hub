@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T15:21:53.138996+00:00",
+  "generated_at": "2026-06-24T15:52:27.026570+00:00",
   "items": [
     {
       "id": "ef27609f81d78e9a24efbde8",
@@ -55,6 +55,22 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "fda87055f7ff77fc8204da92",
+      "title": "아프리카돼지열병 등 가축전염병 방역을 위하여 양돈농장에서 준수해야 할 방역기준 변경 공고(2026-373호) - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lUlBkUUpGTEltQmZPbmp0b1lJUkVIamZ3Q1NoRGFILXpNUDlpejdoYnVsbnF6MHZ2c09BMmdTNWVONUVaZ1BCNFFUaFM0d1J1VllrWW9qR2pQSTRvNXhiRUppZGcxWjFfei1GeEIzSUF0QVlzQVJkRmhSZw?oc=5",
+      "source": "Google News 농식품부 공고",
+      "category": "support",
+      "published_at": "2026-06-24T11:55:26+00:00",
+      "collected_at": "2026-06-24T15:52:14.762620+00:00",
+      "summary": "아프리카돼지열병 등 가축전염병 방역을 위하여 양돈농장에서 준수해야 할 방역기준 변경 공고(2026-373호) 농림축산식품부",
+      "keywords": [],
+      "importance": 74,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "3d02e46d081a634a814a1aa4",
@@ -519,6 +535,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "928c55cc9ca3567b88b48f90",
+      "title": "농산업 수출 규제 장벽 허문다! ‘농산업 글로벌 인·허가 통합 지원단’ 출범 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qal83ZEhPZ0NJaHROM0NkdzFaeW9rVGpnTk9BeTY0SU8tZFpKZmJ6cDU2U0RBcHZtUnJrbHZJUW5VVzN3MThRcUN2Rm5ZWDRlVnBxUVBaRTI0VHFsVzJwREpXNW8tclhiRlVxaGxQS00wOUU0QkdlTTh0aw?oc=5",
+      "source": "Google News 농식품부 공고",
+      "category": "support",
+      "published_at": "2026-06-24T07:00:00+00:00",
+      "collected_at": "2026-06-24T15:52:14.762620+00:00",
+      "summary": "농산업 수출 규제 장벽 허문다! ‘농산업 글로벌 인·허가 통합 지원단’ 출범 농림축산식품부",
+      "keywords": [
+        "지원"
+      ],
+      "importance": 74,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "d6882ec1b51b21985784b493",
@@ -14461,48 +14495,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "fa566b9a412225bf4865a1df",
-      "title": "광주시, 농업·농장 경영 맞춤형 AI 교육 참가자 모집 - 네이트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ncHFUbTBTZ0lHX1FBdlVLMlFjRlVxalRqWGpDRExxb1J1QXZZZFJ5RGRoeG5nQzRlWUVFWU94cWpqcEdFam52MkdPUWlZUW5SUkFj?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-06-17T01:48:00+00:00",
-      "collected_at": "2026-06-17T09:57:51.749454+00:00",
-      "summary": "광주시, 농업·농장 경영 맞춤형 AI 교육 참가자 모집 네이트",
-      "keywords": [
-        "농업",
-        "모집"
-      ],
-      "importance": 74,
-      "region": "광주",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "e2826a3af207f05324fc6aab",
-      "title": "함평군, 귀농인 농촌정착 위한 ‘농업창업·주택구입 지원사업’ 추진 - 브릿지경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xaWZrcE1xYzhNTjFsRVM2OU84RV9hdzF5a1VKX2I3eXdIMXpfT3VpU1RxVnpxSjlLd2g4dVFGdm12T1BjVUc2UFNEVHgyQ3I3NnJnVHF6Q1hnZw?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-06-17T01:39:00+00:00",
-      "collected_at": "2026-06-17T09:57:34.789315+00:00",
-      "summary": "함평군, 귀농인 농촌정착 위한 ‘농업창업·주택구입 지원사업’ 추진 브릿지경제",
-      "keywords": [
-        "농업",
-        "농촌",
-        "귀농",
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
@@ -14515,11 +14507,11 @@
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 232
+        "count": 230
       },
       {
         "keyword": "귀농",
-        "count": 173
+        "count": 172
       },
       {
         "keyword": "지원",
@@ -14527,7 +14519,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 122
+        "count": 121
       },
       {
         "keyword": "스마트팜",
@@ -14535,11 +14527,11 @@
       },
       {
         "keyword": "사업",
-        "count": 87
+        "count": 86
       },
       {
         "keyword": "지원사업",
-        "count": 65
+        "count": 64
       },
       {
         "keyword": "농산물",
@@ -14585,7 +14577,7 @@
       },
       {
         "source": "Google News 지원사업",
-        "count": 51
+        "count": 50
       },
       {
         "source": "Google News 식물 키우기",
@@ -14601,15 +14593,15 @@
       },
       {
         "source": "Google News 농업기술센터 모집",
-        "count": 21
+        "count": 20
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 840,
+    "new_items": 3,
+    "fetched_items": 842,
     "errors": []
   }
 }
