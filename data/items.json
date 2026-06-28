@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T14:46:37.846172+00:00",
+  "generated_at": "2026-06-28T15:17:32.316524+00:00",
   "items": [
     {
       "id": "95beb8e8678682bca54da33b",
@@ -7740,6 +7740,29 @@
       "category_label": "지원사업"
     },
     {
+      "id": "94cad325cb2c9003f6831949",
+      "title": "[위클리오늘] 파주시, 2026년 하반기 귀농 농업창업 및 주택구입 지원사업 대상자 모집 - 위클리오늘",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mdTA5ZjYwbHhTaEg4UktTUU1rSGdhS2c4Nl94eXZDTjZvTHA5YkoyeGVPTWtQR2c2YkdGS1VTQmRIa1ZGQmQ0bnU2OGpNNk1nUDB5bXM5ampNT1p2OFBJYnBsMlFhcDNXcnVOSTlR?oc=5",
+      "source": "Google News 농업 지원금",
+      "category": "support",
+      "published_at": "2026-06-23T03:00:35+00:00",
+      "collected_at": "2026-06-28T15:17:16.798942+00:00",
+      "summary": "[위클리오늘] 파주시, 2026년 하반기 귀농 농업창업 및 주택구입 지원사업 대상자 모집 위클리오늘",
+      "keywords": [
+        "농업",
+        "귀농",
+        "지원사업",
+        "모집",
+        "지원",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "326d09b5ae166ade66c3cddc",
       "title": "박광호 한국쌀연구회장, 직파재배와 마른논 써레 이앙재배기술 소개 '주목' - 전업농신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNLVRKZ0lQS0hOb0xLa0huS1dnWXRDTnJiRmczQnRKazJwaE1EY1g2N2ZObWVWeVlMOG9iTGFMclUtYXZablpFeUVyc01FV183M3YzcWJPTE9aZTN2WVJ4VzR4ZjFhTlhCcVZzZg?oc=5",
@@ -14068,42 +14091,23 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "711efcd1ca7cf402f2317879",
-      "title": "전북대 스마트팜학과, 첨단 작물모형·AI 스마트팜 연구로 학계 주목 - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IOVB4Q3BUQ0YtaHpxVTFKdnc3V3ZHampJNk5XOVFIT3U5N04wR3V3VUI1NjRySjV5YldiUmRJZzR5SkhmQ0xHV1FZV3FVQQ?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-19T06:01:40+00:00",
-      "collected_at": "2026-06-19T12:13:42.945870+00:00",
-      "summary": "전북대 스마트팜학과, 첨단 작물모형·AI 스마트팜 연구로 학계 주목 전자신문",
-      "keywords": [
-        "스마트팜",
-        "작물"
-      ],
-      "importance": 42,
-      "region": "전북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
     "total": 748,
     "category_counts": {
-      "news": 532,
+      "news": 531,
       "plant_reviews": 38,
-      "support": 178
+      "support": 179
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 201
+        "count": 202
       },
       {
         "keyword": "귀농",
-        "count": 166
+        "count": 167
       },
       {
         "keyword": "농촌",
@@ -14111,15 +14115,15 @@
       },
       {
         "keyword": "지원",
-        "count": 117
+        "count": 118
       },
       {
         "keyword": "스마트팜",
-        "count": 106
+        "count": 105
       },
       {
         "keyword": "사업",
-        "count": 67
+        "count": 68
       },
       {
         "keyword": "농산물",
@@ -14130,12 +14134,12 @@
         "count": 51
       },
       {
-        "keyword": "작물",
-        "count": 51
+        "keyword": "지원사업",
+        "count": 50
       },
       {
-        "keyword": "지원사업",
-        "count": 49
+        "keyword": "작물",
+        "count": 50
       },
       {
         "keyword": "농업인",
@@ -14153,7 +14157,7 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 104
+        "count": 103
       },
       {
         "source": "Google News 병해충 재배",
@@ -14192,8 +14196,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 3,
-    "fetched_items": 860,
+    "new_items": 2,
+    "fetched_items": 846,
     "errors": []
   }
 }
