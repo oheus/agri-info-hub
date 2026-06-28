@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-28T15:48:21.965278+00:00",
-  "total": 747,
+  "generated_at": "2026-06-28T16:19:13.706623+00:00",
+  "total": 748,
   "category_counts": {
-    "news": 530,
+    "news": 531,
     "plant_reviews": 38,
     "support": 179
   },
@@ -17,7 +17,7 @@
     },
     {
       "keyword": "농촌",
-      "count": 139
+      "count": 140
     },
     {
       "keyword": "지원",
@@ -32,11 +32,15 @@
       "count": 68
     },
     {
-      "keyword": "농산물",
-      "count": 52
+      "keyword": "작물",
+      "count": 51
     },
     {
       "keyword": "병해충",
+      "count": 51
+    },
+    {
+      "keyword": "농산물",
       "count": 51
     },
     {
@@ -44,22 +48,18 @@
       "count": 50
     },
     {
-      "keyword": "작물",
-      "count": 50
+      "keyword": "청년농",
+      "count": 44
     },
     {
       "keyword": "농업인",
-      "count": 43
-    },
-    {
-      "keyword": "청년농",
       "count": 43
     }
   ],
   "top_sources": [
     {
       "source": "Google News 청년농 귀농",
-      "count": 158
+      "count": 159
     },
     {
       "source": "Google News 스마트팜",
@@ -75,11 +75,11 @@
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 83
+      "count": 82
     },
     {
       "source": "Google News 농촌진흥청",
-      "count": 51
+      "count": 52
     },
     {
       "source": "Google News 식물 키우기",
@@ -102,7 +102,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 2,
-    "fetched_items": 858,
+    "fetched_items": 837,
     "errors": []
   }
 }
