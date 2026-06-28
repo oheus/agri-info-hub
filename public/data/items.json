@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T14:13:34.163912+00:00",
+  "generated_at": "2026-06-28T14:46:37.846172+00:00",
   "items": [
     {
       "id": "95beb8e8678682bca54da33b",
@@ -130,6 +130,26 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "9a74bc36bf38a3765540b5ea",
+      "title": "작물과학원 호남농업연구소 공고 제2005 - 농촌진흥청",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVmI3UlFRVDdHekUyUnlrN2s2SEF4SWNuZVA3bVd4VDU4Nm5OcmRsTzA1QS03UF91UHdrMHlMNUhBZWVsd3N3YUNFTGpoTVVobkhtMC1OX3lQZ2JOTC1uZHVWSllsMEM4V05yeTJjMDJrU29ESGxMYkhaVklEcUN2RF9MTl9WWnl5Tl9JemdENEFwaGRxYUE?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-06-28T03:14:41+00:00",
+      "collected_at": "2026-06-28T14:46:18.586831+00:00",
+      "summary": "작물과학원 호남농업연구소 공고 제2005 농촌진흥청",
+      "keywords": [
+        "농업",
+        "농촌",
+        "작물"
+      ],
+      "importance": 48,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "f33a1873f582b10621d4b641",
@@ -14067,70 +14087,31 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "20f5a928ce7b1db7dc533b4b",
-      "title": "귀농 창업·주택자금 지원 신청 받는다 - 고성신문",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91eDdXRHVrQUZNMHJXcHAtM0RoQzBncVdxRi1lWEVJbGUwUGhjMkZLclpvNkpzTmR4Z2xzenlFWThyVDhqcGdGN0MzVEJKbW1NbFBUbTRSUmM5QVRiV05UTHdkVDlxQUUxeFZ0OHE0N3VQa0l2ZHFNZjBSMGw?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-06-19T05:55:47+00:00",
-      "collected_at": "2026-06-19T12:13:43.961315+00:00",
-      "summary": "귀농 창업·주택자금 지원 신청 받는다 고성신문",
-      "keywords": [
-        "귀농",
-        "신청",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "0cc2bb601b5125b627b7f506",
-      "title": "의성군, 현장 맞춤형 병해충 예방 지원으로 농가소득 향상 - 데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RRXpYS3ZSbW5zSGpJbUUtMEFmUDFvSHJLbWpOUy1YcWRuOXh0WEEyb3FmcVVEZEliR05SVDlodUdveUVuaWNWaFBwRUh1dEJkV2FCZmwtQndpdlpYa3IyaFZyczBVZw?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "support",
-      "published_at": "2026-06-19T05:55:06+00:00",
-      "collected_at": "2026-06-19T12:13:45.221846+00:00",
-      "summary": "의성군, 현장 맞춤형 병해충 예방 지원으로 농가소득 향상 데일리대구경북뉴스",
-      "keywords": [
-        "병해충",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "대구",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 749,
+    "total": 748,
     "category_counts": {
-      "news": 531,
+      "news": 532,
       "plant_reviews": 38,
-      "support": 180
+      "support": 178
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 200
+        "count": 201
       },
       {
         "keyword": "귀농",
-        "count": 167
+        "count": 166
       },
       {
         "keyword": "농촌",
-        "count": 139
+        "count": 140
       },
       {
         "keyword": "지원",
-        "count": 119
+        "count": 117
       },
       {
         "keyword": "스마트팜",
@@ -14146,11 +14127,11 @@
       },
       {
         "keyword": "병해충",
-        "count": 52
+        "count": 51
       },
       {
         "keyword": "작물",
-        "count": 50
+        "count": 51
       },
       {
         "keyword": "지원사업",
@@ -14168,7 +14149,7 @@
     "top_sources": [
       {
         "source": "Google News 청년농 귀농",
-        "count": 159
+        "count": 158
       },
       {
         "source": "Google News 스마트팜",
@@ -14176,7 +14157,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 97
+        "count": 96
       },
       {
         "source": "Google News 농업",
@@ -14188,7 +14169,7 @@
       },
       {
         "source": "Google News 농촌진흥청",
-        "count": 50
+        "count": 51
       },
       {
         "source": "Google News 식물 키우기",
@@ -14211,8 +14192,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 2,
-    "fetched_items": 861,
+    "new_items": 3,
+    "fetched_items": 860,
     "errors": []
   }
 }
