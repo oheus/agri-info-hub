@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T13:43:08.188199+00:00",
+  "generated_at": "2026-06-28T14:13:34.163912+00:00",
   "total": 749,
   "category_counts": {
     "news": 531,
@@ -9,7 +9,7 @@
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 201
+      "count": 200
     },
     {
       "keyword": "귀농",
@@ -17,7 +17,7 @@
     },
     {
       "keyword": "농촌",
-      "count": 138
+      "count": 139
     },
     {
       "keyword": "지원",
@@ -75,11 +75,11 @@
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 85
+      "count": 84
     },
     {
       "source": "Google News 농촌진흥청",
-      "count": 49
+      "count": 50
     },
     {
       "source": "Google News 식물 키우기",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 29,
-    "fetched_items": 859,
+    "new_items": 2,
+    "fetched_items": 861,
     "errors": []
   }
 }
