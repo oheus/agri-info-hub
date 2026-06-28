@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T05:08:05.786998+00:00",
+  "generated_at": "2026-06-28T06:25:04.095560+00:00",
   "items": [
     {
       "id": "f33a1873f582b10621d4b641",
@@ -665,6 +665,25 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "ad69111419e2276ccf5b3d3c",
+      "title": "농촌진흥청-농정원, 농업·농촌 인공지능 전환(AX) 가속화 업무협약 - 한국농촌경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JcFNqcThaaDRXMUFfaW9PWWo2bUFiQks0Ul8zS2RXeHJBYjVITmFmSVpXaFZ3NFZXUHlxUW5FMUotTlI0bTlEejduYUJzbWxidjJMSWViNVM1bFlZNXdQaw?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-06-26T08:30:18+00:00",
+      "collected_at": "2026-06-28T06:24:49.341588+00:00",
+      "summary": "농촌진흥청-농정원, 농업·농촌 인공지능 전환(AX) 가속화 업무협약 한국농촌경제신문",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전국",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -3150,6 +3169,24 @@
       ],
       "importance": 42,
       "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "fa5eab8832eb52d9c1b8d273",
+      "title": "\"때려치고 시골서 농사 짓자\"…작년에만 9100명 귀농했다 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMOHBMcDJtMW9JZGc1VXZvYmpSUEZVMTRFVVR4VUIzNUw1M0Y0dXhQRV9WTkotSF9lZXdwaDZacTdXMXo3SFdOLXI2U09lMVNFajg4WlFuck5Dd9IBVEFVX3lxTE83UUxCZDI4VFduVmhlRjh3aFVzUDhBZVE2ekpqZVdCaVFGdVRuUzdVWXdmNU5vTTlGdlFzT1dhYUxKRnYyNG5RWkJNU09zempJNk9Pdw?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-06-25T05:42:30+00:00",
+      "collected_at": "2026-06-28T06:24:52.334512+00:00",
+      "summary": "\"때려치고 시골서 농사 짓자\"…작년에만 9100명 귀농했다 한국경제",
+      "keywords": [
+        "귀농"
+      ],
+      "importance": 42,
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -11925,6 +11962,22 @@
       "category_label": "지원사업"
     },
     {
+      "id": "a22668ca871a0a6b20100922",
+      "title": "계란·닭고기·채소·생선 가격 올라…이른 더위에 물가 자극 우려 - 경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10QUpGWWZwVjB2dmNrRWFtMmNNblJ1aUFYREt1a0NtQVR0c1ZaNGR6LWw0YjVfRWpLd2QtTUltOFBrOHJiODF4eF9SUHBIVjB1TElsZ0xKUTE?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-06-21T01:07:00+00:00",
+      "collected_at": "2026-06-28T06:24:54.321305+00:00",
+      "summary": "계란·닭고기·채소·생선 가격 올라…이른 더위에 물가 자극 우려 경북신문",
+      "keywords": [],
+      "importance": 48,
+      "region": "경북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "a0d48056e7bc55ec350f83d7",
       "title": "\"자두도 살구도 아닌 이게 뭣이여\" 70대 귀농 재단사가 찾은 평생 직장 - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWlseFRPZnFCSUladUFNRmF1MzJRd1ZGSnJRTE5QUjJfcWNDU2hidU13a2ZXYVZkRmQ4N0pZVkV1MnZnN3pDRW5ucG5aUTRERVo5SmktZ1hPOW5CTm9sWGFaTElyTng5VUp2QjRwRlkxYV9MaHB1cWNfazl5S2VBVG1FUXllY1VhdHlN?oc=5",
@@ -12482,25 +12535,6 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "1ee602a2de7b8e2f7bc6b913",
-      "title": "농촌진흥청-농정원 농업·농촌 인공지능 전환(AX) 가속화 업무협약 - 세계로컬타임즈",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzRGR3Y3NPdms5UG5maUxQaUlkUGM4Wi1BT1JMVmtFZ01NNkhJNG5fODhESTdGYTJZTzZaeTFrZXhiSzJqQS15SXMzUlNQS2xmdjkwVFZzZzA3eU1ZbWc?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-19T10:50:02+00:00",
-      "collected_at": "2026-06-19T20:16:03.580077+00:00",
-      "summary": "농촌진흥청-농정원 농업·농촌 인공지능 전환(AX) 가속화 업무협약 세계로컬타임즈",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     },
     {
       "id": "945a5cb4765b697d0c1058fb",
@@ -14147,107 +14181,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "8cc8e0376225127081388b8e",
-      "title": "양평군, 생활권 주변 산림병해충 방제사업 실시 - 양평시민의소리",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xVlUxMkE3QXZiYnhRZnlOOVJVTE9lQW5KeTRocVpQOUF6OVJxTWhTY2pVWFdGME50YXk4VjhTbktVUVBQSmJfUkQ3LWZEMTdka2FKUXg1T3l0bnpBLXowWjZsZkM3ZXPSAWtBVV95cUxOY0VHM283cHJma3FhWWlNLTZwNnVzcUt4b3FFQnBfUTZ1R19YVnlTSXhhekFKc1o1NHozWFE5aUFpSloxUVZtMngyRFNNWE9lU2N6bGRPcDZzZXM4X1RQeWh4WmNDcktLbXdaNA?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "support",
-      "published_at": "2026-06-19T03:39:56+00:00",
-      "collected_at": "2026-06-19T12:13:45.221846+00:00",
-      "summary": "양평군, 생활권 주변 산림병해충 방제사업 실시 양평시민의소리",
-      "keywords": [
-        "병해충",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "8a69962edbed7c9a9084230f",
-      "title": "농협, 농산물 가격안정과 적정 생산체계 구축 방안 논의 - mstoday.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGOTFEVUdzSzh4VUhTWk9WWjhpY1liQ1gydU1fWlppVEctaTJaRDZ1cUd1MTVCalM2ZFRQVWZTZ1l2NnlhTVk3UDBwWVdpTV9uZ1lXVEhxc1E1czhwMmVKRlJUMV9HQXc?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-19T03:36:26+00:00",
-      "collected_at": "2026-06-19T05:20:13.119814+00:00",
-      "summary": "농협, 농산물 가격안정과 적정 생산체계 구축 방안 논의 mstoday.co.kr",
-      "keywords": [
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "0d3e301abaeb1957782dcf68",
-      "title": "'언제 물 주고 빛 쪼일까'…전북대 AI 스마트팜 연구 주목 - 프레시안",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VcE5KTDdkMENfUWdOWF9PNXdON0ptNXhRNC1DT3ZkVHFFamFHTjRkZUtORzJiV2R5ZnV6SzhpSmxwVnltMFY0Z2JPZTdmNlU5cDl4SlRTTl9mZUNZZVEyWTBSYlN3YkdoN1hV?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-19T03:34:48+00:00",
-      "collected_at": "2026-06-19T05:20:09.855624+00:00",
-      "summary": "'언제 물 주고 빛 쪼일까'…전북대 AI 스마트팜 연구 주목 프레시안",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "전북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "cd4554fb2edff61716c87a0e",
-      "title": "농산물 가격안정 어떻게 실현할까…농협, 적정 생산체계 구축 해법 논의 - 창업일보",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYM2c3SXUxRlFuTllDZUVFcHJ1dDhoekczdFlyal84eDJNUVVPZ1FucEIzQ0NQRndtNHp5M2YyZ3pwb1lEd21JVl9TQmVqRnRQRmZnM295RF82bmlnMmJ4VERJU2p1R0ZZ?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-19T03:10:48+00:00",
-      "collected_at": "2026-06-19T05:20:13.119814+00:00",
-      "summary": "농산물 가격안정 어떻게 실현할까…농협, 적정 생산체계 구축 해법 논의 창업일보",
-      "keywords": [
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "246120a4f5424788e407f0dd",
-      "title": "경남도 '성공귀농 행복귀촌 2026' 엑스포 참가…귀농·귀촌 유치 활동 전개 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tczZtNUNnVlhLZmhuNW5UdDk2ZHBFeUpUaFJmYkFQOHlfZXFyQWZ6VkFEcDdqQ2E0YXhNT3pCQXNqUHpELTQ1QTZfckdFS0NoY3FZOG1HWW13TVlJ?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-06-19T02:52:00+00:00",
-      "collected_at": "2026-06-19T20:16:06.634847+00:00",
-      "summary": "경남도 '성공귀농 행복귀촌 2026' 엑스포 참가…귀농·귀촌 유치 활동 전개 뉴스핌",
-      "keywords": [
-        "귀농"
-      ],
-      "importance": 42,
-      "region": "경남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 756,
+    "total": 753,
     "category_counts": {
-      "news": 539,
+      "news": 537,
       "plant_reviews": 38,
-      "support": 179
+      "support": 178
     },
     "top_keywords": [
       {
@@ -14268,19 +14209,19 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 104
+        "count": 103
       },
       {
         "keyword": "사업",
-        "count": 69
+        "count": 68
       },
       {
         "keyword": "농산물",
-        "count": 57
+        "count": 55
       },
       {
         "keyword": "병해충",
-        "count": 51
+        "count": 50
       },
       {
         "keyword": "작물",
@@ -14306,15 +14247,15 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 102
+        "count": 101
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 99
+        "count": 98
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 92
+        "count": 91
       },
       {
         "source": "Google News 농업",
@@ -14345,7 +14286,7 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 7,
+    "new_items": 6,
     "fetched_items": 866,
     "errors": []
   }
