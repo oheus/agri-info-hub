@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T04:37:41.165600+00:00",
+  "generated_at": "2026-06-28T05:08:05.786998+00:00",
   "items": [
     {
       "id": "f33a1873f582b10621d4b641",
@@ -3721,6 +3721,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "de16d33a600df70080867a5c",
+      "title": "시진핑, 산둥성 농촌 찾아 \"농산물 공급 안정\" 강조 - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDVHFCVUdYUkdLUHNkRk1aQ1dCazRHSXJpeWYzbURmbXdMRTE2UklWa2hCVjA0eDU2Uk84WnZTZGFxeHl1TjlxOFV4MG05d3l5WWhoaUN0MExYWlBzSjBReNIBeEFVX3lxTE1pVm1LWnB5aGtDMmpEYWZrSEtxY2ZaM3BuV2I0MElWUUNWd2NwVUlSRUhTQTRzcEF0MUZMcVpuWmR4eWV1TmJiZlkxMjVfTldhMEZWREF0RmlHR08xWWtvTkh2b3Y1NVl3SEdFNG52R3FkLTJMMEE5Zw?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-06-25T02:25:37+00:00",
+      "collected_at": "2026-06-28T05:07:51.373278+00:00",
+      "summary": "시진핑, 산둥성 농촌 찾아 \"농산물 공급 안정\" 강조 newsis.com",
+      "keywords": [
+        "농촌",
+        "농산물"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "c00fbb8fdb904f0491fa1234",
       "title": "그린플러스, 충남 예산에 딸기 스마트팜 62억원 수주 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LazdWN0RNa1ZPMEgwRTB6TnRzUFdFcVUzbVZJUzBkdXhwOHZBeV9zNFVld2Vhdm9TckJ3aWpmNUtTZEd6eGM3UjdJY0FnQjJzdUNRRFE2Mm1DRDV3?oc=5",
@@ -4320,6 +4339,25 @@
       "category_label": "식물 리뷰"
     },
     {
+      "id": "3115ba12e767793954920afa",
+      "title": "2026년 제1회 농업유전자원센터 공무직근로자 채용 최종 합격자 공고 - 농촌진흥청",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPMlhxQ3huRlBrZnpuRG14MTJfRlMyUEp0VjBlQThMUnlIUG5rTlpjcnVZMHd0NW5OVnhfZDNxNkhDaG9EZWNPR19ucVhCX1ZXS2VuWFhPYkJ2MndwZlRlTGZxMVFXblk3dVJta2tvVU5QTmxIeTNJWm55cjlXVEY1Y25uRjk0d1NLN05FNUt0V0ptLWp0OTFmSEtpazd6c0Y2TW5zZi1Cc2lNS1Awa2g4UnZya2ZkaEJQOGdJWmg2Ymd5Y2xxdFpSVUNRenVTQTYwakZFU2dvcjE4aWFSUDlnVk9mQUtaWFBsb1RJRkUxVEtPUjJ5NjdMbHlleHl6NGRydkVWTE81dk43ZDA2T0NrXzlzTWJLbENLQl8wZEpLUHMyc3R4NHFRT19yU1BLanRNWWNXLQ?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-06-24T10:24:21+00:00",
+      "collected_at": "2026-06-28T05:07:57.801725+00:00",
+      "summary": "2026년 제1회 농업유전자원센터 공무직근로자 채용 최종 합격자 공고 농촌진흥청",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 48,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "23230a1a7cfcb4b230ba2d8b",
       "title": "영주시농업기술센터, 차세대 유통리더 판로확대 지원사업 첫 성과 - gukjenews.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iNnVVRVliMktqcGVLbzdvdzE2ZmZScWl2dWhSNHBsQ1k2UDBNdFdPUzIxdlVJWDFOTUl0Y3BfUVRoVWsxcTN1bk9nX0xOZ0dzeGlUQk5GR2U2dVVNUUFxa2JObVlDRzMxbkdRbHpR?oc=5",
@@ -4661,6 +4699,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "eae629d17a0a6272b416efda",
+      "title": "광진구, ‘찾아가는 반려식물 클리닉’ 운영…전문가가 직접 식물 건강관리 지원 - 잡포스트",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zSXhUSWJvZE5TQ1Z4LVBEOHhxdy1tOXA2NTJEM0J3VHNwd0YxSVFlMHg2LUhhN04yQ0d4NlpCNFpsYkdSR0J2M3ppeGhka3Q1TENacXJZRU9hM2RVRl80Q2Y0LWpOVEJ6MDFSMjg0SGhqUdIBckFVX3lxTE4zSXhUSWJvZE5TQ1Z4LVBEOHhxdy1tOXA2NTJEM0J3VHNwd0YxSVFlMHg2LUhhN04yQ0d4NlpCNFpsYkdSR0J2M3ppeGhka3Q1TENacXJZRU9hM2RVRl80Q2Y0LWpOVEJ6MDFSMjg0SGhqUQ?oc=5",
+      "source": "Google News 식물 관리",
+      "category": "support",
+      "published_at": "2026-06-24T07:46:17+00:00",
+      "collected_at": "2026-06-28T05:08:02.841236+00:00",
+      "summary": "광진구, ‘찾아가는 반려식물 클리닉’ 운영…전문가가 직접 식물 건강관리 지원 잡포스트",
+      "keywords": [
+        "반려식물",
+        "지원"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "d7fb32846118be1f7aae2fc6",
@@ -5025,25 +5082,6 @@
       ],
       "importance": 48,
       "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "af2d1c413976006205790e0c",
-      "title": "2026년 제1회 농업유전자원센터 공무직근로자 채용 최종 합격자 공고 - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUmQxbXo0SV9KdDcxM3BEVjlDRGlBSW5EV0N3eU5MdVpqWlpPa1FQTlh0ckE0dUJISUg1bkRBSG1KSFBhbnppTl9uSFh0dlZMdmN1UDQxYWtMalBVRlFXNFlrOFphQnpVMERkR2VvUkYxck1EdlZfY2tkX2pBNW9PRDNfckFMNjE5Qld4UkV6NnpzZDNS?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-06-24T06:08:54+00:00",
-      "collected_at": "2026-06-24T07:16:53.819729+00:00",
-      "summary": "2026년 제1회 농업유전자원센터 공무직근로자 채용 최종 합격자 공고 농촌진흥청",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 48,
-      "region": "전국",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -14202,102 +14240,27 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "07317be9d3a4b22393c762cb",
-      "title": "화성시, 중소농 경영개선 교육생 모집… AI·스마트농업 역량 강화 - 미디어와이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YbE11OW5fX3F2N1pMLXgzSnNTWWl6aTFzYWdCQ2pyUWJ4VnlVaGktdnhEcjhyaThaUUZ1WEZEY3F2ZkQyeVFiVVFPdVZGN3dvUlRUMmYyNjZJM3QtYURaNmRqenJ0QWp3bmfSAW5BVV95cUxNV0VPVURPc0RDZXY0RkxrZHJ0YVgwbVZsclU2bEZWYUl3LTY4SU9GVExfUTBZZlhHZVY5RmFtLVdBWU5NQlhtSGs1eERnczV6ZTJUbk9vYkFKcVJqZ21vZ1NkSGlBMUx1UlNvTFVDUQ?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-06-19T02:41:09+00:00",
-      "collected_at": "2026-06-19T20:16:21.783237+00:00",
-      "summary": "화성시, 중소농 경영개선 교육생 모집… AI·스마트농업 역량 강화 미디어와이",
-      "keywords": [
-        "농업",
-        "모집"
-      ],
-      "importance": 74,
-      "region": "경기",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "ce0d10921c9cf37967be6d7a",
-      "title": "양평군 \"생활권 주변 산림, 병해충 예찰 및 방제 강화\" - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtWGlmQXRGWVU2VjB1ZGd3Rk84RHJLODhPeU91MVlvV1I1dGpmZDhrejhiRmphWFJCT1MyalVETEFoZlRDRlJaZFM4OEt3Tnh4a0xENXhEVTljVzExWFJWN0hLaG90eXNoX25lV21LcUxkQ0h2elFzT9IBeEFVX3lxTFAtWGlmQXRGWVU2VjB1ZGd3Rk84RHJLODhPeU91MVlvV1I1dGpmZDhrejhiRmphWFJCT1MyalVETEFoZlRDRlJaZFM4OEt3Tnh4a0xENXhEVTljVzExWFJWN0hLaG90eXNoX25lV21LcUxkQ0h2elFzTw?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-19T02:40:22+00:00",
-      "collected_at": "2026-06-19T05:20:12.059540+00:00",
-      "summary": "양평군 \"생활권 주변 산림, 병해충 예찰 및 방제 강화\" 뉴시스",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "6d8db8193df262b11a53e495",
-      "title": "김천시, 귀농·귀촌인들의 안정적인 정착 지원 - 데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0WExKYnlzMkFrRzVLb0FEaFpGWEtXNlFQX09DbHlOWkU2ZzlQOE16Qi1iSjZCM0xveXA5ZVBNQ3JTa0hEb1cwN2FUYXpISFBxU0YzblhnQm83djg2X2RxSDdmZkQ?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-06-19T02:36:55+00:00",
-      "collected_at": "2026-06-19T05:20:11.019910+00:00",
-      "summary": "김천시, 귀농·귀촌인들의 안정적인 정착 지원 데일리대구경북뉴스",
-      "keywords": [
-        "귀농",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "대구",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "36cfee5f3c126bfb62f31973",
-      "title": "농협, 농산물 가격안정·적정생산 해법 모색 … “AI 기반 수급관리 강화” - 워크투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHYzduX0xGUmE5YnNpSEJaV1VqeUhVTWY2VmhsUVBlMGxCbzR5SktvZ0dqREwxcllzRkVQamIxT3dSdHo1QzFORVNUVndtSzR6WWMyQzI0SnNQbVR6aHZvOWxBYmwzRUl0TEtFcA?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-19T02:28:35+00:00",
-      "collected_at": "2026-06-19T05:20:13.119814+00:00",
-      "summary": "농협, 농산물 가격안정·적정생산 해법 모색 … “AI 기반 수급관리 강화” 워크투데이",
-      "keywords": [
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 758,
+    "total": 756,
     "category_counts": {
-      "news": 540,
+      "news": 539,
       "plant_reviews": 38,
-      "support": 180
+      "support": 179
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 209
+        "count": 208
       },
       {
         "keyword": "귀농",
-        "count": 173
+        "count": 172
       },
       {
         "keyword": "농촌",
-        "count": 136
+        "count": 137
       },
       {
         "keyword": "지원",
@@ -14317,7 +14280,7 @@
       },
       {
         "keyword": "병해충",
-        "count": 52
+        "count": 51
       },
       {
         "keyword": "작물",
@@ -14339,7 +14302,7 @@
     "top_sources": [
       {
         "source": "Google News 청년농 귀농",
-        "count": 163
+        "count": 162
       },
       {
         "source": "Google News 스마트팜",
@@ -14347,15 +14310,15 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 100
+        "count": 99
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 93
+        "count": 92
       },
       {
         "source": "Google News 농업",
-        "count": 88
+        "count": 89
       },
       {
         "source": "Google News 농촌진흥청",
@@ -14382,8 +14345,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 91,
-    "fetched_items": 867,
+    "new_items": 7,
+    "fetched_items": 866,
     "errors": []
   }
 }
