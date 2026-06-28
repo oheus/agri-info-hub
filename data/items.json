@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T15:17:32.316524+00:00",
+  "generated_at": "2026-06-28T15:48:21.965278+00:00",
   "items": [
     {
       "id": "95beb8e8678682bca54da33b",
@@ -1483,6 +1483,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "07e1f1bb779f7869a990fc4c",
+      "title": "대전 서구 둔산2동, 반려식물 심으며 소통... 어르신 마음건강 챙겼다 - 뉴스워커",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zNGNhRDNPS1BzN1Vna3RtbURLRHJOUkJUSVFBQ0c0WXBwNThJSTJHZ25Ydi1tT0p5MllTRTl3czVMMzdFMjV1aEpvMHg0dW5SRTN3S05vQ1BwcTNmMmZicDdQdlZiWXBNQ3BoQ1NSc2d1M0HSAXNBVV95cUxNMzRjYUQzT0tQczdVZ2t0bW1ES0RyTlJCVElRQUNHNFlwcDU4SUkyR2duWHYtbU9KeTJZU0U5d3M1TDM3RTI1dWhKbzB4NHVuUkUzd0tOb0NQcHEzZjJmYnA3UHZWYllwTUNwaENTUnNndTNB?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-06-26T03:28:42+00:00",
+      "collected_at": "2026-06-28T15:48:13.161101+00:00",
+      "summary": "대전 서구 둔산2동, 반려식물 심으며 소통... 어르신 마음건강 챙겼다 뉴스워커",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "대전",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
     },
     {
       "id": "bd5524e7ae7777e2944da756",
@@ -14053,50 +14071,12 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "21624b6ddf6df32a677a9e4b",
-      "title": "코웨이, 내발산초에 '청정학교 교실숲 8호' 조성…반려식물 494그루 기부 - 뉴스드림",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lcWU3THBlR2s5bXZMWnExTVhBb0NMdnBQRTdNa2d2cUljZGd4elljN0gzNVJPSDhHTGdNNXF3UlFRb05mM1JadGltS1gyRC16OFVVUW9tTlFqMWt0cHd0anJOcTNSWWhDVldv0gFuQVVfeXFMTjBZNjk5SnRvR2NBc2l3WWFTYnI4QVctUi15ZExGMnhqbG5Hb1YwZDlnbkd4TkFNNTh3cm8tODhtYm9USVVQYmdXUmc5Z09VUXJZakt4cmozMVJnNlF5Qnk1Ti05SDh3blZXR2xCMHc?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-06-19T06:05:45+00:00",
-      "collected_at": "2026-06-19T12:13:53.261663+00:00",
-      "summary": "코웨이, 내발산초에 '청정학교 교실숲 8호' 조성…반려식물 494그루 기부 뉴스드림",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "5da46df9d4594f0a4bc51add",
-      "title": "농협, 농산물 가격안정과 적정 생산체계 구축방안 토론회 눈길 - 한국농촌경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KbWhFcmR5UGt4bmJHNVkyMUkyZDJpRzR3Q05kdnZfZ3h2ZjFnTmlVX1lNX1ZhcnNKaV9LSE9Hd0JqbmxJaG5JRjdzVy1TWTdQTkFYWFN3RHVENnItemNxRg?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-19T06:02:28+00:00",
-      "collected_at": "2026-06-28T04:37:31.465223+00:00",
-      "summary": "농협, 농산물 가격안정과 적정 생산체계 구축방안 토론회 눈길 한국농촌경제신문",
-      "keywords": [
-        "농촌",
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 748,
+    "total": 747,
     "category_counts": {
-      "news": 531,
+      "news": 530,
       "plant_reviews": 38,
       "support": 179
     },
@@ -14111,7 +14091,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 140
+        "count": 139
       },
       {
         "keyword": "지원",
@@ -14127,7 +14107,7 @@
       },
       {
         "keyword": "농산물",
-        "count": 53
+        "count": 52
       },
       {
         "keyword": "병해충",
@@ -14169,7 +14149,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 84
+        "count": 83
       },
       {
         "source": "Google News 농촌진흥청",
@@ -14197,7 +14177,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 2,
-    "fetched_items": 846,
+    "fetched_items": 858,
     "errors": []
   }
 }
