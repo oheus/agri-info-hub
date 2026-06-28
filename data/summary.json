@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-06-28T06:25:04.095560+00:00",
-  "total": 753,
+  "generated_at": "2026-06-28T13:43:08.188199+00:00",
+  "total": 749,
   "category_counts": {
-    "news": 537,
+    "news": 531,
     "plant_reviews": 38,
-    "support": 178
+    "support": 180
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 208
+      "count": 201
     },
     {
       "keyword": "귀농",
-      "count": 172
+      "count": 167
     },
     {
       "keyword": "농촌",
-      "count": 137
+      "count": 138
     },
     {
       "keyword": "지원",
-      "count": 116
+      "count": 119
     },
     {
       "keyword": "스마트팜",
-      "count": 103
+      "count": 106
     },
     {
       "keyword": "사업",
-      "count": 68
+      "count": 67
     },
     {
       "keyword": "농산물",
-      "count": 55
+      "count": 53
     },
     {
       "keyword": "병해충",
-      "count": 50
+      "count": 52
     },
     {
       "keyword": "작물",
@@ -45,7 +45,7 @@
     },
     {
       "keyword": "지원사업",
-      "count": 48
+      "count": 49
     },
     {
       "keyword": "농업인",
@@ -59,23 +59,23 @@
   "top_sources": [
     {
       "source": "Google News 청년농 귀농",
-      "count": 162
+      "count": 159
     },
     {
       "source": "Google News 스마트팜",
-      "count": 101
+      "count": 104
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 98
-    },
-    {
-      "source": "Google News 농산물 가격",
-      "count": 91
+      "count": 97
     },
     {
       "source": "Google News 농업",
-      "count": 89
+      "count": 91
+    },
+    {
+      "source": "Google News 농산물 가격",
+      "count": 85
     },
     {
       "source": "Google News 농촌진흥청",
@@ -83,11 +83,11 @@
     },
     {
       "source": "Google News 식물 키우기",
-      "count": 37
+      "count": 36
     },
     {
       "source": "Google News 지원사업",
-      "count": 32
+      "count": 33
     },
     {
       "source": "Google News 청년농 지원",
@@ -95,14 +95,14 @@
     },
     {
       "source": "Google News 농식품부 공고",
-      "count": 19
+      "count": 21
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 6,
-    "fetched_items": 866,
+    "new_items": 29,
+    "fetched_items": 859,
     "errors": []
   }
 }
