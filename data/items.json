@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T13:43:08.188199+00:00",
+  "generated_at": "2026-06-28T14:13:34.163912+00:00",
   "items": [
     {
       "id": "95beb8e8678682bca54da33b",
@@ -2719,6 +2719,24 @@
       "summary": "[보도자료]고령자 대상 치유농업 텃밭활동, 1회 60분이 효과적 농촌진흥청",
       "keywords": [
         "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "4dbbb330be06e1de0f3404f5",
+      "title": "[보도자료]장마철 아프리카돼지열병 차단방역, 농장 안팎 꼼꼼히 점검 - 농촌진흥청",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXAtZGg4ZE4zU05TT3doVjdxNjVLdFUwVzMwNXNWdldiNFdDMTlwNmtUaFg1ZWdSS1d1VnRDemVjN2pZdGtjdXlsS0dpdTN2NXA4NTd6OHFhaEx1RnBId2x4dTd3MzFmOWZ3UHBERFNiNjZoajloNjB4NUZMbFBLQlVZZEp0SWp2T1ltcjVJaFhqQy13QmlUbVVR?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-06-25T08:39:00+00:00",
+      "collected_at": "2026-06-28T14:13:25.879496+00:00",
+      "summary": "[보도자료]장마철 아프리카돼지열병 차단방역, 농장 안팎 꼼꼼히 점검 농촌진흥청",
+      "keywords": [
         "농촌"
       ],
       "importance": 42,
@@ -14088,24 +14106,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "b41047932b15e7129e07c77f",
-      "title": "'농업 선순환'…생산·유통·수출·소비 아우른 농협 상생 행보 - 더바이어",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1td3JsdjRoTWUxdGtKdnNkZTNRLTl2THJWUEgwT2VWUU9wMmFqWld5VXQ3Vl9XQ2FCVWV0Nko5dnF5TWhDRW5EY3VLQnpXSkdwdnc2VTZtdmlxNjZRTnlPZjVCTHFkbTd2Ymdn?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-19T05:55:01+00:00",
-      "collected_at": "2026-06-19T12:13:46.253859+00:00",
-      "summary": "'농업 선순환'…생산·유통·수출·소비 아우른 농협 상생 행보 더바이어",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
@@ -14118,7 +14118,7 @@
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 201
+        "count": 200
       },
       {
         "keyword": "귀농",
@@ -14126,7 +14126,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 138
+        "count": 139
       },
       {
         "keyword": "지원",
@@ -14184,11 +14184,11 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 85
+        "count": 84
       },
       {
         "source": "Google News 농촌진흥청",
-        "count": 49
+        "count": 50
       },
       {
         "source": "Google News 식물 키우기",
@@ -14211,8 +14211,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 29,
-    "fetched_items": 859,
+    "new_items": 2,
+    "fetched_items": 861,
     "errors": []
   }
 }
