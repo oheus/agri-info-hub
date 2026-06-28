@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-06-28T15:48:21.965278+00:00",
+  "generated_at": "2026-06-28T16:19:13.706623+00:00",
   "items": [
+    {
+      "id": "65b7aad44c5a308fa5216c52",
+      "title": "2026년 제3차 국립식량과학원 소득식량작물연구소 공무직근로자 채용 재공고 - 농촌진흥청",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR3RsQ2VzQmV2RlE5eGMwdktUdEtCQkpQcFAxRk82TDh1b2xNY3RqMG5UNldRakJVNFVVN2hIQXJwNVV2VnF5ZjRQX2w3MmRsN1ZFU2JzU0QzV2g0U0RHZHczZDNZS3FId0VjbFRoQzhDdktaOHFfV3pJUkk3M0x3dDFzcmFFeTQ1OUwzQjhIbXdmYjZW?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-06-28T16:13:04+00:00",
+      "collected_at": "2026-06-28T16:18:54.079296+00:00",
+      "summary": "2026년 제3차 국립식량과학원 소득식량작물연구소 공무직근로자 채용 재공고 농촌진흥청",
+      "keywords": [
+        "농촌",
+        "작물"
+      ],
+      "importance": 48,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "95beb8e8678682bca54da33b",
       "title": "“버즘나무 산림병해충 방제” … 음성군, 예방주사 작업 실시 - 음성타임즈",
@@ -1145,6 +1164,25 @@
       "deadline_text": "신청 정보 확인",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "66d4a4f6e800af9e1c9bd92e",
+      "title": "청년농 ‘수경재배 고추’ 수확 - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnekN5bng3SksxRXZWaUY3d1VQaWxtWjZLVWZoVGJsc1h5cFd1cTVXQlZRVGlZRGlLR1F0REprR0o0Z21zM0NVZEhDVHgwZXJ3RUVxRVNtNnJhZw?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-06-26T07:00:00+00:00",
+      "collected_at": "2026-06-28T16:18:44.296695+00:00",
+      "summary": "청년농 ‘수경재배 고추’ 수확 농민신문",
+      "keywords": [
+        "청년농",
+        "재배"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "178313cf7223d8150c84590c",
@@ -14052,31 +14090,12 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "2633d1113e0a8ee553671226",
-      "title": "송옥주 의원, 8월 시행 농산물 가격안정제 '데이터·거버넌스' 핵심 변수로 제시 - 피디언뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kNWVjY3JacFQ1NU9yb1p6MUowYVNrR2tMMUVrNjVVVG5qMjBBNUJRRTJiY1VjS1k2TUttNVdMSk5feDJIaktuMnFGUDZuMHBfbXY5QzhTYw?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-19T06:13:27+00:00",
-      "collected_at": "2026-06-28T04:37:31.465223+00:00",
-      "summary": "송옥주 의원, 8월 시행 농산물 가격안정제 '데이터·거버넌스' 핵심 변수로 제시 피디언뉴스",
-      "keywords": [
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 747,
+    "total": 748,
     "category_counts": {
-      "news": 530,
+      "news": 531,
       "plant_reviews": 38,
       "support": 179
     },
@@ -14091,7 +14110,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 139
+        "count": 140
       },
       {
         "keyword": "지원",
@@ -14106,11 +14125,15 @@
         "count": 68
       },
       {
-        "keyword": "농산물",
-        "count": 52
+        "keyword": "작물",
+        "count": 51
       },
       {
         "keyword": "병해충",
+        "count": 51
+      },
+      {
+        "keyword": "농산물",
         "count": 51
       },
       {
@@ -14118,22 +14141,18 @@
         "count": 50
       },
       {
-        "keyword": "작물",
-        "count": 50
+        "keyword": "청년농",
+        "count": 44
       },
       {
         "keyword": "농업인",
-        "count": 43
-      },
-      {
-        "keyword": "청년농",
         "count": 43
       }
     ],
     "top_sources": [
       {
         "source": "Google News 청년농 귀농",
-        "count": 158
+        "count": 159
       },
       {
         "source": "Google News 스마트팜",
@@ -14149,11 +14168,11 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 83
+        "count": 82
       },
       {
         "source": "Google News 농촌진흥청",
-        "count": 51
+        "count": 52
       },
       {
         "source": "Google News 식물 키우기",
@@ -14177,7 +14196,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 2,
-    "fetched_items": 858,
+    "fetched_items": 837,
     "errors": []
   }
 }
