@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-28T15:17:32.316524+00:00",
-  "total": 748,
+  "generated_at": "2026-06-28T15:48:21.965278+00:00",
+  "total": 747,
   "category_counts": {
-    "news": 531,
+    "news": 530,
     "plant_reviews": 38,
     "support": 179
   },
@@ -17,7 +17,7 @@
     },
     {
       "keyword": "농촌",
-      "count": 140
+      "count": 139
     },
     {
       "keyword": "지원",
@@ -33,7 +33,7 @@
     },
     {
       "keyword": "농산물",
-      "count": 53
+      "count": 52
     },
     {
       "keyword": "병해충",
@@ -75,7 +75,7 @@
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 84
+      "count": 83
     },
     {
       "source": "Google News 농촌진흥청",
@@ -102,7 +102,7 @@
     "status": "ok",
     "display_awake": true,
     "new_items": 2,
-    "fetched_items": 846,
+    "fetched_items": 858,
     "errors": []
   }
 }
