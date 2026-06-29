@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T10:18:53.402184+00:00",
+  "generated_at": "2026-06-29T10:49:20.122137+00:00",
   "items": [
     {
       "id": "751b352cd3216a54915762a0",
@@ -140,6 +140,25 @@
       ],
       "importance": 58,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "f67f1ef10e9b460a894f19a3",
+      "title": "익산 농업기계화 37억 투입…농촌 일손난 극복 - 익산신문",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdXd6RXBtRkNRbTcxMTcyQnVzRE1OLWFlUlAwN3hkSGttV19HVG1IMHgxbVA4SGdxVkxwQVEwQ2tmVFZhMVEzejZaLWprZ29mYUxxUzhhQmhIbnJZX2NVLVExRHNFdEZ6eVJuT3pfT2hRUmpSVmtTTk4yUWVOeHNvVg?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-06-29T08:11:00+00:00",
+      "collected_at": "2026-06-29T10:49:03.798955+00:00",
+      "summary": "익산 농업기계화 37억 투입…농촌 일손난 극복 익산신문",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전북",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -14209,72 +14228,35 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "e99f12215046668ea546e0ca",
-      "title": "농협중앙회 구미시지부, 신당초에 스마트팜 교육기자재 전달 - 매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4UmNvY1dja1dTVzdDRU5rMmVsSHBic0dzUC14d0NfUlV6d0dtbkpiYjd0TzlwdW1aa29ZZ3ZBZlUxUzN6bDVNLWtQdXVDc01oQThsTDc5VGcwZnRhTmpvLUxn?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-21T06:32:32+00:00",
-      "collected_at": "2026-06-21T13:32:44.114331+00:00",
-      "summary": "농협중앙회 구미시지부, 신당초에 스마트팜 교육기자재 전달 매일신문",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "740396ab4f280348ace60f64",
-      "title": "괴산 19~21일 국민팜엑스포서 귀농·귀촌 지원정책 홍보 - 중도일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IM0lwNVVmU3o3ay1RcW5SRnowRHBmZzdlZmZVbGVVcHFucmd6NEJJeXU3bU1IUEc3bWFydGJWaGdXT1F2YXNyZk5MMDlmSXY0WjR1d0RWcV9kRUZfd003U19Wb29RaGtBUFUzdw?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-06-21T06:30:20+00:00",
-      "collected_at": "2026-06-21T13:32:45.161523+00:00",
-      "summary": "괴산 19~21일 국민팜엑스포서 귀농·귀촌 지원정책 홍보 중도일보",
-      "keywords": [
-        "귀농",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 758,
+    "total": 757,
     "category_counts": {
       "news": 539,
       "plant_reviews": 38,
-      "support": 181
+      "support": 180
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 216
+        "count": 217
       },
       {
         "keyword": "농촌",
-        "count": 151
+        "count": 152
       },
       {
         "keyword": "귀농",
-        "count": 147
+        "count": 146
       },
       {
         "keyword": "지원",
-        "count": 123
+        "count": 122
       },
       {
         "keyword": "스마트팜",
-        "count": 121
+        "count": 120
       },
       {
         "keyword": "사업",
@@ -14308,15 +14290,15 @@
     "top_sources": [
       {
         "source": "Google News 청년농 귀농",
-        "count": 140
+        "count": 139
       },
       {
         "source": "Google News 농업",
-        "count": 123
+        "count": 124
       },
       {
         "source": "Google News 스마트팜",
-        "count": 121
+        "count": 120
       },
       {
         "source": "Google News 병해충 재배",
@@ -14351,8 +14333,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 6,
-    "fetched_items": 846,
+    "new_items": 4,
+    "fetched_items": 843,
     "errors": []
   }
 }
