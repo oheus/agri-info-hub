@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-29T11:19:46.218429+00:00",
-  "total": 757,
+  "generated_at": "2026-06-29T11:50:16.029565+00:00",
+  "total": 759,
   "category_counts": {
-    "news": 539,
+    "news": 541,
     "plant_reviews": 38,
     "support": 180
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 217
+      "count": 219
     },
     {
       "keyword": "농촌",
-      "count": 152
+      "count": 153
     },
     {
       "keyword": "귀농",
@@ -25,7 +25,7 @@
     },
     {
       "keyword": "스마트팜",
-      "count": 120
+      "count": 121
     },
     {
       "keyword": "사업",
@@ -41,7 +41,7 @@
     },
     {
       "keyword": "작물",
-      "count": 46
+      "count": 47
     },
     {
       "keyword": "농업인",
@@ -67,19 +67,19 @@
     },
     {
       "source": "Google News 스마트팜",
-      "count": 120
+      "count": 121
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 97
+      "count": 98
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 70
+      "count": 69
     },
     {
       "source": "Google News 농촌진흥청",
-      "count": 43
+      "count": 44
     },
     {
       "source": "Google News 식물 키우기",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 2,
-    "fetched_items": 846,
+    "new_items": 6,
+    "fetched_items": 848,
     "errors": []
   }
 }
