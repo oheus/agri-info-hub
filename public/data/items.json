@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T11:19:46.218429+00:00",
+  "generated_at": "2026-06-29T11:50:16.029565+00:00",
   "items": [
     {
       "id": "751b352cd3216a54915762a0",
@@ -57,6 +57,43 @@
       "category_label": "지원사업"
     },
     {
+      "id": "bc6d0e07c7515e9a069cab8b",
+      "title": "30년 결실 ‘농림위성’ 7월7일 쏜다…작물 생육·농업재해 실시간 파악 ‘눈앞’ - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkS240TjI4OVlhVnZEak9DcXRXQ0ZxRGI1VnlhWDA5OUswX3N1eVdQbGYtTlo2NFFheWVIZmEtVXNqd25UTjJ3Y2NBelc0RHhLR3VlQ28zWkJJUQ?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-06-29T09:34:00+00:00",
+      "collected_at": "2026-06-29T11:50:02.667285+00:00",
+      "summary": "30년 결실 ‘농림위성’ 7월7일 쏜다…작물 생육·농업재해 실시간 파악 ‘눈앞’ 농민신문",
+      "keywords": [
+        "농업",
+        "작물"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "566f6443e4337a5a907ba6c0",
+      "title": "[농촌지방소식]장마철 고추 탄저병 비상, 예방이 최우선! - 농촌진흥청",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUjFKVUJlSlZkelFYNFpGN2p5bGpUR2psQzJMTFBGdXNoUjROY3RacmdTZXJmMHJOMzlkWmVSR3RpUUdUYkZQVXJkQXdCeEU0Y2Q3eFFoQ2hQZExRcmNYQkVERzd4OXgwMTJpUDg3LUFNRHM2ZGF4Yk9pcUIzMExQUUo1dTVITUctbkl3dmhJQy1rQ0pESHlCMS1R?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-06-29T09:21:17+00:00",
+      "collected_at": "2026-06-29T11:50:05.707102+00:00",
+      "summary": "[농촌지방소식]장마철 고추 탄저병 비상, 예방이 최우선! 농촌진흥청",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "408a9611329257b9b8e54220",
       "title": "대전 청년 농업인 농업 경영·마케팅 AI 활용 지원 - 대전시티저널",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RRDY5cFJ2cklmS0F2M0RkNllRdzllMUVFdnp3ZDlDbFdhOFZia3FaOUk1a2pmTUFZanhUOEl5Um5EYTg2Yy10Q3BjclcwdWZHN1NCQzMzeWFqQzZ5bGRRMnNpQjktQQ?oc=5",
@@ -75,6 +112,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "25ee8669a2e941f21667b26e",
+      "title": "신용한 당선인, 영동 과수농가·스마트팜 찾아 \"농업 경쟁력 높이겠다\" - 뉴데일리 충청세종",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lc2JNbllKUmdWVThPWUZWT1p6VmFpRWhpUG03cGM5YzR6ZGpVdF91NnF0T0VUMVhDdGtvQjVfR2RYLXY3aUZ3TERGYzlnMmoyWk1wSVpMLV9kR2JRcE1nd09wajRhN3JMWlRJdzF3SzZzR3FvbnBHQnRR0gF_QVVfeXFMTWZIbmF1VUFueWFoSU80NnhBY3ZVYnhLazRtVGtvbUQwSk5YZWcycHJIQW1VOUNlaHFfcmZfU2dPdjBPb2NWTDkyeWg0Tkk5YkV0LXNMQ3hmUm1PSG1IOWcyX21VQWpxMDI2M0lheGtsb0Jzcnc0eThvUkgwbF9TSQ?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-06-29T08:46:11+00:00",
+      "collected_at": "2026-06-29T11:50:00.455715+00:00",
+      "summary": "신용한 당선인, 영동 과수농가·스마트팜 찾아 \"농업 경쟁력 높이겠다\" 뉴데일리 충청세종",
+      "keywords": [
+        "농업",
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "세종",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "5fb8dc8f664899be406d68de",
@@ -14212,39 +14268,23 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "7873f550649ae59b264a7a22",
-      "title": "채소 가격 계속 오를까… - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1lOE9PSVR1ZmUwZ09vbHhVNTVpemlaaUdoRTFXNVdyUWhIZXF2Z2NMMVRkXzR3VURpbjlHS3VFOGltQ3EtTVE?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-21T06:37:56+00:00",
-      "collected_at": "2026-06-21T14:03:17.587480+00:00",
-      "summary": "채소 가격 계속 오를까… v.daum.net",
-      "keywords": [],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 757,
+    "total": 759,
     "category_counts": {
-      "news": 539,
+      "news": 541,
       "plant_reviews": 38,
       "support": 180
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 217
+        "count": 219
       },
       {
         "keyword": "농촌",
-        "count": 152
+        "count": 153
       },
       {
         "keyword": "귀농",
@@ -14256,7 +14296,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 120
+        "count": 121
       },
       {
         "keyword": "사업",
@@ -14272,7 +14312,7 @@
       },
       {
         "keyword": "작물",
-        "count": 46
+        "count": 47
       },
       {
         "keyword": "농업인",
@@ -14298,19 +14338,19 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 120
+        "count": 121
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 97
+        "count": 98
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 70
+        "count": 69
       },
       {
         "source": "Google News 농촌진흥청",
-        "count": 43
+        "count": 44
       },
       {
         "source": "Google News 식물 키우기",
@@ -14333,8 +14373,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 2,
-    "fetched_items": 846,
+    "new_items": 6,
+    "fetched_items": 848,
     "errors": []
   }
 }
