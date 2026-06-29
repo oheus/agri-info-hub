@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T10:49:20.122137+00:00",
+  "generated_at": "2026-06-29T11:19:46.218429+00:00",
   "items": [
     {
       "id": "751b352cd3216a54915762a0",
@@ -1605,13 +1605,13 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "65b7aad44c5a308fa5216c52",
+      "id": "aeb09313255ea91b813aecb5",
       "title": "2026년 제3차 국립식량과학원 소득식량작물연구소 공무직근로자 채용 재공고 - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR3RsQ2VzQmV2RlE5eGMwdktUdEtCQkpQcFAxRk82TDh1b2xNY3RqMG5UNldRakJVNFVVN2hIQXJwNVV2VnF5ZjRQX2w3MmRsN1ZFU2JzU0QzV2g0U0RHZHczZDNZS3FId0VjbFRoQzhDdktaOHFfV3pJUkk3M0x3dDFzcmFFeTQ1OUwzQjhIbXdmYjZW?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNcGZVeFBUU0V5OTNfZUlkclFJRHI0dEtMaTNkd2lBNVlZMlhTTDBsZkFUNHg3SGU2X1Z6WkpFYlB1LUpKLVBMalZJdE1yNzk0Q1ZhT3JqMUNCR0xSOFpWd09meHVac3AtRXlYUTAwWlJDVHNQRkRCNUNqOU1WSTdIbVBMNm9IZlJNM3JRVldWclhLWWZnZzVEMlQ5cGc0S2Q5LXJ6R3FMQzRHTkxwcnJ1NWdiZzRMNDJsVmFGNVhhNmU5Z1NYTEZ3d0d4eDZsRDA1X21veTFQcEEzYmVUMmttdW5jQXdWUXNYRlc5aWI0UzBSZHV6bVR0bHk2ZTd5Wk8zM0FRczVaQUVFYUo3SFJXbzFJVXVjbm9iUGhxdU1BMi1uenEzMkgyN2RLeG1XR3EwNENhcA?oc=5",
       "source": "Google News 농촌진흥청",
       "category": "news",
-      "published_at": "2026-06-28T16:13:04+00:00",
-      "collected_at": "2026-06-28T16:18:54.079296+00:00",
+      "published_at": "2026-06-28T18:14:45+00:00",
+      "collected_at": "2026-06-29T11:19:38.239021+00:00",
       "summary": "2026년 제3차 국립식량과학원 소득식량작물연구소 공무직근로자 채용 재공고 농촌진흥청",
       "keywords": [
         "농촌",
@@ -14333,8 +14333,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 843,
+    "new_items": 2,
+    "fetched_items": 846,
     "errors": []
   }
 }
