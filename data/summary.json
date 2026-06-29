@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-06-29T08:17:10.488838+00:00",
-  "total": 759,
+  "generated_at": "2026-06-29T08:47:37.715943+00:00",
+  "total": 758,
   "category_counts": {
-    "news": 542,
+    "news": 543,
     "plant_reviews": 37,
-    "support": 180
+    "support": 178
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 210
+      "count": 208
     },
     {
       "keyword": "귀농",
-      "count": 155
+      "count": 156
     },
     {
       "keyword": "농촌",
-      "count": 136
+      "count": 135
     },
     {
       "keyword": "스마트팜",
-      "count": 128
+      "count": 129
     },
     {
       "keyword": "지원",
-      "count": 120
+      "count": 118
     },
     {
       "keyword": "사업",
-      "count": 62
+      "count": 60
     },
     {
       "keyword": "병해충",
-      "count": 54
+      "count": 55
     },
     {
       "keyword": "작물",
@@ -45,37 +45,37 @@
     },
     {
       "keyword": "지원사업",
-      "count": 46
+      "count": 44
     },
     {
       "keyword": "청년농",
-      "count": 45
+      "count": 43
     },
     {
       "keyword": "농업인",
-      "count": 45
+      "count": 43
     }
   ],
   "top_sources": [
     {
       "source": "Google News 청년농 귀농",
-      "count": 149
+      "count": 150
     },
     {
       "source": "Google News 스마트팜",
-      "count": 127
+      "count": 128
+    },
+    {
+      "source": "Google News 병해충 재배",
+      "count": 101
     },
     {
       "source": "Google News 농업",
       "count": 99
     },
     {
-      "source": "Google News 병해충 재배",
-      "count": 99
-    },
-    {
       "source": "Google News 농산물 가격",
-      "count": 76
+      "count": 74
     },
     {
       "source": "Google News 농촌진흥청",
@@ -87,7 +87,7 @@
     },
     {
       "source": "Google News 지원사업",
-      "count": 27
+      "count": 26
     },
     {
       "source": "Google News 농식품부 공고",
@@ -95,14 +95,14 @@
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 23
+      "count": 22
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 104,
-    "fetched_items": 857,
+    "new_items": 21,
+    "fetched_items": 858,
     "errors": []
   }
 }
