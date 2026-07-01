@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T16:17:13.924467+00:00",
+  "generated_at": "2026-07-01T16:47:39.550385+00:00",
   "items": [
     {
       "id": "1ab17df9db43095214afca01",
@@ -385,6 +385,22 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "8ec32f2e3fe9d8767bb976bf",
+      "title": "마늘가격 무난한 출발…관건은 ‘등외품 수매’ - 한국농정신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwcm9YdHdxaE81M2NFNm90R09mbVZNdktxZ0Q0a1BSUGd2T0hIblJrQXJETGR4NGN2OFZBNkRueGVxU1MyUlc5Ynl0WE1RcUstU0dnSms1NjFTaHB6aG0xdHd0dXR0R2tncC1v0gFrQVVfeXFMUHByb1h0d3FoTzUzY0U2b3RHT2ZtVk12S3FnRDRrUFJQZ3ZPSEhuUmtBckRMZHg0Y3Y4VkE2RG54ZXFTUzJSVzlieXRYTVFxSy1TR2dKazU2MVNocHpobTF0d3R1dHRHa2dwLW8?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-07-01T07:44:40+00:00",
+      "collected_at": "2026-07-01T16:47:29.924750+00:00",
+      "summary": "마늘가격 무난한 출발…관건은 ‘등외품 수매’ 한국농정신문",
+      "keywords": [],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "3deb2949b70c7b5c3bab2b77",
       "title": "포항시 송라면, 독거어르신 반려식물 나눔 - 경상매일신문",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xTjFmOTVOWURUMm5jQy1ZYXM3aEsybm1wTThfcVczWEl1NmRxZko5MlRlQlYwUDVBUWxvSFE4b1RtbzZFdDN3WW5XVmVxZW1XVThGWDhyUHZFMVNzMkpR?oc=5",
@@ -530,6 +546,25 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "9788b4b19dce85950670a04a",
+      "title": "[월요칼럼]2026년, 희망의 농업·농촌 - 강원일보",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82N05RWU1Pbk9xUllkZVpWa3JYZVdLU3VSSWx0SlpuSDRGR2tpVmZDb2d6Y092TW15NzktN0p6YVZXLVBUeUZ3UTBjaXJNUk42bTBCT3VMckFDeW03SkFQR1Iwa05OYWpTWVlGVHJtTHJURnNzdTFfYk9wcw?oc=5",
+      "source": "Google News 농업",
+      "category": "news",
+      "published_at": "2026-07-01T06:05:23+00:00",
+      "collected_at": "2026-07-01T16:47:25.328928+00:00",
+      "summary": "[월요칼럼]2026년, 희망의 농업·농촌 강원일보",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "강원",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -2046,6 +2081,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
+    },
+    {
+      "id": "7a6048bb4cb4f59ba4152479",
+      "title": "상주시 남원동, 귀농귀촌 해법 찾아 현장으로 - 데일리대구경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TVzNWWVVFbXlYWXRxTHBPcmhBeFg1dTJsYnBvNVRrZ2dObWNNRFh2UkxSamZOelhfa0p2bnlkRFYyRkZJR2hJa0JDYXlNQ1VvSllVcXhUWmVCcThFNTBSTC1wNmZFQQ?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-06-30T00:44:58+00:00",
+      "collected_at": "2026-07-01T16:47:27.984956+00:00",
+      "summary": "상주시 남원동, 귀농귀촌 해법 찾아 현장으로 데일리대구경북뉴스",
+      "keywords": [
+        "귀농",
+        "귀농귀촌"
+      ],
+      "importance": 42,
+      "region": "대구",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "10c05a66b8ffc941e1be4a90",
@@ -8770,6 +8824,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "7511e0c1280369c5d7449fe4",
+      "title": "귀촌은 줄었는데 귀농·귀어는 늘었다...기본소득 시범지역 귀촌인 38%급증 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EMHktUWZrOC1KM1VBbHp5ZS01RlRfYkN0eDdnOWctOTJoem90ZU5OTGFOb1ZSZDNLcEI2OTMzbVBXa3RtTUpZRnR5MGlWRXc?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-06-25T03:02:05+00:00",
+      "collected_at": "2026-07-01T16:47:27.984956+00:00",
+      "summary": "귀촌은 줄었는데 귀농·귀어는 늘었다...기본소득 시범지역 귀촌인 38%급증 v.daum.net",
+      "keywords": [
+        "귀농"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "ce393ce72c6653a3084cdf34",
       "title": "귀농 인구 증가, 농촌의 새로운 가능성 연다 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBvbmhnVXpnVkdZeXg3Z3FvNFBuQ2FWTmxOUHRtMUZFODF6ZXgzRXMweXNJQzdReERuZkt3dEV1MHlfajMwT2c?oc=5",
@@ -14141,134 +14213,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "4e9241a3eec8dd38a0eeb946",
-      "title": "고온·가뭄에 병해충까지…기후위기 속 소나무 관리법 다시 짠다 - 뉴스후플러스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tUC1rUzlkeGhGRUVRMnk4aGlLbHVtVHllbGp1azBSd2xBZG5MTnhWN08yZUpjZW9BbG1CeDhMakxidXlldmtkcGQ2Ym8zT1pCZjF2QlE0bjA4ZnRPSmFvak42OEYxOTRpV1ZTZVpB?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-22T09:06:32+00:00",
-      "collected_at": "2026-06-23T04:41:53.192564+00:00",
-      "summary": "고온·가뭄에 병해충까지…기후위기 속 소나무 관리법 다시 짠다 뉴스후플러스",
-      "keywords": [
-        "병해충",
-        "기후"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "e912803002f795cb4be241e0",
-      "title": "코트라, 동남아 농업 시장서 K-스마트팜 활로 찾는다 - 문화일보",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ga2R4Njl6WF9UbVNGQ2hCdG5vWVRSZzhBVURsNWJHMVZoM3AyZjdwWFN6QXRya3hDUnRPQndPMWMyeDRnLVJxQWtDZ0hMQnpW?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-22T08:57:29+00:00",
-      "collected_at": "2026-06-23T04:41:51.522790+00:00",
-      "summary": "코트라, 동남아 농업 시장서 K-스마트팜 활로 찾는다 문화일보",
-      "keywords": [
-        "농업",
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "133767a925c6ce684cfb4792",
-      "title": "[2026 ESG Awards] NH농협은행, 농업·농촌 ESG 금융 강화…지속가능 성장모델 구축 - 한스경제",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdUpHOHRwSUFIWTlGYnotX0FELXRWMDhOZmtpZ1YtbjdHVGNocC1DV0JUWkdmME5GZ2FBRzgwN0kxMThpRkpnTXQ1aWI3OHpZZWJpOUszdGJtcWh2dWpUZm9jMUg5bGYxdktj0gFvQVVfeXFMTkx5ZHpXWnJMeWEzWEFfS09tNmtxQVdhTGltZ0xVWWZFcjZJbFc5YXdPdUlUa3ZGYVBRalp3RnlWczZ1SXp6N2ZJZ0U0UVJDSi1EX1lRT0FqWlpadWFKMXlyRmFTc1lKWmhaODZIUGJR?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-22T08:53:35+00:00",
-      "collected_at": "2026-06-23T04:41:49.794755+00:00",
-      "summary": "[2026 ESG Awards] NH농협은행, 농업·농촌 ESG 금융 강화…지속가능 성장모델 구축 한스경제",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "4e5f9a36a8773a311d0575ce",
-      "title": "[동정] 농식품장관, 스마트팜 청년 창업 보육센터 통합 수료식 참석 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xeXhmTXFZb2NJV1NYak0xd1FNeUtWLW8xb201TE04dXVFTWZMRXlkNWZobFo1N3o5bm9SbXo4Z1FyS3l1cFdEMUR4YlZFOXpKMDZsalJLZXR4dUXSAWBBVV95cUxPcXJSd2Z6R1N1cS1FQmtnYWZ4WXdvVEZyT2NNMGZja3BfTUdSQ3lZTDNESTEwUm4wNGl0cDFwekwwUHdaUGdQVGg1cDEzLXRsdDFRZ1ZCS1hUdmJESjhHbXA?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-22T08:27:30+00:00",
-      "collected_at": "2026-06-24T07:16:49.294484+00:00",
-      "summary": "[동정] 농식품장관, 스마트팜 청년 창업 보육센터 통합 수료식 참석 연합뉴스",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "63cbe544c6f39caac236e148",
-      "title": "“北 농업분야 대형 국책사업 잇따라...시설원예·축산 기술협력 강화해야” - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FaUY2REhhY1VwUVZFSHN6aHQ5Y1JKM1JNSDFTN285X3JmRzlJSnM4N0FIeVRUMEVveU14ZXhNam15ckI3cHZIaTdDblZ1cmRlUC0ySnJLT3NZZw?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "support",
-      "published_at": "2026-06-22T08:25:00+00:00",
-      "collected_at": "2026-06-23T04:41:51.522790+00:00",
-      "summary": "“北 농업분야 대형 국책사업 잇따라...시설원예·축산 기술협력 강화해야” 농민신문",
-      "keywords": [
-        "농업",
-        "시설원예",
-        "사업"
-      ],
-      "importance": 58,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "4a5851ffb1d9bc180535d4b2",
-      "title": "강진군, 귀농귀촌 박람회서 정착 지원 정책 홍보 - LG헬로비전",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05S3VYNm5DRzNtVWlYSkFqTHVuVTBQcU9UMHRIMmd4cjc0eDV5SGxYREJnckk5QkNyRENQWXZocVNwQm9XRGgzU3hxdkVSd2tZUkVFeWtLeTlYNzV5X1JQYnBQcVhvR09UMm1kR01uUmYzRXgxN1HSAXZBVV95cUxNOUt1WDZuQ0czbVVpWEpBakx1blUwUHFPVDB0SDJneHI3NHg1eUhsWERCZ3JJOUJDckRDUFl2aHFTcEJvV0RoM1N4cXZFUndrWVJFRXlrS3k5WDc1eV9SUGJwUHFYb0dPVDJtZEdNblJmM0V4MTdR?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-06-22T08:23:22+00:00",
-      "collected_at": "2026-06-23T04:41:52.354364+00:00",
-      "summary": "강진군, 귀농귀촌 박람회서 정착 지원 정책 홍보 LG헬로비전",
-      "keywords": [
-        "귀농",
-        "귀농귀촌",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 763,
+    "total": 761,
     "category_counts": {
       "news": 539,
       "plant_reviews": 49,
-      "support": 175
+      "support": 173
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 201
+        "count": 199
       },
       {
         "keyword": "농촌",
@@ -14276,19 +14233,19 @@
       },
       {
         "keyword": "귀농",
-        "count": 124
+        "count": 125
       },
       {
         "keyword": "지원",
-        "count": 122
+        "count": 121
       },
       {
         "keyword": "스마트팜",
-        "count": 98
+        "count": 96
       },
       {
         "keyword": "병해충",
-        "count": 72
+        "count": 71
       },
       {
         "keyword": "작물",
@@ -14296,7 +14253,7 @@
       },
       {
         "keyword": "사업",
-        "count": 50
+        "count": 49
       },
       {
         "keyword": "농산물",
@@ -14322,19 +14279,19 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 120
+        "count": 119
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 116
+        "count": 117
       },
       {
         "source": "Google News 스마트팜",
-        "count": 96
+        "count": 93
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 68
+        "count": 69
       },
       {
         "source": "Google News 농촌진흥청",
@@ -14361,8 +14318,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 112,
-    "fetched_items": 859,
+    "new_items": 14,
+    "fetched_items": 792,
     "errors": []
   }
 }
