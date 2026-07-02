@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-02T14:24:59.892714+00:00",
+  "generated_at": "2026-07-02T14:55:28.760575+00:00",
   "items": [
+    {
+      "id": "e7bac1f57aa247cc2f83b70b",
+      "title": "땅속 작물 자동 수확…노동력 90% 절감 - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IbVN0ekpsX2JwS3B0QTZBSGVIXzhyQkhWZnY4cE5YNk9KaFB4QXZDbTZXa1kzeUp3bVloam8xVFduRlVOYXNmblJxSVF5YmtSclRpZFBIbVZVaG84Zy1hU0s0VkM1UQ?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-07-02T10:47:00+00:00",
+      "collected_at": "2026-07-02T14:55:16.734359+00:00",
+      "summary": "땅속 작물 자동 수확…노동력 90% 절감 KBS 뉴스",
+      "keywords": [
+        "작물"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
     {
       "id": "6ec5b024fd7435b7f94a2263",
       "title": "[보도자료]우리 쌀 경쟁력 강화 ‘장립종 벼 혁신 프로젝트’ 2년 차 공동연수 개최 - 농촌진흥청",
@@ -273,14 +291,14 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "f040b1a0e17aa60f84f09431",
-      "title": "가격 폭락에 양배추밭 갈아엎은 농민들…\"이러나저러나 손해\" - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LZFl2VHg1NkdIdmhHM2lXVm44Z0RlY29lZlRhSkxPQ2Y4ckhacG40V3NINGd0Ynp2YnFZTXYzaEJUaGxZRGFJT1k4OEVjMlNqa3c?oc=5",
+      "id": "7da522a1d2f406f0bb1c9af6",
+      "title": "가격 폭락에 양배추밭 갈아엎은 농민들…\"이러나저러나 손해\" - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nMloxZWpyeGllcmVlMFphZjVrWGtCV1N1YUhaM1pScWNqREtuUVhYWGVZLXB6M0d1c25aNW5qcGJOSWxYaGc?oc=5",
       "source": "Google News 농산물 가격",
       "category": "news",
-      "published_at": "2026-07-02T07:41:40+00:00",
-      "collected_at": "2026-07-02T09:50:34.930482+00:00",
-      "summary": "가격 폭락에 양배추밭 갈아엎은 농민들…\"이러나저러나 손해\" 매일경제 마켓",
+      "published_at": "2026-07-02T07:43:09+00:00",
+      "collected_at": "2026-07-02T14:55:17.765207+00:00",
+      "summary": "가격 폭락에 양배추밭 갈아엎은 농민들…\"이러나저러나 손해\" v.daum.net",
       "keywords": [],
       "importance": 48,
       "region": "",
@@ -3764,6 +3782,24 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "5c8dfd847d0a8837ad8473a1",
+      "title": "군위, ‘올레산 4배’ 기능성 콩 등 특화작물 키운다 - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUnRTekdOdXFGM3dCNEREaXprNkEtQ29xZVEyWF9JUlYtcDFYajZkX3JNMkJVT2J0NnJDNl9JaFdiOEIzdFdkcHh0b1B0bmFPUV82eFJYMUhnZDBLei1Vc2otdXBhZEJsQ3JNLWxFVHhjTks5czdfTFZnbGNpNmJCeEd3QmlZNE5KQXEyZENobzBRZnc?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-06-29T15:38:22+00:00",
+      "collected_at": "2026-07-02T14:55:16.734359+00:00",
+      "summary": "군위, ‘올레산 4배’ 기능성 콩 등 특화작물 키운다 서울신문",
+      "keywords": [
+        "작물"
+      ],
+      "importance": 42,
+      "region": "서울",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -14165,51 +14201,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "8e63ea12253ac86bb07bd90f",
-      "title": "건양대, 2026 스마트팜 세미나 개최 - 한국대학신문",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qRThPS29YNXA5dFFVYXFuNFhodTB3QmNfdC03ZHM1Ukh3Qmd3Q0VrSEFuUS1XUHYzOS0xZFhYQ1UxMVJzdzZQX05PSmE1RWVwcGNDVlVfTWdhVnhHSG4xMmstTEtfQQ?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-23T07:00:00+00:00",
-      "collected_at": "2026-06-26T05:57:50.380879+00:00",
-      "summary": "건양대, 2026 스마트팜 세미나 개최 한국대학신문",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f74a3d661f5e78ba89738999",
-      "title": "진천군, 귀농인 창업·주택 구입 자금 지원 - KBS 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81bzZKSWg1VmQ2MTZqeUNIZ0k4V0JLTFh5bDFZNDRyT0VIaTFTamRWTXdkV0o3WVVWc2dQdXVJZHlmRWJGSS1EYlN0c1RvNUd6TnFuNnBJdlFVOFlvYXlmMUF6enBDQQ?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-06-23T07:00:00+00:00",
-      "collected_at": "2026-07-02T10:21:01.114377+00:00",
-      "summary": "진천군, 귀농인 창업·주택 구입 자금 지원 KBS 뉴스",
-      "keywords": [
-        "귀농",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
     "total": 763,
     "category_counts": {
-      "news": 561,
+      "news": 562,
       "plant_reviews": 49,
-      "support": 153
+      "support": 152
     },
     "top_keywords": [
       {
@@ -14222,15 +14221,15 @@
       },
       {
         "keyword": "지원",
-        "count": 110
+        "count": 109
       },
       {
         "keyword": "귀농",
-        "count": 105
+        "count": 104
       },
       {
         "keyword": "스마트팜",
-        "count": 89
+        "count": 88
       },
       {
         "keyword": "병해충",
@@ -14242,7 +14241,7 @@
       },
       {
         "keyword": "작물",
-        "count": 59
+        "count": 61
       },
       {
         "keyword": "반려식물",
@@ -14268,18 +14267,18 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 129
+        "count": 131
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 101
-      },
-      {
-        "source": "Google News 스마트팜",
-        "count": 88
+        "count": 100
       },
       {
         "source": "Google News 농산물 가격",
+        "count": 87
+      },
+      {
+        "source": "Google News 스마트팜",
         "count": 87
       },
       {
@@ -14307,8 +14306,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 0,
-    "fetched_items": 852,
+    "new_items": 3,
+    "fetched_items": 850,
     "errors": []
   }
 }
