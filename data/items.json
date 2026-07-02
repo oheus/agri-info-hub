@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T11:22:16.593385+00:00",
+  "generated_at": "2026-07-02T11:52:45.880039+00:00",
   "items": [
     {
       "id": "6ec5b024fd7435b7f94a2263",
@@ -11,6 +11,25 @@
       "collected_at": "2026-07-02T10:51:36.381585+00:00",
       "summary": "[보도자료]우리 쌀 경쟁력 강화 ‘장립종 벼 혁신 프로젝트’ 2년 차 공동연수 개최 농촌진흥청",
       "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "20a65a912b14d16205701cc0",
+      "title": "농촌진흥청, 제5차 ‘치유농업 포럼’ 개최… 건강관리·인공지능 기반 미래형 치유농업 모색 - 농촌진흥청",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkF4Wk1mblg4MUZ1VHBCczg3NVpiMEF6Z28tVE82RmR6eHFQdHhUSV9aTGN3cjJwQko3NS15MHBwODhCa0lKaHk3ZElmbkNhTExQUVNXVEwzNF9pNDM4ZE5YdVpOSjVJNVdRLVRBZTh6TmhUbDNzNDVuTUVSNnV2YzR6bXRnQWRQQjlMa2NzUmtyNXNMa0c2dXdtdldaSjFmQ1BfZXlJaE5LN2hFUWdlWjBR?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-07-02T10:05:11+00:00",
+      "collected_at": "2026-07-02T11:52:37.121758+00:00",
+      "summary": "농촌진흥청, 제5차 ‘치유농업 포럼’ 개최… 건강관리·인공지능 기반 미래형 치유농업 모색 농촌진흥청",
+      "keywords": [
+        "농업",
         "농촌"
       ],
       "importance": 42,
@@ -14244,51 +14263,12 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "3b10931c342bc3b566252d56",
-      "title": "부여 귀농귀촌인·원주민 ‘상생의 하루’ - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoVzNxTHpEU0p4ZGdma0dmYlhKUHdzY29nNTJJMm1oVDhIZDJlVjR2dUVGSHFVUmlqZy1TSk5GLW5DTlY4RkhsTVo1Sm9xa2pzSl84aWllVnBDcDZSUmo4N2xkMWlaaVFuaGZnXw?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-06-23T06:00:46+00:00",
-      "collected_at": "2026-06-24T07:16:50.213500+00:00",
-      "summary": "부여 귀농귀촌인·원주민 ‘상생의 하루’ 농수축산신문",
-      "keywords": [
-        "귀농",
-        "귀농귀촌"
-      ],
-      "importance": 42,
-      "region": "강원",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "682a2853986fd0369b4e5d51",
-      "title": "보령 여성농업인 120명, 농촌 리더 역량 키운다 - 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1maE55ZmtfZC1FSzN2R3JoVVh3UUN5MlRXTDBMdmg4Tno1RFdBTHhFYjMtbGwzTUxUVHZZQzg4SEVXMVZnNzFYWGRFdDBZQ1E5SnVkTGNHdWdLWlRpRmdISzZOY1lzNnY3UG53cw?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-23T05:59:44+00:00",
-      "collected_at": "2026-06-24T07:16:47.510714+00:00",
-      "summary": "보령 여성농업인 120명, 농촌 리더 역량 키운다 농수축산신문",
-      "keywords": [
-        "농업",
-        "농촌",
-        "농업인"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 767,
+    "total": 766,
     "category_counts": {
-      "news": 564,
+      "news": 563,
       "plant_reviews": 47,
       "support": 156
     },
@@ -14307,7 +14287,7 @@
       },
       {
         "keyword": "귀농",
-        "count": 109
+        "count": 108
       },
       {
         "keyword": "스마트팜",
@@ -14335,7 +14315,7 @@
       },
       {
         "keyword": "농업인",
-        "count": 41
+        "count": 40
       },
       {
         "keyword": "지원사업",
@@ -14345,7 +14325,7 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 144
+        "count": 143
       },
       {
         "source": "Google News 병해충 재배",
@@ -14353,7 +14333,7 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 104
+        "count": 103
       },
       {
         "source": "Google News 농산물 가격",
@@ -14365,7 +14345,7 @@
       },
       {
         "source": "Google News 농촌진흥청",
-        "count": 59
+        "count": 60
       },
       {
         "source": "Google News 식물 키우기",
@@ -14388,8 +14368,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 10,
-    "fetched_items": 848,
+    "new_items": 3,
+    "fetched_items": 843,
     "errors": []
   }
 }
