@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T12:23:11.671879+00:00",
+  "generated_at": "2026-07-02T12:53:38.835020+00:00",
   "items": [
     {
       "id": "6ec5b024fd7435b7f94a2263",
@@ -181,6 +181,42 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "1c82560bbb34b41486ddd403",
+      "title": "반도체 산단 나주호 용수공급은 영산강물 대체 공급 등을 통해 농업용수 이용에는 차질이 없도록 할 계획 - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1la1ZOcGJqLWVlYnBSYkpLcENKNmRPb3ZZaWwycFFma1dhWUNwZHV6N3BPWmE1aU9NMnlpWjRHamhjV3pRQkk2TEM4VGlyRzRvWjBFZGVEcVFVa2c3OExjb1RLQ3o4cDk2aVo5b19xdHVZb0kwUjRzNFJwNA?oc=5",
+      "source": "Google News 농림축산식품부",
+      "category": "news",
+      "published_at": "2026-07-02T08:10:00+00:00",
+      "collected_at": "2026-07-02T12:53:31.138391+00:00",
+      "summary": "반도체 산단 나주호 용수공급은 영산강물 대체 공급 등을 통해 농업용수 이용에는 차질이 없도록 할 계획 농림축산식품부",
+      "keywords": [
+        "농업"
+      ],
+      "importance": 42,
+      "region": "전남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "8a598a38f1ad6b6106791909",
+      "title": "순천시, 벼 병해충 선제 방제 나서 - LG헬로비전",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12bXRPVHZvMW5pTEpRYmQxNmNCekpDalNhRjM0eDFsNVBha2E4aUpyMndvZnIzQUk2Wlg4SlpVZ2Y2RjAyX3kzWlV4Ri00Ul93eGkyVzJoY3FzQWw3WXBHa04tSmw5X19ZNV9HdDl1VEVFeHhPb2fSAXZBVV95cUxNdm10T1R2bzFuaUxKUWJkMTZjQnpKQ2pTYUYzNHgxbDVQYWthOGlKcjJ3b2ZyM0FJNlpYOEpaVWdmNkYwMl95M1pVeEYtNFJfd3hpMlcyaGNxc0FsN1lwR2tOLUpsOV9fWTVfR3Q5dVRFRXh4T29n?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-07-02T08:02:52+00:00",
+      "collected_at": "2026-07-02T12:53:27.244759+00:00",
+      "summary": "순천시, 벼 병해충 선제 방제 나서 LG헬로비전",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "전남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "faf871717e8187c75cfa9786",
       "title": "농식품부, 여름철 배추 안정 생산 및 농가 경영지원 위해 총력 대응! - 농림축산식품부",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwYzhxZkdsYmk1Xy0wSnRZQ3VOelQ0SzJsdEt6V3dsNFJHZmdJRHJUZG1LWXZNZndJVE11ZmUwbU96b1RzNHJST0pyWE52QzhmR2xscS1pdkZmR0J0bzMtWjU2bld0bFdJamNiSU1pY0hqR0VvdHE3dXhodw?oc=5",
@@ -357,6 +393,24 @@
       ],
       "importance": 42,
       "region": "충북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "04cee0ed6b27e967f4b66030",
+      "title": "세종시, 청년농육성·공동체 기반 다진다 - 농수축산신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1Q255cWRTeURJTEFGaTVVMkVILURTV1g5WVBsSkc3dHJudHBwS1pzY3FMMEQ1SkZrVmE2dmtmaUFrdEszVmRwWWI4MVM0c0s4S0stSWZwOE1aUmxPQVJvaVRWVTNkUXVIa1FIVQ?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-07-02T06:48:59+00:00",
+      "collected_at": "2026-07-02T12:53:26.336921+00:00",
+      "summary": "세종시, 청년농육성·공동체 기반 다진다 농수축산신문",
+      "keywords": [
+        "청년농"
+      ],
+      "importance": 48,
+      "region": "세종",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -14185,72 +14239,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f4a241bf2a6d4e8b617026fe",
-      "title": "순창군, 귀농체험학교 참가자 30일까지 모집…3박4일 농촌생활 체험 - 프레시안",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Gb3hNdkxENk5VOExhVUhpVDBZLThrTy1EQnRDcUJ3M1E3YkZ5OG0yM240eENGQmRJRHZUZlZTS0RieFpId0Zpd24tZU0xZ3JuSmJmNGZ3cVBibl9pNDlWbGw0TUxCUVdzOWtR?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-06-23T06:33:27+00:00",
-      "collected_at": "2026-06-24T07:16:50.213500+00:00",
-      "summary": "순창군, 귀농체험학교 참가자 30일까지 모집…3박4일 농촌생활 체험 프레시안",
-      "keywords": [
-        "농촌",
-        "귀농",
-        "모집"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "7월 30일 마감",
-      "deadline_date": "2026-07-30",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "4dd6ea904605ae096e7a7576",
-      "title": "농정원-농진청, 농업·농촌 AX 맞손…\"농업인 AI 서비스 개발\" - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaWF8wS2RUS1A2aDgyQk14NFg5UXBxRWJPZGVhMDBRQmRPd3FKR2NreVVoM3YyVlhPUXdZU3ZGcmtPSnNDWU85VXpQNDdnM09rMTlMM3M3YUE1QWUwVlI5dHpodlp0Q3lBTUY5bW0ydWlXcFhNWUJYM9IBeEFVX3lxTFBaWF8wS2RUS1A2aDgyQk14NFg5UXBxRWJPZGVhMDBRQmRPd3FKR2NreVVoM3YyVlhPUXdZU3ZGcmtPSnNDWU85VXpQNDdnM09rMTlMM3M3YUE1QWUwVlI5dHpodlp0Q3lBTUY5bW0ydWlXcFhNWUJYMw?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-23T06:28:44+00:00",
-      "collected_at": "2026-06-24T07:16:47.510714+00:00",
-      "summary": "농정원-농진청, 농업·농촌 AX 맞손…\"농업인 AI 서비스 개발\" 뉴시스",
-      "keywords": [
-        "농업",
-        "농촌",
-        "농업인"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "e2f7bdf53b00f8f7f38285bc",
-      "title": "농촌지도관 출신 첫 농기평 수장 탄생…박홍재 신임 원장 취임 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9COHk3ZHU2V0g4eUlacXJ3bmUzZTZ6QktyNmFzdDFOdHFHdlE2bkhUdUJrdy1qLTRyUkkwZ0hZMlJ0dVZsY1RsR2xPNWJHWnFta3hSVTFaYU5FS3BiV3gybTRnUEZ3YU50UmJlamNxcjjSAXBBVV95cUxPQjh5N2R1NldIOHlJWnFyd25lM2U2ekJLcjZhc3QxTnRxR3ZRNm5IVHVCa3ctai00clJJMGdIWTJSdHVWbGNUbEdsTzViR1pxbWt4UlUxWmFORUtwYld4Mm00Z1BGd2FOdFJiZWpjcXI4?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-23T06:26:45+00:00",
-      "collected_at": "2026-06-24T07:16:47.510714+00:00",
-      "summary": "농촌지도관 출신 첫 농기평 수장 탄생…박홍재 신임 원장 취임 - 머니투데이 머니투데이",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
     "total": 765,
     "category_counts": {
-      "news": 562,
+      "news": 563,
       "plant_reviews": 49,
-      "support": 154
+      "support": 153
     },
     "top_keywords": [
       {
@@ -14259,7 +14255,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 181
+        "count": 178
       },
       {
         "keyword": "지원",
@@ -14267,7 +14263,7 @@
       },
       {
         "keyword": "귀농",
-        "count": 106
+        "count": 105
       },
       {
         "keyword": "스마트팜",
@@ -14275,7 +14271,7 @@
       },
       {
         "keyword": "병해충",
-        "count": 80
+        "count": 81
       },
       {
         "keyword": "농산물",
@@ -14295,7 +14291,7 @@
       },
       {
         "keyword": "농업인",
-        "count": 40
+        "count": 39
       },
       {
         "keyword": "지원사업",
@@ -14305,11 +14301,11 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 143
+        "count": 141
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 129
+        "count": 130
       },
       {
         "source": "Google News 청년농 귀농",
@@ -14348,8 +14344,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 844,
+    "new_items": 5,
+    "fetched_items": 843,
     "errors": []
   }
 }
