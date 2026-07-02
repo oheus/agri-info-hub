@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-02T12:53:38.835020+00:00",
+  "generated_at": "2026-07-02T13:24:01.507068+00:00",
   "total": 765,
   "category_counts": {
-    "news": 563,
+    "news": 562,
     "plant_reviews": 49,
-    "support": 153
+    "support": 154
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 193
+      "count": 194
     },
     {
       "keyword": "농촌",
@@ -17,7 +17,7 @@
     },
     {
       "keyword": "지원",
-      "count": 110
+      "count": 111
     },
     {
       "keyword": "귀농",
@@ -29,7 +29,7 @@
     },
     {
       "keyword": "병해충",
-      "count": 81
+      "count": 80
     },
     {
       "keyword": "농산물",
@@ -49,7 +49,7 @@
     },
     {
       "keyword": "농업인",
-      "count": 39
+      "count": 40
     },
     {
       "keyword": "지원사업",
@@ -63,7 +63,7 @@
     },
     {
       "source": "Google News 병해충 재배",
-      "count": 130
+      "count": 129
     },
     {
       "source": "Google News 청년농 귀농",
@@ -95,14 +95,14 @@
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 18
+      "count": 19
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 5,
-    "fetched_items": 843,
+    "new_items": 2,
+    "fetched_items": 845,
     "errors": []
   }
 }
