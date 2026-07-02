@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T11:52:45.880039+00:00",
+  "generated_at": "2026-07-02T12:23:11.671879+00:00",
   "items": [
     {
       "id": "6ec5b024fd7435b7f94a2263",
@@ -219,14 +219,14 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "f9f846a5f92902150d263191",
-      "title": "경남농기원, 병해충 선제 대응 ‘도-시군 협력체계’ 강화 - 경남도민뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82V0pZSkh4RndOc09OMExIdlJwMXprZFItUnViWTEyZjduM05sdnU2ZWVmRXVBaktOcW1yMGs0R1otT190YTMwZG1xWWJFMklMMGstRzJhOXAyUjJIM2d4MkpIQQ?oc=5",
+      "id": "189930ea556de18942234bd6",
+      "title": "경남농기원, 병해충 선제 대응 ‘도-시군 협력체계’ 강화 - 경남열린신문",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xd1pJbHpxRjk4dWxOZ0ZaWmxGYjJoMzFTWjNBSHhhNTlPLTgzSjNraDI1U2Rmc003aExDNXJkVHJDaUQ3MlM0YmVoWm9TTnQ0c0x5WmwwRWR0NzVMZXp1TVpjY29wbmFjOVJkNkcyT1N3Wkth0gF0QVVfeXFMTzF3WklsenFGOTh1bE5nRlpabEZiMmgzMVNaM0FIeGE1OU8tODNKM2toMjVTZGZzTTdoTEM1cmRUckNpRDcyUzRiZWhab1NOdDRzTHlabDBFZHQ3NUxlenVNWmNjb3BuYWM5UmQ2RzJPU3daS2E?oc=5",
       "source": "Google News 병해충 재배",
       "category": "news",
-      "published_at": "2026-07-02T07:50:21+00:00",
-      "collected_at": "2026-07-02T09:50:34.016410+00:00",
-      "summary": "경남농기원, 병해충 선제 대응 ‘도-시군 협력체계’ 강화 경남도민뉴스",
+      "published_at": "2026-07-02T07:52:07+00:00",
+      "collected_at": "2026-07-02T12:23:00.512507+00:00",
+      "summary": "경남농기원, 병해충 선제 대응 ‘도-시군 협력체계’ 강화 경남열린신문",
       "keywords": [
         "병해충"
       ],
@@ -1408,6 +1408,24 @@
       "category_label": "지원사업"
     },
     {
+      "id": "be47dff233351a9c7b6a8fc3",
+      "title": "남일면, 반려식물로 홀몸어르신 마음에 꽃 피워 - 충청도민일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxVXg5T3pwTVY3T2RWSmJhTzBrMWJBU09WNWxaaHFiRWt5VFV0V2NCN3hqOF8tUzVZVHFlV25hcHdDaGNadE9PbkFGN3JDa3IzZV96NGI3d1VGNUt5R0lGSEtpa0F3akpIbjZMeA?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-07-01T08:40:41+00:00",
+      "collected_at": "2026-07-02T12:23:07.988585+00:00",
+      "summary": "남일면, 반려식물로 홀몸어르신 마음에 꽃 피워 충청도민일보",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
+    },
+    {
       "id": "736c282b6a1dfb0915e06504",
       "title": "합천, 벼 병해충 항공 공동방제 본격 실시 - 서울일보",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSkxsVnBsQzd2WWs4V091OThBeXJ1c3JRM1VhVlVIZzdXV3ZJTHlZVkFWcWs2MnBFeVU5bVBYT3pXdHktcWRKSVFwS21yWnB5S0Nxem1takxwYUZtY3RqMGZsUWNzUjBRTFRXb9IBb0FVX3lxTE80bHFmRTE0Sk5qcE50UTJKTGRFNFlEVTlpU01rRF95NzdFcFZTaHFaX29BVGNnYlU2ZzhxTWt3U3h5UmZETmE2Qzg5Y1VBbHR6ZEU5MlJDSENhaUd6dVlDaUktR1dWMUYwNm9XV2VPcw?oc=5",
@@ -1943,6 +1961,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "60e89d8f9d726f58bcf7ce49",
+      "title": "예산군 광시면지역사회보장협의체, 반려식물로 마음 돌본다 - 도민연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xd1hoWnV4ckxMUXhDVElnNzgyTVpoWHZxX19qazgwRDFvTkFKQjFBZy1KTUVWT3NESE9uVTU5Yzl3VVpMUWFPdDNtcnRveVFjUmJIZXBJNEgyR0xieUhDZHhaUXFuU2VRTlE?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-07-01T03:01:51+00:00",
+      "collected_at": "2026-07-02T12:23:07.988585+00:00",
+      "summary": "예산군 광시면지역사회보장협의체, 반려식물로 마음 돌본다 도민연합뉴스",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
     },
     {
       "id": "8e3fa6276697f8172befb15c",
@@ -14207,70 +14243,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "2fc0de4559ab40a41639621a",
-      "title": "순창, ‘2026 귀농체험학교’ 참가자 모집…6월 30일까지 접수 - 서울일보",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OX2V3bXVYcUtDZGxPVlEyd0VGZFJscFVoSWpKWGRKRm9YWmFnOGJJeFVCdE5CZ2NNYXpyN0w3Q1lrdFJrdVpKWkp0MGNqWmFNdE4wLUd0NFNPNENIX2RHUm9kRVJQNEtPNE1F0gFvQVVfeXFMUC1DcVlQd2VuZGFDOFdrZUtjWTFnRXhfSTJscW5nRkplZTIzWnplbThZZ1ZscGRrc3UyRDdBQlJjMTBvOHRYVmlVbS1wbmlDWkRuV2xsaXVhQkZDZWNETEctWmNBSVFVTDlfWHpfa1cw?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-06-23T06:19:50+00:00",
-      "collected_at": "2026-06-24T07:16:50.213500+00:00",
-      "summary": "순창, ‘2026 귀농체험학교’ 참가자 모집…6월 30일까지 접수 서울일보",
-      "keywords": [
-        "귀농",
-        "모집",
-        "접수"
-      ],
-      "importance": 64,
-      "region": "서울",
-      "deadline_text": "6월 30일 마감",
-      "deadline_date": "2026-06-30",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "00b030aa4dd479d03d59ac9b",
-      "title": "함양군, 귀농·귀촌의 정석 알렸다 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jNkhId0FQNENNQnZFV29xTjBMUEFEeDhRUWtoQVdxVDM5dUdoR0RGamFzVHRqd2NNTVNoTWl5ZnpBeHA5OG1RYVZsczNaQUh1S0pLb3ZEWDNPT09yNk9DdHllSFU4UUNHMnRlVGw1TEc?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-06-23T06:17:20+00:00",
-      "collected_at": "2026-06-24T07:16:50.213500+00:00",
-      "summary": "함양군, 귀농·귀촌의 정석 알렸다 신아일보",
-      "keywords": [
-        "귀농"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "6197b25aba73452ceede43ce",
-      "title": "언론보도 대응자료 > 설명자료 > 최근 배추 가격은 평년보다 낮은 상황이며, 여름철 수급안정을 위해 총력 지원 중 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uZkJaeTlUTWMxTUF2QWw4LXAtRmhTNjhUc2JtQnFEQnoyWTdsaEM4b3NBYndTNUZWdXEtWmhYNGhMbng3ZFkySkdZYjFzSzI1TjZRSEVFTmliYkI3UmdYZ0ZXYnF1NTkxc1pKZ0lzd2c2QWNOaHVPVGkzVQ?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-06-23T06:16:06+00:00",
-      "collected_at": "2026-06-24T07:16:52.793950+00:00",
-      "summary": "언론보도 대응자료 > 설명자료 > 최근 배추 가격은 평년보다 낮은 상황이며, 여름철 수급안정을 위해 총력 지원 중 농림축산식품부",
-      "keywords": [
-        "지원"
-      ],
-      "importance": 80,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 766,
+    "total": 765,
     "category_counts": {
-      "news": 563,
-      "plant_reviews": 47,
-      "support": 156
+      "news": 562,
+      "plant_reviews": 49,
+      "support": 154
     },
     "top_keywords": [
       {
@@ -14283,11 +14263,11 @@
       },
       {
         "keyword": "지원",
-        "count": 111
+        "count": 110
       },
       {
         "keyword": "귀농",
-        "count": 108
+        "count": 106
       },
       {
         "keyword": "스마트팜",
@@ -14306,12 +14286,12 @@
         "count": 59
       },
       {
-        "keyword": "사업",
-        "count": 47
+        "keyword": "반려식물",
+        "count": 48
       },
       {
-        "keyword": "반려식물",
-        "count": 46
+        "keyword": "사업",
+        "count": 47
       },
       {
         "keyword": "농업인",
@@ -14333,7 +14313,7 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 103
+        "count": 101
       },
       {
         "source": "Google News 농산물 가격",
@@ -14349,11 +14329,11 @@
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 47
+        "count": 49
       },
       {
         "source": "Google News 농식품부 공고",
-        "count": 23
+        "count": 22
       },
       {
         "source": "Google News 지원사업",
@@ -14368,8 +14348,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 3,
-    "fetched_items": 843,
+    "new_items": 4,
+    "fetched_items": 844,
     "errors": []
   }
 }
