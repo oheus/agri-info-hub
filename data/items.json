@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T13:24:01.507068+00:00",
+  "generated_at": "2026-07-02T13:54:28.187336+00:00",
   "items": [
     {
       "id": "6ec5b024fd7435b7f94a2263",
@@ -14202,60 +14202,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "14ac55988a2ab7815ed55654",
-      "title": "태안군, 청년농업인 농지 임차료 지원 - 뉴스프리존",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fYXh3SFd1Sk5uZ1doc1k2MWNlbllWcTVOaHZnLW55bHZsVkVxcXBON0JTNEN3bTVtaU5qSDZId1B0MzlNQ0FXb2tiUTg5SlI2SVg3X0FjY01fbHVCdWs2bjVVb1FXeDRVQ2hEMU1Vd0dyLWPSAXdBVV95cUxOZEF3SV95RWloYUNPT2lsMndnTTJybjc2SWhmNEJfeEt6bXQzMVNEVVNjNm01S0tDaGh2MXRYWTl6LWdqbDB4SG5NNTlOQWhoTXhacjJiMXN0OXoyM0lxT3RHMmtqaXRDMUZKRGN4OHJxM0kyVm4yQQ?oc=5",
-      "source": "Google News 청년농 지원",
-      "category": "support",
-      "published_at": "2026-06-23T06:42:04+00:00",
-      "collected_at": "2026-07-02T13:23:55.984005+00:00",
-      "summary": "태안군, 청년농업인 농지 임차료 지원 뉴스프리존",
-      "keywords": [
-        "농업",
-        "청년농",
-        "농업인",
-        "청년농업인",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "efe571ea058b0b53b6568c79",
-      "title": "가락시장 농산물 가격-2026년 6월23일 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VRmZhRThzTnBCUnI2TGlrV3dJSWwxM3RRb0hMV2tHanhWc2NWSUE1Z29HS283SkswRDVKZ0FxdENiMWYyOUVFYmZvNVNGaUlXbm5XbTRlZDh1Zw?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-23T06:42:00+00:00",
-      "collected_at": "2026-06-24T07:16:51.957120+00:00",
-      "summary": "가락시장 농산물 가격-2026년 6월23일 농민신문",
-      "keywords": [
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 765,
+    "total": 763,
     "category_counts": {
-      "news": 562,
+      "news": 561,
       "plant_reviews": 49,
-      "support": 154
+      "support": 153
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 194
+        "count": 193
       },
       {
         "keyword": "농촌",
@@ -14263,7 +14222,7 @@
       },
       {
         "keyword": "지원",
-        "count": 111
+        "count": 110
       },
       {
         "keyword": "귀농",
@@ -14279,7 +14238,7 @@
       },
       {
         "keyword": "농산물",
-        "count": 63
+        "count": 62
       },
       {
         "keyword": "작물",
@@ -14295,7 +14254,7 @@
       },
       {
         "keyword": "농업인",
-        "count": 40
+        "count": 39
       },
       {
         "keyword": "지원사업",
@@ -14316,12 +14275,12 @@
         "count": 101
       },
       {
-        "source": "Google News 농산물 가격",
+        "source": "Google News 스마트팜",
         "count": 88
       },
       {
-        "source": "Google News 스마트팜",
-        "count": 88
+        "source": "Google News 농산물 가격",
+        "count": 87
       },
       {
         "source": "Google News 농촌진흥청",
@@ -14341,15 +14300,15 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 19
+        "count": 18
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 2,
-    "fetched_items": 845,
+    "new_items": 3,
+    "fetched_items": 843,
     "errors": []
   }
 }
