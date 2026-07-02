@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T12:53:38.835020+00:00",
+  "generated_at": "2026-07-02T13:24:01.507068+00:00",
   "items": [
     {
       "id": "6ec5b024fd7435b7f94a2263",
@@ -14204,6 +14204,28 @@
       "category_label": "지원사업"
     },
     {
+      "id": "14ac55988a2ab7815ed55654",
+      "title": "태안군, 청년농업인 농지 임차료 지원 - 뉴스프리존",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fYXh3SFd1Sk5uZ1doc1k2MWNlbllWcTVOaHZnLW55bHZsVkVxcXBON0JTNEN3bTVtaU5qSDZId1B0MzlNQ0FXb2tiUTg5SlI2SVg3X0FjY01fbHVCdWs2bjVVb1FXeDRVQ2hEMU1Vd0dyLWPSAXdBVV95cUxOZEF3SV95RWloYUNPT2lsMndnTTJybjc2SWhmNEJfeEt6bXQzMVNEVVNjNm01S0tDaGh2MXRYWTl6LWdqbDB4SG5NNTlOQWhoTXhacjJiMXN0OXoyM0lxT3RHMmtqaXRDMUZKRGN4OHJxM0kyVm4yQQ?oc=5",
+      "source": "Google News 청년농 지원",
+      "category": "support",
+      "published_at": "2026-06-23T06:42:04+00:00",
+      "collected_at": "2026-07-02T13:23:55.984005+00:00",
+      "summary": "태안군, 청년농업인 농지 임차료 지원 뉴스프리존",
+      "keywords": [
+        "농업",
+        "청년농",
+        "농업인",
+        "청년농업인",
+        "지원"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "efe571ea058b0b53b6568c79",
       "title": "가락시장 농산물 가격-2026년 6월23일 - 농민신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VRmZhRThzTnBCUnI2TGlrV3dJSWwxM3RRb0hMV2tHanhWc2NWSUE1Z29HS283SkswRDVKZ0FxdENiMWYyOUVFYmZvNVNGaUlXbm5XbTRlZDh1Zw?oc=5",
@@ -14221,37 +14243,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "c6ca1af83bf1b3dae91c2352",
-      "title": "영광군, 돌발병해충 집중 방제 - 호남타임즈",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4Z2JUNW05cmhNOTYxRHVXdV9hX201UGp6UDNDbndmYkhHTGt4Q1c2RDlzOUphZm1meHkta2EtUzVDdnYxeGtWWklzZTdZbllCcHRCVFU2TmJ5N3ZpV2FJeGppV1k4V2hISnZqUTF3?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-23T06:39:51+00:00",
-      "collected_at": "2026-06-26T05:57:51.972202+00:00",
-      "summary": "영광군, 돌발병해충 집중 방제 호남타임즈",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
     "total": 765,
     "category_counts": {
-      "news": 563,
+      "news": 562,
       "plant_reviews": 49,
-      "support": 153
+      "support": 154
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 193
+        "count": 194
       },
       {
         "keyword": "농촌",
@@ -14259,7 +14263,7 @@
       },
       {
         "keyword": "지원",
-        "count": 110
+        "count": 111
       },
       {
         "keyword": "귀농",
@@ -14271,7 +14275,7 @@
       },
       {
         "keyword": "병해충",
-        "count": 81
+        "count": 80
       },
       {
         "keyword": "농산물",
@@ -14291,7 +14295,7 @@
       },
       {
         "keyword": "농업인",
-        "count": 39
+        "count": 40
       },
       {
         "keyword": "지원사업",
@@ -14305,7 +14309,7 @@
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 130
+        "count": 129
       },
       {
         "source": "Google News 청년농 귀농",
@@ -14337,15 +14341,15 @@
       },
       {
         "source": "Google News 청년농 지원",
-        "count": 18
+        "count": 19
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 5,
-    "fetched_items": 843,
+    "new_items": 2,
+    "fetched_items": 845,
     "errors": []
   }
 }
