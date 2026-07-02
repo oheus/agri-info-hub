@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T10:51:46.756647+00:00",
+  "generated_at": "2026-07-02T11:22:16.593385+00:00",
   "items": [
     {
       "id": "6ec5b024fd7435b7f94a2263",
@@ -160,6 +160,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "faf871717e8187c75cfa9786",
+      "title": "농식품부, 여름철 배추 안정 생산 및 농가 경영지원 위해 총력 대응! - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwYzhxZkdsYmk1Xy0wSnRZQ3VOelQ0SzJsdEt6V3dsNFJHZmdJRHJUZG1LWXZNZndJVE11ZmUwbU96b1RzNHJST0pyWE52QzhmR2xscS1pdkZmR0J0bzMtWjU2bld0bFdJamNiSU1pY0hqR0VvdHE3dXhodw?oc=5",
+      "source": "Google News 농식품부 공고",
+      "category": "support",
+      "published_at": "2026-07-02T08:00:00+00:00",
+      "collected_at": "2026-07-02T11:22:04.390497+00:00",
+      "summary": "농식품부, 여름철 배추 안정 생산 및 농가 경영지원 위해 총력 대응! 농림축산식품부",
+      "keywords": [
+        "농식품부",
+        "지원"
+      ],
+      "importance": 74,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "b489bf8a9672fbc0455c53e1",
@@ -1742,6 +1761,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "f2518540d5b94d03a99a490a",
+      "title": "음성군, 버즘나무 산림병해충 예방주사 방제 실시 - 산림신문",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WQnpaY0VOdFNRLXlhNHM1UVplOFQ3UXdLc2Y2ZjBUR2pZOENuLWVmRC00dmNzNWF1UnpFRERSTGRkUXFsdjRxRlJtaHpzWlBJaENBb0F3?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-07-01T05:39:00+00:00",
+      "collected_at": "2026-07-02T11:22:02.127996+00:00",
+      "summary": "음성군, 버즘나무 산림병해충 예방주사 방제 실시 산림신문",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "b7759f1bd4d32e0c9ff9653f",
       "title": "반려식물로 전한 따뜻한 마음…포항 송라면, 독거노인 정서 돌봄 나서 - 경북신문",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iNUE0VVhKcm1JLVdXMmdpT1VGcVlJTGpHNFNDR1RmN0NVb050Qmk3ZjllSWp1UWRpN3M1M3BtSlFURTY3dFM3WDNLWVJvVVE1X2hOUXBlcDc?oc=5",
@@ -2700,6 +2737,22 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "9c7e72628ca492c9e671d93a",
+      "title": "공지·공고 > 농림축산식품부 소관품목에 대한 할당관세 추천요령(공고) - 농림축산식품부",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XVVJuLTZJQlBBSmxUM3hpZUZ5d3N0S2dTVWJ0emYybXRYRFdCcGZuRUZBS3h1dlRMc1N1eDRnMHRyMHE2S0Z5RTRLQ29BNUkxdk4wckl6aHE3S1c5Qk1sYWJFUUYwQWVwcVd2NERiOEJsUUJkeXRMaEhCUQ?oc=5",
+      "source": "Google News 농식품부 공고",
+      "category": "support",
+      "published_at": "2026-06-30T07:00:00+00:00",
+      "collected_at": "2026-07-02T11:22:04.390497+00:00",
+      "summary": "공지·공고 > 농림축산식품부 소관품목에 대한 할당관세 추천요령(공고) 농림축산식품부",
+      "keywords": [],
+      "importance": 74,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "d19a2212cca6a7734c7e1226",
       "title": "마늘 수급안정 첫 상생간담회…생산자·유통업계 협력 본격화 - 한국농업신문",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RRjI4RjVoa0lGYW9weHpyeXV5RElBUW41dHh2ODkwdnc1a2ZieXNsa3NfRGFLV0lLSEFsaEpkU3AtZHlhVERDWVJFbDlmcjdoall6bmZRdk1IQXJfLS1zNjRqQlBxallXOXNjWnFn0gFwQVVfeXFMUHFYZFBrT1ZwNVhyM1EtXy1mYm9nZXNrX2lKdDhJZjBhVFB4MEpHLTJTcEdYZlVTcTNXamI4amNUUHBNaWhteDF2a1N3RGFQMVlJbFhMektzcVBMQk5hZnhpeDdXZFJuTjdPbnN2ZkQ5Qg?oc=5",
@@ -3490,6 +3543,24 @@
       ],
       "importance": 42,
       "region": "제주",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "a17ebfde48558e215353b8b6",
+      "title": "제놀루션, KIT '어깨동무기업' 선정…RNA 작물보호제 상용화 기반 강화 - 마켓인",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HODR1Y2diSy0tSFdTWDZmVVNFQ21pR2l5UHRGdWhjUFpUS1BFWmU5Uk5PRXNWV2EtNE03YkprRGxXV3F1V05zMnRTYndKSi1DVDBIWk1OZEx4NTFGdWpoaUwzd0N2UXVwLU5XMkVjRTJ2N1U?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-06-29T23:53:55+00:00",
+      "collected_at": "2026-07-02T11:22:02.127996+00:00",
+      "summary": "제놀루션, KIT '어깨동무기업' 선정…RNA 작물보호제 상용화 기반 강화 마켓인",
+      "keywords": [
+        "작물"
+      ],
+      "importance": 42,
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -5715,6 +5786,22 @@
         "귀농"
       ],
       "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "19eb0aaf830a683fad13f610",
+      "title": "커피 가격이 킬로그램당 9만 VND까지 치솟았고, 수출용 쌀 가격도 다시 상승했다. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTE5lQU9kWEpFX3dEd3hjZ3pqME5VT3A5cDVkYTc1algyMExSU1NwOHpvWG9OMFJUd19oVHlwTnRHM0tFSnNncW1IZEJVQXdPR0c0UE9XWlZWM2tnc0RZMk5HWGxuMGwyY1REeW5zeXZkYy1iWkl2RGhvNWtqY01UVGw4V1VJLTZSTEhFMWUtQlJ2MGZhWWd5b2p3?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-06-28T08:07:20+00:00",
+      "collected_at": "2026-07-02T11:22:03.466450+00:00",
+      "summary": "커피 가격이 킬로그램당 9만 VND까지 치솟았고, 수출용 쌀 가격도 다시 상승했다. Vietnam.vn",
+      "keywords": [],
+      "importance": 48,
       "region": "",
       "deadline_text": "",
       "deadline_date": "",
@@ -14196,152 +14283,35 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "78ceccb12cfe49947d2d175e",
-      "title": "파주시, 연 2% 저금리 ‘귀농·주택 자금 융자’ 신청 접수 시작 - 경기일보",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hVWN0eGR1R0prWmtEYlZFdHNFdG5JYVpGUElZa29XX2MzeWE1cUstY1F2Y1lQTlM0RWl6OUU0dXF0dThOblFwbG9CY1BKOWN0S1NMZ29EQm41YzQ?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-06-23T05:55:00+00:00",
-      "collected_at": "2026-06-24T07:16:50.213500+00:00",
-      "summary": "파주시, 연 2% 저금리 ‘귀농·주택 자금 융자’ 신청 접수 시작 경기일보",
-      "keywords": [
-        "귀농",
-        "융자",
-        "신청",
-        "접수"
-      ],
-      "importance": 70,
-      "region": "경기",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "41ae932bf15d32e5f88af7a6",
-      "title": "신안 청년농업인 스마트팜, 식품기업과 제품 개발 협력 - 신아일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SVXJjN0NPRlQ3X2FOUHNhbEpvUnhDaE1MQ3l4blFpMDZ2REl2QUIwdmtTU2g3dHpVaUZYSk1FQjZsVFhpMDlKeTFyNUZZNm8zeXlhWHZjZjdYTzVKbjRFc1VJOGw4MXBFd05kQy03M2k?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-23T05:54:30+00:00",
-      "collected_at": "2026-06-24T07:16:49.294484+00:00",
-      "summary": "신안 청년농업인 스마트팜, 식품기업과 제품 개발 협력 신아일보",
-      "keywords": [
-        "농업",
-        "스마트팜",
-        "청년농",
-        "농업인",
-        "청년농업인"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "09d0c9d669ebea4d2de350c6",
-      "title": "대구 군위군, 여름철 엽채류 재배기술 개발 박차 - 경북신문",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Kbmo0S2V2UnlRUm1odjRNQnFzT3VtNGpDc09qRGE5akdYckN0ZkIzejVOekxkWFJNTWNzTk1HTVlycDZNU0xCcVRVdnNYTEdqdThseVN2Wl8?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-23T05:45:03+00:00",
-      "collected_at": "2026-06-24T07:16:51.139925+00:00",
-      "summary": "대구 군위군, 여름철 엽채류 재배기술 개발 박차 경북신문",
-      "keywords": [
-        "재배"
-      ],
-      "importance": 42,
-      "region": "대구",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "6df0ad7a328b0ebf310f668d",
-      "title": "영광군, 돌발병해충 선제 대응…9월까지 집중 방제 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzU2IzZk9OOGY1VXB1cGpyMzRvbW9yZlhrZVUwR2VlYnBDUEI5WGxRaXpFYXR3RXY4ejlldlVlMXdLeWI5NFg0cEgtNFBQUUp1VG9FTkNjNnNoeEUzOFlwTkhuWkhXOWtoX3c3a2h2X0Q3SVpUcWFFWdIBeEFVX3lxTFBzU2IzZk9OOGY1VXB1cGpyMzRvbW9yZlhrZVUwR2VlYnBDUEI5WGxRaXpFYXR3RXY4ejlldlVlMXdLeWI5NFg0cEgtNFBQUUp1VG9FTkNjNnNoeEUzOFlwTkhuWkhXOWtoX3c3a2h2X0Q3SVpUcWFFWQ?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-23T05:42:21+00:00",
-      "collected_at": "2026-06-24T07:16:51.139925+00:00",
-      "summary": "영광군, 돌발병해충 선제 대응…9월까지 집중 방제 뉴시스",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "e9686119ffa7e8ef2cb9d9d2",
-      "title": "순창군, 도시민 대상 '귀농·귀촌체험학교' 참가자 모집 - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15My1Palp5ZVJjQUxleDhFQVc4NTJJVU9FQXN3cmR5em1VaVV4QzdTZWl3Z3p5X3JWTTJjdDlpMG03eXZwaFhQQjRLNF9OOEdMZllWUVJKMzFDZ0s0Sms2LWZDSmZIeVg2R0JmRkVQeDM1dkk3cGZBV9IBeEFVX3lxTE15My1Palp5ZVJjQUxleDhFQVc4NTJJVU9FQXN3cmR5em1VaVV4QzdTZWl3Z3p5X3JWTTJjdDlpMG03eXZwaFhQQjRLNF9OOEdMZllWUVJKMzFDZ0s0Sms2LWZDSmZIeVg2R0JmRkVQeDM1dkk3cGZBVw?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-06-23T05:30:58+00:00",
-      "collected_at": "2026-06-24T07:16:50.213500+00:00",
-      "summary": "순창군, 도시민 대상 '귀농·귀촌체험학교' 참가자 모집 뉴시스",
-      "keywords": [
-        "귀농",
-        "모집"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "01cc2ea2c9c5ffb60ecdb696",
-      "title": "신안군 청년 스마트팜, '생산' 넘어 '수출'까지… 농산물 고부가가치화 ‘시동’ - 녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiR1VsNGo4Z3J2XzdRdjJCTVEweHczcHZXdGZJbFBZNjUzT1B4UWVHa3hTZEVObkJVdG9nd1dJV001VVZZOFJpSHpwOExIR1pLVE1OOTdjYmdGYmo5c2JlMWsxVndueDBP?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-23T05:28:53+00:00",
-      "collected_at": "2026-06-24T07:16:49.294484+00:00",
-      "summary": "신안군 청년 스마트팜, '생산' 넘어 '수출'까지… 농산물 고부가가치화 ‘시동’ 녹색경제신문",
-      "keywords": [
-        "스마트팜",
-        "농산물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 768,
+    "total": 767,
     "category_counts": {
-      "news": 565,
+      "news": 564,
       "plant_reviews": 47,
       "support": 156
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 194
+        "count": 193
       },
       {
         "keyword": "농촌",
         "count": 181
       },
       {
-        "keyword": "귀농",
+        "keyword": "지원",
         "count": 111
       },
       {
-        "keyword": "지원",
-        "count": 110
+        "keyword": "귀농",
+        "count": 109
       },
       {
         "keyword": "스마트팜",
-        "count": 91
+        "count": 89
       },
       {
         "keyword": "병해충",
@@ -14349,11 +14319,11 @@
       },
       {
         "keyword": "농산물",
-        "count": 64
+        "count": 63
       },
       {
         "keyword": "작물",
-        "count": 58
+        "count": 59
       },
       {
         "keyword": "사업",
@@ -14365,7 +14335,7 @@
       },
       {
         "keyword": "농업인",
-        "count": 42
+        "count": 41
       },
       {
         "keyword": "지원사업",
@@ -14383,15 +14353,15 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 106
-      },
-      {
-        "source": "Google News 스마트팜",
-        "count": 90
+        "count": 104
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 87
+        "count": 88
+      },
+      {
+        "source": "Google News 스마트팜",
+        "count": 88
       },
       {
         "source": "Google News 농촌진흥청",
@@ -14403,7 +14373,7 @@
       },
       {
         "source": "Google News 농식품부 공고",
-        "count": 21
+        "count": 23
       },
       {
         "source": "Google News 지원사업",
@@ -14418,8 +14388,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 14,
-    "fetched_items": 842,
+    "new_items": 10,
+    "fetched_items": 848,
     "errors": []
   }
 }
