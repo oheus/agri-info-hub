@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T20:23:28.962984+00:00",
+  "generated_at": "2026-07-04T20:53:53.515503+00:00",
   "items": [
     {
       "id": "587f456afcbf19662fecf04a",
@@ -3199,6 +3199,27 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "f9e06d46d50abdff16fac02a",
+      "title": "2027년도 유기질비료 지원사업 신청기간 7월 말까지 연장 - 전주일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiVzk5ZXFKdTdkZ0E5azRwNURMeEpFTXVxRnV4X1cyR2l0ZWNxRDVPU0g0Nks0QlEzRFJMQ0NCUC00THljNzc0YzJ3bFRhM2swdjVlb0p6SVdlU2N3RzRtbjF4U1E2Y0tGdExObg?oc=5",
+      "source": "Google News 지원사업",
+      "category": "support",
+      "published_at": "2026-07-01T11:21:52+00:00",
+      "collected_at": "2026-07-04T20:53:40.697942+00:00",
+      "summary": "2027년도 유기질비료 지원사업 신청기간 7월 말까지 연장 전주일보",
+      "keywords": [
+        "지원사업",
+        "신청",
+        "지원",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "전북",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "6dc99f9708ac1f95d69577b5",
@@ -13764,51 +13785,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "24776992f920d10b184946ba",
-      "title": "농협경제지주, 보급형 스마트팜 확산 위해 민간 협력 강화 - 데일리경제",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05RnZtdWV3YnRoT0wtUTlHTVpJck9yVXNvdWF6MjhHRi0zSTRjbzJtRzZSYkhRbmcxSE5LZi1nTDNuOHBqVmZHaWhZQzJGY3UtTnlmVTJ3alhLbmowc2pDU2JXekwtRm5zQ05FYg?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-24T14:59:26+00:00",
-      "collected_at": "2026-06-29T08:16:31.100800+00:00",
-      "summary": "농협경제지주, 보급형 스마트팜 확산 위해 민간 협력 강화 데일리경제",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "d0c91d1d017f6348152753ef",
-      "title": "농협경제지주·NH투자증권·농기계공업협동조합, 보급형 스마트팜 확산 MOU 체결 - 한국금융신문",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlUEI2UDQxRzBuVXY0T1JXSmgzSi1hWl9zWU0tRFBPdW9sMU5CS25UdHFmSlRMZkk3ODZmVjZVN2dQYlpHZzFLcUo3NW5FcFUza2Jvb0M5NzM4U1NDdXJyelp5NklIa05wZjlXajFQRjFnUFZ4R3ZzbjNrVTk?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-24T14:58:52+00:00",
-      "collected_at": "2026-06-29T08:16:31.100800+00:00",
-      "summary": "농협경제지주·NH투자증권·농기계공업협동조합, 보급형 스마트팜 확산 MOU 체결 한국금융신문",
-      "keywords": [
-        "스마트팜",
-        "농기계"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 742,
+    "total": 741,
     "category_counts": {
-      "news": 544,
+      "news": 542,
       "plant_reviews": 48,
-      "support": 150
+      "support": 151
     },
     "top_keywords": [
       {
@@ -13825,7 +13809,7 @@
       },
       {
         "keyword": "지원",
-        "count": 101
+        "count": 102
       },
       {
         "keyword": "병해충",
@@ -13833,7 +13817,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 76
+        "count": 74
       },
       {
         "keyword": "농산물",
@@ -13853,7 +13837,7 @@
       },
       {
         "keyword": "사업",
-        "count": 38
+        "count": 39
       },
       {
         "keyword": "재배",
@@ -13874,12 +13858,12 @@
         "count": 105
       },
       {
-        "source": "Google News 스마트팜",
-        "count": 73
-      },
-      {
         "source": "Google News 농산물 가격",
         "count": 72
+      },
+      {
+        "source": "Google News 스마트팜",
+        "count": 71
       },
       {
         "source": "Google News 농촌진흥청",
@@ -13906,8 +13890,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 822,
+    "new_items": 2,
+    "fetched_items": 818,
     "errors": []
   }
 }
