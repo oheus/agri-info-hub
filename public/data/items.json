@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T18:21:50.548918+00:00",
+  "generated_at": "2026-07-04T18:52:15.194118+00:00",
   "items": [
     {
       "id": "5049760ae5a82648eb103927",
@@ -49,6 +49,24 @@
       "summary": "화천군, “화천 농산물 팔러온 김세훈입니다” 글로벌 비즈 뉴스",
       "keywords": [
         "농산물"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "bf74b4d1b650a9a8ce33b9cb",
+      "title": "우기와 폭풍우 기간 동안 여름-가을 벼 작물 보호 강화. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRejhqc0tMTGdhdXNBcTBvWU9VT1lGc3ZMLWRnLWw3amJ6UjFwME5aa3lHUWRkSnNmQU84ZHdhSTYydndWNXNSTHZqeVdHeXN0S1BGbVJtVGpOVk5Jdl93WG1vV2cwRXFlMGpBUXVwaTIyLWUzVnVXT1JWYUU?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-07-04T09:36:18+00:00",
+      "collected_at": "2026-07-04T18:52:04.857597+00:00",
+      "summary": "우기와 폭풍우 기간 동안 여름-가을 벼 작물 보호 강화. Vietnam.vn",
+      "keywords": [
+        "작물"
       ],
       "importance": 42,
       "region": "",
@@ -3887,6 +3905,30 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "3f8946bcd15e6d31c59e3f93",
+      "title": "NH투자증권·농협 보급형 스마트팜 지원사업 참여업체 모집 - 한국농기계신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RVHF3dHhkVVJQSDVOYnpCa0RTWWZlMTVWbGktOFpmaWU4aXJPYXRWZ3k4R3FnM0xnN1MxalJEalBrUnh4c0FGdWdLTE51ZnJWRlV6MnJKbmlmRUNXWHFRaFpJNUhlVEds?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "support",
+      "published_at": "2026-07-01T05:13:21+00:00",
+      "collected_at": "2026-07-04T18:52:03.196643+00:00",
+      "summary": "NH투자증권·농협 보급형 스마트팜 지원사업 참여업체 모집 한국농기계신문",
+      "keywords": [
+        "스마트팜",
+        "농기계",
+        "지원사업",
+        "모집",
+        "스마트팜 지원",
+        "지원",
+        "사업"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "2b1c7a1fe0f4efc32eccd03c",
@@ -13137,6 +13179,24 @@
       "category_label": "식물 리뷰"
     },
     {
+      "id": "15f2227bb2818c840263522f",
+      "title": "제주 스마트팜 교육센터 이달 말 착공…\"내년부터 운영\" - 와이드경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5abWRwZEFyWjUwSlZzdlRlUENlVVZJNDYxOS1IeC1uV2lxVm9sSUFmZTFxaWs1Ym84S3pzYjZLNnhtUkphQWVLQWxRMjB4N082LWluaUV6S1hseGpjRXdEazRlbzNxT0QtWkRPZQ?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-06-25T02:07:15+00:00",
+      "collected_at": "2026-07-04T18:52:03.196643+00:00",
+      "summary": "제주 스마트팜 교육센터 이달 말 착공…\"내년부터 운영\" 와이드경제",
+      "keywords": [
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "제주",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "628a4846125e143ccf06da19",
       "title": "고령자 대상 치유농업 텃밭활동, 1회 60분이 효과적 - 농촌진흥청",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaGM3YWx6d2ZIeFlDcjBnQl9kbk1FWEpTcUFkMkJvNi1jWXlwQkExaTVjRjVVRXRQLVFhSnd1RmRqUG8wTUdKaUtUaV9RR3VaaGtDdW1wMnJlNmtFempvQVRMcE9XWXp2QWNheE9TLW01U2U0bGtxUlh6RkxwT2o5Q0hkWXZGamREMUloblhiRWZWWVk?oc=5",
@@ -13231,24 +13291,6 @@
       ],
       "importance": 42,
       "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "d9ff664eb98eb8f6b4d05b4e",
-      "title": "제주 스마트팜 교육센터 이달 말 착공…\"내년부터 운영\" - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84bE03OGFGY1VxeVFMX2g1QlVYbzRkU0dZcTFSMnAwWjhRNmlKR0xFVWtqT0lVbU81OC1EZXJUUXF5NXRHcW9IbkhIc0E3R2tuQkFuYTZjZlhNRGFfMWxwSNIBeEFVX3lxTFBOYklpWEZudTd5cE9CTlJDM2t4eDEzQmQyOHdaNTZDTXRrU21zSFJXOHVvVjVqakhybVNtZ1Z2X3YwN2F2QWdiWFFQZDRuRDRud3o3dmNKUnlVRWlTS0FfbkhMa1kwamRzRTVQcnpxM2QwTnpZRGUtVQ?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-25T01:29:32+00:00",
-      "collected_at": "2026-06-29T08:16:31.100800+00:00",
-      "summary": "제주 스마트팜 교육센터 이달 말 착공…\"내년부터 운영\" 뉴시스",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "제주",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -13963,78 +14005,23 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "2e36e41562bd7db653de9bce",
-      "title": "농진청, 새마을운동 연계 농업기술 ODA 추진 세미나 개최 - 전북도민일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuMUhMMkFrNWl4dTRWbVhSRE0wdlhLR3RnWk1kamgzZFlERmFqcUU2cHloRmxKSmkzNzBsM0NOSXJaUnlOWnNud3dSWmUxeE1ocHQ5eDQwQkJ1aGl3eloyQ3RKVmx6aG84NEE?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-24T08:16:10+00:00",
-      "collected_at": "2026-06-24T09:45:17.235915+00:00",
-      "summary": "농진청, 새마을운동 연계 농업기술 ODA 추진 세미나 개최 전북도민일보",
-      "keywords": [
-        "농업"
-      ],
-      "importance": 42,
-      "region": "전북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "a533a37c82cdc4e60e4ebca3",
-      "title": "전남대 수의과대학 대학원생 한국약용작물학회 청년과학자 발표상 수상 - 베리타스알파",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nLWY0T3d3djZPa2hiMnBnOFY5dXluc0JqWUo0Q2p0YWZadWdRbThFYWtQM3NJbjhyTG9uMFdPNmZVdEJuQTNUdk9MT3V5ZUZFNXU3Tkg5TkpIRGsxeWZDZGxJUWNsVWFncHNlYw?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-24T08:15:06+00:00",
-      "collected_at": "2026-06-30T01:51:29.856829+00:00",
-      "summary": "전남대 수의과대학 대학원생 한국약용작물학회 청년과학자 발표상 수상 베리타스알파",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "전남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "7156fb19a205e0353314bba4",
-      "title": "'농업·농촌 2045 전략' 20년 뒤 미래 청사진 그린다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4a1dZekpkeWUwb1V1U181SzV6TXJvaUx5TFcxWG8xaUFWcHdLMjc4elQ1Ynk1ZHlqZ3pDY1ZqQTBLYld3ZXRHcmo2ZU54N0U?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-24T08:14:11+00:00",
-      "collected_at": "2026-06-24T09:45:17.235915+00:00",
-      "summary": "'농업·농촌 2045 전략' 20년 뒤 미래 청사진 그린다 v.daum.net",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 754,
+    "total": 753,
     "category_counts": {
-      "news": 555,
+      "news": 553,
       "plant_reviews": 49,
-      "support": 150
+      "support": 151
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 197
+        "count": 195
       },
       {
         "keyword": "농촌",
-        "count": 171
+        "count": 170
       },
       {
         "keyword": "귀농",
@@ -14042,7 +14029,7 @@
       },
       {
         "keyword": "지원",
-        "count": 101
+        "count": 102
       },
       {
         "keyword": "병해충",
@@ -14050,7 +14037,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 75
+        "count": 76
       },
       {
         "keyword": "농산물",
@@ -14070,7 +14057,7 @@
       },
       {
         "keyword": "사업",
-        "count": 38
+        "count": 39
       },
       {
         "keyword": "청년농",
@@ -14079,12 +14066,12 @@
     ],
     "top_sources": [
       {
-        "source": "Google News 농업",
-        "count": 139
-      },
-      {
         "source": "Google News 병해충 재배",
         "count": 138
+      },
+      {
+        "source": "Google News 농업",
+        "count": 137
       },
       {
         "source": "Google News 청년농 귀농",
@@ -14096,7 +14083,7 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 74
+        "count": 75
       },
       {
         "source": "Google News 농촌진흥청",
@@ -14123,8 +14110,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 816,
+    "new_items": 6,
+    "fetched_items": 822,
     "errors": []
   }
 }
