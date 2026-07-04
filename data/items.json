@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T19:53:03.867142+00:00",
+  "generated_at": "2026-07-04T20:23:28.962984+00:00",
   "items": [
     {
       "id": "587f456afcbf19662fecf04a",
@@ -12943,6 +12943,25 @@
       "category_label": "지원사업"
     },
     {
+      "id": "4c0ceb52aa8745e5c75acae5",
+      "title": "경주시, 국가서비스대상 귀농귀촌 정책 부문 4년 연속 수상 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HVGljRm5EZU9sdGdIcjhsWEZCM3JHTHBsejhnR3RDelZEeEJkR3E3ZGh5R1hhVjc2R2NWSk5XUVdJZXowTUVoeVlrYVFXNjdWckdrTDdBLUNIb01YMW9oSUlJY19hS21QUHI2X2lva0Q?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-06-25T03:05:27+00:00",
+      "collected_at": "2026-07-04T20:23:17.501175+00:00",
+      "summary": "경주시, 국가서비스대상 귀농귀촌 정책 부문 4년 연속 수상 신아일보",
+      "keywords": [
+        "귀농",
+        "귀농귀촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "21e7fd6268d562e615b2d6ac",
       "title": "귀농인 8.7% 증가…은퇴 베이비부머·여성 유입 두드러져 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WT2lHZDY0QVVkZm1tU2xHYXc1cEdqaXB6WGpVUVh6VUhlZTl2eWFrYV9wX0pJd3pLUW1DZmtPVE52MU1DSEE?oc=5",
@@ -13782,49 +13801,12 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "ba98c3b0b2d5825b57152fea",
-      "title": "농민단체 “농산물 가격 폭락·농자재값 폭등, 정부 근본 대책 마련하라” - 알티케이뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wekp2VEcwSGZkemJyYnZnbTBjOHhHRF81SVp3SUtMdzBma3dPcG9pVkhwVW1qbzNkclhTSnRRS1dvNkstbkJQT2ZSRjdTZWoyVzdqM0hXU1ZZcHdQRzhGRXJaWU5CSThoNGNSaTVn?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-24T14:46:54+00:00",
-      "collected_at": "2026-06-25T02:55:57.159634+00:00",
-      "summary": "농민단체 “농산물 가격 폭락·농자재값 폭등, 정부 근본 대책 마련하라” 알티케이뉴스",
-      "keywords": [
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "ef27609f81d78e9a24efbde8",
-      "title": "경기 둔화 우려 속…산둥성 농촌 찾은 시진핑 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Pc003ekY3SGlJYnllMmRoMm81eHZwalZ5VkZESUZiN3N6ZVQ3dmhhVXpDcWVhZUtXcGZXUEF0QzA4TFNXNW5tSm8yeDIxT3JPdHhKX0RTeHBHZFHSAWBBVV95cUxQUE1IMzVSU0cwYk54QWFVdzNJSkd3OHU2ZmlIenhneXNQcTlrSTNwS2ZMV2JCTW12UzRXN2hZRlJIU0prUGhnQ1dxdk9feklKVkZ0NnlnakFSOUc5UHpFZEg?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-24T14:37:00+00:00",
-      "collected_at": "2026-06-24T14:50:56.496840+00:00",
-      "summary": "경기 둔화 우려 속…산둥성 농촌 찾은 시진핑 연합뉴스",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "경기",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 743,
+    "total": 742,
     "category_counts": {
-      "news": 545,
+      "news": 544,
       "plant_reviews": 48,
       "support": 150
     },
@@ -13835,11 +13817,11 @@
       },
       {
         "keyword": "농촌",
-        "count": 168
+        "count": 167
       },
       {
         "keyword": "귀농",
-        "count": 110
+        "count": 111
       },
       {
         "keyword": "지원",
@@ -13855,7 +13837,7 @@
       },
       {
         "keyword": "농산물",
-        "count": 59
+        "count": 58
       },
       {
         "keyword": "작물",
@@ -13885,11 +13867,11 @@
       },
       {
         "source": "Google News 농업",
-        "count": 136
+        "count": 135
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 104
+        "count": 105
       },
       {
         "source": "Google News 스마트팜",
@@ -13897,7 +13879,7 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 73
+        "count": 72
       },
       {
         "source": "Google News 농촌진흥청",
@@ -13924,8 +13906,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 7,
-    "fetched_items": 819,
+    "new_items": 4,
+    "fetched_items": 822,
     "errors": []
   }
 }
