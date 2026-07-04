@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T16:50:36.804299+00:00",
+  "generated_at": "2026-07-04T17:21:01.521310+00:00",
   "items": [
     {
       "id": "5049760ae5a82648eb103927",
@@ -106,6 +106,24 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "8b2a77da71ee2e9de81ab8c3",
+      "title": "과학관 공지 - 농촌진흥청",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTlJaFVGTUNjcDRrZ0FnNjhBQS1KRmU0Z2FPbmZWcV9UUVJubDQ3YkJPbFdYSzRaSmxoRGVvZWhXZ2hoQ3U2YkNnYk94eVkxMHlocF9uSDhINmQzcGtwUHBSbl94dWVQaVhSNmdXVm94RDBBVHBPLU9FU1pyS3N1eF9FaHp1RGFRMTlobVozYUxIWGUwNlRiSkRtU05NSE5CSkVj?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-07-04T07:04:17+00:00",
+      "collected_at": "2026-07-04T17:20:53.818726+00:00",
+      "summary": "과학관 공지 농촌진흥청",
+      "keywords": [
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전국",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -881,6 +899,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
+    },
+    {
+      "id": "f56c3478a6689e4d78cd6e56",
+      "title": "정읍시 복숭아연구회, 남원 우수농가 찾아 재배 기술 비교 학습 - 아시아뉴스전북",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93MkZkeFBGN19tWTFPcHRFT25Ya3I5UzhNRmQ4VW90OF9ULVFfYTFBT25uMG5GNDBtMEtvYlpkVVhYNHMxeVFGdUhZNTZwdEJqRkhlNGpsdVF0eEV4UTB1R0pNQVV1cTdIM1hLNmtn0gFuQVVfeXFMT3cyRmR4UEY3X21ZMU9wdEVPblhrcjlTOE1GZDhVb3Q4X1QtUV9hMUFPbm4wbkY0MG0wS29iWmRVWFg0czF5UUZ1SFk1NnB0QmpGSGU0amx1UXR4RXhRMHVHSk1BVXVxN0gzWEs2a2c?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-07-03T05:01:24+00:00",
+      "collected_at": "2026-07-04T17:20:51.157485+00:00",
+      "summary": "정읍시 복숭아연구회, 남원 우수농가 찾아 재배 기술 비교 학습 아시아뉴스전북",
+      "keywords": [
+        "재배"
+      ],
+      "importance": 42,
+      "region": "전북",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "a390583762c3ddb3c66956a6",
@@ -7524,6 +7560,28 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "b2bc0eb4eba20a29200c7d80",
+      "title": "청년농업인 영농정착 사업설명회 - 장성투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tc3hQSkNSZENwZlIwbHdlSVZ1MlhXZ0ZjM0FhNE1lRW5WUy1PUnVOaEhzT1NFZmVzTlFXQmxqWUd2U01WSkh6dE0xbWlIMGVDMWNBbXBpYUhYbW9KeGJqYXJPUHFTTWUtM2N3?oc=5",
+      "source": "Google News 농업 지원금",
+      "category": "support",
+      "published_at": "2026-06-29T01:03:25+00:00",
+      "collected_at": "2026-07-04T17:20:55.414831+00:00",
+      "summary": "청년농업인 영농정착 사업설명회 장성투데이",
+      "keywords": [
+        "농업",
+        "청년농",
+        "농업인",
+        "청년농업인",
+        "사업"
+      ],
+      "importance": 64,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "79900afbf148c15042ee76e1",
       "title": "농촌 노인 20% '영양부실'…경로당 밥상 차리는 농협 - 신아일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tR3R5R1FGX2padjlqd2tqZVU0c1ZDZGRvOEFWUm94QUxpX2ZJOGdCYlNINEtueGFyNEk0Qy1YTmxRd3l6T3IyeTJwVG1mV2k3YWh2VHYwMi1sb1EzMzNuU295UlZPMDY5WGFIX2hvbjA?oc=5",
@@ -11887,6 +11945,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "9d362f022e8a908be2c34ad8",
+      "title": "농촌진흥청 농업과학관 7월 운영 안내 - 농촌진흥청",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVVnaHBWTzM0UUlsMExzcWpDcVBSSjh1Q282Y3lrWXgyVjU0SUJrcUw2RHU5eTl1ZnhYUDdvbldXQUlRRkJoZHpvTzdhbmFaMVZibzhaaDB0SmdWeTNOMmQxZlZ5ZmdHcl9uXzFRT2I1QVh2OHJOZWJpdWFRYjUyQ0NqdDF0TUlFa0wzYUlMWUM3anhCcDRidjFRRjdwZFB0STJ3?oc=5",
+      "source": "Google News 농촌진흥청",
+      "category": "news",
+      "published_at": "2026-06-25T07:00:00+00:00",
+      "collected_at": "2026-07-04T17:20:53.818726+00:00",
+      "summary": "농촌진흥청 농업과학관 7월 운영 안내 농촌진흥청",
+      "keywords": [
+        "농업",
+        "농촌"
+      ],
+      "importance": 42,
+      "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "f55bf376020a54baa29b9db0",
       "title": "충남 스마트팜 창업농, 시설보다 운영이 관건…현장 기술지원 확대 - 농수축산신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91ekRjY0dnM2p2cjZLVFZ3bUltQ2Zuc1cyempyZlV0aHk0Y21ZN2lLdWtzX0JHWkE3WGo5Q0JIT2lGNmRSQnBVc1V1RGp3c1ZJaHdva29jM0xHOFAwSFM2NkZabzd5d0pZR2l5YQ?oc=5",
@@ -14022,79 +14099,23 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "2144dd248f5bee1dff48b8e6",
-      "title": "대전 탄동농협·당진 석문농협, 스마트팜 농가서 ‘1박2일’ 일손 돕기 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hLVZyeTl2bFk5b3RINnNOekNWQlB1Q2ZzVGlyWXIxejVhVWh0NTJxNm9HeDFhRFhzenRFMWdRN1Y3Nm40OFVEV20wWExQLXJQbUY4eUEzaUFWQQ?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-24T07:59:00+00:00",
-      "collected_at": "2026-06-24T09:45:19.405006+00:00",
-      "summary": "대전 탄동농협·당진 석문농협, 스마트팜 농가서 ‘1박2일’ 일손 돕기 농민신문",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "대전",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "643b3576f530e87a12815e62",
-      "title": "청년의 목소리로 농촌의 미래를 그린다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5MaWtoLXZGaXhiRGxSWUJfTkhwOVV3TGRNNHZFVjdVeGZ1eERyZjdISE92MTNUMW9Dajl3ZEczUGRiRDUxbnc?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-24T07:56:46+00:00",
-      "collected_at": "2026-06-24T14:50:56.496840+00:00",
-      "summary": "청년의 목소리로 농촌의 미래를 그린다 v.daum.net",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "564a8cb5f53e0908d51870a5",
-      "title": "충남신보, 금융복지 지원사업 공무원 교육 - 홍성신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3TFRWc3R0amFqdnhPRWFnaFZmWThJRDlwT2wxZGxyOFlENVdoeEE1b1NlNm9pbUQ0SnhaUEJmOTUtZWF0V3ozb0JKUjdHeTVHUERjLUJvanFPb2gwcHlTWllKd2ZtZGEwV0dR?oc=5",
-      "source": "Google News 지원사업",
-      "category": "support",
-      "published_at": "2026-06-24T07:55:24+00:00",
-      "collected_at": "2026-06-24T09:45:18.117471+00:00",
-      "summary": "충남신보, 금융복지 지원사업 공무원 교육 홍성신문",
-      "keywords": [
-        "지원사업",
-        "지원",
-        "사업"
-      ],
-      "importance": 64,
-      "region": "충남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 757,
+    "total": 758,
     "category_counts": {
-      "news": 557,
+      "news": 558,
       "plant_reviews": 49,
       "support": 151
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 198
+        "count": 200
       },
       {
         "keyword": "농촌",
-        "count": 171
+        "count": 172
       },
       {
         "keyword": "귀농",
@@ -14102,7 +14123,7 @@
       },
       {
         "keyword": "지원",
-        "count": 103
+        "count": 102
       },
       {
         "keyword": "병해충",
@@ -14110,7 +14131,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 77
+        "count": 76
       },
       {
         "keyword": "농산물",
@@ -14122,7 +14143,7 @@
       },
       {
         "keyword": "농업인",
-        "count": 45
+        "count": 46
       },
       {
         "keyword": "반려식물",
@@ -14134,17 +14155,17 @@
       },
       {
         "keyword": "청년농",
-        "count": 29
+        "count": 30
       }
     ],
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 141
+        "count": 140
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 138
+        "count": 139
       },
       {
         "source": "Google News 청년농 귀농",
@@ -14156,11 +14177,11 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 76
+        "count": 75
       },
       {
         "source": "Google News 농촌진흥청",
-        "count": 64
+        "count": 66
       },
       {
         "source": "Google News 식물 키우기",
@@ -14183,8 +14204,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 120,
-    "fetched_items": 796,
+    "new_items": 13,
+    "fetched_items": 826,
     "errors": []
   }
 }
