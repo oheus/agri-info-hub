@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T21:54:39.491933+00:00",
+  "generated_at": "2026-07-04T22:25:05.601560+00:00",
   "items": [
     {
       "id": "a70de6ad918df404ca1142dd",
@@ -13753,49 +13753,12 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "e6036c03b786788d28e7b79b",
-      "title": "[진단과 제언] 스마트팜, 시설보다 사람 투자가 우선 - 이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xU2xtNy1JcENQR2tyWUZxNVljNjF3LThxeEptSS0ySExXTUhSeDJmRDd5S21GcWdSNU95RlEzTGhNc3NicnlqMWZLa2dIWlJpT2xUOA?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-24T21:00:00+00:00",
-      "collected_at": "2026-06-26T05:57:50.380879+00:00",
-      "summary": "[진단과 제언] 스마트팜, 시설보다 사람 투자가 우선 이투데이",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "04e0fee5e112508b23b7b932",
-      "title": "농산물 가격안정제 시행 앞두고 ‘데이터·거버넌스’ 과제 부상 - 한국영농신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTQU80eTVJM2FUX2FNYk8zZk8zblhwRjJzNlFmdm02VUJLTnBmUkdpUjgtQVRLQS03Tm1MZTFZVi1QNjhqcE11Y0tDUk42MWVaZ1JlR1o0eFdySVdwcDB0Z3lMTjJrQTNMbnVrcNIBbkFVX3lxTE5HeENydXdJT25xaGZiV2JzZTJtQkxaRGQ3cXU2WlZPeFdfaXdpZjRtaDZqVE1BMFhoRzREcnBUamExYnBZMnUyWmVZV09qckxzXzVmc1oyT3lhVXdGc200TnFGQ1VHLU1aV0VPOW13?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-24T16:18:49+00:00",
-      "collected_at": "2026-06-25T02:55:57.159634+00:00",
-      "summary": "농산물 가격안정제 시행 앞두고 ‘데이터·거버넌스’ 과제 부상 한국영농신문",
-      "keywords": [
-        "농산물",
-        "농산물 가격"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 741,
+    "total": 739,
     "category_counts": {
-      "news": 540,
+      "news": 538,
       "plant_reviews": 48,
       "support": 153
     },
@@ -13822,11 +13785,11 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 74
+        "count": 73
       },
       {
         "keyword": "농산물",
-        "count": 57
+        "count": 56
       },
       {
         "keyword": "작물",
@@ -13864,11 +13827,11 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 71
+        "count": 70
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 71
+        "count": 70
       },
       {
         "source": "Google News 농촌진흥청",
@@ -13895,8 +13858,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 822,
+    "new_items": 11,
+    "fetched_items": 768,
     "errors": []
   }
 }
