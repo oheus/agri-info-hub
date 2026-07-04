@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T20:53:53.515503+00:00",
+  "generated_at": "2026-07-04T21:24:18.423562+00:00",
   "items": [
     {
       "id": "587f456afcbf19662fecf04a",
@@ -1587,6 +1587,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
+    },
+    {
+      "id": "f7a815074dce1dc8f6dc537c",
+      "title": "경주시, 귀농귀촌 ‘국가서비스대상’ 4년 연속 수상 - 서라벌신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ySFdVWXl5R2N5Qy1vd3NDcHJfRW4wSEpyR0liMy04ZC1EY1R3Q1pOSWF6SXBmWXZVMlBTWlZfb1pFbHowWDhucXhGaGdqYkRvQl9qVmJORERQTHpZUXFBRFZ2NW5nSWh2ZTN4Vg?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-07-03T01:15:24+00:00",
+      "collected_at": "2026-07-04T21:24:08.077032+00:00",
+      "summary": "경주시, 귀농귀촌 ‘국가서비스대상’ 4년 연속 수상 서라벌신문",
+      "keywords": [
+        "귀농",
+        "귀농귀촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "68f070ecf89f0efa905f0a58",
@@ -13766,25 +13785,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "7001bb19c24fba996220fa0d",
-      "title": "농촌진흥청-현대서산농장, 지속가능한 농업 생태계 조성 위해 손잡는다 - 푸드아이콘",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JRlFuMkxyQk53NVFoUHRTbS1RVUZFZ0tIaWVJYVBLYkJxdUxuU1NLLUJBZGp6aHIxelJNb2kwbHVYaVE5SlJ0eUN2d1dnTGdLT0RtN1RBZzV4bWpHQVBZMFAyQ3NMWk00WEphTg?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-24T15:28:18+00:00",
-      "collected_at": "2026-06-25T02:05:45.006199+00:00",
-      "summary": "농촌진흥청-현대서산농장, 지속가능한 농업 생태계 조성 위해 손잡는다 푸드아이콘",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
@@ -13797,15 +13797,15 @@
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 193
+        "count": 192
       },
       {
         "keyword": "농촌",
-        "count": 167
+        "count": 166
       },
       {
         "keyword": "귀농",
-        "count": 111
+        "count": 112
       },
       {
         "keyword": "지원",
@@ -13851,11 +13851,11 @@
       },
       {
         "source": "Google News 농업",
-        "count": 135
+        "count": 134
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 105
+        "count": 106
       },
       {
         "source": "Google News 농산물 가격",
@@ -13890,7 +13890,7 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 2,
+    "new_items": 1,
     "fetched_items": 818,
     "errors": []
   }
