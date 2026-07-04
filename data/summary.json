@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T20:53:53.515503+00:00",
+  "generated_at": "2026-07-04T21:24:18.423562+00:00",
   "total": 741,
   "category_counts": {
     "news": 542,
@@ -9,15 +9,15 @@
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 193
+      "count": 192
     },
     {
       "keyword": "농촌",
-      "count": 167
+      "count": 166
     },
     {
       "keyword": "귀농",
-      "count": 111
+      "count": 112
     },
     {
       "keyword": "지원",
@@ -63,11 +63,11 @@
     },
     {
       "source": "Google News 농업",
-      "count": 135
+      "count": 134
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 105
+      "count": 106
     },
     {
       "source": "Google News 농산물 가격",
@@ -101,7 +101,7 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 2,
+    "new_items": 1,
     "fetched_items": 818,
     "errors": []
   }
