@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T17:21:01.521310+00:00",
+  "generated_at": "2026-07-04T17:51:25.834175+00:00",
   "items": [
     {
       "id": "5049760ae5a82648eb103927",
@@ -2529,6 +2529,24 @@
       "category_label": "지원사업"
     },
     {
+      "id": "cfb9c493216d88fa16ce82c5",
+      "title": "순천시, 벼 병해충 공동방제 본격 추진... 쌀 안정생산 총력 - 경남도민뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TbXh3ajNPTW9WaFNvUF9Jb1R2ZFhBTTJ3djBUZ1ZNNTNWUlJ3TUVNbzJ6cE5wWmJ6Z3hNTy0yLXVDeThGMTRGT05PNEtUN0cyZFozNkhBYUZ3OXF1eTEyN1FuMA?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-07-02T03:30:55+00:00",
+      "collected_at": "2026-07-04T17:51:15.652092+00:00",
+      "summary": "순천시, 벼 병해충 공동방제 본격 추진... 쌀 안정생산 총력 경남도민뉴스",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "전남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "ad7611e821ccbcd9cc980330",
       "title": "순천시, 벼 병해충 선제 대응 나서…2400ha 공동 항공방제 추진 - 신아일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNX1dfRmRfbXd2MmFIRkh0Tk85M0NobzB3LXN2cXlmVTF6b1g4OUp4bjY0TEltNGtNVGhvNFBPRXJrUnZ3UU5oMVpVb0RCQ0paS0d3MVV2WnNJOVFrUEdRaHI4eEhQLUJ4c05BR2JTeTI?oc=5",
@@ -4754,6 +4772,25 @@
       "category_label": "지원사업"
     },
     {
+      "id": "973e2de98dc3d8de34dea479",
+      "title": "부안군, 벼 병해충 선제 대응 기본방제 약제 15억원 지원 - 부안독립신문",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOcEpqd1RRVjBMbW9DXzFyNXZCbzgtMGZheGlQTUluZjlteTJMQlhIdDdrenk5VnRNM3oxSlFocG1GMmZHdGVWdUQ2N2w1Ynh2RVRPcXJ1ZzNSSWlaQlpoQUhVaEo?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "support",
+      "published_at": "2026-06-30T08:10:33+00:00",
+      "collected_at": "2026-07-04T17:51:15.652092+00:00",
+      "summary": "부안군, 벼 병해충 선제 대응 기본방제 약제 15억원 지원 부안독립신문",
+      "keywords": [
+        "병해충",
+        "지원"
+      ],
+      "importance": 70,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "5cdc30d95a879ea987eb75b9",
       "title": "“과학 영농과 생태 보전의 선두주자”... 영주 농촌지도자회, 경북 최고 우수단체 우뚝 - 이로운넷",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iN0w4aEhYUElLRHZfNDVFbzBwTENIcEtlUWhnek0yLXMtckNkQkMzMzVQRHdERTVha1B5aTFWbUl2bm5ZVENQdjRxbC1sdWVXRzlpNVRQaXNwc1JlSFpwMzd3YlJCdw?oc=5",
@@ -5417,25 +5454,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
-    },
-    {
-      "id": "c7050a4d296a51d173b220d2",
-      "title": "부안군, 벼 병해충 선제 대응 기본방제 약제 15억원 지원 - gukjenews.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqRlA0dXVaRGtZLXRmc0tPOXBoeWdPRjdwaG5Wb1FzRTh2WklaeThibjc3Qmc2a2ppX053VDI3QmVQUFJ0YXRydEVFN3Z1Z2dGa2d5MVhYZGcwa2RPUllxdUdwd3dMSzltU2x0bElR?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "support",
-      "published_at": "2026-06-30T01:53:30+00:00",
-      "collected_at": "2026-07-03T05:35:17.686109+00:00",
-      "summary": "부안군, 벼 병해충 선제 대응 기본방제 약제 15억원 지원 gukjenews.com",
-      "keywords": [
-        "병해충",
-        "지원"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
     },
     {
       "id": "2666dee403e4ae8c57eb7549",
@@ -11964,6 +11982,25 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "feb9a8f7a67e816c161470a5",
+      "title": "\"살고 싶은 경주\"…귀농귀촌 4년 연속 국가서비스대상 영예 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IUDlIcmtySE1sOHJ5ZXBoNXA1SHNoSEJzX0hxNXdaYUt6eWdYcGlIMEF3MXJGYk5UTWY4QWY0QUNjZGpTQmZjRjRhMA?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-06-25T07:00:00+00:00",
+      "collected_at": "2026-07-04T17:51:14.728016+00:00",
+      "summary": "\"살고 싶은 경주\"…귀농귀촌 4년 연속 국가서비스대상 영예 v.daum.net",
+      "keywords": [
+        "귀농",
+        "귀농귀촌"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "f55bf376020a54baa29b9db0",
       "title": "충남 스마트팜 창업농, 시설보다 운영이 관건…현장 기술지원 확대 - 농수축산신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91ekRjY0dnM2p2cjZLVFZ3bUltQ2Zuc1cyempyZlV0aHk0Y21ZN2lLdWtzX0JHWkE3WGo5Q0JIT2lGNmRSQnBVc1V1RGp3c1ZJaHdva29jM0xHOFAwSFM2NkZabzd5d0pZR2l5YQ?oc=5",
@@ -13082,25 +13119,6 @@
       "category_label": "농업 뉴스"
     },
     {
-      "id": "20b6dbdc894cd4f15aff4a17",
-      "title": "\"살고 싶은 경주\"…귀농귀촌 4년 연속 국가서비스대상 영예 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZUzBSa1lFMDN1V2VkWTlCZGt3ckd0ZkdCdWhPNjdaZU95X0FHZmgtTnl5dmM5RWlJUlRHWmpEZGxKNnpmTEpPeDBRMW1MM2M?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "news",
-      "published_at": "2026-06-25T02:21:07+00:00",
-      "collected_at": "2026-06-26T05:57:51.159753+00:00",
-      "summary": "\"살고 싶은 경주\"…귀농귀촌 4년 연속 국가서비스대상 영예 v.daum.net",
-      "keywords": [
-        "귀농",
-        "귀농귀촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
       "id": "f67f41ec95387b769be657ff",
       "title": "광진구, ‘찾아가는 반려식물 클리닉’ 운영 - 전국매일신문",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYZXUyT0hEUlFneWZSUURHemZkckllS1J0VFc5US1VUWphRzg1YXpQUWVfTzc2bGhvY1BmQzR5T1VyU2hKWmlZZk5rcE90Yl96aHFvQUw2UHNEN3MyblpMM1daWUZQUUp5MWIzb0hn?oc=5",
@@ -14000,138 +14018,39 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "58d5e3fe171ced2c560abdd1",
-      "title": "파주시, 2026년 하반기 귀농 농업창업 및 주택구입 지원사업 대상자 모집 - 파주바른신문",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfRXRNV1hqOGlHUjlxS00tdG5NLTNabTlBcTRyMktlSlFrTlNKRVdrWEszUXBHbDZ4ZFpjalhYZ2ZWeVp6TDh6STA5SXItelExVXV5TldidXJRbkE5ZUtUX1k2SQ?oc=5",
-      "source": "Google News 농업 지원금",
-      "category": "support",
-      "published_at": "2026-06-24T08:11:06+00:00",
-      "collected_at": "2026-06-26T05:57:57.323815+00:00",
-      "summary": "파주시, 2026년 하반기 귀농 농업창업 및 주택구입 지원사업 대상자 모집 파주바른신문",
-      "keywords": [
-        "농업",
-        "귀농",
-        "지원사업",
-        "모집",
-        "지원",
-        "사업"
-      ],
-      "importance": 70,
-      "region": "",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "d6d016968336e3729f219441",
-      "title": "“보급형 스마트팜 확산 한뜻”…농협경제지주·NH투자증권·농기계협동조합 MOU - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GRDBaWjlxRUR0ckQ1bnB6U2FCRjkxTVUwSmxueXVfZXdXdDd4VW9mSjRNc0VYM0lVRG55VFVubktwaWU5WWNNOThzNVB3bjZiaklWX2dzR1k1Zw?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-06-24T08:10:00+00:00",
-      "collected_at": "2026-06-24T09:45:19.405006+00:00",
-      "summary": "“보급형 스마트팜 확산 한뜻”…농협경제지주·NH투자증권·농기계협동조합 MOU 농민신문",
-      "keywords": [
-        "스마트팜",
-        "농기계"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "9c675b27954a16503a15f3ae",
-      "title": "진천군의회, ‘농업·농촌웰빙테마장터’ 감사원 감사 청구 통과 - 충청뉴스라인",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84blBtMGY1TGh2Q3ZWMTBlTHNSZ0cxRlJ0M0RiVWQ2MnFaTndqLUx0VEEtRldBTkw1MDFEOHhfRlUxSDI0OGY5VzE0OXJhVlJWRnZsaDZ0SEJRMm9aZnF0NWM4UjhYd2s3NjVjNG04aHZYUjTSAXNBVV95cUxPOG5QbTBmNUxodkN2VjEwZUxzUmdHMUZSdDNEYlVkNjJxWk53ai1MdFRBLUZXQU5MNTAxRDh4X0ZVMUgyNDhmOVcxNDlyYVZSVkZ2bGg2dEhCUTJvWmZxdDVjOFI4WHdrNzY1YzRtOGh2WFI0?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-24T08:04:57+00:00",
-      "collected_at": "2026-06-24T14:50:56.496840+00:00",
-      "summary": "진천군의회, ‘농업·농촌웰빙테마장터’ 감사원 감사 청구 통과 충청뉴스라인",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "4d85cecb24cb7ff13cfa13b6",
-      "title": "경상북도농업기술원 벼 병해충 선제적 방제 철저 당부 - 예천인터넷뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5TE1wYURxdVhQQ2dhWHo1SlZZN1RQRXFXSjV0d0hKV1Z5NlFSNjBfNEhmZXZkSEQyM3ZzVGNCS2E4WjB1WWttTmpQTE9DX0ZVWU5peGpvVW50djI1dlBjeVNodlY1R1p3TjFzemtWTVJpSG1Mbjk2QlJB?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-24T08:00:05+00:00",
-      "collected_at": "2026-06-26T05:57:51.972202+00:00",
-      "summary": "경상북도농업기술원 벼 병해충 선제적 방제 철저 당부 예천인터넷뉴스",
-      "keywords": [
-        "농업",
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "경북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "2478f5bfc9550eae5d2e006f",
-      "title": "농작물 병해충 AI로 예측한다…‘농작물 생체정보 AI 기반 불량환경 조기 예측서비스’ 개시 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5NVhVY2VoVmQzNVpzQzlvZERYQ0NSMV9RRUFIWktnQnQtYUhyb3hNbVNMUDI2WC1NSHVkSTE4enZTWllPUmt3WTd4eThZYXc?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-24T08:00:02+00:00",
-      "collected_at": "2026-06-27T07:57:17.024276+00:00",
-      "summary": "농작물 병해충 AI로 예측한다…‘농작물 생체정보 AI 기반 불량환경 조기 예측서비스’ 개시 v.daum.net",
-      "keywords": [
-        "작물",
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 758,
+    "total": 754,
     "category_counts": {
-      "news": 558,
+      "news": 555,
       "plant_reviews": 49,
-      "support": 151
+      "support": 150
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 200
+        "count": 197
       },
       {
         "keyword": "농촌",
-        "count": 172
+        "count": 171
       },
       {
         "keyword": "귀농",
-        "count": 108
+        "count": 107
       },
       {
         "keyword": "지원",
-        "count": 102
+        "count": 101
       },
       {
         "keyword": "병해충",
-        "count": 85
+        "count": 84
       },
       {
         "keyword": "스마트팜",
-        "count": 76
+        "count": 75
       },
       {
         "keyword": "농산물",
@@ -14139,7 +14058,7 @@
       },
       {
         "keyword": "작물",
-        "count": 58
+        "count": 57
       },
       {
         "keyword": "농업인",
@@ -14151,7 +14070,7 @@
       },
       {
         "keyword": "사업",
-        "count": 39
+        "count": 38
       },
       {
         "keyword": "청년농",
@@ -14161,11 +14080,11 @@
     "top_sources": [
       {
         "source": "Google News 농업",
-        "count": 140
+        "count": 139
       },
       {
         "source": "Google News 병해충 재배",
-        "count": 139
+        "count": 138
       },
       {
         "source": "Google News 청년농 귀농",
@@ -14177,7 +14096,7 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 75
+        "count": 74
       },
       {
         "source": "Google News 농촌진흥청",
@@ -14204,8 +14123,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 13,
-    "fetched_items": 826,
+    "new_items": 8,
+    "fetched_items": 818,
     "errors": []
   }
 }
