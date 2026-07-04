@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T19:22:39.213239+00:00",
+  "generated_at": "2026-07-04T19:53:03.867142+00:00",
   "items": [
     {
       "id": "587f456afcbf19662fecf04a",
@@ -15,6 +15,24 @@
       ],
       "importance": 42,
       "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "a496ddc8f4d5b4f727e908bb",
+      "title": "고흥군 스마트팜 '거북이농장', 이유있는 '관심' - 광주in",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04VzBvTWUxelYwbnY2S3gyMEZOLVU0ZndRZ3k0Q3RJS3pNb2hVbTJMNmRoOGNfN0FLYW5wMUl5V2JQWnF4S2dLM2dmalZrWUpGYnBjbnJ5OWJ6bHNWa0xfZ1ZEMEFaUzBGWU5KVQ?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-07-04T13:28:18+00:00",
+      "collected_at": "2026-07-04T19:52:51.025117+00:00",
+      "summary": "고흥군 스마트팜 '거북이농장', 이유있는 '관심' 광주in",
+      "keywords": [
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "광주",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -989,6 +1007,24 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "식물 리뷰"
+    },
+    {
+      "id": "8b259e4533a6e8528accd493",
+      "title": "왜 귀농인은 고흥군으로 몰렸나…전국 1위 비결은? - 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rTzlXTTNPN0tncGNjWmdHU2ZXNlJPZ3F3cEZvMWJWMVpYcVZCaHVieWtROHlONWlhNVEtVnh6dVdoQ3JMNDNoSW5KT1U4V2N0eHM2b2tTVDMteDkyazV2eFpPbndqSVlsLTR0TzJR0gFyQVVfeXFMUHRuRldFYlhIdjhNdmNLWU5JeElIV1B4RnBzdl9kWlQ5MTV6Y0hndmd0N2R5Y1NkSVpiWUUyLWpjLXBnLTY1ZjVOcm1UUjdXeGJTd1ZIZzhvbHFwRFlLcHBEUmVmeXdwSk1wUFJyeGoyZ1V3?oc=5",
+      "source": "Google News 청년농 귀농",
+      "category": "news",
+      "published_at": "2026-07-03T04:45:09+00:00",
+      "collected_at": "2026-07-04T19:52:51.948102+00:00",
+      "summary": "왜 귀농인은 고흥군으로 몰렸나…전국 1위 비결은? 폴리뉴스 Polinews",
+      "keywords": [
+        "귀농"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "57f9d7913cfc27a878b2d8ff",
@@ -2269,6 +2305,28 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "131eb61c0a2edf9abb25f7c1",
+      "title": "대전시농업기술센터, 2027년 신기술 시범사업 신청 접수 - 다원뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxV01pOUVOZGZtRlk2XzNSSTQyOG5ZajZTNHpEMmpvMHptOURGZWtCX1ZqSTZSWldBdTRNQzhGQ2JNaVZ1UVJvSF84YUpxeE5YOWl4XzNlLUNlUG05emd6MTR3Z1hNRjlURkxaODdsRQ?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-07-02T06:33:00+00:00",
+      "collected_at": "2026-07-04T19:53:02.855880+00:00",
+      "summary": "대전시농업기술센터, 2027년 신기술 시범사업 신청 접수 다원뉴스",
+      "keywords": [
+        "농업",
+        "신청",
+        "농업기술센터",
+        "접수",
+        "사업"
+      ],
+      "importance": 74,
+      "region": "대전",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
+    },
+    {
       "id": "bedd20de2e419eaad830a738",
       "title": "의성군, 산림병해충 예찰·방제에 총력 - 대한투데이",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCRDRZUE4wZnV6blVxODBUTUJuSGZGUE95OWp5aXpUZW52SnlPQVp6MHNrSkdGbmhmM204WG1WU1BNSlcxc1AtQU9vbHpaSDVMUHZXR0RZTmFLQ3RFR1c2NVludVFfUkJyWXc?oc=5",
@@ -2799,28 +2857,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "b1aa47eeefdc861d6e074dc2",
-      "title": "대전시농업기술센터, 2027년 신기술 시범사업 신청 접수 - 아시아뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NVFVJeE9WcmhTZHVNVDRmZDNuR0l0U0JMMHdGWXA0SDU1ckIwR0xfTFQ0bFZQai12bG0za01QdmE1NlJ1Z2FXUTJLeVRidjJFSGVIdlAyRFZaTEZHcUtmV3FBTTdCcGxoZG9UWlRNX0szTHNL?oc=5",
-      "source": "Google News 농업기술센터 모집",
-      "category": "support",
-      "published_at": "2026-07-02T01:40:28+00:00",
-      "collected_at": "2026-07-04T16:50:35.915875+00:00",
-      "summary": "대전시농업기술센터, 2027년 신기술 시범사업 신청 접수 아시아뉴스통신",
-      "keywords": [
-        "농업",
-        "신청",
-        "농업기술센터",
-        "접수",
-        "사업"
-      ],
-      "importance": 74,
-      "region": "대전",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     },
     {
       "id": "fe4fd2de880b167dc1f309f5",
@@ -3673,6 +3709,24 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "13c9fb0c07d2776d2a2944ed",
+      "title": "옥천지역 벼와 옥수수 병해충 항공방제추진 - 대전일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lVGFTSmY2U1lsVGg1QlJla19rVkN2dTBvcEdxTDExSlA4UHJTWUJ3SlVQUVBfM21sMWFvZHdLUTBkN2VLYXN4alZ4YzFWbDBDZklmMkFhdE9MVFM4bkxvREdsNDBpVlpKQkpLZ3pzUVd5LUnSAXNBVV95cUxNZVRhU0pmNlNZbFRoNUJSZWtfa1ZDdnUwb3BHcUwxMUpQOFByU1lCd0pVUFFQXzNtbDFhb2R3S1EwZDdlS2FzeGpWeGMxVmwwQ2ZJZjJBYXRPTFRTOG5Mb0RHbDQwaVZaSkJKS2d6c1FXeS1J?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-07-01T07:00:00+00:00",
+      "collected_at": "2026-07-04T19:52:52.864894+00:00",
+      "summary": "옥천지역 벼와 옥수수 병해충 항공방제추진 대전일보",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "대전",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -13765,103 +13819,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "b959ee2b97df447fd24c449b",
-      "title": "[경기도] AI '병해충 오기 전' 경고…농작물 피해 ‘예보 시대’ 개막 - 한국지방정부신문",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00ZUlxRUVHVDlvSVZwZ3RmSEtXcVFvOEJTaEZKdXVCQTFlMlFqQW1GellvdTFtMm9WWVJzbWNoekcza1pmMXBEZGdvWVF3M3ZRTllKNUQyQW9VdDNtNkVKOUt6aFFLajZvWm5TOVJDUWQydw?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-06-24T13:33:53+00:00",
-      "collected_at": "2026-06-24T14:51:01.828075+00:00",
-      "summary": "[경기도] AI '병해충 오기 전' 경고…농작물 피해 ‘예보 시대’ 개막 한국지방정부신문",
-      "keywords": [
-        "작물",
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "경기",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "4c1dc1b60218bf7e91ec5808",
-      "title": "밭작물 가격 하락 대응, 제주형 가격안정관리제 발동 - 뉴스N제주",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yQVJYVy1Kek5MT2J6bzNScFpHLU4xdk01Zno2RzVyQ2doMTFLTWZKbGZLQUtteEtLZ3paMURvcDR3MzYyMkl5aklBbHAwV01KN0FlOEtNTnhLb3B2RS04MmsySHA1ZEZ6ZjM5eA?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-24T12:58:42+00:00",
-      "collected_at": "2026-06-24T14:51:02.969270+00:00",
-      "summary": "밭작물 가격 하락 대응, 제주형 가격안정관리제 발동 뉴스N제주",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 48,
-      "region": "제주",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "fda87055f7ff77fc8204da92",
-      "title": "아프리카돼지열병 등 가축전염병 방역을 위하여 양돈농장에서 준수해야 할 방역기준 변경 공고(2026-373호) - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lUlBkUUpGTEltQmZPbmp0b1lJUkVIamZ3Q1NoRGFILXpNUDlpejdoYnVsbnF6MHZ2c09BMmdTNWVONUVaZ1BCNFFUaFM0d1J1VllrWW9qR2pQSTRvNXhiRUppZGcxWjFfei1GeEIzSUF0QVlzQVJkRmhSZw?oc=5",
-      "source": "Google News 농식품부 공고",
-      "category": "support",
-      "published_at": "2026-06-24T11:55:26+00:00",
-      "collected_at": "2026-06-24T15:52:14.762620+00:00",
-      "summary": "아프리카돼지열병 등 가축전염병 방역을 위하여 양돈농장에서 준수해야 할 방역기준 변경 공고(2026-373호) 농림축산식품부",
-      "keywords": [],
-      "importance": 74,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "3d02e46d081a634a814a1aa4",
-      "title": "농산물값은 폭락, 생산비는 폭등…\"정부 대책 없인 ‘공멸’\" | - 한국농정신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUMVhWNUl0WklId2ttaHE0cGlOS0o4QTI4ZEVkSW5USm5tamxBcmlLV21JVXFjNmE5WEhNaXh1Q1pjNnNMNGFTb3VMUVhHeFQ4R09NLWJZODhEeXlBRUxOc0ItTE9DUXJjU0Zn?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-24T11:42:09+00:00",
-      "collected_at": "2026-06-24T14:51:02.969270+00:00",
-      "summary": "농산물값은 폭락, 생산비는 폭등…\"정부 대책 없인 ‘공멸’\" | 한국농정신문",
-      "keywords": [
-        "농산물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "8ada0ab743d0bc701ecad6f6",
-      "title": "[공공돋보기] 소멸 위기 농촌, 해법은 ‘사람’ - 공공뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VdU4wVGkzOHhiNUFLV3Y0SUM0VUsyRHN0azNfc2sxNW9wOEpXRktDR0JUeVFaY1gyVlJMcmhIeTh2eEZRMnUyX2c3YjBkYmtTZmNabjVwWXVaaFA4NnM1Zk5MOWlNRGdndXpDT1h30gFuQVVfeXFMTVV1TjBUaTM4eGI1QUtXdjRJQzRVSzJEc3RrM19zazE1b3A4SldGS0NHQlR5UVpjWDJWUkxyaEh5OHZ4RlEydTJfZzdiMGRia1NmY1puNXBZdVpoUDg2czVmTkw5aU1EZ2d1ekNPWHc?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-24T11:25:19+00:00",
-      "collected_at": "2026-06-24T14:50:56.496840+00:00",
-      "summary": "[공공돋보기] 소멸 위기 농촌, 해법은 ‘사람’ 공공뉴스",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 745,
+    "total": 743,
     "category_counts": {
-      "news": 546,
+      "news": 545,
       "plant_reviews": 48,
-      "support": 151
+      "support": 150
     },
     "top_keywords": [
       {
@@ -13870,11 +13835,11 @@
       },
       {
         "keyword": "농촌",
-        "count": 169
+        "count": 168
       },
       {
         "keyword": "귀농",
-        "count": 109
+        "count": 110
       },
       {
         "keyword": "지원",
@@ -13886,15 +13851,15 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 75
+        "count": 76
       },
       {
         "keyword": "농산물",
-        "count": 60
+        "count": 59
       },
       {
         "keyword": "작물",
-        "count": 55
+        "count": 53
       },
       {
         "keyword": "농업인",
@@ -13920,19 +13885,19 @@
       },
       {
         "source": "Google News 농업",
-        "count": 137
+        "count": 136
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 103
-      },
-      {
-        "source": "Google News 농산물 가격",
-        "count": 75
+        "count": 104
       },
       {
         "source": "Google News 스마트팜",
-        "count": 72
+        "count": 73
+      },
+      {
+        "source": "Google News 농산물 가격",
+        "count": 73
       },
       {
         "source": "Google News 농촌진흥청",
@@ -13948,7 +13913,7 @@
       },
       {
         "source": "Google News 농식품부 공고",
-        "count": 20
+        "count": 19
       },
       {
         "source": "Google News 농림축산식품부",
@@ -13959,8 +13924,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 33,
-    "fetched_items": 802,
+    "new_items": 7,
+    "fetched_items": 819,
     "errors": []
   }
 }
