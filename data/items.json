@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-04T21:24:18.423562+00:00",
+  "generated_at": "2026-07-04T21:54:39.491933+00:00",
   "items": [
     {
-      "id": "587f456afcbf19662fecf04a",
-      "title": "청· 차장일정 - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUxnME1Ta0doX1ByMnotVm5nX0ROQ0tLQ1R2dWdZTWhreVpTX2N6cHlvbVRpYy1UbUZ4cDBxQXBZOUI0ODEwOU14OWE2OW5JSXMydUFCRGQyWVdQR25wUDlmT3ZRanRsOEl2VkhuMEczdXpfaHBreW02LXNkZGQ5SG81a3laeFI1YTA0a1BJVlJscENGVkZZVWd6ODZ6bU0tZTBwcUpNX3c2S09TTE9tUnd0MExtZEZGMWNDMW9pLUhQamQ5Q3JBbW5jWQ?oc=5",
+      "id": "a70de6ad918df404ca1142dd",
+      "title": "청·차장일정 - 농촌진흥청",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcmo5ZzFaRmdFRGdkNDhFdHlUcEpmM2VldF9TdWxMR2t2bVlaQUdYZVAza3o1VnNYYXFQdWJMejdRTlU3T25GOFBGMzBDTnF3SVNwbUFBUUtqbHZjdGR3U0xOSklHeEI3ZV9YcUpoNlVSS1F5eXpDYkl4a2tYRC1ORE4tV0FjNnlsVlNVN2hKd25GWDRHellJWkJzdWZiVGlVLXpQanpETlNuMEltMWl4WEY1WTM4Yk5EX2I2NURKZnltdUcxcXV4YzZUc0hCdjNjRkZMYkljeHlIUmxRZzZqeExuaWotaWVq?oc=5",
       "source": "Google News 농촌진흥청",
       "category": "news",
-      "published_at": "2026-07-04T17:16:55+00:00",
-      "collected_at": "2026-07-04T19:22:31.564167+00:00",
-      "summary": "청· 차장일정 농촌진흥청",
+      "published_at": "2026-07-04T19:11:24+00:00",
+      "collected_at": "2026-07-04T21:54:32.483097+00:00",
+      "summary": "청·차장일정 농촌진흥청",
       "keywords": [
         "농촌"
       ],
@@ -859,6 +859,26 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "c98f44be462c308b84302150",
+      "title": "울진군, 2027 후계농업경영인 산업기능요원 모집 시작 - 전국안전신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5QURscTJJcUNrcDlkR2dUY1BaTUV1RTZ3U2NtU0Jiemh1NXZMYjdwZ2k5S0hQLXpvcFZDYXJpUFZ5ZFJ1OG92YklXaXE?oc=5",
+      "source": "Google News 농업기술센터 모집",
+      "category": "support",
+      "published_at": "2026-07-03T05:32:19+00:00",
+      "collected_at": "2026-07-04T21:54:38.667535+00:00",
+      "summary": "울진군, 2027 후계농업경영인 산업기능요원 모집 시작 전국안전신문",
+      "keywords": [
+        "농업",
+        "모집",
+        "후계농"
+      ],
+      "importance": 74,
+      "region": "",
+      "deadline_text": "신청 정보 확인",
+      "deadline_date": "",
+      "category_label": "지원사업"
     },
     {
       "id": "502f99b564d5d4a10913cbc2",
@@ -1740,6 +1760,28 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "a2d25569a5649d6cb2726463",
+      "title": "인천시 농업기술센터, 제17기 하반기 귀농·귀촌교육 교육생 모집…7월 7일부터 접수 - 연합시민의소리",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsSUV0c0Y3dFRmT09aMTAtaElPby1vbDB4bGNNNHNjNVRPWW9GUC12NGM2Q2lCUkZhSUtjcWpsYWV6Z0MwTDQwbDJ0Q3pURUphcUdKaU5uaTVEUmFyQjZwSkUySW9PREk?oc=5",
+      "source": "Google News 지자체 농업기술센터",
+      "category": "support",
+      "published_at": "2026-07-03T00:06:33+00:00",
+      "collected_at": "2026-07-04T21:54:37.407380+00:00",
+      "summary": "인천시 농업기술센터, 제17기 하반기 귀농·귀촌교육 교육생 모집…7월 7일부터 접수 연합시민의소리",
+      "keywords": [
+        "농업",
+        "귀농",
+        "모집",
+        "농업기술센터",
+        "접수"
+      ],
+      "importance": 74,
+      "region": "인천",
+      "deadline_text": "7월 7일 마감",
+      "deadline_date": "2026-07-07",
+      "category_label": "지원사업"
     },
     {
       "id": "a0d522f1c9b33cbf4f7253be",
@@ -13748,64 +13790,27 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "c86ab484a5b071d0d8c44568",
-      "title": "농산물값 폭락·농자재값 급등에 농민단체 반발 - 한국영농신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02RkE1LVFMZS1RQ0tPYlZqTl83U3FpM2U1YXMzc0JZQ0dJMlcyRzYwdnlGTk5FdmM4ME15aWtpTDlmWUpRenRpVDRodnNuNjdUaXJTekR0LUpBREtSZ056aTZHRWZ4TUM2Sk9GZdIBbkFVX3lxTE1CaVBCUTJ3cDcxWUZjMmhST0cyazN2QWNfU2FFa2ZPRzV5Q0tfdmlRUGFCaC03aWNjVTRFQUpXcWFSbkVHbG1xVHltT0NZZmZ4T0tETlBwUnFUdUdITFFkQkRUU3hhMURNZnJvWi1n?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "news",
-      "published_at": "2026-06-24T16:10:35+00:00",
-      "collected_at": "2026-06-25T02:55:57.159634+00:00",
-      "summary": "농산물값 폭락·농자재값 급등에 농민단체 반발 한국영농신문",
-      "keywords": [
-        "농산물"
-      ],
-      "importance": 48,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "f297ea1d559696098d7dd79b",
-      "title": "농업에 AI 입힌다… 농정원·농진청, 미래지향적 첨단 농촌 구축 ‘맞손’ - 한국영농신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WOWx1Snd6MzZpazJSUVJJVmZySDFEbEd6Vk1BX0JCdUlKOENEcXAzajg1ZUs4S1VsNFRVWDdjSFZ0LXRUZHE3VHE5ZnQzUTdqcXpuTHlfaVZyVlk2UEpVU0FGUk9XdmtmX2R4ddIBbkFVX3lxTFB3OTc3d25kMGI2YmQwZTA5VmZ6TVJuMUIyNmNyTG5HUnJCQjdEdFZTVW1MQmIzUERkNzdOX2s3UDY5cDlwRXhoRXB0RUltdmFvMkVxU0J4cmZBTXIxSmNEZFU4Mkt3Nko5NDNnamFB?oc=5",
-      "source": "Google News 농업",
-      "category": "news",
-      "published_at": "2026-06-24T15:42:35+00:00",
-      "collected_at": "2026-06-25T02:05:45.006199+00:00",
-      "summary": "농업에 AI 입힌다… 농정원·농진청, 미래지향적 첨단 농촌 구축 ‘맞손’ 한국영농신문",
-      "keywords": [
-        "농업",
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
     "total": 741,
     "category_counts": {
-      "news": 542,
+      "news": 540,
       "plant_reviews": 48,
-      "support": 151
+      "support": 153
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 192
+        "count": 193
       },
       {
         "keyword": "농촌",
-        "count": 166
+        "count": 165
       },
       {
         "keyword": "귀농",
-        "count": 112
+        "count": 113
       },
       {
         "keyword": "지원",
@@ -13821,7 +13826,7 @@
       },
       {
         "keyword": "농산물",
-        "count": 58
+        "count": 57
       },
       {
         "keyword": "작물",
@@ -13851,18 +13856,18 @@
       },
       {
         "source": "Google News 농업",
-        "count": 134
+        "count": 133
       },
       {
         "source": "Google News 청년농 귀농",
         "count": 106
       },
       {
-        "source": "Google News 농산물 가격",
-        "count": 72
+        "source": "Google News 스마트팜",
+        "count": 71
       },
       {
-        "source": "Google News 스마트팜",
+        "source": "Google News 농산물 가격",
         "count": 71
       },
       {
@@ -13890,8 +13895,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 1,
-    "fetched_items": 818,
+    "new_items": 4,
+    "fetched_items": 822,
     "errors": []
   }
 }
