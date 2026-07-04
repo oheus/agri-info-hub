@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04T21:54:39.491933+00:00",
-  "total": 741,
+  "generated_at": "2026-07-04T22:25:05.601560+00:00",
+  "total": 739,
   "category_counts": {
-    "news": 540,
+    "news": 538,
     "plant_reviews": 48,
     "support": 153
   },
@@ -29,11 +29,11 @@
     },
     {
       "keyword": "스마트팜",
-      "count": 74
+      "count": 73
     },
     {
       "keyword": "농산물",
-      "count": 57
+      "count": 56
     },
     {
       "keyword": "작물",
@@ -71,11 +71,11 @@
     },
     {
       "source": "Google News 스마트팜",
-      "count": 71
+      "count": 70
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 71
+      "count": 70
     },
     {
       "source": "Google News 농촌진흥청",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 4,
-    "fetched_items": 822,
+    "new_items": 11,
+    "fetched_items": 768,
     "errors": []
   }
 }
