@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-09T16:29:38.993680+00:00",
-  "total": 771,
+  "generated_at": "2026-07-10T02:55:10.753019+00:00",
+  "total": 766,
   "category_counts": {
-    "news": 529,
-    "plant_reviews": 53,
-    "support": 189
+    "news": 531,
+    "plant_reviews": 43,
+    "support": 192
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 202
+      "count": 211
     },
     {
       "keyword": "농촌",
-      "count": 161
+      "count": 157
     },
     {
       "keyword": "지원",
@@ -29,31 +29,31 @@
     },
     {
       "keyword": "스마트팜",
-      "count": 70
+      "count": 74
     },
     {
       "keyword": "사업",
-      "count": 64
-    },
-    {
-      "keyword": "반려식물",
-      "count": 57
-    },
-    {
-      "keyword": "작물",
-      "count": 56
-    },
-    {
-      "keyword": "귀농",
-      "count": 54
+      "count": 67
     },
     {
       "keyword": "농업인",
-      "count": 46
+      "count": 56
+    },
+    {
+      "keyword": "작물",
+      "count": 55
+    },
+    {
+      "keyword": "귀농",
+      "count": 47
+    },
+    {
+      "keyword": "반려식물",
+      "count": 47
     },
     {
       "keyword": "청년농",
-      "count": 33
+      "count": 34
     }
   ],
   "top_sources": [
@@ -63,35 +63,35 @@
     },
     {
       "source": "Google News 농업",
-      "count": 132
+      "count": 136
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 105
+      "count": 107
     },
     {
       "source": "Google News 스마트팜",
-      "count": 67
+      "count": 70
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 61
-    },
-    {
-      "source": "Google News 농촌진흥청",
       "count": 54
     },
     {
-      "source": "Google News 식물 키우기",
-      "count": 50
+      "source": "Google News 농촌진흥청",
+      "count": 51
     },
     {
       "source": "Google News 청년농 지원",
+      "count": 47
+    },
+    {
+      "source": "Google News 식물 키우기",
       "count": 44
     },
     {
       "source": "Google News 지원사업",
-      "count": 28
+      "count": 30
     },
     {
       "source": "Google News 농림축산식품부",
@@ -101,8 +101,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 8,
-    "fetched_items": 796,
+    "new_items": 63,
+    "fetched_items": 797,
     "errors": []
   }
 }
