@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T14:00:41.257864+00:00",
+  "generated_at": "2026-07-10T14:31:08.238347+00:00",
   "items": [
     {
       "id": "e94c6ea4da31bd5e9889cfe0",
@@ -1101,6 +1101,25 @@
       "keywords": [
         "농촌",
         "귀농"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "49b34bb74740c99348538110",
+      "title": "롯데이노베이트, 맞춤형 스마트팜 AI 에이전트 개발… 재배 노하우 및 실시간 상담 제공 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nN3RGNnRqLV9CckUwdGl0RmFEV3BKQ3h1eFdQb3M4RHFRU0RGeUxiS0drY3pJamtBRVVOZXpFMTA2b19yLVJwUDVGOF9KTEtOa19xNDdJaGNPdGpONklyc01NaW5IUkU?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-07-10T01:58:24+00:00",
+      "collected_at": "2026-07-10T14:30:54.916739+00:00",
+      "summary": "롯데이노베이트, 맞춤형 스마트팜 AI 에이전트 개발… 재배 노하우 및 실시간 상담 제공 인공지능신문",
+      "keywords": [
+        "스마트팜",
+        "재배"
       ],
       "importance": 42,
       "region": "",
@@ -7715,6 +7734,24 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "843784b64053c56d7387a56f",
+      "title": "김중남 강릉시장 취임 축하 화분, 독거노인 '반려식물'로 기부 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxPSnpNWWVucGViLXpISGVkODBBeGMtWnJjZjZkWTZKQ21DY2VYeGdLc09uNEN6WlI2aGhLUGg5YTAzMDl3X2pXNm9OaTB1d2E4SUtTakl5NFZrQ2MzZE14TlVHMlVHTzJNX3haZG8wM1BvOEcweVptbnNFbUE2UU9GbklxQzZYZ0RSUlEwajhJVnRXMTRDMWlsZHpyYUxTeHNlbUFGb3pSWkk1VVMxa0V2YjdzVUxPZ19IYVo5WHNyWlJQYVcxY0FKTjhRY05peHRnbHJIejhJd1dfYkxtQVpNamk1SjhxRTI3WkkzZ25ldkgyX1pqbDEzTU93OV90bTNKbjBMcUNIU25sR2dVVk9HdVpMSzNSS0dndmNWMmNkX2xKd05ieGk3MDloQUt0WHhUQjU1LXdXcnZfYUtTbUdtdDQ3NHhyOG5yUUp6cG5RcmtCdzRzNS0zSkdYa1AtTjhTR21ZUWZXVFNLNV9wSWV6bUxRVlRWRG53bG9BcVZNVUpWcE5udWdBcU9YM3F3Z2JPWlRfd3hmM1kzTk1ncTVFbXo4bjFRQlJDTTA2aFZncENHVEg1eGkxY0xLTjh5ODQ2Z25vRXIwdHQ0LXM4UnRQcXo2VFRMQ0Z0S09EblVQRm0xV1FXT2ZtSmt4VmRFTHdfeUpSb0hhTHRtNUxJMHVKTno4dDlfQ0lsMk9TY2FzbllvcGllTklnXzdZMXR0aGs?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-07-06T21:08:22+00:00",
+      "collected_at": "2026-07-10T14:31:04.083935+00:00",
+      "summary": "김중남 강릉시장 취임 축하 화분, 독거노인 '반려식물'로 기부 MSN",
+      "keywords": [
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "강원",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
+    },
+    {
       "id": "464050b5e546077591f7d925",
       "title": "[강동구] “우리 집 식물 주치의 만나보세요” - 동아일보",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzbTZZMW0weWxWTUg1M2JJcEZ2a2tGdmhCOHhkRlpUWUVoNUNIY2J3eG92UzAtb1RMYTgtdXM4eTk2OGtSODRvSHZzSTNHeXVsblFxQy1sY1BwT0hGSk4tWU8yUDc0YUt0eWVtcUNqN2Y3WHV0cEHSAWZBVV95cUxQTGpackRsQWxDSk1TenNiUHNBVm9YSUFHZUtpaGMzY0RBSEJJOG1iVHFyYjdwRlZZZTNZa0xySUVWVUtjNlJabHpIVzBkUWQ5Q2kxdVA2amdTZldHTUFFa3F0Nnhld0E?oc=5",
@@ -8832,24 +8869,6 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "지원사업"
-    },
-    {
-      "id": "aeec7202f6ead938c39d215c",
-      "title": "김중남 강릉시장 취임 축하 화분, 독거노인 '반려식물'로 기부 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54Qk9PTFhNdmd4MnJYa2tBLUw0bWEyc0ZtVkpzaFZCZ0YwNEFqdXBnSndXT2pBZndRbVRuS3VwWnphcHoxU2MtZnoxQ01zc28?oc=5",
-      "source": "Google News 식물 리뷰",
-      "category": "plant_reviews",
-      "published_at": "2026-07-06T02:51:00+00:00",
-      "collected_at": "2026-07-09T15:59:07.275378+00:00",
-      "summary": "김중남 강릉시장 취임 축하 화분, 독거노인 '반려식물'로 기부 v.daum.net",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "region": "강원",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "식물 리뷰"
     },
     {
       "id": "373d3bb4ef5260d213f25ccc",
@@ -13909,48 +13928,12 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "8a4770c3f4f8ce01f13b2010",
-      "title": "국내 가축유전자원 국제 ‘가축다양성정보시스템’에 새로 이름 올려 - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWsteUtYcTFPMUotUjlmOVB3dWtHeVhtMlhuemh6YjNvSEpra1VJVl8yU0VLNnNwaFdrQUdXT2tKX2xEMjhPdGJ4ZWZDRHhQeFlCR3dPSVhvRERuaUI3VFBHX0FscFBwWlVTU3hTUGs0c0ZNZDFzNnN5YkZ2elUyMW9JZUM1aW5CRGYtbFplSnVpTU9vUzJ0VUV3?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-07-01T10:06:06+00:00",
-      "collected_at": "2026-07-01T16:17:05.159774+00:00",
-      "summary": "국내 가축유전자원 국제 ‘가축다양성정보시스템’에 새로 이름 올려 농촌진흥청",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "2995c6b404c704c48d02c06d",
-      "title": "치유음식 활용 현장 방문 “지역 관광 연계 방안 모색” - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNHhxX2pUdnN5V0R3MFhJajBNTGR6alJ2bld3MUN6MkFSTFh5NDNHSE9oMVZPajhrNFA1NXR5dTB5Sy13bWFOSnM1WHhPdVhfSWhIRllqb2tTLTRjeUs2elp2WUdEdEtqS0kyV0Nsa3lrYmlpZ3d6UEE3LXJXNDVGbHRrazJKTUs2TDMtYnhWX0tKeFhBc2xlU2hR?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-07-01T10:04:44+00:00",
-      "collected_at": "2026-07-01T16:17:05.159774+00:00",
-      "summary": "치유음식 활용 현장 방문 “지역 관광 연계 방안 모색” 농촌진흥청",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 745,
+    "total": 744,
     "category_counts": {
-      "news": 513,
+      "news": 512,
       "plant_reviews": 37,
       "support": 195
     },
@@ -13961,7 +13944,7 @@
       },
       {
         "keyword": "농촌",
-        "count": 145
+        "count": 143
       },
       {
         "keyword": "지원",
@@ -13977,7 +13960,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 79
+        "count": 80
       },
       {
         "keyword": "사업",
@@ -14019,7 +14002,7 @@
       },
       {
         "source": "Google News 스마트팜",
-        "count": 74
+        "count": 75
       },
       {
         "source": "Google News 청년농 귀농",
@@ -14031,11 +14014,11 @@
       },
       {
         "source": "Google News 농촌진흥청",
-        "count": 41
+        "count": 39
       },
       {
         "source": "Google News 식물 키우기",
-        "count": 37
+        "count": 38
       },
       {
         "source": "Google News 지원사업",
@@ -14050,8 +14033,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 5,
-    "fetched_items": 793,
+    "new_items": 2,
+    "fetched_items": 796,
     "errors": []
   }
 }
