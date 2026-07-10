@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-10T02:55:10.753019+00:00",
-  "total": 766,
+  "generated_at": "2026-07-10T12:59:33.214305+00:00",
+  "total": 749,
   "category_counts": {
-    "news": 531,
-    "plant_reviews": 43,
-    "support": 192
+    "news": 514,
+    "plant_reviews": 38,
+    "support": 197
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 211
+      "count": 203
     },
     {
       "keyword": "농촌",
-      "count": 157
+      "count": 149
     },
     {
       "keyword": "지원",
@@ -21,88 +21,88 @@
     },
     {
       "keyword": "병해충",
-      "count": 107
+      "count": 103
     },
     {
       "keyword": "농산물",
-      "count": 83
+      "count": 84
     },
     {
       "keyword": "스마트팜",
-      "count": 74
+      "count": 79
     },
     {
       "keyword": "사업",
-      "count": 67
+      "count": 70
     },
     {
       "keyword": "농업인",
-      "count": 56
+      "count": 63
     },
     {
       "keyword": "작물",
-      "count": 55
+      "count": 51
     },
     {
       "keyword": "귀농",
-      "count": 47
+      "count": 50
     },
     {
       "keyword": "반려식물",
-      "count": 47
+      "count": 40
     },
     {
       "keyword": "청년농",
-      "count": 34
+      "count": 39
     }
   ],
   "top_sources": [
     {
       "source": "Google News 병해충 재배",
-      "count": 153
+      "count": 149
     },
     {
       "source": "Google News 농업",
-      "count": 136
+      "count": 121
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 107
+      "count": 106
     },
     {
       "source": "Google News 스마트팜",
-      "count": 70
+      "count": 74
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 54
-    },
-    {
-      "source": "Google News 농촌진흥청",
-      "count": 51
+      "count": 58
     },
     {
       "source": "Google News 청년농 지원",
-      "count": 47
+      "count": 53
+    },
+    {
+      "source": "Google News 농촌진흥청",
+      "count": 46
     },
     {
       "source": "Google News 식물 키우기",
-      "count": 44
+      "count": 38
     },
     {
       "source": "Google News 지원사업",
-      "count": 30
+      "count": 28
     },
     {
       "source": "Google News 농림축산식품부",
-      "count": 20
+      "count": 21
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 63,
-    "fetched_items": 797,
+    "new_items": 14,
+    "fetched_items": 792,
     "errors": []
   }
 }
