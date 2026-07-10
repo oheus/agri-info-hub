@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T13:30:10.171145+00:00",
+  "generated_at": "2026-07-10T14:00:41.257864+00:00",
   "items": [
     {
       "id": "e94c6ea4da31bd5e9889cfe0",
@@ -89,6 +89,24 @@
       ],
       "importance": 42,
       "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "18ccb6fc7b98975fa2f042d0",
+      "title": "고추 병해충 ‘주의보’···전남광주농기원, 적기 방제 당부 - 한국농어민신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zekdUTzFzVllqWEV6V1BSZVdLWDVrZWJYOWt4Vnc0cDR1ZWpYQjYxWkVQeVJ5aGtuWnJqUFhnbFVoZ3J6Yk5BSWloeU4zcGhueGtsMXZpaXNNTHhXY2lYbHgwY1BiVk5vLXpQUQ?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-07-10T10:06:43+00:00",
+      "collected_at": "2026-07-10T14:00:29.981987+00:00",
+      "summary": "고추 병해충 ‘주의보’···전남광주농기원, 적기 방제 당부 한국농어민신문",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "광주",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -243,6 +261,42 @@
       "category_label": "농업 뉴스"
     },
     {
+      "id": "d056736a303a60cebc8114bc",
+      "title": "충남도, 벼 병해충 항공방제 돌입 - B world",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wQWZjbXh1MXdUOTM5aUM0M0UzR3RqaDJkRlJPRkJTX2dNRWJyTnp2TXhQazVCUndpY194bjdkTXNXM1J4NjA2clFTOE9WX2p1VmxnTkFKOTY0dzlvQXpIWG95VUQwdmpWMjMzbkFWejA?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-07-10T08:07:56+00:00",
+      "collected_at": "2026-07-10T14:00:29.981987+00:00",
+      "summary": "충남도, 벼 병해충 항공방제 돌입 B world",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "충남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "fdaedfa52cf9aac93f684d72",
+      "title": "부여군, 벼 병해충 현장 지도 강화 - 대전시티저널",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44Qi1ZUlpDb0pjc2sxQ0hSRWJfR1R0U3lkWUlfbEc0NXhHSnhxemNad2taNU04YnoxT0pkT3ZQNGJlWTVmYWVkZDFDNmhvUk42QmdlWkNpajBPTmg3Vzc2X0VoREQ3dw?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-07-10T07:57:00+00:00",
+      "collected_at": "2026-07-10T14:00:29.981987+00:00",
+      "summary": "부여군, 벼 병해충 현장 지도 강화 대전시티저널",
+      "keywords": [
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "대전",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "6b9ebdec81488693fb03f700",
       "title": "강릉시, '청년농업인 스마트 영농' 참여자 모집...최대 1.5억 지원 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53bm1WNzlEU1d2a0h3ckFTczEtTXpvN2JDTl9Lc1hMbm81MEhSbGsxY2k3OWdOUTNQOUl2NHl4Rl9tM25FZFd5QmNqc3dXVHFsbVNCU09QVjFvZFAx?oc=5",
@@ -264,6 +318,24 @@
       "deadline_text": "1월 5일 마감",
       "deadline_date": "2026-01-05",
       "category_label": "지원사업"
+    },
+    {
+      "id": "3338c18b01188ac11f1f1d96",
+      "title": "'스마트팜 기기 설치' 한국스마트팜, '기술혁신' 기업 선정 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14WFJtMXpIZW4tU1RUREJrU2dWdk5hVEV5T19hOVNQMThEVWNoSDlCOFFtVTZaSENKRnFUZklYUnF2ZkExcEhPZnl5QzQyc2pZdGhURUM0XzN0dnh6aDNKbWhnWklwbWY2WlU0dNIBckFVX3lxTE1lV19sTEZfYnBtdUQ1N3FYRjhyMnJVS2JFd2NoejVoaU5NajBNZnhqREpxemtRUV96WW9iVmQ4MTJLVnZDTkpoV2tORW9rZzFGelp3Z1M4bUx0dEk4eE9zWFhvaGFFWnNXejQ2ODZQTUhvZw?oc=5",
+      "source": "Google News 스마트팜",
+      "category": "news",
+      "published_at": "2026-07-10T07:46:00+00:00",
+      "collected_at": "2026-07-10T14:00:27.680467+00:00",
+      "summary": "'스마트팜 기기 설치' 한국스마트팜, '기술혁신' 기업 선정 - 머니투데이 머니투데이",
+      "keywords": [
+        "스마트팜"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
     },
     {
       "id": "533399b0a6511ad889ba81b3",
@@ -1391,24 +1463,6 @@
       "deadline_text": "7월 24일 마감",
       "deadline_date": "2026-07-24",
       "category_label": "지원사업"
-    },
-    {
-      "id": "c0fc0d5308c0587f95edcdbb",
-      "title": "부여군, 벼 병해충 현장 지도 강화 - 충청메시지",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxbDROTDFTaHpmY2RGUktCT1hPamZuUldFOGR5dnZ3MTVhYlJZNGthekdfNlVmLWNKNkFBYTY0VFlEU0VHbS1ydFc3d2lNeklwYmFIR2V6cjdfZlE0TEVnbllOOFhvN00tLVpj?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-07-10T00:17:09+00:00",
-      "collected_at": "2026-07-10T02:54:59.484882+00:00",
-      "summary": "부여군, 벼 병해충 현장 지도 강화 충청메시지",
-      "keywords": [
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "충남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     },
     {
       "id": "6d985c1541360d69faea8ded",
@@ -3545,6 +3599,25 @@
       "keywords": [],
       "importance": 48,
       "region": "전국",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "9fd5a5a677ff8a1c0eaf6ef9",
+      "title": "장수군, 농작물 병해충 방제 및 관리 당부 - 전북엔비전",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55aURGcU0yT0kxeGttOEJuMHRFVE9UbVowc2t3eUVRUnNYMi1vM0ZuU242ZTZqNUFRaU5BWkdMbG9ReGVtR1BxbUJYbkQ3cmxMR2Y4MG92Qno0S1BFSUlqdUZjWHZRUQ?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-07-08T10:26:35+00:00",
+      "collected_at": "2026-07-10T14:00:29.981987+00:00",
+      "summary": "장수군, 농작물 병해충 방제 및 관리 당부 전북엔비전",
+      "keywords": [
+        "작물",
+        "병해충"
+      ],
+      "importance": 48,
+      "region": "전북",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -13872,106 +13945,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "a2142620e9c9fbe1eaa1172c",
-      "title": "“농가에 110억달러 더 지원하자”…트럼프, 농심잡기 본격 행보 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWZm5XRmZRRWlKa1pmc3FpbWhqVnBKbHc4Ulc2TUVPSDNrN0NrMzZ5Smt5LU5kRXhIYVlIalVBOG1RakdPdm4tQzdHdkN3Qml3OFo3RFVmVVpiUQ?oc=5",
-      "source": "Google News 농산물 가격",
-      "category": "support",
-      "published_at": "2026-07-01T09:31:00+00:00",
-      "collected_at": "2026-07-01T16:17:03.246358+00:00",
-      "summary": "“농가에 110억달러 더 지원하자”…트럼프, 농심잡기 본격 행보 농민신문",
-      "keywords": [
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "b9121cb798e30f09c82ea72d",
-      "title": "“정선 오일장이 창원에”…보양식용 약용작물 한자리에 - 농민신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhQmJKYjR3OEMzS0lPRUtBLUMya2w0dXF3VGZQdW1sY2dvSmxBX0MyVnBpc3h1S2FEQ2ZRWFJlUjJ1aXFOU0NqVVNMSjBWZ040SkJEdFQxeTJrQQ?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-07-01T09:30:00+00:00",
-      "collected_at": "2026-07-01T16:17:02.289681+00:00",
-      "summary": "“정선 오일장이 창원에”…보양식용 약용작물 한자리에 농민신문",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "경남",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "428cd6aa86abb7f4a8a2d8c1",
-      "title": "고온기 육묘장 병해충 확산 우려, 시설 안팎 관리 강화해야 - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQODhDLXFNbmw0QjdHeW9LTTFUWV9Ud2tUaHNGZkc5TEhBZTY2eVF1a1VxcFd2d0dqSUxkT1hxcXBlQmp1c20tQ25Jclp3SWZWa2hRR1lacjNMZ1NQOXlSblZCdHdUV25xOVNFZjlIbEltUW9wRWN6V3RqQl9abU9Pd0VfUGJaTll6RGlpUkZRMmF5RnE1ZEpodUUzSmRMLXZ1UTV2MzJkcUNiMS1jM2VFNmZB?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-07-01T09:18:54+00:00",
-      "collected_at": "2026-07-01T16:17:05.159774+00:00",
-      "summary": "고온기 육묘장 병해충 확산 우려, 시설 안팎 관리 강화해야 농촌진흥청",
-      "keywords": [
-        "농촌",
-        "병해충"
-      ],
-      "importance": 48,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "92900988d1bb0635765049d4",
-      "title": "농촌진흥청, 2026년 하반기부터 이렇게 달라집니다(재경부 주관) - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOekh1QTY0MmlVT1BVazJCbm5CekJFRkJKMlFaNU96VVZqa2diRDhyQVNnNXNiM3VEMXZQLUN4elg4Q2Ewem84X2xQMjhXaFA3VDlkeVprbEN4NUprU2NzcmZFVEhFZTZ3NzdIWldxdDV6cUhIZlV2YkIwNTE2Y2hFZDFBVkIwV3RmMmNKUktZRVNiX3o5VXNaNXNB?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "news",
-      "published_at": "2026-07-01T09:17:54+00:00",
-      "collected_at": "2026-07-01T16:17:05.159774+00:00",
-      "summary": "농촌진흥청, 2026년 하반기부터 이렇게 달라집니다(재경부 주관) 농촌진흥청",
-      "keywords": [
-        "농촌"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "7a6faf1217d17978600427cd",
-      "title": "우수 박과 유전자원 선보이고 분양 신청 받는다 - 농촌진흥청",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNzNHNDlURVRTOUxySVl0cEg5T25rQlcwcXJLYmo5LTc3ZGZVemhoeVpnNVMteC04d2MyRldUa2luUm1NVXVwYWZpMFIxZFYxVmh2OE9IQm9DSUEzbjd5b2NFM1RIbTJVdXluVC1BZ0lPNDBXOExkbkpQcWVSNGxQMkc3aVZYQThOMUZpb0tTNEpqVU1CanFtX3F6VXBIR01Ma0dQTHpMczZxTXVMQWM0RWln?oc=5",
-      "source": "Google News 농촌진흥청",
-      "category": "support",
-      "published_at": "2026-07-01T09:17:45+00:00",
-      "collected_at": "2026-07-02T09:50:37.592696+00:00",
-      "summary": "우수 박과 유전자원 선보이고 분양 신청 받는다 농촌진흥청",
-      "keywords": [
-        "농촌",
-        "신청"
-      ],
-      "importance": 64,
-      "region": "전국",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 746,
+    "total": 745,
     "category_counts": {
-      "news": 512,
+      "news": 513,
       "plant_reviews": 37,
-      "support": 197
+      "support": 195
     },
     "top_keywords": [
       {
@@ -13980,15 +13961,15 @@
       },
       {
         "keyword": "농촌",
-        "count": 148
+        "count": 145
       },
       {
         "keyword": "지원",
-        "count": 112
+        "count": 111
       },
       {
         "keyword": "병해충",
-        "count": 102
+        "count": 104
       },
       {
         "keyword": "농산물",
@@ -13996,7 +13977,7 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 78
+        "count": 79
       },
       {
         "keyword": "사업",
@@ -14026,7 +14007,7 @@
     "top_sources": [
       {
         "source": "Google News 병해충 재배",
-        "count": 149
+        "count": 151
       },
       {
         "source": "Google News 농업",
@@ -14034,11 +14015,11 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 106
+        "count": 105
       },
       {
         "source": "Google News 스마트팜",
-        "count": 73
+        "count": 74
       },
       {
         "source": "Google News 청년농 귀농",
@@ -14050,7 +14031,7 @@
       },
       {
         "source": "Google News 농촌진흥청",
-        "count": 44
+        "count": 41
       },
       {
         "source": "Google News 식물 키우기",
@@ -14069,8 +14050,8 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 8,
-    "fetched_items": 791,
+    "new_items": 5,
+    "fetched_items": 793,
     "errors": []
   }
 }
