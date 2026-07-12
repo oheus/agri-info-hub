@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T06:59:39.663611+00:00",
+  "generated_at": "2026-07-12T07:30:09.554478+00:00",
   "items": [
     {
       "id": "983e4b6d17d6e79b599489f8",
@@ -13628,59 +13628,19 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "a0d522f1c9b33cbf4f7253be",
-      "title": "인천시 농업기술센터, 제17기 하반기 귀농·귀촌교육 교육생 모집 - 여성종합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hWHhxcWpqcW5lTWthRTgwZGRBQktfYWZFa2tSYXJ3QkxoR1RuZjdKX1dzalZyUGJxRTlkclF4RkxfU0kxVG56eGRCRXNuQzNweHlRekZNYjRmWnkyM3hHa1o1OG9xLUlEZ040?oc=5",
-      "source": "Google News 지자체 농업기술센터",
-      "category": "support",
-      "published_at": "2026-07-02T23:55:53+00:00",
-      "collected_at": "2026-07-03T06:36:00.112115+00:00",
-      "summary": "인천시 농업기술센터, 제17기 하반기 귀농·귀촌교육 교육생 모집 여성종합뉴스",
-      "keywords": [
-        "농업",
-        "귀농",
-        "모집",
-        "농업기술센터"
-      ],
-      "importance": 74,
-      "region": "인천",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "5360ff4e8a9f7422c1ec5241",
-      "title": "인천시, 하반기 귀농·귀촌교육생 25명 모집 - 인천투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1icXVYWXZPUjFZQy1ET3dKUjNrWHc0MXpUNXhpR2dmbnBIbFBCc1BtVlJtZGp4Tk9TNXdTaG4zZW9tWjZUNENaYm1sTnBKZ0hmUXZFNTQyQ2VqZWR5Yi1POUliQkFnSlVZSEVXT2dxT20?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-07-02T23:53:52+00:00",
-      "collected_at": "2026-07-03T05:35:16.742564+00:00",
-      "summary": "인천시, 하반기 귀농·귀촌교육생 25명 모집 인천투데이",
-      "keywords": [
-        "귀농",
-        "모집"
-      ],
-      "importance": 64,
-      "region": "인천",
-      "deadline_text": "신청 정보 확인",
-      "deadline_date": "",
-      "category_label": "지원사업"
     }
   ],
   "stats": {
-    "total": 730,
+    "total": 728,
     "category_counts": {
       "news": 497,
       "plant_reviews": 39,
-      "support": 194
+      "support": 192
     },
     "top_keywords": [
       {
         "keyword": "농업",
-        "count": 211
+        "count": 210
       },
       {
         "keyword": "농촌",
@@ -13711,12 +13671,12 @@
         "count": 64
       },
       {
-        "keyword": "귀농",
-        "count": 52
-      },
-      {
         "keyword": "작물",
         "count": 51
+      },
+      {
+        "keyword": "귀농",
+        "count": 50
       },
       {
         "keyword": "반려식물",
@@ -13746,7 +13706,7 @@
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 60
+        "count": 59
       },
       {
         "source": "Google News 청년농 지원",
@@ -13773,7 +13733,7 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 40,
+    "new_items": 3,
     "fetched_items": 757,
     "errors": []
   }
