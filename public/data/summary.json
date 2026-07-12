@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-12T06:59:39.663611+00:00",
-  "total": 730,
+  "generated_at": "2026-07-12T07:30:09.554478+00:00",
+  "total": 728,
   "category_counts": {
     "news": 497,
     "plant_reviews": 39,
-    "support": 194
+    "support": 192
   },
   "top_keywords": [
     {
       "keyword": "농업",
-      "count": 211
+      "count": 210
     },
     {
       "keyword": "농촌",
@@ -40,12 +40,12 @@
       "count": 64
     },
     {
-      "keyword": "귀농",
-      "count": 52
-    },
-    {
       "keyword": "작물",
       "count": 51
+    },
+    {
+      "keyword": "귀농",
+      "count": 50
     },
     {
       "keyword": "반려식물",
@@ -75,7 +75,7 @@
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 60
+      "count": 59
     },
     {
       "source": "Google News 청년농 지원",
@@ -101,7 +101,7 @@
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 40,
+    "new_items": 3,
     "fetched_items": 757,
     "errors": []
   }
