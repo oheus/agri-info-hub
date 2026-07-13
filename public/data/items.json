@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T13:55:38.001703+00:00",
+  "generated_at": "2026-07-13T14:34:40.433259+00:00",
   "items": [
     {
       "id": "a0be42fa1654369bf7ac6d3b",
@@ -582,6 +582,25 @@
       "category_label": "식물 리뷰"
     },
     {
+      "id": "755f032dac1d54b0473122b1",
+      "title": "충남 벼 재배지 10만ha 항공방제···병해충 확산 막는다 - 한국농어민신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zOFdpTlB2cklxU3dKTmtkcl9IVXhhY2Z2cm43a0ExNFFvR0dmcHJGeDhTOUZ0azBvOWh1RlgtSXcyRVJ3eTNlRG8ySXBlcDhlWE1meGlpLTRCVk50VGdGRnBla1dnZnVEdVdIVg?oc=5",
+      "source": "Google News 병해충 재배",
+      "category": "news",
+      "published_at": "2026-07-13T08:18:53+00:00",
+      "collected_at": "2026-07-13T14:34:26.491733+00:00",
+      "summary": "충남 벼 재배지 10만ha 항공방제···병해충 확산 막는다 한국농어민신문",
+      "keywords": [
+        "병해충",
+        "재배"
+      ],
+      "importance": 48,
+      "region": "충남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
       "id": "9664c79cb50ad61fe8267298",
       "title": "이란전쟁에 ‘슈퍼 엘니뇨’까지…국제 농산물값 15.8% 뛸 수도 - 뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42ck1aR3hiaFVJSGZ1UVU4R3JCLUNxREJBNUotYk5FSWNGUHVVSDh4aDk3dW5zem1WbFBTZE5wTXFxTWlkcXpYRUJUaVp3OHpGSHNGOGwyQkRJZUNZeGVyVmxWbmYtZVFfZmwzSDEwcEpRWGEtRUtjetIBeEFVX3lxTE42ck1aR3hiaFVJSGZ1UVU4R3JCLUNxREJBNUotYk5FSWNGUHVVSDh4aDk3dW5zem1WbFBTZE5wTXFxTWlkcXpYRUJUaVp3OHpGSHNGOGwyQkRJZUNZeGVyVmxWbmYtZVFfZmwzSDEwcEpRWGEtRUtjeg?oc=5",
@@ -668,6 +687,22 @@
       ],
       "importance": 48,
       "region": "경남",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "농업 뉴스"
+    },
+    {
+      "id": "6c62ae52d1dcd01e13497821",
+      "title": "\"수퍼 엘니뇨발 식량 가격 폭등 2028년 하반기 본격화\" - thecommoditiesnews.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZdVZvZnl0VEtzSDBuYUt2cm9HR2t0SDlQUFVGa2M4Ti1ydTN6RXRjb1ZrTkd6amVrcW9kcFB0X25uMkFCUG45b1ZHOTlpVzY5c2p3R2RXUVJSc09YY2R5M1owWUtTYmRuQnR4WmlTZmtidkVCeTc0?oc=5",
+      "source": "Google News 농산물 가격",
+      "category": "news",
+      "published_at": "2026-07-13T08:03:15+00:00",
+      "collected_at": "2026-07-13T14:34:27.803750+00:00",
+      "summary": "\"수퍼 엘니뇨발 식량 가격 폭등 2028년 하반기 본격화\" thecommoditiesnews.com",
+      "keywords": [],
+      "importance": 48,
+      "region": "",
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
@@ -1000,6 +1035,25 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
+    },
+    {
+      "id": "4e4ca46df076d11b199205e9",
+      "title": "반려식물 만들며 마음 치유 - 농촌여성신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12UmNtcEhYaFoyb3c1QzBDWGl5TXRkYmRKMjZ2WWZGbUxXRHF4amVWaGduMlROdWhOeVFkcEJLanVGd0EyOWc3c09vTzkxaDdpVVVnMzlIa2xQS3p0Mkxua1BDeFYxMVF6TmfSAWpBVV95cUxNdlJjbXBIWGhaMm93NUMwQ1hpeU10ZGJkSjI2dllmRm1MV0RxeGplVmhnbjJUTnVoTnlRZHBCS2p1RndBMjlnN3NPb085MWg3aVVVZzM5SGtsUEt6dDJMbmtQQ3hWMTFRek5n?oc=5",
+      "source": "Google News 식물 키우기",
+      "category": "plant_reviews",
+      "published_at": "2026-07-13T06:05:42+00:00",
+      "collected_at": "2026-07-13T14:34:34.719759+00:00",
+      "summary": "반려식물 만들며 마음 치유 농촌여성신문",
+      "keywords": [
+        "농촌",
+        "반려식물"
+      ],
+      "importance": 42,
+      "region": "",
+      "deadline_text": "",
+      "deadline_date": "",
+      "category_label": "식물 리뷰"
     },
     {
       "id": "5995d3dcfb8c0381db7fb348",
@@ -13973,126 +14027,14 @@
       "deadline_text": "",
       "deadline_date": "",
       "category_label": "농업 뉴스"
-    },
-    {
-      "id": "2d8e5f5136745d019a32198d",
-      "title": "진안군, 귀농귀촌인 영농정착기술교육 성료! 안정적인 농촌 정착 지원 - 내외통신",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDZlZ1NkZyWXpkbEw1ZTVxLU1zQU4zQ3JWMWF6Y3NYWU9RVDFlZm42OXp5Y0tUQk8zT3NQdTF1X0Z3VVpxTHI1NjFFWGtQcUZYQy13d0RReWROaE1BWVhFcGhVckd3WXV3Nnhn?oc=5",
-      "source": "Google News 청년농 귀농",
-      "category": "support",
-      "published_at": "2026-07-06T02:06:00+00:00",
-      "collected_at": "2026-07-13T12:13:55.101501+00:00",
-      "summary": "진안군, 귀농귀촌인 영농정착기술교육 성료! 안정적인 농촌 정착 지원 내외통신",
-      "keywords": [
-        "농촌",
-        "귀농",
-        "귀농귀촌",
-        "지원"
-      ],
-      "importance": 64,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "지원사업"
-    },
-    {
-      "id": "27ecb38e5f7ef82540df37d8",
-      "title": "예산군, 병충해 “원인부터 정확하게”… 원예작물 진단서비스 운영 - 전국도민뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95czdQZWxEd2dLN29oNFM5SjlxSk9iV04xMW4zSjNGbnRhQTRGdW1UMkFzS3ZCWmtYaWpYNzlEdEhkRl8zZTNGb29XVTdSdVNPMmdIVW5PZEV3ZlpQRV8xSDNGSTFkZkxiZ1ZHTXp3?oc=5",
-      "source": "Google News 병해충 재배",
-      "category": "news",
-      "published_at": "2026-07-06T02:00:52+00:00",
-      "collected_at": "2026-07-07T04:11:47.961519+00:00",
-      "summary": "예산군, 병충해 “원인부터 정확하게”… 원예작물 진단서비스 운영 전국도민뉴스",
-      "keywords": [
-        "작물"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "936cf837a4464daf965c9a4b",
-      "title": "K-농산물 수출검역협상 순항! 세계인의 식탁으로 더 가까이 - 농림축산식품부",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RY2hBSXVhMkRIN0tJZnlTS3RpeVhNU3RQU3hQWE9fcXZtSXhuZ1l1NEJZN3JvWUtpMGxkVlNFdWI1S0pQbGw0bHJ3MHdlQVI4elpOMU1WbFBDNEJtdEZxUHFqYjltTTRsN1JVNjJJTnlXOTkweU9jQzlSaw?oc=5",
-      "source": "Google News 농림축산식품부",
-      "category": "news",
-      "published_at": "2026-07-06T02:00:00+00:00",
-      "collected_at": "2026-07-07T04:11:52.519976+00:00",
-      "summary": "K-농산물 수출검역협상 순항! 세계인의 식탁으로 더 가까이 농림축산식품부",
-      "keywords": [
-        "농산물"
-      ],
-      "importance": 42,
-      "region": "전국",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "ad1b575f2c60fba896920985",
-      "title": "김중남 강릉시장 취임 축하 화분, 독거노인 '반려식물' 된다 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xZFpaM3cySHJpRU5LUmEyS0lkaG9qZkVWdDdzdkJ4OGlLeV9JMTBjRkk4R240cF9zUEZaRUdYc1pHN3BXeHgxV1JycFNRTjg5RXVweA?oc=5",
-      "source": "Google News 식물 키우기",
-      "category": "plant_reviews",
-      "published_at": "2026-07-06T01:55:32+00:00",
-      "collected_at": "2026-07-07T04:12:06.171395+00:00",
-      "summary": "김중남 강릉시장 취임 축하 화분, 독거노인 '반려식물' 된다 뉴스1",
-      "keywords": [
-        "반려식물"
-      ],
-      "importance": 42,
-      "region": "강원",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "식물 리뷰"
-    },
-    {
-      "id": "b406865100156e2838ea2f7a",
-      "title": "마포 스마트팜 체험관 운영 가동 > 뉴스 - 더코리아",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLTUxxb25FUWpadWNhdDFvSnplLThzUDRPU2hOVGFDSkNZWjU2eEc3SkhIOE9UQmZDOEg3a3ZWbjQtUHN1TURvdDhXLXAyM3dhMHY5VVY4YTRneUNoX1lJVS1SRHlPSEo0NXlRT25NSEI?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-07-06T01:48:00+00:00",
-      "collected_at": "2026-07-07T04:11:46.219676+00:00",
-      "summary": "마포 스마트팜 체험관 운영 가동 > 뉴스 더코리아",
-      "keywords": [
-        "스마트팜"
-      ],
-      "importance": 42,
-      "region": "",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
-    },
-    {
-      "id": "c05c05bc5a5d00d14a56be1e",
-      "title": "이장섭 청주시장, 내수읍 임대형 스마트팜 전격 방문… 청년농 ‘자립 기반’ 챙겼다 - v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE94c2dsbTFHUktMMlhtNXlfRmdHZlpUNDNtcC1STDRWcTMyRWFIQS1rVHk4RURBVVNZNzdJTGVXalVYVFA3aGc?oc=5",
-      "source": "Google News 스마트팜",
-      "category": "news",
-      "published_at": "2026-07-06T01:44:58+00:00",
-      "collected_at": "2026-07-07T04:11:46.219676+00:00",
-      "summary": "이장섭 청주시장, 내수읍 임대형 스마트팜 전격 방문… 청년농 ‘자립 기반’ 챙겼다 v.daum.net",
-      "keywords": [
-        "스마트팜",
-        "청년농"
-      ],
-      "importance": 48,
-      "region": "충북",
-      "deadline_text": "",
-      "deadline_date": "",
-      "category_label": "농업 뉴스"
     }
   ],
   "stats": {
-    "total": 753,
+    "total": 750,
     "category_counts": {
-      "news": 508,
+      "news": 506,
       "plant_reviews": 46,
-      "support": 199
+      "support": 198
     },
     "top_keywords": [
       {
@@ -14104,11 +14046,11 @@
         "count": 142
       },
       {
-        "keyword": "지원",
+        "keyword": "병해충",
         "count": 121
       },
       {
-        "keyword": "병해충",
+        "keyword": "지원",
         "count": 120
       },
       {
@@ -14117,31 +14059,31 @@
       },
       {
         "keyword": "스마트팜",
-        "count": 75
+        "count": 73
       },
       {
         "keyword": "농산물",
-        "count": 72
+        "count": 71
       },
       {
         "keyword": "농업인",
         "count": 63
       },
       {
-        "keyword": "작물",
-        "count": 49
-      },
-      {
         "keyword": "반려식물",
         "count": 49
       },
       {
+        "keyword": "작물",
+        "count": 48
+      },
+      {
         "keyword": "귀농",
-        "count": 46
+        "count": 45
       },
       {
         "keyword": "청년농",
-        "count": 40
+        "count": 39
       }
     ],
     "top_sources": [
@@ -14155,15 +14097,15 @@
       },
       {
         "source": "Google News 농산물 가격",
-        "count": 101
+        "count": 102
       },
       {
         "source": "Google News 스마트팜",
-        "count": 70
+        "count": 68
       },
       {
         "source": "Google News 청년농 귀농",
-        "count": 60
+        "count": 59
       },
       {
         "source": "Google News 청년농 지원",
@@ -14183,15 +14125,15 @@
       },
       {
         "source": "Google News 농림축산식품부",
-        "count": 17
+        "count": 16
       }
     ]
   },
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 10,
-    "fetched_items": 778,
+    "new_items": 6,
+    "fetched_items": 781,
     "errors": []
   }
 }
