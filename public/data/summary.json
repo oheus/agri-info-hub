@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-13T13:55:38.001703+00:00",
-  "total": 753,
+  "generated_at": "2026-07-13T14:34:40.433259+00:00",
+  "total": 750,
   "category_counts": {
-    "news": 508,
+    "news": 506,
     "plant_reviews": 46,
-    "support": 199
+    "support": 198
   },
   "top_keywords": [
     {
@@ -16,11 +16,11 @@
       "count": 142
     },
     {
-      "keyword": "지원",
+      "keyword": "병해충",
       "count": 121
     },
     {
-      "keyword": "병해충",
+      "keyword": "지원",
       "count": 120
     },
     {
@@ -29,31 +29,31 @@
     },
     {
       "keyword": "스마트팜",
-      "count": 75
+      "count": 73
     },
     {
       "keyword": "농산물",
-      "count": 72
+      "count": 71
     },
     {
       "keyword": "농업인",
       "count": 63
     },
     {
-      "keyword": "작물",
-      "count": 49
-    },
-    {
       "keyword": "반려식물",
       "count": 49
     },
     {
+      "keyword": "작물",
+      "count": 48
+    },
+    {
       "keyword": "귀농",
-      "count": 46
+      "count": 45
     },
     {
       "keyword": "청년농",
-      "count": 40
+      "count": 39
     }
   ],
   "top_sources": [
@@ -67,15 +67,15 @@
     },
     {
       "source": "Google News 농산물 가격",
-      "count": 101
+      "count": 102
     },
     {
       "source": "Google News 스마트팜",
-      "count": 70
+      "count": 68
     },
     {
       "source": "Google News 청년농 귀농",
-      "count": 60
+      "count": 59
     },
     {
       "source": "Google News 청년농 지원",
@@ -95,14 +95,14 @@
     },
     {
       "source": "Google News 농림축산식품부",
-      "count": 17
+      "count": 16
     }
   ],
   "run": {
     "status": "ok",
     "display_awake": true,
-    "new_items": 10,
-    "fetched_items": 778,
+    "new_items": 6,
+    "fetched_items": 781,
     "errors": []
   }
 }
